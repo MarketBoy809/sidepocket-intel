@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-09-21T11:28:49Z",
- "generated_ts": 1789990129,
+ "generated_at": "2026-09-21T11:50:23Z",
+ "generated_ts": 1789991423,
  "prices": {
   "BTC": {
-   "p": 84679.8,
+   "p": 84830.5,
    "o": 81164.0,
    "h": 85256.0,
    "l": 80292.6,
-   "v": 3151.17325086
+   "v": 3197.74980427
   },
   "ETH": {
-   "p": 2723.49,
+   "p": 2723.97,
    "o": 2644.67,
    "h": 2748.87,
    "l": 2571.28,
-   "v": 57401.66756025
+   "v": 57774.4971022
   },
   "SOL": {
-   "p": 116.39,
+   "p": 116.76,
    "o": 111.15,
-   "h": 116.83,
+   "h": 117.11,
    "l": 107.93,
-   "v": 642052.90305653
+   "v": 650890.11831632
   }
  },
  "change_7d": {
@@ -30,13 +30,12 @@
   "SOL": 0.1401749729676594
  },
  "sentiment": {
-  "score": 63.8,
+  "score": 69.3,
   "label": "Greed",
   "components": {
    "fng": 70.0,
    "momentum": 71.01360497042452,
-   "news_tone": 38.400000000000006,
-   "crowding": 65.249116
+   "crowding": 65.5414445
   },
   "weights": {
    "fng": 0.35,
@@ -51,43 +50,26 @@
   "label": "Greed",
   "ts": 1789948800
  },
- "news_tone_24h": -0.696,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3606621143.1455,
-   "premium": 0.0002963789
+   "oi_usd": 3610039036.95682,
+   "premium": 0.0002710762
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3133749527.0280004,
-   "premium": 0.0005139312
+   "oi_usd": 3137306271.1694617,
+   "premium": 0.0006274562
   },
   "SOL": {
-   "funding_h": 1.67784e-05,
-   "oi_usd": 712750201.9871999,
-   "premium": 0.0004723666
+   "funding_h": 1.75793e-05,
+   "oi_usd": 715041120.9968,
+   "premium": 0.0004280089
   }
  },
- "items_24h": 96,
+ "items_24h": 101,
  "top_items": [
-  {
-   "id": "1cf2bd1315fa2816",
-   "ts": 1789904086,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "At the strong request of the United States Military, and for National Security purposes, I have agreed to convert the magnificent Triumphal Arch, planned since the Civil War Era many years ago, at the Receptive Circle adjoining the Arlington Memorial Bridge, into a top grade Mili",
-   "url": "https://truthsocial.com/@realDonaldTrump/117303154231930646",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 27046
-  },
   {
    "id": "386d011b5262e646",
    "ts": 1789966743,
@@ -191,6 +173,21 @@
    "tags": []
   },
   {
+   "id": "780a8260cbb2de68",
+   "ts": 1789990571,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
+   "url": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto",
+    "BTC"
+   ]
+  },
+  {
    "id": "2dc375cd0e1e6813",
    "ts": 1789990200,
    "source": "news",
@@ -232,18 +229,16 @@
    "tags": []
   },
   {
-   "id": "9de741602f4a0ed9",
-   "ts": 1789988400,
+   "id": "0bf8bae59b8bfd94",
+   "ts": 1789989300,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Bitcoin and Crypto Face a Lose Lose Fed Trap as Stocks Reach Historic Extremes , Mike McGlone Warns",
-   "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-crypto-face-lose-lose-101719274.html",
-   "domain": "finance.yahoo.com",
+   "title": "SA planned crypto curbs may hit deals worth billions",
+   "url": "https://www.news24.com/business/investing/sas-planned-crypto-curbs-may-hit-deals-worth-billions-20260921-0584",
+   "domain": "news24.com",
    "tags": [
-    "crypto",
-    "macro",
-    "BTC"
+    "crypto"
    ]
   }
  ],
@@ -255,7 +250,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -279,8 +274,9 @@
    "n": 3
   },
   "CFTC": {
-   "ok": true,
-   "n": 1
+   "ok": false,
+   "n": 0,
+   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
   },
   "Federal Reserve": {
    "ok": true,
