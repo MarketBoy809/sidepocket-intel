@@ -1,0 +1,8 @@
+# The zip in the repo root is the source of truth for the collector. Both the PC
+# app and the Actions runner extract it in place on every run - those extracted
+# copies must never be committed back.
+/collector/
+/prompts/
+/setup/
+__pycache__/
+*.pyc
