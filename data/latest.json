@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-09-21T12:59:07Z",
- "generated_ts": 1789995547,
+ "generated_at": "2026-09-21T13:39:36Z",
+ "generated_ts": 1789997976,
  "prices": {
   "BTC": {
-   "p": 85371.8,
+   "p": 84940.2,
    "o": 81164.0,
    "h": 85427.5,
    "l": 80394.4,
-   "v": 3491.91069864
+   "v": 3637.1368831
   },
   "ETH": {
-   "p": 2738.7,
+   "p": 2723.97,
    "o": 2644.67,
    "h": 2748.87,
    "l": 2573.6,
-   "v": 59552.42996829
+   "v": 60830.15781311
   },
   "SOL": {
-   "p": 116.87,
+   "p": 116.79,
    "o": 111.15,
-   "h": 117.11,
+   "h": 118.17,
    "l": 107.93,
-   "v": 664148.83381703
+   "v": 698911.94789047
   }
  },
  "change_7d": {
-  "BTC": 0.0917526599312655,
-  "ETH": 0.08630973740660122,
-  "SOL": 0.15247212079344719
+  "BTC": 0.09838829223669963,
+  "ETH": 0.09199781166764506,
+  "SOL": 0.15266949570709562
  },
  "sentiment": {
-  "score": 65.2,
+  "score": 64.5,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 72.93816498281637,
-   "news_tone": 39.43333333333334,
-   "crowding": 79.75801200000001,
+   "momentum": 74.5970730591749,
+   "news_tone": 37.78333333333333,
+   "crowding": 74.3174315,
    "ai_calm": 55.0
   },
   "weights": {
@@ -52,25 +52,25 @@
   "label": "Greed",
   "ts": 1789948800
  },
- "news_tone_24h": -0.634,
+ "news_tone_24h": -0.733,
  "derivatives": {
   "BTC": {
-   "funding_h": 4.80279e-05,
-   "oi_usd": 3920548948.1496,
-   "premium": 0.0006252225
+   "funding_h": 1.58569e-05,
+   "oi_usd": 3819999714.0239916,
+   "premium": 0.0005813776
   },
   "ETH": {
-   "funding_h": 2.10009e-05,
-   "oi_usd": 3179583817.3730407,
-   "premium": 0.00044534
+   "funding_h": 2.7835e-05,
+   "oi_usd": 3195541591.8305626,
+   "premium": 0.0008514136
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 722474186.3670002,
-   "premium": 0.0005577188
+   "funding_h": 2.29312e-05,
+   "oi_usd": 720238665.6178005,
+   "premium": 0.0009411362
   }
  },
- "items_24h": 157,
+ "items_24h": 184,
  "top_items": [
   {
    "id": "386d011b5262e646",
@@ -136,6 +136,47 @@
    ],
    "author": "Donald Trump",
    "score": 995
+  },
+  {
+   "id": "c5bf62fa8b670e83",
+   "ts": 1789995600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Michael Saylor :",
+   "url": "https://www.bankingnews.gr/kriptonomismata/articles/900625/michael-saylor-a-big-new-move-is-coming-the-mysterious-message-regarding-a-new-bitcoin-purchase-by-strategy",
+   "domain": "bankingnews.gr",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "3a424e9b2ed30e58",
+   "ts": 1789995600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Bitcoin Holds Firm Near $82K After Absorbing Macro Shocks",
+   "url": "https://partners.coinspeaker.com/bitcoin-holds-firm-near-82k-after-absorbing-macro-shocks-fueling-capital-inflows-into-hyper-l2-presale/",
+   "domain": "partners.coinspeaker.com",
+   "tags": [
+    "crypto",
+    "BTC",
+    "institution"
+   ]
+  },
+  {
+   "id": "85191f34bb9147dc",
+   "ts": 1789995600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Scams in the US are at a record high . Yet most victims get no help",
+   "url": "https://www.orovillemr.com/2026/09/02/us-scam-victims/",
+   "domain": "orovillemr.com",
+   "tags": [
+    "institution"
+   ]
   },
   {
    "id": "267f7b35d92e1dd9",
@@ -207,54 +248,13 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "7e4fe81db104389b",
-   "ts": 1789984800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Eurosystem brings central bank money to tokenised finance",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "163d6ddbc337660f",
-   "ts": 1789923769,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on Yom Kippur",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-yom-kippur-a68b/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "deac5396431ae24f",
-   "ts": 1789995406,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Strategy's Bitcoin Pile Nears June Record After $76M Purchase",
-   "url": "https://decrypt.co/378737/strategys-bitcoin-pile-nears-june-record-after-76m-purchase",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": [
-    "crypto",
-    "BTC"
-   ]
   }
  ],
  "briefing_ts": 1789995220,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 16
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -266,7 +266,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 3
   },
   "White House": {
    "ok": true,
@@ -292,7 +292,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 7
+   "n": 6
   },
   "Bank of England": {
    "ok": true,
