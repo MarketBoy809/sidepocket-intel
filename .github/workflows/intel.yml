@@ -1,0 +1,47 @@
+name: Intel
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "What to run"
+        type: choice
+        options: [collect, backfill]
+        default: collect
+permissions:
+  contents: write
+concurrency:
+  group: intel-data
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      TASK: ${{ github.event_name == 'workflow_dispatch' && inputs.task || 'collect' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Unpack code from the uploaded zip
+        run: |
+          ZIP=$(find . -type f -not -path './.git/*' -not -path './data/*' -exec sh -c 'unzip -l "$1" 2>/dev/null | grep -q "collector/collect.py" && echo "$1"' _ {} \; | head -n 1)
+          if [ -z "$ZIP" ]; then echo "::error::Upload sidepocket-intel.zip to the repo first"; exit 1; fi
+          unzip -o -q "$ZIP" -d .
+          echo "Task: $TASK (code from $ZIP)"
+      - name: Collect
+        if: env.TASK == 'collect'
+        run: python collector/collect.py
+      - name: Backfill history
+        if: env.TASK == 'backfill'
+        run: python collector/backfill.py && python collector/collect.py
+      - name: Save data
+        run: |
+          git config user.name "sidepocket-intel"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -q -m "$TASK $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
