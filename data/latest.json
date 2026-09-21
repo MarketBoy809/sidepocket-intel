@@ -1,40 +1,41 @@
 {
- "generated_at": "2026-09-21T22:33:31Z",
- "generated_ts": 1790030011,
+ "generated_at": "2026-09-21T23:07:27Z",
+ "generated_ts": 1790032047,
  "prices": {
   "BTC": {
-   "p": 86391.0,
+   "p": 86550.5,
    "o": 81164.0,
    "h": 87446.7,
    "l": 80839.5,
-   "v": 5035.423438
+   "v": 5029.92089004
   },
   "ETH": {
-   "p": 2772.34,
+   "p": 2784.38,
    "o": 2644.67,
    "h": 2806.69,
    "l": 2631.59,
-   "v": 77808.31615963
+   "v": 77533.20791225
   },
   "SOL": {
-   "p": 119.13,
+   "p": 119.65,
    "o": 111.15,
    "h": 119.97,
-   "l": 110.25,
-   "v": 775214.28036122
+   "l": 110.58,
+   "v": 773423.13219819
   }
  },
  "change_7d": {
-  "BTC": 0.09924221546886258,
-  "ETH": 0.08695618027385858,
-  "SOL": 0.15439038573366923
+  "BTC": 0.1003528207901858,
+  "ETH": 0.09703616845712579,
+  "SOL": 0.16140009722897433
  },
  "sentiment": {
-  "score": 66.1,
+  "score": 63.1,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 74.81055386721565,
+   "momentum": 75.08820519754644,
+   "news_tone": 45.849999999999994,
    "crowding": 63.6875,
    "ai_calm": 48.0
   },
@@ -51,25 +52,25 @@
   "label": "Greed",
   "ts": 1789948800
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.249,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3801953628.4199595,
-   "premium": 0.0002429852
+   "oi_usd": 3795796982.532726,
+   "premium": 0.0005324992
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3186298482.5850005,
-   "premium": 0.0
+   "oi_usd": 3200268144.6193213,
+   "premium": 0.0006104787
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 718689545.1656001,
-   "premium": -0.000628799
+   "oi_usd": 724700089.5072,
+   "premium": 0.0007521939
   }
  },
- "items_24h": 597,
+ "items_24h": 640,
  "top_items": [
   {
    "id": "e78c7f326dc995b2",
@@ -253,14 +254,14 @@
    "score": 541
   },
   {
-   "id": "53be2c4a0e28f7c3",
-   "ts": 1790026200,
+   "id": "0a4c65d0e51892e3",
+   "ts": 1790030700,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Wall Street rallies near a new record after oil prices ease",
-   "url": "https://greatbendpost.com/posts/cd84db25-3707-4372-a8a7-994bce30d93c",
-   "domain": "greatbendpost.com",
+   "title": "VOO 0 . 03 % Fee Hides the Real Cost : State Street Now Sells the Same 500 Stocks for a Third Less",
+   "url": "https://247wallst.com/investing/etf/2026/09/21/voos-0-03-fee-hides-the-real-cost-state-street-now-sells-the-same-500-stocks-for-a-third-less/",
+   "domain": "247wallst.com",
    "tags": [
     "institution"
    ]
@@ -270,11 +271,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 48
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -282,7 +283,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 23
   },
   "White House": {
    "ok": true,
@@ -298,8 +299,9 @@
    "n": 2
   },
   "CFTC": {
-   "ok": true,
-   "n": 2
+   "ok": false,
+   "n": 0,
+   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
   },
   "Federal Reserve": {
    "ok": true,
@@ -350,9 +352,8 @@
    "n": 23
   },
   "Reddit r/Bitcoin": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 24
   }
  }
 }
