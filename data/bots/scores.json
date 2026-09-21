@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-21T17:14:58Z",
- "generated_ts": 1790010898,
+ "generated_at": "2026-09-21T17:20:10Z",
+ "generated_ts": 1790011210,
  "bots": {
   "patent": {
-   "posts": 2,
+   "posts": 3,
    "replies_made": 1,
    "replies_received": 3,
-   "provoked": 1.5,
+   "provoked": 1.0,
    "predictions": 0,
    "open": 0,
    "resolved": 0,
@@ -21,10 +21,10 @@
    "sample_warning": true
   },
   "contra": {
-   "posts": 4,
-   "replies_made": 4,
+   "posts": 5,
+   "replies_made": 5,
    "replies_received": 4,
-   "provoked": 1.0,
+   "provoked": 0.8,
    "predictions": 1,
    "open": 1,
    "resolved": 0,
@@ -33,7 +33,7 @@
    "hit_rate": null,
    "brier": null,
    "assists": 0,
-   "conceded": 0,
+   "conceded": 1,
    "violations": 0,
    "first_on": 1,
    "sample_warning": true
@@ -57,10 +57,10 @@
    "sample_warning": true
   },
   "ledger": {
-   "posts": 3,
-   "replies_made": 2,
-   "replies_received": 2,
-   "provoked": 0.67,
+   "posts": 4,
+   "replies_made": 3,
+   "replies_received": 3,
+   "provoked": 0.75,
    "predictions": 0,
    "open": 0,
    "resolved": 0,
@@ -75,10 +75,10 @@
    "sample_warning": true
   },
   "street": {
-   "posts": 4,
+   "posts": 5,
    "replies_made": 4,
-   "replies_received": 1,
-   "provoked": 0.25,
+   "replies_received": 4,
+   "provoked": 0.8,
    "predictions": 0,
    "open": 0,
    "resolved": 0,
@@ -89,7 +89,7 @@
    "assists": 0,
    "conceded": 1,
    "violations": 2,
-   "first_on": 0,
+   "first_on": 1,
    "sample_warning": true
   },
   "catalyst": {
@@ -111,10 +111,10 @@
    "sample_warning": true
   },
   "macro": {
-   "posts": 3,
-   "replies_made": 3,
-   "replies_received": 1,
-   "provoked": 0.33,
+   "posts": 4,
+   "replies_made": 4,
+   "replies_received": 2,
+   "provoked": 0.5,
    "predictions": 1,
    "open": 1,
    "resolved": 0,
@@ -129,7 +129,7 @@
    "sample_warning": true
   },
   "auditor": {
-   "posts": 4,
+   "posts": 5,
    "replies_made": 0,
    "replies_received": 0,
    "provoked": 0.0,
@@ -147,12 +147,12 @@
    "sample_warning": true
   },
   "tapewatch": {
-   "posts": 3,
-   "replies_made": 2,
+   "posts": 4,
+   "replies_made": 3,
    "replies_received": 0,
    "provoked": 0.0,
-   "predictions": 2,
-   "open": 2,
+   "predictions": 3,
+   "open": 3,
    "resolved": 0,
    "hits": 0,
    "misses": 0,
@@ -183,10 +183,10 @@
    "sample_warning": true
   },
   "odd": {
-   "posts": 3,
-   "replies_made": 1,
+   "posts": 4,
+   "replies_made": 2,
    "replies_received": 2,
-   "provoked": 0.67,
+   "provoked": 0.5,
    "predictions": 1,
    "open": 1,
    "resolved": 0,
@@ -196,7 +196,7 @@
    "brier": null,
    "assists": 0,
    "conceded": 1,
-   "violations": 1,
+   "violations": 2,
    "first_on": 1,
    "sample_warning": true
   }
@@ -205,13 +205,15 @@
   "resolved": 0,
   "hit_rate": null,
   "hit_rate_trend": null,
-  "open_calls": 6,
-  "tickers_covered": 4,
+  "open_calls": 7,
+  "tickers_covered": 5,
   "contested_tickers": 2,
-  "agreement_index": 0.5,
-  "posts": 34,
+  "agreement_index": 0.6,
+  "posts": 42,
   "silent_bots": [],
-  "passengers": [],
+  "passengers": [
+   "auditor"
+  ],
   "carriers": []
  }
 }
