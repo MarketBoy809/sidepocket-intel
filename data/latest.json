@@ -1,43 +1,43 @@
 {
- "generated_at": "2026-09-21T20:56:27Z",
- "generated_ts": 1790024187,
+ "generated_at": "2026-09-21T22:00:03Z",
+ "generated_ts": 1790028003,
  "prices": {
   "BTC": {
-   "p": 86970.9,
+   "p": 86560.1,
    "o": 81164.0,
    "h": 87446.7,
-   "l": 80580.6,
-   "v": 4927.8220576
+   "l": 80763.8,
+   "v": 4983.46997436
   },
   "ETH": {
-   "p": 2783.0,
+   "p": 2768.47,
    "o": 2644.67,
    "h": 2806.69,
-   "l": 2608.24,
-   "v": 77861.80596419
+   "l": 2624.01,
+   "v": 77821.4766311
   },
   "SOL": {
-   "p": 119.13,
+   "p": 119.11,
    "o": 111.15,
-   "h": 119.5,
-   "l": 109.0,
-   "v": 783061.85840954
+   "h": 119.97,
+   "l": 109.58,
+   "v": 769307.64650843
   }
  },
  "change_7d": {
-  "BTC": 0.09511188326264065,
-  "ETH": 0.08755399281014617,
-  "SOL": 0.14642649622312598
+  "BTC": 0.09924221546886258,
+  "ETH": 0.08695618027385858,
+  "SOL": 0.15439038573366923
  },
  "sentiment": {
-  "score": 62.9,
+  "score": 63.1,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 73.77797081566017,
-   "news_tone": 44.0,
-   "crowding": 67.846967,
-   "ai_calm": 46.0
+   "momentum": 74.81055386721565,
+   "news_tone": 46.03333333333333,
+   "crowding": 63.6875,
+   "ai_calm": 48.0
   },
   "weights": {
    "fng": 0.35,
@@ -52,25 +52,25 @@
   "label": "Greed",
   "ts": 1789948800
  },
- "news_tone_24h": -0.36,
+ "news_tone_24h": -0.238,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.78323e-05,
-   "oi_usd": 3875991733.5328803,
-   "premium": 0.0005817536
+   "funding_h": 1.25e-05,
+   "oi_usd": 3811392224.8719997,
+   "premium": 0.0004042271
   },
   "ETH": {
-   "funding_h": 1.85635e-05,
-   "oi_usd": 3231137034.54288,
-   "premium": 0.0006791208
+   "funding_h": 1.25e-05,
+   "oi_usd": 3187432191.7438,
+   "premium": 0.0003792462
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 718804069.3618,
-   "premium": 0.00041978
+   "oi_usd": 719153514.3312001,
+   "premium": 0.0004196391
   }
  },
- "items_24h": 526,
+ "items_24h": 566,
  "top_items": [
   {
    "id": "e78c7f326dc995b2",
@@ -254,24 +254,24 @@
    "score": 541
   },
   {
-   "id": "546b5362e848811a",
-   "ts": 1790022600,
+   "id": "53be2c4a0e28f7c3",
+   "ts": 1790026200,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "🔑 Permission not required",
-   "url": "https://www.zerohedge.com/news/2026-09-21/permission-not-required",
-   "domain": "zerohedge.com",
+   "title": "Wall Street rallies near a new record after oil prices ease",
+   "url": "https://greatbendpost.com/posts/cd84db25-3707-4372-a8a7-994bce30d93c",
+   "domain": "greatbendpost.com",
    "tags": [
     "institution"
    ]
   }
  ],
- "briefing_ts": 1790003893,
+ "briefing_ts": 1790027511,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 55
+   "n": 44
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -283,7 +283,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 22
+   "n": 16
   },
   "White House": {
    "ok": true,
@@ -345,11 +345,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 45
+   "n": 44
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 23
   },
   "Reddit r/Bitcoin": {
    "ok": false,
