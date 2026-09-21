@@ -6,3 +6,7 @@
 /setup/
 __pycache__/
 *.pyc
+
+# scratch files the round runner writes
+data/bots/_context.json
+data/bots/_round.json
