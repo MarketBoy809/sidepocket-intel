@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-09-21T18:10:53Z",
- "generated_ts": 1790014253,
+ "generated_at": "2026-09-21T18:47:15Z",
+ "generated_ts": 1790016435,
  "prices": {
   "BTC": {
-   "p": 85950.8,
+   "p": 85910.2,
    "o": 81164.0,
    "h": 86331.0,
    "l": 80580.6,
-   "v": 4345.23111851
+   "v": 4357.50845792
   },
   "ETH": {
-   "p": 2747.56,
+   "p": 2748.35,
    "o": 2644.67,
    "h": 2769.26,
    "l": 2608.24,
-   "v": 65453.84181476
+   "v": 65507.6863838
   },
   "SOL": {
-   "p": 117.39,
+   "p": 117.3,
    "o": 111.15,
    "h": 119.08,
    "l": 109.0,
-   "v": 722616.18066714
+   "v": 735650.03638612
   }
  },
  "change_7d": {
@@ -30,12 +30,13 @@
   "SOL": 0.13721494420184377
  },
  "sentiment": {
-  "score": 65.8,
+  "score": 61.8,
   "label": "Greed",
   "components": {
    "fng": 70.0,
    "momentum": 72.04256806913445,
-   "crowding": 67.6395375,
+   "news_tone": 41.199999999999996,
+   "crowding": 65.5534895,
    "ai_calm": 46.0
   },
   "weights": {
@@ -51,25 +52,25 @@
   "label": "Greed",
   "ts": 1789948800
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.528,
  "derivatives": {
   "BTC": {
-   "funding_h": 2.33275e-05,
-   "oi_usd": 3965879899.9142313,
-   "premium": 0.0006898822
+   "funding_h": 1.76123e-05,
+   "oi_usd": 3960346637.7696805,
+   "premium": 0.0007765358
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3185896262.7196784,
-   "premium": 0.000636792
+   "oi_usd": 3206740487.897697,
+   "premium": 0.0005458317
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 702915407.2032,
-   "premium": 0.000383256
+   "oi_usd": 703663881.7703999,
+   "premium": 0.0006819538
   }
  },
- "items_24h": 336,
+ "items_24h": 393,
  "top_items": [
   {
    "id": "e78c7f326dc995b2",
@@ -122,6 +123,22 @@
    "score": 6227
   },
   {
+   "id": "978190d32cc15068",
+   "ts": 1790014107,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of Lockheed Martin, who made this valuable contribution to our Country. Our Government has been thinking about doing this for 25 year",
+   "url": "https://truthsocial.com/@realDonaldTrump/117310364553695688",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4926
+  },
+  {
    "id": "a588a600196bd2e0",
    "ts": 1789991618,
    "source": "truth",
@@ -171,87 +188,80 @@
    "score": 995
   },
   {
-   "id": "0b46be7ee907e4ad",
-   "ts": 1790013712,
-   "source": "government",
+   "id": "a00973f278a8ce41",
+   "ts": 1790016092,
+   "source": "truth",
    "group": "government",
-   "kind": "official",
-   "title": "White House Access Is a Privilege — Not a Right",
-   "url": "https://www.whitehouse.gov/releases/2026/09/white-house-access-is-a-privilege-not-a-right/",
-   "domain": "White House",
-   "org": "White House",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Mike Bouchard has my Complete and Total Endorsement to be the next U.S. Representative from Michigan's 10th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117310494630713204",
+   "domain": "truthsocial.com",
    "tags": [
     "regulation"
-   ]
+   ],
+   "author": "Donald Trump",
+   "score": 695
   },
   {
-   "id": "85527000ccdebaa8",
-   "ts": 1790012700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Apple Pay Job Listing Fuels Crypto Payment Bets as It Names Stablecoins and Tokenized Deposits",
-   "url": "https://www.ibtimes.co.uk/apple-pay-job-listing-stablecoins-crypto-payments-1821046",
-   "domain": "ibtimes.co.uk",
+   "id": "b5b5f759b2c31e4f",
+   "ts": 1790016204,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington's 5th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117310502008279319",
+   "domain": "truthsocial.com",
    "tags": [
-    "crypto",
-    "institution"
-   ]
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 633
   },
   {
-   "id": "6503abeeacea8b96",
-   "ts": 1790010900,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Crypto - linked stocks surge as bitcoin breaks through May highs",
-   "url": "https://www.proactiveinvestors.com/companies/news/1098839/crypto-linked-stocks-surge-as-bitcoin-breaks-through-may-highs-1098839.html",
-   "domain": "proactiveinvestors.com",
+   "id": "094d2ecb7edaef27",
+   "ts": 1790016194,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Joe Mitchell has my Complete and Total Endorsement to be the next U.S. Representative from Iowa's 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117310501298755407",
+   "domain": "truthsocial.com",
    "tags": [
-    "crypto",
-    "BTC",
-    "institution"
-   ]
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 541
   },
   {
-   "id": "935b6662f8779744",
-   "ts": 1790010000,
+   "id": "fa59abdbb4cb99f2",
+   "ts": 1790014500,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Prediction : These 2 Vanguard ETFs Could Be Fantastic Long - Term Buys",
-   "url": "https://www.fool.com/investing/2026/09/21/prediction-2-vanguard-etfs-long-term-buys/?source=iedfolrf0000001",
-   "domain": "fool.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "e33b910b147ef440",
-   "ts": 1790009100,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Stock markets climb worldwide after oil prices and bond yields ease",
-   "url": "https://www.times-standard.com/2026/09/21/stock-markets-oil-prices-bond-yields/",
-   "domain": "times-standard.com",
-   "tags": [
-    "macro",
-    "institution"
-   ]
-  },
-  {
-   "id": "87e3bf9502bdf16a",
-   "ts": 1790008200,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Bitcoin hits highest level since January at $85 , 000 , as the market debates whether the crypto winter is over",
-   "url": "https://www.cnbcafrica.com/2026/bitcoin-hits-highest-level-since-january-at-85000-as-the-market-debates-whether-the-crypto-winter-is-over",
-   "domain": "cnbcafrica.com",
+   "title": "Bitcoin passes $85K , ether tops $2 . 75K , pushing up crypto stocks ( BTC - USD : Cryptocurrency )",
+   "url": "https://seekingalpha.com/news/4644950-bitcoin-passes-85k-ether-tops-2_75k-pushing-up-crypto-stocks",
+   "domain": "seekingalpha.com",
    "tags": [
     "crypto",
     "BTC",
+    "ETH",
+    "institution"
+   ]
+  },
+  {
+   "id": "e9f87f45de1f8745",
+   "ts": 1790014500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Vanguard Growth ETF ( NYSEARCA : VUG ) Hits New 12 - Month High – Still a Buy ?",
+   "url": "https://www.dailypolitical.com/2026/09/21/vanguard-growth-etf-nysearcavug-hits-new-12-month-high-still-a-buy.html",
+   "domain": "dailypolitical.com",
+   "tags": [
+    "crypto",
     "institution"
    ]
   }
@@ -260,11 +270,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 29
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -272,11 +282,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 10
+   "n": 13
   },
   "White House": {
    "ok": true,
-   "n": 30
+   "n": 29
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -288,8 +298,9 @@
    "n": 2
   },
   "CFTC": {
-   "ok": true,
-   "n": 2
+   "ok": false,
+   "n": 0,
+   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
   },
   "Federal Reserve": {
    "ok": true,
@@ -333,7 +344,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 42
+   "n": 46
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
