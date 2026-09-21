@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-09-21T12:38:21Z",
- "generated_ts": 1789994301,
+ "generated_at": "2026-09-21T12:59:07Z",
+ "generated_ts": 1789995547,
  "prices": {
   "BTC": {
-   "p": 85284.6,
+   "p": 85371.8,
    "o": 81164.0,
    "h": 85427.5,
-   "l": 80309.5,
-   "v": 3419.70696925
+   "l": 80394.4,
+   "v": 3491.91069864
   },
   "ETH": {
-   "p": 2727.29,
+   "p": 2738.7,
    "o": 2644.67,
    "h": 2748.87,
-   "l": 2573.18,
-   "v": 58965.31820232
+   "l": 2573.6,
+   "v": 59552.42996829
   },
   "SOL": {
-   "p": 116.74,
+   "p": 116.87,
    "o": 111.15,
    "h": 117.11,
    "l": 107.93,
-   "v": 659581.81981909
+   "v": 664148.83381703
   }
  },
  "change_7d": {
@@ -30,12 +30,13 @@
   "SOL": 0.15247212079344719
  },
  "sentiment": {
-  "score": 70.3,
+  "score": 65.2,
   "label": "Greed",
   "components": {
    "fng": 70.0,
    "momentum": 72.93816498281637,
-   "crowding": 82.509455,
+   "news_tone": 39.43333333333334,
+   "crowding": 79.75801200000001,
    "ai_calm": 55.0
   },
   "weights": {
@@ -51,25 +52,25 @@
   "label": "Greed",
   "ts": 1789948800
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.634,
  "derivatives": {
   "BTC": {
-   "funding_h": 5.33526e-05,
-   "oi_usd": 3900253401.954,
-   "premium": 0.0009379433
+   "funding_h": 4.80279e-05,
+   "oi_usd": 3920548948.1496,
+   "premium": 0.0006252225
   },
   "ETH": {
-   "funding_h": 2.32144e-05,
-   "oi_usd": 3148688698.817199,
-   "premium": 0.0005792383
+   "funding_h": 2.10009e-05,
+   "oi_usd": 3179583817.3730407,
+   "premium": 0.00044534
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 720272529.5351996,
-   "premium": 0.0006853422
+   "oi_usd": 722474186.3670002,
+   "premium": 0.0005577188
   }
  },
- "items_24h": 155,
+ "items_24h": 157,
  "top_items": [
   {
    "id": "386d011b5262e646",
@@ -234,13 +235,13 @@
    "tags": []
   },
   {
-   "id": "120573e629e4be55",
-   "ts": 1789993320,
+   "id": "deac5396431ae24f",
+   "ts": 1789995406,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated",
-   "url": "https://decrypt.co/378729/bitcoin-tops-85k-as-648m-in-crypto-shorts-liquidated",
+   "title": "Strategy's Bitcoin Pile Nears June Record After $76M Purchase",
+   "url": "https://decrypt.co/378737/strategys-bitcoin-pile-nears-june-record-after-76m-purchase",
    "domain": "Decrypt",
    "org": "Decrypt",
    "tags": [
@@ -249,15 +250,15 @@
    ]
   }
  ],
- "briefing_ts": 1789993917,
+ "briefing_ts": 1789995220,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 22
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -334,8 +335,9 @@
    "n": 18
   },
   "Reddit r/Bitcoin": {
-   "ok": true,
-   "n": 24
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
