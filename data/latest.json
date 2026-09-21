@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-09-21T19:51:21Z",
- "generated_ts": 1790020281,
+ "generated_at": "2026-09-21T20:56:27Z",
+ "generated_ts": 1790024187,
  "prices": {
   "BTC": {
-   "p": 86548.4,
+   "p": 86970.9,
    "o": 81164.0,
-   "h": 86900.0,
+   "h": 87446.7,
    "l": 80580.6,
-   "v": 4539.18646958
+   "v": 4927.8220576
   },
   "ETH": {
-   "p": 2763.2,
+   "p": 2783.0,
    "o": 2644.67,
-   "h": 2775.98,
+   "h": 2806.69,
    "l": 2608.24,
-   "v": 69061.0311827
+   "v": 77861.80596419
   },
   "SOL": {
-   "p": 118.07,
+   "p": 119.13,
    "o": 111.15,
-   "h": 119.08,
+   "h": 119.5,
    "l": 109.0,
-   "v": 741888.97491592
+   "v": 783061.85840954
   }
  },
  "change_7d": {
-  "BTC": 0.08649341282020573,
-  "ETH": 0.08630393257320637,
-  "SOL": 0.1363767976064086
+  "BTC": 0.09511188326264065,
+  "ETH": 0.08755399281014617,
+  "SOL": 0.14642649622312598
  },
  "sentiment": {
-  "score": 65.5,
+  "score": 62.9,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 71.62335320505143,
-   "crowding": 66.1802675,
+   "momentum": 73.77797081566017,
+   "news_tone": 44.0,
+   "crowding": 67.846967,
    "ai_calm": 46.0
   },
   "weights": {
@@ -51,25 +52,25 @@
   "label": "Greed",
   "ts": 1789948800
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.36,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.86958e-05,
-   "oi_usd": 3990881947.98392,
-   "premium": 0.0007463601
+   "funding_h": 1.78323e-05,
+   "oi_usd": 3875991733.5328803,
+   "premium": 0.0005817536
   },
   "ETH": {
-   "funding_h": 1.31337e-05,
-   "oi_usd": 3236597711.2166424,
-   "premium": 0.0005066406
+   "funding_h": 1.85635e-05,
+   "oi_usd": 3231137034.54288,
+   "premium": 0.0006791208
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 710968958.3742002,
-   "premium": 0.0004235493
+   "oi_usd": 718804069.3618,
+   "premium": 0.00041978
   }
  },
- "items_24h": 438,
+ "items_24h": 526,
  "top_items": [
   {
    "id": "e78c7f326dc995b2",
@@ -253,18 +254,15 @@
    "score": 541
   },
   {
-   "id": "fa59abdbb4cb99f2",
-   "ts": 1790014500,
+   "id": "546b5362e848811a",
+   "ts": 1790022600,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Bitcoin passes $85K , ether tops $2 . 75K , pushing up crypto stocks ( BTC - USD : Cryptocurrency )",
-   "url": "https://seekingalpha.com/news/4644950-bitcoin-passes-85k-ether-tops-2_75k-pushing-up-crypto-stocks",
-   "domain": "seekingalpha.com",
+   "title": "🔑 Permission not required",
+   "url": "https://www.zerohedge.com/news/2026-09-21/permission-not-required",
+   "domain": "zerohedge.com",
    "tags": [
-    "crypto",
-    "BTC",
-    "ETH",
     "institution"
    ]
   }
@@ -273,11 +271,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 46
+   "n": 55
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -285,7 +283,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 22
   },
   "White House": {
    "ok": true,
@@ -347,12 +345,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 47
+   "n": 45
   },
   "Reddit r/CryptoCurrency": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
