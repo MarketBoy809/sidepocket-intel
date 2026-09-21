@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-09-21T12:16:28Z",
- "generated_ts": 1789992988,
+ "generated_at": "2026-09-21T12:38:21Z",
+ "generated_ts": 1789994301,
  "prices": {
   "BTC": {
-   "p": 85057.4,
+   "p": 85284.6,
    "o": 81164.0,
-   "h": 85256.0,
-   "l": 80292.6,
-   "v": 3301.90675983
+   "h": 85427.5,
+   "l": 80309.5,
+   "v": 3419.70696925
   },
   "ETH": {
-   "p": 2722.26,
+   "p": 2727.29,
    "o": 2644.67,
    "h": 2748.87,
-   "l": 2571.28,
-   "v": 58361.31896208
+   "l": 2573.18,
+   "v": 58965.31820232
   },
   "SOL": {
-   "p": 116.79,
+   "p": 116.74,
    "o": 111.15,
    "h": 117.11,
    "l": 107.93,
-   "v": 653395.92003159
+   "v": 659581.81981909
   }
  },
  "change_7d": {
@@ -30,12 +30,13 @@
   "SOL": 0.15247212079344719
  },
  "sentiment": {
-  "score": 74.3,
+  "score": 70.3,
   "label": "Greed",
   "components": {
    "fng": 70.0,
    "momentum": 72.93816498281637,
-   "crowding": 86.2740285
+   "crowding": 82.509455,
+   "ai_calm": 55.0
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +54,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 6.32877e-05,
-   "oi_usd": 3876237957.9528,
-   "premium": 0.0010828173
+   "funding_h": 5.33526e-05,
+   "oi_usd": 3900253401.954,
+   "premium": 0.0009379433
   },
   "ETH": {
-   "funding_h": 2.35932e-05,
-   "oi_usd": 3138687930.6480823,
-   "premium": 0.0008078731
+   "funding_h": 2.32144e-05,
+   "oi_usd": 3148688698.817199,
+   "premium": 0.0005792383
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 718509633.7776002,
-   "premium": 0.0006343858
+   "oi_usd": 720272529.5351996,
+   "premium": 0.0006853422
   }
  },
- "items_24h": 114,
+ "items_24h": 155,
  "top_items": [
   {
    "id": "386d011b5262e646",
@@ -233,29 +234,30 @@
    "tags": []
   },
   {
-   "id": "91ad321521c3963e",
-   "ts": 1789993068,
+   "id": "120573e629e4be55",
+   "ts": 1789993320,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
-   "url": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
+   "title": "Bitcoin Tops $85K as $648M in Crypto Shorts Liquidated",
+   "url": "https://decrypt.co/378729/bitcoin-tops-85k-as-648m-in-crypto-shorts-liquidated",
+   "domain": "Decrypt",
+   "org": "Decrypt",
    "tags": [
-    "crypto"
+    "crypto",
+    "BTC"
    ]
   }
  ],
- "briefing_ts": null,
+ "briefing_ts": 1789993917,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 24
+   "n": 22
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -279,8 +281,9 @@
    "n": 3
   },
   "CFTC": {
-   "ok": true,
-   "n": 1
+   "ok": false,
+   "n": 0,
+   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
   },
   "Federal Reserve": {
    "ok": true,
@@ -331,9 +334,8 @@
    "n": 18
   },
   "Reddit r/Bitcoin": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 24
   }
  }
 }
