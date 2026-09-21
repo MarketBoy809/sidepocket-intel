@@ -1,27 +1,27 @@
 {
- "headline": "No dip to buy: BTC $85K as a $648M short squeeze accelerates into the US open",
- "summary": "Bitcoin went from $81,164 at the open to a $85,256 high, its best level since January, and the move is mechanical rather than fundamental: roughly $710-750m of crypto positions were liquidated in 24 hours, $648.3m of them shorts, and in the last hour alone $313m went, 96% of it short side ($226m BTC, $59m ETH). Glassnode had flagged $83,000-$86,000 as an acceleration zone because of a dense cluster of shorts sitting there. The spark came from outside crypto - Brent fell a fourth straight session to about $101.67 (-2.12%) and WTI broke below $100 for the first time since August as UN General Assembly diplomacy between Trump and Pezeshkian deflated the Iran war risk premium, lifting S&P futures more than half a percent with it. Against that, the Fed hiked 25bp to 3.75-4.00% on 16 September, its first increase since 2023, with 16 of 18 participants open to another this year, so the rates backdrop is still a headwind. Mood is Greed - composite sentiment 74.3, Fear & Greed 70, all three majors up on the week (BTC +9.2%, ETH +8.6%, SOL +15.2%) - which means today is a chase-or-wait tape with nothing discounted in it.",
+ "headline": "No dip to buy: BTC $85K on a $648M short squeeze, open interest up 7.6% into it",
+ "summary": "There is nothing on sale right now. Bitcoin ran from $81,164 at the open to a $85,428 high, its best level since January, and ETH (+3.5% to $2,727) and SOL (+5.5% to $116.74) came with it, but the fuel was forced short covering rather than spot demand: $746.6m of crypto positions were liquidated in 24 hours and $647.9m of that was short side, 86% of the total, with Glassnode having flagged $83,000-$86,000 as a dense short cluster. The impulse came from outside crypto - Brent fell a fourth straight session to about $101.67 (-2.12%) and WTI broke under $100 for the first time since August as UN General Assembly diplomacy between Trump and Pezeshkian deflated the Iran war premium, lifting S&P futures 0.7%. The uncomfortable part is that open interest rose 7.59% to about $156bn through the squeeze, so the leverage that just got flushed has already been replaced, and BTC is now above every major moving average and outside the upper Bollinger Band. Mood is Greed - composite 70.3, Fear & Greed 70, all three majors up on the week (BTC +9.2%, ETH +8.6%, SOL +15.2%) - which makes this a chase-or-wait tape with a tightening Fed and a 5.00% 10-year underneath it.",
  "mood": "greed",
  "news_risk": 45,
  "assets": {
   "BTC": {
    "read": "rally",
-   "note": "At $85,057 after running the full $80,293-$85,256 day range on forced short covering, with perp funding still mild at 0.0063%/h and $3.88bn open interest, so the squeeze fuel is largely spent rather than replaced by fresh spot demand."
+   "note": "At $85,285 after running the full $80,310-$85,428 day range on $360.7m of forced BTC liquidations, with Hyperliquid funding at 0.0053%/h (about 0.13%/day) and $3.90bn open interest there - a squeeze that has been re-levered rather than absorbed by spot."
   },
   "ETH": {
    "read": "rally",
-   "note": "At $2,722 and +8.6% on the week, but it has the weakest sponsorship of the three - the lowest funding (0.0024%/h) and $140.6m of spot ether ETF outflows over the 14-18 September week despite a $143.7m Friday rebound."
+   "note": "At $2,727 and +8.6% on the week, but with the weakest sponsorship of the three: funding of just 0.0023%/h and $140.6m of spot ether ETF outflows over the 14-18 September week even after a $143.7m Friday rebound."
   },
   "SOL": {
    "read": "rally",
-   "note": "At $116.79 and the strongest on the week at +15.2%, helped by $60.7m of SOL ETF inflows led by Bitwise's BSOL, though it carries the most event risk into the 28 September Alpenglow mainnet activation."
+   "note": "At $116.74 and the strongest of the three at +15.2% on the week, backed by $60.7m of SOL ETF inflows led by Bitwise's BSOL, though funding is the lowest at 0.0013%/h and the 28 September Alpenglow activation is asset-specific event risk."
   }
  },
  "drivers": [
   {
-   "title": "Short squeeze, not spot demand, is doing the work",
-   "detail": "About $648.3m of shorts were liquidated in 24 hours out of roughly $710-750m total across ~135,000 traders, 86% short side over the day and 96% in the last hour, with the largest single liquidation an $11m BTC position on Binance. Glassnode had marked $83,000-$86,000 as a short-cluster acceleration zone, which is exactly where the move ran.",
-   "impact": "bullish",
+   "title": "The move is a short squeeze that traders are re-levering into",
+   "detail": "Shorts were $647.9m of $746.6m in 24-hour liquidations (86.4%), $360.7m of it bitcoin, with the largest single order an $11.3m BTCUSDT position on Binance; Glassnode had marked $83,000-$86,000 as an acceleration zone because of the short cluster sitting there. Open interest nevertheless rose 7.59% to about $156bn, meaning positions are being replaced rather than stepped back from, and BTC is now trading above every major moving average and outside the upper Bollinger Band on multiple timeframes.",
+   "impact": "mixed",
    "assets": [
     "BTC",
     "ETH",
@@ -30,13 +30,13 @@
    "category": "crypto",
    "links": [
     "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
-    "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
-    "https://www.theblock.co/news/markets/2026-09-21-bitcoin-taps-85000-for-first-time-since-january-as-crypto-short-liquidations-surge-415905"
+    "https://www.theblock.co/news/markets/2026-09-21-bitcoin-taps-85000-for-first-time-since-january-as-crypto-short-liquidations-surge-415905",
+    "https://en.cryptonomist.ch/2026/09/21/btc-price-analysis-overbought-push/"
    ]
   },
   {
-   "title": "Oil risk premium deflates on UNGA Iran diplomacy",
-   "detail": "Brent fell about 2.12% to $101.67 for a fourth straight session, its longest losing streak in three months, and WTI slipped under $100 for the first time since August as traders priced a possible diplomatic opening between Trump and Pezeshkian at the UN General Assembly. Reporting stresses that markets are pricing an opening, not an agreement - no ceasefire framework exists - so the risk bid crypto is borrowing today can be withdrawn on one headline.",
+   "title": "Today's bid is borrowed from the oil market",
+   "detail": "Brent fell about 2.12% to $101.67 for a fourth straight session, its longest losing streak since the June ceasefire memorandum collapsed, and WTI dropped below $100 for the first time since August after Trump told Fox News he was 'probably open' to meeting Pezeshkian at the UN General Assembly. Reporting stresses markets are pricing an opening, not an agreement - there is no ceasefire framework, and Iran's Revolutionary Guards said today they would 'change the geography of war' if attacked again - so the risk premium crypto is borrowing can be put straight back on one headline.",
    "impact": "mixed",
    "assets": [
     "BTC",
@@ -46,12 +46,13 @@
    "category": "geopolitics",
    "links": [
     "https://www.thenationalnews.com/business/energy/2026/09/21/oil-prices-slide-on-hopes-diplomacy-at-un-will-help-end-iran-conflict/",
-    "https://easternherald.com/2026/09/21/oil-brent-wti-iran-unga-risk-premium/"
+    "https://nairametrics.com/2026/09/21/brent-crude-falls-to-101-71-wti-below-100-as-us-iran-diplomacy-hopes-grow/",
+    "https://aa.com.tr/en/middle-east/iran-s-revolutionary-guards-say-will-change-geography-of-war-if-attacked-again/4062973"
    ]
   },
   {
-   "title": "Fed is tightening and another hike is live",
-   "detail": "The FOMC raised the funds target 25bp to 3.75-4.00% on 16 September, the first hike since 2023, with 16 of 18 participants seeing at least one more this year and four penciling in two; futures are split between the 28 October and 9 December meetings. The 2-year closed at 4.74% and the dollar index near 100.25, and Chicago Fed's Austan Goolsbee, an FOMC voter, is scheduled to speak today.",
+   "title": "The Fed is tightening and the 10-year is at 5%",
+   "detail": "The FOMC raised the funds target 25bp to 3.75-4.00% on 16 September in a 12-0 vote, its first hike since 2023, with the dot plot pointing to at least one more this year and futures split between 28 October and 9 December (CME FedWatch put October hold at about 49.1%). The 2-year sits near 4.76% and the 10-year closed at 5.003%, its highest since July 2007, with the dollar index around 100.25 - the rates backdrop has not improved at all while crypto rallied. The Bank of Japan separately took its policy rate to 1.25%, a 31-year high, which tightens the other side of the carry trade.",
    "impact": "bearish",
    "assets": [
     "BTC",
@@ -61,12 +62,13 @@
    "category": "macro",
    "links": [
     "https://www.tradingkey.com/analysis/stocks/us-stocks/262172696-fed-rate-hike-october-dot-plot-median-one-more-2026-tradingkey",
-    "https://www.kucoin.com/news/articles/crypto-daily-market-report-september-21-2026"
+    "https://www.schwab.com/learn/story/fomc-meeting",
+    "https://jamaica-gleaner.com/article/business/20260920/japans-central-bank-raises-interest-rate-125-highest-31-years"
    ]
   },
   {
-   "title": "Two treasury buyers filed 8-Ks this morning",
-   "detail": "Strategy bought 950 BTC at an average $79,670 ($75.7m) last week, its first weekly purchase since late August, and filed an 8-K at 12:00 UTC today. Strive disclosed buying 1,355 BTC at about $79,475 ($107.7m) between 14 and 18 September in its own 8-K, and MSTR, ASST and MARA shares are all up 6-7% - note both buyers accumulated roughly $5,500 below where BTC trades now.",
+   "title": "Treasury buyers accumulated about $5,500 below spot",
+   "detail": "Strategy filed an 8-K at 12:00 UTC today disclosing 950 BTC bought at an average $79,670 ($75.7m) last week, its first weekly purchase since late August, and Strive disclosed 1,355 BTC at about $79,475 ($107.7m) bought between 14 and 18 September. Both accumulated roughly $5,500 under where BTC trades now, which tells you where the corporate bid actually sits rather than where it is chasing.",
    "impact": "bullish",
    "assets": [
     "BTC"
@@ -74,13 +76,12 @@
    "category": "institutional",
    "links": [
     "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
-    "https://www.sec.gov/Archives/edgar/data/1050446/000119312526396093/0001193125-26-396093-index.htm",
-    "https://www.sec.gov/Archives/edgar/data/0001920406/000162828026062806/asst-20260921.htm"
+    "https://www.sec.gov/Archives/edgar/data/1050446/000119312526396093/0001193125-26-396093-index.htm"
    ]
   },
   {
-   "title": "ETF flows are split, not uniformly bullish",
-   "detail": "Over the 14-18 September week US spot crypto ETFs saw about $70.7m of combined net outflows: bitcoin funds squeaked out +$6.1m on the back of a $433m Friday inflow, solana funds took in $60.7m led by $47.6m into Bitwise's BSOL, while ether funds bled $140.6m. That is selective institutional appetite rather than a broad bid under all three majors.",
+   "title": "ETF flows are selective, and ether is the funding source",
+   "detail": "US spot crypto ETPs saw about $70.7m of combined net outflows over the 14-18 September week: bitcoin funds scraped +$6.1m only because of a $433m Friday inflow, solana funds took in $60.7m led by $47.6m into Bitwise's BSOL, while ether funds bled $140.6m with BlackRock's ETHA alone at -$56.1m on the week. That is rotation, not a broad institutional bid sitting under all three majors.",
    "impact": "mixed",
    "assets": [
     "BTC",
@@ -90,79 +91,99 @@
    "category": "institutional",
    "links": [
     "https://crypto.news/crypto-etf-flows-ether-loses-141m-as-solana-gains-61m/",
-    "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871"
+    "https://www.kucoin.com/news/flash/u-s-spot-crypto-etfs-turn-net-outflow-in-week-of-sept-14-18-ethereum-loses-141m"
    ]
   },
   {
-   "title": "Regulators route around the dead CLARITY Act; ECB bypasses stablecoins",
-   "detail": "After the Digital Asset Market Clarity Act failed cloture 49-50 on 15 September, the SEC issued an innovation exemption creating a five-year conditional 'Tokenized Securities Venue' path for onchain NMS stock, the CFTC widened no-action relief for software providers connecting users to regulated derivatives, and the CFTC sent crypto rules to the White House for review on 18 September. Separately the ECB announced at 10:00 UTC today that the Eurosystem will settle tokenised assets in central bank money via its Pontes platform and invest part of its own funds in tokenised securities - supportive of tokenisation, deliberately not of stablecoin issuers.",
+   "title": "Xi state visit lands mid-week with tariff cuts on the table",
+   "detail": "China's Foreign Ministry confirmed today that Xi will make a state visit to the US between 23 and 25 September, after Treasury Secretary Bessent called Sunday's New York talks with Vice Premier He Lifeng a 'very successful engagement'; the two sides have been discussing reciprocal tariff reductions on $30bn of goods each way, with trade, AI and Iran on the agenda. S&P futures rose 0.7% and Nasdaq futures 1.1% on the news - the same risk-on channel that is carrying crypto today, and the same one that reverses if the meeting sours.",
    "impact": "mixed",
    "assets": [
+    "BTC",
     "ETH",
     "SOL"
    ],
-   "category": "regulation",
+   "category": "politics",
    "links": [
-    "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
-    "https://cryptobriefing.com/sec-and-cftc-clear-new-pathways-for-tokenized-stocks-crypto-code/",
-    "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html"
+    "https://wtop.com/world/2026/09/stocks-advance-after-bessent-says-talks-with-china-were-successful-before-trump-xi-meeting",
+    "https://www.usnews.com/news/business/articles/2026-09-21/stocks-advance-after-bessent-says-talks-with-china-were-successful-before-trump-xi-meeting"
    ]
   }
  ],
  "watch": [
   {
    "when": "2026-09-21",
-   "what": "Chicago Fed President and FOMC voter Austan Goolsbee speaks - the first voter commentary of the week after the 16 September hike, and the market is split between an October and a December follow-up."
+   "what": "Chicago Fed President and FOMC voter Austan Goolsbee speaks - first voter commentary since the 16 September hike, with the market split between an October and a December follow-up."
   },
   {
-   "when": "2026-09-23 13:45 UTC",
-   "what": "US S&P Global flash PMIs, the first full-month activity read since the Fed hike; euro area flash PMIs land 08:00 UTC and the UK 08:30 UTC."
+   "when": "2026-09-22",
+   "what": "New York Fed President John Williams, a permanent FOMC voter, speaks at the US Treasury Market Conference; the SEC's tokenized securities pilot framework also opens, letting institutional venues trade tokenized stocks on public chains. TON unlocks 1.3% of supply (~$51.2m)."
+  },
+  {
+   "when": "2026-09-23 to 2026-09-25",
+   "what": "Xi Jinping's state visit to the US. Reciprocal tariff cuts on $30bn of goods each side are reportedly in play; this is the single biggest swing factor for the risk-on channel crypto is riding."
+  },
+  {
+   "when": "2026-09-24 13:30 UTC",
+   "what": "US initial jobless claims (expected 201K), the first labour read since the hike; US new home sales follow at 15:00 UTC."
   },
   {
    "when": "2026-09-25 08:00 UTC",
-   "what": "Deribit quarterly options expiry: about $14.73bn of BTC open interest plus a large ETH book, with max pain cited near $72,000 - the biggest single source of mechanical volatility this week."
+   "what": "Deribit quarterly options expiry - roughly $14.73bn of BTC open interest plus a large ETH book, with max pain cited near $72,000. The largest mechanical volatility source of the week, and a likely trigger for the flush that today's re-levered open interest sets up. Plasma (XPL) also unlocks about 1.76bn tokens (~$158m)."
   },
   {
-   "when": "2026-09-25",
-   "what": "Plasma (XPL) cliff unlock of roughly 1.76bn tokens, about $158m at current prices; TON unlocks 1.3% of supply (~$51.2m) on 22 September. Alt supply shocks that can drain risk appetite."
-  },
-  {
-   "when": "2026-09-28",
-   "what": "Solana Alpenglow mainnet activation target - the largest protocol change of the quarter for SOL and the main asset-specific risk in the majors."
+   "when": "2026-09-26 / 2026-09-28",
+   "what": "Cleveland Fed's Beth Hammack, an FOMC voter, speaks 26 September; Solana's Alpenglow mainnet activation targets 28 September - the largest protocol change of the quarter for SOL."
   },
   {
    "when": "this week",
-   "what": "UN General Assembly diplomacy on the US-Iran war, plus US-China tariff and AI talks ahead of a Trump-Xi meeting. Today's crypto bid is resting on the oil risk premium these talks are deflating; 30 September also closes Q3 and the SEC fiscal year."
+   "what": "UN General Assembly diplomacy on the US-Iran war. The oil risk premium deflating there is what is funding today's crypto bid, so a collapse in the talks hits crypto and oil in opposite directions at once. 30 September closes Q3 and brings US PCE."
   }
  ],
  "sources": [
   {
-   "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets - CoinDesk",
+   "title": "Short squeeze drives bitcoin toward $85,000 as $648 million shorts liquidated - CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets"
-  },
-  {
-   "title": "Live updates: Bitcoin hits $85,000 as short liquidations hit $300 million in an hour - CoinDesk",
-   "url": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets"
   },
   {
    "title": "Bitcoin taps $85,000 for first time since January as crypto short liquidations surge - The Block",
    "url": "https://www.theblock.co/news/markets/2026-09-21-bitcoin-taps-85000-for-first-time-since-january-as-crypto-short-liquidations-surge-415905"
   },
   {
+   "title": "Live updates: Bitcoin hits $85,000 as short liquidations hit $300 million in an hour - CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets"
+  },
+  {
+   "title": "BTC price analysis: overbought push into $86.5K resistance - Cryptonomist",
+   "url": "https://en.cryptonomist.ch/2026/09/21/btc-price-analysis-overbought-push/"
+  },
+  {
+   "title": "Bitcoin surges to 8-month high above $85,000 - Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-8-month-high-114041914.html"
+  },
+  {
    "title": "Oil prices slide on hopes diplomacy at UN will help end Iran conflict - The National",
    "url": "https://www.thenationalnews.com/business/energy/2026/09/21/oil-prices-slide-on-hopes-diplomacy-at-un-will-help-end-iran-conflict/"
   },
   {
-   "title": "Brent oil falls 4th day as UNGA deflates Iran risk premium - Eastern Herald",
-   "url": "https://easternherald.com/2026/09/21/oil-brent-wti-iran-unga-risk-premium/"
+   "title": "Brent crude falls to $101.71, WTI below $100 as US-Iran diplomacy hopes grow - Nairametrics",
+   "url": "https://nairametrics.com/2026/09/21/brent-crude-falls-to-101-71-wti-below-100-as-us-iran-diplomacy-hopes-grow/"
+  },
+  {
+   "title": "Iran's Revolutionary Guards say will change geography of war if attacked again - Anadolu Agency",
+   "url": "https://aa.com.tr/en/middle-east/iran-s-revolutionary-guards-say-will-change-geography-of-war-if-attacked-again/4062973"
   },
   {
    "title": "Will the Fed hike again in October? Dot plot median points to one more hike this year - TradingKey",
    "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262172696-fed-rate-hike-october-dot-plot-median-one-more-2026-tradingkey"
   },
   {
-   "title": "Crypto Daily Market Report, 21 September 2026 - KuCoin",
-   "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-september-21-2026"
+   "title": "Fed hikes in 12-0 vote, commits to inflation fight - Charles Schwab",
+   "url": "https://www.schwab.com/learn/story/fomc-meeting"
+  },
+  {
+   "title": "Japan's central bank raises interest rate to 1.25%, the highest in 31 years - Jamaica Gleaner",
+   "url": "https://jamaica-gleaner.com/article/business/20260920/japans-central-bank-raises-interest-rate-125-highest-31-years"
   },
   {
    "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week - CoinDesk",
@@ -173,38 +194,34 @@
    "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526396093/0001193125-26-396093-index.htm"
   },
   {
-   "title": "Strive, Inc. Form 8-K filed 21 September 2026 (1,355 BTC at ~$79,475) - SEC EDGAR",
-   "url": "https://www.sec.gov/Archives/edgar/data/0001920406/000162828026062806/asst-20260921.htm"
-  },
-  {
    "title": "Crypto ETF flows: Ether loses $141M as Solana gains $61M - crypto.news",
    "url": "https://crypto.news/crypto-etf-flows-ether-loses-141m-as-solana-gains-61m/"
   },
   {
-   "title": "Bitcoin ETFs eke out positive week with $433 million Friday inflow - The Block",
-   "url": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871"
+   "title": "US spot crypto ETFs turn net outflow in week of Sept 14-18, Ethereum loses $141M - KuCoin",
+   "url": "https://www.kucoin.com/news/flash/u-s-spot-crypto-etfs-turn-net-outflow-in-week-of-sept-14-18-ethereum-loses-141m"
   },
   {
-   "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act - CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act"
+   "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting - WTOP",
+   "url": "https://wtop.com/world/2026/09/stocks-advance-after-bessent-says-talks-with-china-were-successful-before-trump-xi-meeting"
   },
   {
-   "title": "SEC and CFTC clear new pathways for tokenized stocks, crypto code - Crypto Briefing",
-   "url": "https://cryptobriefing.com/sec-and-cftc-clear-new-pathways-for-tokenized-stocks-crypto-code/"
+   "title": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting - US News",
+   "url": "https://www.usnews.com/news/business/articles/2026-09-21/stocks-advance-after-bessent-says-talks-with-china-were-successful-before-trump-xi-meeting"
   },
   {
-   "title": "Eurosystem brings central bank money to tokenised finance - European Central Bank",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html"
+   "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead - CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead"
   },
   {
    "title": "Crypto Week Ahead: $16.6B Deribit expiry, Plasma XPL unlock, Solana Alpenglow, flash PMIs after Fed hike - The Crypto Times",
    "url": "https://www.cryptotimes.io/2026/09/21/crypto-week-ahead-16-6b-deribit-expiry-plasma-xpl-unlock-solana-alpenglow-flash-pmis-after-fed-hike/"
   },
   {
-   "title": "Crypto resilient post-Fed rate hike: Crypto Week Ahead - CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead"
+   "title": "Eurosystem brings central bank money to tokenised finance - European Central Bank",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html"
   }
  ],
- "generated_ts": 1789993917,
- "generated_at": "2026-09-21T12:31:57Z"
+ "generated_ts": 1789994965,
+ "generated_at": "2026-09-21T12:49:25Z"
 }
