@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-09-21T18:47:15Z",
- "generated_ts": 1790016435,
+ "generated_at": "2026-09-21T19:51:21Z",
+ "generated_ts": 1790020281,
  "prices": {
   "BTC": {
-   "p": 85910.2,
+   "p": 86548.4,
    "o": 81164.0,
-   "h": 86331.0,
+   "h": 86900.0,
    "l": 80580.6,
-   "v": 4357.50845792
+   "v": 4539.18646958
   },
   "ETH": {
-   "p": 2748.35,
+   "p": 2763.2,
    "o": 2644.67,
-   "h": 2769.26,
+   "h": 2775.98,
    "l": 2608.24,
-   "v": 65507.6863838
+   "v": 69061.0311827
   },
   "SOL": {
-   "p": 117.3,
+   "p": 118.07,
    "o": 111.15,
    "h": 119.08,
    "l": 109.0,
-   "v": 735650.03638612
+   "v": 741888.97491592
   }
  },
  "change_7d": {
-  "BTC": 0.0881702722765378,
-  "ETH": 0.08281954323336471,
-  "SOL": 0.13721494420184377
+  "BTC": 0.08649341282020573,
+  "ETH": 0.08630393257320637,
+  "SOL": 0.1363767976064086
  },
  "sentiment": {
-  "score": 61.8,
+  "score": 65.5,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 72.04256806913445,
-   "news_tone": 41.199999999999996,
-   "crowding": 65.5534895,
+   "momentum": 71.62335320505143,
+   "crowding": 66.1802675,
    "ai_calm": 46.0
   },
   "weights": {
@@ -52,25 +51,25 @@
   "label": "Greed",
   "ts": 1789948800
  },
- "news_tone_24h": -0.528,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.76123e-05,
-   "oi_usd": 3960346637.7696805,
-   "premium": 0.0007765358
+   "funding_h": 1.86958e-05,
+   "oi_usd": 3990881947.98392,
+   "premium": 0.0007463601
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3206740487.897697,
-   "premium": 0.0005458317
+   "funding_h": 1.31337e-05,
+   "oi_usd": 3236597711.2166424,
+   "premium": 0.0005066406
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 703663881.7703999,
-   "premium": 0.0006819538
+   "oi_usd": 710968958.3742002,
+   "premium": 0.0004235493
   }
  },
- "items_24h": 393,
+ "items_24h": 438,
  "top_items": [
   {
    "id": "e78c7f326dc995b2",
@@ -153,6 +152,24 @@
    ],
    "author": "Donald Trump",
    "score": 2553
+  },
+  {
+   "id": "1e50e56fc5c9fe27",
+   "ts": 1790019596,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "As expected, Fake News CNN, Politico (Pay back the 8 Million Dollar contribution made by the U.S. Government to keep them afloat!), and MSNOW (formerly known as MSDNC!), have brought suit to gain access to the White House, and your President, ME! They have drawn a great Judge, fo",
+   "url": "https://truthsocial.com/@realDonaldTrump/117310724294153031",
+   "domain": "truthsocial.com",
+   "tags": [
+    "crypto",
+    "macro",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1870
   },
   {
    "id": "756fba2651cf9944",
@@ -250,27 +267,13 @@
     "ETH",
     "institution"
    ]
-  },
-  {
-   "id": "e9f87f45de1f8745",
-   "ts": 1790014500,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Vanguard Growth ETF ( NYSEARCA : VUG ) Hits New 12 - Month High – Still a Buy ?",
-   "url": "https://www.dailypolitical.com/2026/09/21/vanguard-growth-etf-nysearcavug-hits-new-12-month-high-still-a-buy.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790003893,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 29
+   "n": 46
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -282,7 +285,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 13
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -344,11 +347,12 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 46
+   "n": 47
   },
   "Reddit r/CryptoCurrency": {
-   "ok": true,
-   "n": 23
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   },
   "Reddit r/Bitcoin": {
    "ok": false,
