@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-21T16:01:08Z",
- "generated_ts": 1790006468,
+ "generated_at": "2026-09-21T18:10:53Z",
+ "generated_ts": 1790014253,
  "prices": {
   "BTC": {
-   "p": 85932.1,
+   "p": 85950.8,
    "o": 81164.0,
    "h": 86331.0,
    "l": 80580.6,
-   "v": 4191.31240667
+   "v": 4345.23111851
   },
   "ETH": {
-   "p": 2756.37,
+   "p": 2747.56,
    "o": 2644.67,
-   "h": 2765.49,
-   "l": 2606.34,
-   "v": 68453.31979435
+   "h": 2769.26,
+   "l": 2608.24,
+   "v": 65453.84181476
   },
   "SOL": {
-   "p": 117.93,
+   "p": 117.39,
    "o": 111.15,
    "h": 119.08,
-   "l": 108.47,
-   "v": 732391.30887678
+   "l": 109.0,
+   "v": 722616.18066714
   }
  },
  "change_7d": {
-  "BTC": 0.09395913176482722,
-  "ETH": 0.09876577672322695,
-  "SOL": 0.1568415890142226
+  "BTC": 0.0881702722765378,
+  "ETH": 0.08281954323336471,
+  "SOL": 0.13721494420184377
  },
  "sentiment": {
-  "score": 70.5,
+  "score": 65.8,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 73.48978294120681,
-   "crowding": 92.4390975,
+   "momentum": 72.04256806913445,
+   "crowding": 67.6395375,
    "ai_calm": 46.0
   },
   "weights": {
@@ -54,23 +54,40 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.96898e-05,
-   "oi_usd": 3912362678.7882004,
-   "premium": 0.0006702475
+   "funding_h": 2.33275e-05,
+   "oi_usd": 3965879899.9142313,
+   "premium": 0.0006898822
   },
   "ETH": {
-   "funding_h": 8.40817e-05,
-   "oi_usd": 3310931414.485195,
-   "premium": 0.0012337615
+   "funding_h": 1.25e-05,
+   "oi_usd": 3185896262.7196784,
+   "premium": 0.000636792
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 722044862.6799998,
-   "premium": 0.0006358896
+   "oi_usd": 702915407.2032,
+   "premium": 0.000383256
   }
  },
- "items_24h": 283,
+ "items_24h": 336,
  "top_items": [
+  {
+   "id": "e78c7f326dc995b2",
+   "ts": 1790011085,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "If Senate Republicans don't TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators,",
+   "url": "https://truthsocial.com/@realDonaldTrump/117310166479352147",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 15117
+  },
   {
    "id": "386d011b5262e646",
    "ts": 1789966743,
@@ -154,25 +171,13 @@
    "score": 995
   },
   {
-   "id": "a2be833ad825fc01",
-   "ts": 1790001667,
+   "id": "0b46be7ee907e4ad",
+   "ts": 1790013712,
    "source": "government",
    "group": "government",
    "kind": "official",
-   "title": "G20 Energy Abundance Ministerial Concludes with Four Consensus Outcomes",
-   "url": "https://www.whitehouse.gov/releases/2026/09/g20-energy-abundance-ministerial-concludes-with-four-consensus-outcomes/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "5590a52e2a128ca6",
-   "ts": 1789996638,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "First Lady Melania Trump Releases Details Ahead of His Excellency Xi Jinping, President of The People’s Republic of China, and Madame Peng Liyuan’s Visit to The White House",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-ahead-of-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuans-visit-to-the-white-house/",
+   "title": "White House Access Is a Privilege — Not a Right",
+   "url": "https://www.whitehouse.gov/releases/2026/09/white-house-access-is-a-privilege-not-a-right/",
    "domain": "White House",
    "org": "White House",
    "tags": [
@@ -180,27 +185,28 @@
    ]
   },
   {
-   "id": "c5bf62fa8b670e83",
-   "ts": 1789995600,
+   "id": "85527000ccdebaa8",
+   "ts": 1790012700,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Michael Saylor :",
-   "url": "https://www.bankingnews.gr/kriptonomismata/articles/900625/michael-saylor-a-big-new-move-is-coming-the-mysterious-message-regarding-a-new-bitcoin-purchase-by-strategy",
-   "domain": "bankingnews.gr",
+   "title": "Apple Pay Job Listing Fuels Crypto Payment Bets as It Names Stablecoins and Tokenized Deposits",
+   "url": "https://www.ibtimes.co.uk/apple-pay-job-listing-stablecoins-crypto-payments-1821046",
+   "domain": "ibtimes.co.uk",
    "tags": [
+    "crypto",
     "institution"
    ]
   },
   {
-   "id": "3a424e9b2ed30e58",
-   "ts": 1789995600,
+   "id": "6503abeeacea8b96",
+   "ts": 1790010900,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Bitcoin Holds Firm Near $82K After Absorbing Macro Shocks",
-   "url": "https://partners.coinspeaker.com/bitcoin-holds-firm-near-82k-after-absorbing-macro-shocks-fueling-capital-inflows-into-hyper-l2-presale/",
-   "domain": "partners.coinspeaker.com",
+   "title": "Crypto - linked stocks surge as bitcoin breaks through May highs",
+   "url": "https://www.proactiveinvestors.com/companies/news/1098839/crypto-linked-stocks-surge-as-bitcoin-breaks-through-may-highs-1098839.html",
+   "domain": "proactiveinvestors.com",
    "tags": [
     "crypto",
     "BTC",
@@ -208,44 +214,45 @@
    ]
   },
   {
-   "id": "85191f34bb9147dc",
-   "ts": 1789995600,
+   "id": "935b6662f8779744",
+   "ts": 1790010000,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Scams in the US are at a record high . Yet most victims get no help",
-   "url": "https://www.orovillemr.com/2026/09/02/us-scam-victims/",
-   "domain": "orovillemr.com",
+   "title": "Prediction : These 2 Vanguard ETFs Could Be Fantastic Long - Term Buys",
+   "url": "https://www.fool.com/investing/2026/09/21/prediction-2-vanguard-etfs-long-term-buys/?source=iedfolrf0000001",
+   "domain": "fool.com",
    "tags": [
     "institution"
    ]
   },
   {
-   "id": "267f7b35d92e1dd9",
-   "ts": 1789992013,
-   "source": "institution",
+   "id": "e33b910b147ef440",
+   "ts": 1790009100,
+   "source": "news",
    "group": "institution",
-   "kind": "official",
-   "title": "8-K - Current report",
-   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526396093/0001193125-26-396093-index.htm",
-   "domain": "Strategy (MSTR) filings",
-   "org": "Strategy (MSTR) filings",
+   "kind": "news",
+   "title": "Stock markets climb worldwide after oil prices and bond yields ease",
+   "url": "https://www.times-standard.com/2026/09/21/stock-markets-oil-prices-bond-yields/",
+   "domain": "times-standard.com",
    "tags": [
+    "macro",
     "institution"
    ]
   },
   {
-   "id": "497b2e318c9a8b78",
-   "ts": 1789992000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Bank of England announces new office space in Leeds",
-   "url": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
-   "domain": "Bank of England",
-   "org": "Bank of England",
+   "id": "87e3bf9502bdf16a",
+   "ts": 1790008200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Bitcoin hits highest level since January at $85 , 000 , as the market debates whether the crypto winter is over",
+   "url": "https://www.cnbcafrica.com/2026/bitcoin-hits-highest-level-since-january-at-85000-as-the-market-debates-whether-the-crypto-winter-is-over",
+   "domain": "cnbcafrica.com",
    "tags": [
-    "macro"
+    "crypto",
+    "BTC",
+    "institution"
    ]
   }
  ],
@@ -253,11 +260,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 4
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 36
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -265,7 +272,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 10
   },
   "White House": {
    "ok": true,
@@ -278,12 +285,11 @@
   },
   "SEC": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "CFTC": {
-   "ok": false,
-   "n": 0,
-   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
+   "ok": true,
+   "n": 2
   },
   "Federal Reserve": {
    "ok": true,
@@ -323,19 +329,20 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 36
+   "n": 38
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 45
+   "n": 42
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 23
   },
   "Reddit r/Bitcoin": {
-   "ok": true,
-   "n": 24
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
