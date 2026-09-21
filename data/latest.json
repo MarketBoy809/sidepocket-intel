@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-21T11:50:23Z",
- "generated_ts": 1789991423,
+ "generated_at": "2026-09-21T12:16:28Z",
+ "generated_ts": 1789992988,
  "prices": {
   "BTC": {
-   "p": 84830.5,
+   "p": 85057.4,
    "o": 81164.0,
    "h": 85256.0,
    "l": 80292.6,
-   "v": 3197.74980427
+   "v": 3301.90675983
   },
   "ETH": {
-   "p": 2723.97,
+   "p": 2722.26,
    "o": 2644.67,
    "h": 2748.87,
    "l": 2571.28,
-   "v": 57774.4971022
+   "v": 58361.31896208
   },
   "SOL": {
-   "p": 116.76,
+   "p": 116.79,
    "o": 111.15,
    "h": 117.11,
    "l": 107.93,
-   "v": 650890.11831632
+   "v": 653395.92003159
   }
  },
  "change_7d": {
-  "BTC": 0.0840544198816981,
-  "ETH": 0.08083944366157934,
-  "SOL": 0.1401749729676594
+  "BTC": 0.0917526599312655,
+  "ETH": 0.08630973740660122,
+  "SOL": 0.15247212079344719
  },
  "sentiment": {
-  "score": 69.3,
+  "score": 74.3,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 71.01360497042452,
-   "crowding": 65.5414445
+   "momentum": 72.93816498281637,
+   "crowding": 86.2740285
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3610039036.95682,
-   "premium": 0.0002710762
+   "funding_h": 6.32877e-05,
+   "oi_usd": 3876237957.9528,
+   "premium": 0.0010828173
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3137306271.1694617,
-   "premium": 0.0006274562
+   "funding_h": 2.35932e-05,
+   "oi_usd": 3138687930.6480823,
+   "premium": 0.0008078731
   },
   "SOL": {
-   "funding_h": 1.75793e-05,
-   "oi_usd": 715041120.9968,
-   "premium": 0.0004280089
+   "funding_h": 1.25e-05,
+   "oi_usd": 718509633.7776002,
+   "premium": 0.0006343858
   }
  },
- "items_24h": 101,
+ "items_24h": 114,
  "top_items": [
   {
    "id": "386d011b5262e646",
@@ -102,6 +102,66 @@
    ],
    "author": "Donald Trump",
    "score": 6227
+  },
+  {
+   "id": "a588a600196bd2e0",
+   "ts": 1789991618,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The White House is not instituting an assault on the Free Press, something which I cherish. It is instituting an assault on the FAKE NEWS, something that has grown like Cancer in our beloved United States of America. It is corrupt, purposeful, pervasive, fully coordinated, and to",
+   "url": "https://truthsocial.com/@realDonaldTrump/117308890736529824",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2553
+  },
+  {
+   "id": "fa47847bb2e80c6c",
+   "ts": 1789992221,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Russia has unfortunately lost control of its Diesel Oil Industry due to its War with Ukraine. A large number of their Diesel refineries have been blown up and are, at least temporarily, out of commission. This ridiculous and never ending War with Ukraine must be ended. The whole ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117308930224398545",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 995
+  },
+  {
+   "id": "267f7b35d92e1dd9",
+   "ts": 1789992013,
+   "source": "institution",
+   "group": "institution",
+   "kind": "official",
+   "title": "8-K - Current report",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526396093/0001193125-26-396093-index.htm",
+   "domain": "Strategy (MSTR) filings",
+   "org": "Strategy (MSTR) filings",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "497b2e318c9a8b78",
+   "ts": 1789992000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Bank of England announces new office space in Leeds",
+   "url": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "b318db4e8f39c4ab",
@@ -173,70 +233,15 @@
    "tags": []
   },
   {
-   "id": "780a8260cbb2de68",
-   "ts": 1789990571,
+   "id": "91ad321521c3963e",
+   "ts": 1789993068,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
-   "url": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
+   "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
+   "url": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
    "domain": "CoinDesk",
    "org": "CoinDesk",
-   "tags": [
-    "crypto",
-    "BTC"
-   ]
-  },
-  {
-   "id": "2dc375cd0e1e6813",
-   "ts": 1789990200,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
-   "url": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto",
-    "BTC"
-   ]
-  },
-  {
-   "id": "6f95cfd65ab2bb39",
-   "ts": 1789990020,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
-   "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "75a775d64896f5a0",
-   "ts": 1789989535,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
-   "url": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": []
-  },
-  {
-   "id": "0bf8bae59b8bfd94",
-   "ts": 1789989300,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "SA planned crypto curbs may hit deals worth billions",
-   "url": "https://www.news24.com/business/investing/sas-planned-crypto-curbs-may-hit-deals-worth-billions-20260921-0584",
-   "domain": "news24.com",
    "tags": [
     "crypto"
    ]
@@ -246,7 +251,7 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 24
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -258,7 +263,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -274,9 +279,8 @@
    "n": 3
   },
   "CFTC": {
-   "ok": false,
-   "n": 0,
-   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
+   "ok": true,
+   "n": 1
   },
   "Federal Reserve": {
    "ok": true,
@@ -288,7 +292,7 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 11
+   "n": 12
   },
   "Bank of Japan": {
    "ok": true,
@@ -299,14 +303,12 @@
    "n": 0
   },
   "Strategy (MSTR) filings": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 403: Forbidden"
+   "ok": true,
+   "n": 1
   },
   "Coinbase filings": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 403: Forbidden"
+   "ok": true,
+   "n": 0
   },
   "CoinDesk": {
    "ok": true,
@@ -322,17 +324,16 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 45
+   "n": 47
   },
   "Reddit r/CryptoCurrency": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 403: Blocked"
+   "ok": true,
+   "n": 18
   },
   "Reddit r/Bitcoin": {
    "ok": false,
    "n": 0,
-   "err": "HTTP Error 403: Blocked"
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
