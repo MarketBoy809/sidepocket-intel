@@ -1,0 +1,342 @@
+{
+ "generated_at": "2026-09-21T11:28:49Z",
+ "generated_ts": 1789990129,
+ "prices": {
+  "BTC": {
+   "p": 84679.8,
+   "o": 81164.0,
+   "h": 85256.0,
+   "l": 80292.6,
+   "v": 3151.17325086
+  },
+  "ETH": {
+   "p": 2723.49,
+   "o": 2644.67,
+   "h": 2748.87,
+   "l": 2571.28,
+   "v": 57401.66756025
+  },
+  "SOL": {
+   "p": 116.39,
+   "o": 111.15,
+   "h": 116.83,
+   "l": 107.93,
+   "v": 642052.90305653
+  }
+ },
+ "change_7d": {
+  "BTC": 0.0840544198816981,
+  "ETH": 0.08083944366157934,
+  "SOL": 0.1401749729676594
+ },
+ "sentiment": {
+  "score": 63.8,
+  "label": "Greed",
+  "components": {
+   "fng": 70.0,
+   "momentum": 71.01360497042452,
+   "news_tone": 38.400000000000006,
+   "crowding": 65.249116
+  },
+  "weights": {
+   "fng": 0.35,
+   "momentum": 0.2,
+   "news_tone": 0.15,
+   "crowding": 0.15,
+   "ai_calm": 0.15
+  }
+ },
+ "fear_greed": {
+  "value": 70,
+  "label": "Greed",
+  "ts": 1789948800
+ },
+ "news_tone_24h": -0.696,
+ "derivatives": {
+  "BTC": {
+   "funding_h": 1.25e-05,
+   "oi_usd": 3606621143.1455,
+   "premium": 0.0002963789
+  },
+  "ETH": {
+   "funding_h": 1.25e-05,
+   "oi_usd": 3133749527.0280004,
+   "premium": 0.0005139312
+  },
+  "SOL": {
+   "funding_h": 1.67784e-05,
+   "oi_usd": 712750201.9871999,
+   "premium": 0.0004723666
+  }
+ },
+ "items_24h": 96,
+ "top_items": [
+  {
+   "id": "1cf2bd1315fa2816",
+   "ts": 1789904086,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "At the strong request of the United States Military, and for National Security purposes, I have agreed to convert the magnificent Triumphal Arch, planned since the Civil War Era many years ago, at the Receptive Circle adjoining the Arlington Memorial Bridge, into a top grade Mili",
+   "url": "https://truthsocial.com/@realDonaldTrump/117303154231930646",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 27046
+  },
+  {
+   "id": "386d011b5262e646",
+   "ts": 1789966743,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Trump bans CNN, MSNOW, and Politico from White House: https://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-white-house",
+   "url": "https://truthsocial.com/@realDonaldTrump/117307260504631667",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6781
+  },
+  {
+   "id": "9d95c631e5cd40bb",
+   "ts": 1789966661,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Prosecutors zero in on John Brennan's role in Trump-Russia collusion narrative in conspiracy case: https://justthenews.com/government/courts-law/prosecutors-zero-john-brennans-role-trump-russia-collusion-narrative",
+   "url": "https://truthsocial.com/@realDonaldTrump/117307255154500060",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6227
+  },
+  {
+   "id": "b318db4e8f39c4ab",
+   "ts": 1789990200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Foreign Currency Reserves 2026 – Market Notice 21 September 2026",
+   "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "ccfc1693099d5601",
+   "ts": 1789986600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Bitcoin Holds US$81 , 143 as Stablecoins Rule LatAm",
+   "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-monday-september-21-2026/",
+   "domain": "riotimesonline.com",
+   "tags": [
+    "crypto",
+    "BTC",
+    "institution"
+   ]
+  },
+  {
+   "id": "1517bc72795f1a1b",
+   "ts": 1789984800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "7e4fe81db104389b",
+   "ts": 1789984800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Eurosystem brings central bank money to tokenised finance",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "163d6ddbc337660f",
+   "ts": 1789923769,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on Yom Kippur",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-yom-kippur-a68b/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "2dc375cd0e1e6813",
+   "ts": 1789990200,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
+   "url": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto",
+    "BTC"
+   ]
+  },
+  {
+   "id": "6f95cfd65ab2bb39",
+   "ts": 1789990020,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
+   "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "75a775d64896f5a0",
+   "ts": 1789989535,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
+   "url": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": []
+  },
+  {
+   "id": "9de741602f4a0ed9",
+   "ts": 1789988400,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bitcoin and Crypto Face a Lose Lose Fed Trap as Stocks Reach Historic Extremes , Mike McGlone Warns",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-crypto-face-lose-lose-101719274.html",
+   "domain": "finance.yahoo.com",
+   "tags": [
+    "crypto",
+    "macro",
+    "BTC"
+   ]
+  }
+ ],
+ "briefing_ts": null,
+ "source_health": {
+  "News: crypto (GDELT)": {
+   "ok": true,
+   "n": 0
+  },
+  "News: world & geopolitics (GDELT)": {
+   "ok": true,
+   "n": 40
+  },
+  "News: governments (GDELT)": {
+   "ok": true,
+   "n": 0
+  },
+  "News: institutional money (GDELT)": {
+   "ok": true,
+   "n": 1
+  },
+  "White House": {
+   "ok": true,
+   "n": 28
+  },
+  "US Labor Statistics (CPI/jobs)": {
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 403: Forbidden"
+  },
+  "SEC": {
+   "ok": true,
+   "n": 3
+  },
+  "CFTC": {
+   "ok": true,
+   "n": 1
+  },
+  "Federal Reserve": {
+   "ok": true,
+   "n": 4
+  },
+  "European Central Bank": {
+   "ok": true,
+   "n": 7
+  },
+  "Bank of England": {
+   "ok": true,
+   "n": 11
+  },
+  "Bank of Japan": {
+   "ok": true,
+   "n": 8
+  },
+  "BIS": {
+   "ok": true,
+   "n": 0
+  },
+  "Strategy (MSTR) filings": {
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 403: Forbidden"
+  },
+  "Coinbase filings": {
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 403: Forbidden"
+  },
+  "CoinDesk": {
+   "ok": true,
+   "n": 25
+  },
+  "Cointelegraph": {
+   "ok": true,
+   "n": 30
+  },
+  "Decrypt": {
+   "ok": true,
+   "n": 36
+  },
+  "Donald Trump (Truth Social)": {
+   "ok": true,
+   "n": 45
+  },
+  "Reddit r/CryptoCurrency": {
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 403: Blocked"
+  },
+  "Reddit r/Bitcoin": {
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 403: Blocked"
+  }
+ }
+}
