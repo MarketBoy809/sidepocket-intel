@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-09-21T15:24:05Z",
- "generated_ts": 1790004245,
+ "generated_at": "2026-09-21T16:01:08Z",
+ "generated_ts": 1790006468,
  "prices": {
   "BTC": {
-   "p": 85913.8,
+   "p": 85932.1,
    "o": 81164.0,
    "h": 86331.0,
    "l": 80580.6,
-   "v": 4093.59175404
+   "v": 4191.31240667
   },
   "ETH": {
-   "p": 2733.49,
+   "p": 2756.37,
    "o": 2644.67,
-   "h": 2757.11,
-   "l": 2592.28,
-   "v": 67594.90047292
+   "h": 2765.49,
+   "l": 2606.34,
+   "v": 68453.31979435
   },
   "SOL": {
-   "p": 117.58,
+   "p": 117.93,
    "o": 111.15,
    "h": 119.08,
-   "l": 108.03,
-   "v": 720259.59616968
+   "l": 108.47,
+   "v": 732391.30887678
   }
  },
  "change_7d": {
-  "BTC": 0.09343427652172771,
-  "ETH": 0.09406326598343787,
-  "SOL": 0.16169668339730348
+  "BTC": 0.09395913176482722,
+  "ETH": 0.09876577672322695,
+  "SOL": 0.1568415890142226
  },
  "sentiment": {
-  "score": 62.8,
+  "score": 70.5,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 73.35856913043193,
-   "news_tone": 37.25,
-   "crowding": 74.5649015,
+   "momentum": 73.48978294120681,
+   "crowding": 92.4390975,
    "ai_calm": 46.0
   },
   "weights": {
@@ -52,25 +51,25 @@
   "label": "Greed",
   "ts": 1789948800
  },
- "news_tone_24h": -0.765,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 2.98825e-05,
-   "oi_usd": 3903714477.8919716,
-   "premium": 0.0004352679
+   "funding_h": 1.96898e-05,
+   "oi_usd": 3912362678.7882004,
+   "premium": 0.0006702475
   },
   "ETH": {
-   "funding_h": 2.49186e-05,
-   "oi_usd": 3219128949.7168074,
-   "premium": 0.000987564
+   "funding_h": 8.40817e-05,
+   "oi_usd": 3310931414.485195,
+   "premium": 0.0012337615
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 719649510.2453586,
-   "premium": 0.0
+   "oi_usd": 722044862.6799998,
+   "premium": 0.0006358896
   }
  },
- "items_24h": 240,
+ "items_24h": 283,
  "top_items": [
   {
    "id": "386d011b5262e646",
@@ -120,6 +119,23 @@
    ],
    "author": "Donald Trump",
    "score": 2553
+  },
+  {
+   "id": "756fba2651cf9944",
+   "ts": 1790005709,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The same people that said, \"We'll all be dead in twelve years because of Global Warming,\" a name since \"reborn\" to Climate Change, because the Planet was cooling, not warming, and nobody was dead, are the people that are now saying that AI is going to kill us, that robots are goi",
+   "url": "https://truthsocial.com/@realDonaldTrump/117309814170246776",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1580
   },
   {
    "id": "fa47847bb2e80c6c",
@@ -231,31 +247,17 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "b318db4e8f39c4ab",
-   "ts": 1789990200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Foreign Currency Reserves 2026 – Market Notice 21 September 2026",
-   "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790003893,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 10
+   "n": 4
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 36
   },
   "News: governments (GDELT)": {
    "ok": true,
