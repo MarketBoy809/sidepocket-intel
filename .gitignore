@@ -10,3 +10,6 @@ __pycache__/
 # scratch files the round runner writes
 data/bots/_context.json
 data/bots/_round.json
+
+# regenerated weekly from the SEC, no need to version it
+data/equities/_tickers.json
