@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-09-21T22:00:03Z",
- "generated_ts": 1790028003,
+ "generated_at": "2026-09-21T22:33:31Z",
+ "generated_ts": 1790030011,
  "prices": {
   "BTC": {
-   "p": 86560.1,
+   "p": 86391.0,
    "o": 81164.0,
    "h": 87446.7,
-   "l": 80763.8,
-   "v": 4983.46997436
+   "l": 80839.5,
+   "v": 5035.423438
   },
   "ETH": {
-   "p": 2768.47,
+   "p": 2772.34,
    "o": 2644.67,
    "h": 2806.69,
-   "l": 2624.01,
-   "v": 77821.4766311
+   "l": 2631.59,
+   "v": 77808.31615963
   },
   "SOL": {
-   "p": 119.11,
+   "p": 119.13,
    "o": 111.15,
    "h": 119.97,
-   "l": 109.58,
-   "v": 769307.64650843
+   "l": 110.25,
+   "v": 775214.28036122
   }
  },
  "change_7d": {
@@ -30,12 +30,11 @@
   "SOL": 0.15439038573366923
  },
  "sentiment": {
-  "score": 63.1,
+  "score": 66.1,
   "label": "Greed",
   "components": {
    "fng": 70.0,
    "momentum": 74.81055386721565,
-   "news_tone": 46.03333333333333,
    "crowding": 63.6875,
    "ai_calm": 48.0
   },
@@ -52,25 +51,25 @@
   "label": "Greed",
   "ts": 1789948800
  },
- "news_tone_24h": -0.238,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3811392224.8719997,
-   "premium": 0.0004042271
+   "oi_usd": 3801953628.4199595,
+   "premium": 0.0002429852
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3187432191.7438,
-   "premium": 0.0003792462
+   "oi_usd": 3186298482.5850005,
+   "premium": 0.0
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 719153514.3312001,
-   "premium": 0.0004196391
+   "oi_usd": 718689545.1656001,
+   "premium": -0.000628799
   }
  },
- "items_24h": 566,
+ "items_24h": 597,
  "top_items": [
   {
    "id": "e78c7f326dc995b2",
@@ -271,7 +270,7 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 44
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -283,7 +282,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 16
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -299,9 +298,8 @@
    "n": 2
   },
   "CFTC": {
-   "ok": false,
-   "n": 0,
-   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
+   "ok": true,
+   "n": 2
   },
   "Federal Reserve": {
    "ok": true,
