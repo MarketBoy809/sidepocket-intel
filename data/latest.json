@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-09-21T14:14:15Z",
- "generated_ts": 1790000055,
+ "generated_at": "2026-09-21T14:48:38Z",
+ "generated_ts": 1790002118,
  "prices": {
   "BTC": {
-   "p": 85295.1,
+   "p": 85900.0,
    "o": 81164.0,
-   "h": 85836.7,
-   "l": 80394.4,
-   "v": 3818.75517631
+   "h": 85986.3,
+   "l": 80580.6,
+   "v": 3902.50233131
   },
   "ETH": {
-   "p": 2720.22,
+   "p": 2739.47,
    "o": 2644.67,
    "h": 2748.87,
-   "l": 2573.6,
-   "v": 62971.19555802
+   "l": 2581.94,
+   "v": 66315.40551383
   },
   "SOL": {
-   "p": 118.03,
+   "p": 118.18,
    "o": 111.15,
-   "h": 118.79,
-   "l": 107.96,
-   "v": 674705.35093706
+   "h": 118.97,
+   "l": 108.03,
+   "v": 705305.76189045
   }
  },
  "change_7d": {
@@ -30,13 +30,13 @@
   "SOL": 0.1647093654396526
  },
  "sentiment": {
-  "score": 62.9,
+  "score": 62.5,
   "label": "Greed",
   "components": {
    "fng": 70.0,
    "momentum": 73.3358499016299,
-   "news_tone": 38.28333333333334,
-   "crowding": 72.194628,
+   "news_tone": 37.483333333333334,
+   "crowding": 70.0929215,
    "ai_calm": 48.0
   },
   "weights": {
@@ -52,25 +52,25 @@
   "label": "Greed",
   "ts": 1789948800
  },
- "news_tone_24h": -0.703,
+ "news_tone_24h": -0.751,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.47639e-05,
-   "oi_usd": 3842803187.2334,
-   "premium": 0.0008907224
+   "funding_h": 1.90621e-05,
+   "oi_usd": 3880692149.46136,
+   "premium": 0.0003141252
   },
   "ETH": {
-   "funding_h": 2.82424e-05,
-   "oi_usd": 3173100027.1754065,
-   "premium": 0.0009921729
+   "funding_h": 1.78242e-05,
+   "oi_usd": 3190162122.5838003,
+   "premium": 0.0004158884
   },
   "SOL": {
-   "funding_h": 1.78009e-05,
-   "oi_usd": 723327940.5923998,
-   "premium": 0.0013553579
+   "funding_h": 1.81628e-05,
+   "oi_usd": 730725134.0703878,
+   "premium": 0.0001268124
   }
  },
- "items_24h": 219,
+ "items_24h": 234,
  "top_items": [
   {
    "id": "386d011b5262e646",
@@ -254,7 +254,7 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 10
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -266,7 +266,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 3
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -308,7 +308,7 @@
   },
   "Strategy (MSTR) filings": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "Coinbase filings": {
    "ok": true,
@@ -332,12 +332,11 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 20
   },
   "Reddit r/Bitcoin": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 24
   }
  }
 }
