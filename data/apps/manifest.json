@@ -1,0 +1,25 @@
+{
+ "version": 1,
+ "apps": [
+  {
+   "id": "ladder",
+   "name": "Dip ladder",
+   "icon": "↓",
+   "tagline": "Buy levels from a recent high, with break-even and target after fees."
+  },
+  {
+   "id": "simulate",
+   "name": "Simulator",
+   "icon": "▦",
+   "tagline": "Replay your dip strategy over real hourly history.",
+   "tab": "sim"
+  },
+  {
+   "id": "history",
+   "name": "History",
+   "icon": "◷",
+   "tagline": "What came before past dips, and which ones bounced.",
+   "tab": "history"
+  }
+ ]
+}
