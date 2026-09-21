@@ -1,43 +1,43 @@
 {
- "generated_at": "2026-09-21T13:39:36Z",
- "generated_ts": 1789997976,
+ "generated_at": "2026-09-21T14:14:15Z",
+ "generated_ts": 1790000055,
  "prices": {
   "BTC": {
-   "p": 84940.2,
+   "p": 85295.1,
    "o": 81164.0,
-   "h": 85427.5,
+   "h": 85836.7,
    "l": 80394.4,
-   "v": 3637.1368831
+   "v": 3818.75517631
   },
   "ETH": {
-   "p": 2723.97,
+   "p": 2720.22,
    "o": 2644.67,
    "h": 2748.87,
    "l": 2573.6,
-   "v": 60830.15781311
+   "v": 62971.19555802
   },
   "SOL": {
-   "p": 116.79,
+   "p": 118.03,
    "o": 111.15,
-   "h": 118.17,
-   "l": 107.93,
-   "v": 698911.94789047
+   "h": 118.79,
+   "l": 107.96,
+   "v": 674705.35093706
   }
  },
  "change_7d": {
-  "BTC": 0.09838829223669963,
-  "ETH": 0.09199781166764506,
-  "SOL": 0.15266949570709562
+  "BTC": 0.09334339960651959,
+  "ETH": 0.092810813189979,
+  "SOL": 0.1647093654396526
  },
  "sentiment": {
-  "score": 64.5,
+  "score": 62.9,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 74.5970730591749,
-   "news_tone": 37.78333333333333,
-   "crowding": 74.3174315,
-   "ai_calm": 55.0
+   "momentum": 73.3358499016299,
+   "news_tone": 38.28333333333334,
+   "crowding": 72.194628,
+   "ai_calm": 48.0
   },
   "weights": {
    "fng": 0.35,
@@ -52,25 +52,25 @@
   "label": "Greed",
   "ts": 1789948800
  },
- "news_tone_24h": -0.733,
+ "news_tone_24h": -0.703,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.58569e-05,
-   "oi_usd": 3819999714.0239916,
-   "premium": 0.0005813776
+   "funding_h": 1.47639e-05,
+   "oi_usd": 3842803187.2334,
+   "premium": 0.0008907224
   },
   "ETH": {
-   "funding_h": 2.7835e-05,
-   "oi_usd": 3195541591.8305626,
-   "premium": 0.0008514136
+   "funding_h": 2.82424e-05,
+   "oi_usd": 3173100027.1754065,
+   "premium": 0.0009921729
   },
   "SOL": {
-   "funding_h": 2.29312e-05,
-   "oi_usd": 720238665.6178005,
-   "premium": 0.0009411362
+   "funding_h": 1.78009e-05,
+   "oi_usd": 723327940.5923998,
+   "premium": 0.0013553579
   }
  },
- "items_24h": 184,
+ "items_24h": 219,
  "top_items": [
   {
    "id": "386d011b5262e646",
@@ -136,6 +136,20 @@
    ],
    "author": "Donald Trump",
    "score": 995
+  },
+  {
+   "id": "5590a52e2a128ca6",
+   "ts": 1789996638,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "First Lady Melania Trump Releases Details Ahead of His Excellency Xi Jinping, President of The People’s Republic of China, and Madame Peng Liyuan’s Visit to The White House",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-ahead-of-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuans-visit-to-the-white-house/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "regulation"
+   ]
   },
   {
    "id": "c5bf62fa8b670e83",
@@ -234,31 +248,17 @@
     "BTC",
     "institution"
    ]
-  },
-  {
-   "id": "1517bc72795f1a1b",
-   "ts": 1789984800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
   }
  ],
- "briefing_ts": 1789995220,
+ "briefing_ts": 1789999958,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 16
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -270,7 +270,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 28
+   "n": 29
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -308,7 +308,7 @@
   },
   "Strategy (MSTR) filings": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "Coinbase filings": {
    "ok": true,
@@ -328,11 +328,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 47
+   "n": 46
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 18
+   "n": 19
   },
   "Reddit r/Bitcoin": {
    "ok": false,
