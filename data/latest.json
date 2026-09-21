@@ -1,43 +1,43 @@
 {
- "generated_at": "2026-09-21T14:48:38Z",
- "generated_ts": 1790002118,
+ "generated_at": "2026-09-21T15:24:05Z",
+ "generated_ts": 1790004245,
  "prices": {
   "BTC": {
-   "p": 85900.0,
+   "p": 85913.8,
    "o": 81164.0,
-   "h": 85986.3,
+   "h": 86331.0,
    "l": 80580.6,
-   "v": 3902.50233131
+   "v": 4093.59175404
   },
   "ETH": {
-   "p": 2739.47,
+   "p": 2733.49,
    "o": 2644.67,
-   "h": 2748.87,
-   "l": 2581.94,
-   "v": 66315.40551383
+   "h": 2757.11,
+   "l": 2592.28,
+   "v": 67594.90047292
   },
   "SOL": {
-   "p": 118.18,
+   "p": 117.58,
    "o": 111.15,
-   "h": 118.97,
+   "h": 119.08,
    "l": 108.03,
-   "v": 705305.76189045
+   "v": 720259.59616968
   }
  },
  "change_7d": {
-  "BTC": 0.09334339960651959,
-  "ETH": 0.092810813189979,
-  "SOL": 0.1647093654396526
+  "BTC": 0.09343427652172771,
+  "ETH": 0.09406326598343787,
+  "SOL": 0.16169668339730348
  },
  "sentiment": {
-  "score": 62.5,
+  "score": 62.8,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 73.3358499016299,
-   "news_tone": 37.483333333333334,
-   "crowding": 70.0929215,
-   "ai_calm": 48.0
+   "momentum": 73.35856913043193,
+   "news_tone": 37.25,
+   "crowding": 74.5649015,
+   "ai_calm": 46.0
   },
   "weights": {
    "fng": 0.35,
@@ -52,25 +52,25 @@
   "label": "Greed",
   "ts": 1789948800
  },
- "news_tone_24h": -0.751,
+ "news_tone_24h": -0.765,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.90621e-05,
-   "oi_usd": 3880692149.46136,
-   "premium": 0.0003141252
+   "funding_h": 2.98825e-05,
+   "oi_usd": 3903714477.8919716,
+   "premium": 0.0004352679
   },
   "ETH": {
-   "funding_h": 1.78242e-05,
-   "oi_usd": 3190162122.5838003,
-   "premium": 0.0004158884
+   "funding_h": 2.49186e-05,
+   "oi_usd": 3219128949.7168074,
+   "premium": 0.000987564
   },
   "SOL": {
-   "funding_h": 1.81628e-05,
-   "oi_usd": 730725134.0703878,
-   "premium": 0.0001268124
+   "funding_h": 1.25e-05,
+   "oi_usd": 719649510.2453586,
+   "premium": 0.0
   }
  },
- "items_24h": 234,
+ "items_24h": 240,
  "top_items": [
   {
    "id": "386d011b5262e646",
@@ -136,6 +136,18 @@
    ],
    "author": "Donald Trump",
    "score": 995
+  },
+  {
+   "id": "a2be833ad825fc01",
+   "ts": 1790001667,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "G20 Energy Abundance Ministerial Concludes with Four Consensus Outcomes",
+   "url": "https://www.whitehouse.gov/releases/2026/09/g20-energy-abundance-ministerial-concludes-with-four-consensus-outcomes/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "5590a52e2a128ca6",
@@ -233,24 +245,9 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "ccfc1693099d5601",
-   "ts": 1789986600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Bitcoin Holds US$81 , 143 as Stablecoins Rule LatAm",
-   "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-monday-september-21-2026/",
-   "domain": "riotimesonline.com",
-   "tags": [
-    "crypto",
-    "BTC",
-    "institution"
-   ]
   }
  ],
- "briefing_ts": 1789999958,
+ "briefing_ts": 1790003893,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
@@ -270,7 +267,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 29
+   "n": 30
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -292,7 +289,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 6
+   "n": 5
   },
   "Bank of England": {
    "ok": true,
@@ -328,11 +325,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 46
+   "n": 45
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": true,
