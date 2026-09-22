@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-22T10:42:26Z",
- "generated_ts": 1790073746,
+ "generated_at": "2026-09-22T11:52:19Z",
+ "generated_ts": 1790077939,
  "prices": {
   "BTC": {
-   "p": 85892.6,
+   "p": 85959.9,
    "o": 86598.0,
    "h": 87446.7,
-   "l": 84124.0,
-   "v": 4177.77002565
+   "l": 84714.2,
+   "v": 4101.73504562
   },
   "ETH": {
-   "p": 2741.07,
+   "p": 2740.84,
    "o": 2775.49,
    "h": 2806.69,
-   "l": 2709.43,
-   "v": 58337.37139532
+   "l": 2711.21,
+   "v": 56222.6022314
   },
   "SOL": {
-   "p": 116.75,
+   "p": 117.23,
    "o": 118.9,
    "h": 119.97,
    "l": 115.53,
-   "v": 591257.84056896
+   "v": 569019.1778215
   }
  },
  "change_7d": {
-  "BTC": 0.12076018315010706,
-  "ETH": 0.1118608299104111,
-  "SOL": 0.16509574362535964
+  "BTC": 0.11491278664377566,
+  "ETH": 0.10413788381057489,
+  "SOL": 0.1576340037649856
  },
  "sentiment": {
-  "score": 72.2,
+  "score": 72.3,
   "label": "Greed",
   "components": {
    "fng": 78.0,
-   "momentum": 80.19004578752677,
-   "crowding": 70.0764235,
+   "momentum": 78.72819666094392,
+   "crowding": 72.89236199999999,
    "ai_calm": 50.0
   },
   "weights": {
@@ -54,22 +54,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.88238e-05,
-   "oi_usd": 3943718049.685089,
-   "premium": 0.0006646576
+   "funding_h": 1.88279e-05,
+   "oi_usd": 3976563270.21096,
+   "premium": 0.0005233228
   },
   "ETH": {
-   "funding_h": 2.36801e-05,
-   "oi_usd": 3142915434.6227975,
-   "premium": 0.000612754
+   "funding_h": 1.85513e-05,
+   "oi_usd": 3153307178.4262404,
+   "premium": 0.0006930512
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 719630970.408,
-   "premium": 0.0006850488
+   "funding_h": 2.53396e-05,
+   "oi_usd": 738664719.5074009,
+   "premium": 0.0011938262
   }
  },
- "items_24h": 643,
+ "items_24h": 691,
  "top_items": [
   {
    "id": "fa47847bb2e80c6c",
@@ -85,7 +85,7 @@
     "geo"
    ],
    "author": "Donald Trump",
-   "score": 36649
+   "score": 36843
   },
   {
    "id": "a588a600196bd2e0",
@@ -101,7 +101,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 31590
+   "score": 31804
   },
   {
    "id": "756fba2651cf9944",
@@ -118,7 +118,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 20994
+   "score": 21320
   },
   {
    "id": "e78c7f326dc995b2",
@@ -220,6 +220,32 @@
    "score": 541
   },
   {
+   "id": "24953ba72f0b2490",
+   "ts": 1790074800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Prediction : $10 , 000 Invested in VFVA Today Could Be Worth This Much by 2031",
+   "url": "https://www.aol.com/articles/prediction-10-000-invested-vfva-102000000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "0571202db953b186",
+   "ts": 1790074800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Prediction : $10 , 000 Invested in VFVA Today Could Be Worth This Much by 2031",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-10-000-invested-vfva-102000834.html",
+   "domain": "finance.yahoo.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
    "id": "28b9d3ed370a6a82",
    "ts": 1790059500,
    "source": "news",
@@ -232,46 +258,17 @@
     "crypto",
     "institution"
    ]
-  },
-  {
-   "id": "0e17a430c9e4702a",
-   "ts": 1790056800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Bitcoin retreats from eight - month high after dizzying 13 % rally",
-   "url": "https://www.moneycontrol.com/news/business/bitcoin-retreats-from-eight-month-high-after-dizzying-13-rally-14034999.html",
-   "domain": "moneycontrol.com",
-   "tags": [
-    "crypto",
-    "BTC",
-    "institution"
-   ]
-  },
-  {
-   "id": "2ef0f2a9c28d4be4",
-   "ts": 1790056800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "iShares ESG Aware MSCI EM ETF ( NASDAQ : ESGE ) Shares Up 2 . 7 % – What Next ?",
-   "url": "https://www.dailypolitical.com/2026/09/21/ishares-esg-aware-msci-em-etf-nasdaqesge-shares-up-2-7-whats-next.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790072685,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 5
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -279,7 +276,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 2
   },
   "White House": {
    "ok": true,
@@ -345,7 +342,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 23
+   "n": 24
   },
   "Reddit r/Bitcoin": {
    "ok": false,
