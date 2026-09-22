@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-09-22T07:38:41Z",
- "generated_ts": 1790062721,
+ "generated_at": "2026-09-22T08:26:23Z",
+ "generated_ts": 1790065583,
  "prices": {
   "BTC": {
-   "p": 85163.7,
+   "p": 85445.8,
    "o": 86598.0,
    "h": 87446.7,
-   "l": 81460.3,
-   "v": 5315.46628172
+   "l": 82101.5,
+   "v": 5288.03202766
   },
   "ETH": {
-   "p": 2722.92,
+   "p": 2727.56,
    "o": 2775.49,
    "h": 2806.69,
-   "l": 2645.66,
-   "v": 65112.90933859
+   "l": 2676.49,
+   "v": 64816.32656946
   },
   "SOL": {
-   "p": 116.02,
+   "p": 116.07,
    "o": 118.9,
    "h": 119.97,
-   "l": 111.38,
-   "v": 704691.41463133
+   "l": 113.32,
+   "v": 698064.83286614
   }
  },
  "change_7d": {
-  "BTC": 0.10475919177387023,
-  "ETH": 0.09836573433325833,
-  "SOL": 0.15528011898859703
+  "BTC": 0.11005959784397809,
+  "ETH": 0.10240203809292733,
+  "SOL": 0.15815157852803516
  },
  "sentiment": {
-  "score": 69.2,
+  "score": 65.9,
   "label": "Greed",
   "components": {
    "fng": 78.0,
-   "momentum": 76.18979794346755,
-   "crowding": 63.6875,
+   "momentum": 77.51489946099453,
+   "news_tone": 42.5,
+   "crowding": 66.6723605,
    "ai_calm": 45.0
   },
   "weights": {
@@ -51,25 +52,25 @@
   "label": "Extreme Greed",
   "ts": 1790035200
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.45,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3744257511.0296545,
-   "premium": 0.0006433435
+   "funding_h": 2.06777e-05,
+   "oi_usd": 3837969763.5792,
+   "premium": 0.0005978783
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3100889791.933438,
-   "premium": 0.0004479563
+   "oi_usd": 3106625288.0360365,
+   "premium": 0.0004031962
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 695134305.6606001,
-   "premium": 0.0005171076
+   "oi_usd": 694045511.3267999,
+   "premium": 0.0006030843
   }
  },
- "items_24h": 649,
+ "items_24h": 656,
  "top_items": [
   {
    "id": "fa47847bb2e80c6c",
@@ -267,7 +268,7 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 12
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -279,7 +280,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 3
   },
   "White House": {
    "ok": true,
@@ -295,8 +296,9 @@
    "n": 2
   },
   "CFTC": {
-   "ok": true,
-   "n": 2
+   "ok": false,
+   "n": 0,
+   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
   },
   "Federal Reserve": {
    "ok": true,
@@ -308,7 +310,7 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 12
+   "n": 11
   },
   "Bank of Japan": {
    "ok": true,
