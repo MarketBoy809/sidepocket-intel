@@ -1,6 +1,7 @@
 {
  "tickers": [
   "ALAB",
+  "COHR",
   "CRDO",
   "CRML",
   "DXCM",
@@ -12,10 +13,11 @@
   "MU",
   "PBF",
   "PODD",
+  "SNDK",
   "TNDM",
   "UPWK",
   "VLO",
   "VRT"
  ],
- "updated": "2026-09-22T06:44:10Z"
+ "updated": "2026-09-22T07:52:59Z"
 }
