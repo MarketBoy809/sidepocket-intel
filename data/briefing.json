@@ -1,26 +1,26 @@
 {
- "headline": "BTC above $87K, an 8-month high; $710M squeezed, $2B fresh leverage — no dip to buy",
- "summary": "There is still nothing on sale: at 20:56 UTC on 21 September BTC traded $86,971 (+7.2% on the day, 93% of the way up an $80,581-$87,447 range), ETH $2,783 (+5.2%) and SOL $119.13 (+7.2%), with BTC printing above $87,000 on Coinbase and Binance for its highest level since January. The move is mechanical rather than demand-driven: roughly $710m of positions were liquidated in 24 hours, about 96% of the most recent $300m of them shorts, while Brent fell a fourth session to $102 and the Nasdaq 100 pushed 2% through 30,000. What changed since the midday briefing is the quality of the move - traders added over $2bn of futures bets since the $82,000 break, taking notional open interest above $31bn, and the Hyperliquid futures premium on BTC has doubled to 0.058% from 0.031%, so the same tape is now carried by more borrowed money. Against that, the Fed chorus turned openly hawkish on Monday (Musalem, Kashkari and Goolsbee all pointing at more hikes with PCE at 3.7% y/y versus a 2% target) and Trump signed a sanctions law on 18 September authorising up to 100% tariffs on the five biggest buyers of Russian oil - China among them - three days before he hosts Xi. Mood is Greed (composite 62.9, Fear & Greed 70, BTC +9.5% / ETH +8.8% / SOL +14.6% on the week) with 24h news tone improved to -0.36: an extended tape, not a bounce setup.",
+ "headline": "Squeeze done: $1.01B liquidated, BTC steady $85.5K, ETFs bought $618M - no dip yet",
+ "summary": "The short squeeze has run its course and left nothing on sale: at 05:48 UTC on 22 September BTC is $85,554 (day open $86,598, 69% of the way up an $81,387-$87,447 range and 2.2% below the high), ETH $2,737.20 (57% up its range) and SOL $116.97 (65% up), with all three up 9.6-14.9% on the week. About $1.01bn of positions were liquidated in 24 hours across roughly 135,000 traders, 82% of it shorts ($844m), with $608m in BTC and $181m in ETH, and CoinDesk reports the past hour's liquidations under $11m - the forced buying is over rather than accelerating. The important change since the 01:57 UTC briefing is that the leverage warning eased slightly instead of worsening: Hyperliquid open interest fell to $3.76bn on BTC (from $3.88bn) and $3.11bn on ETH (from $3.23bn), ETH's futures premium halved to 0.044% from 0.068%, and funding is flat and cheap at 0.00125%/h on all three, while the passive bid finally showed up with $618m of US spot bitcoin ETF net inflow on 21 September taking fund assets to $105.59bn. Against that the calendar is now the risk: Fed speakers today and Powell on 23 September after the 16 September hike, Xi at the White House on 24 September with the Busan truce expiring 10 November, and a $16.6bn Deribit quarterly expiry on 25 September. Mood is Greed on the composite at 69.6 but Fear & Greed is at 78, squarely Extreme Greed - an extended tape near the top of its range, not a bounce setup.",
  "mood": "greed",
- "news_risk": 52,
+ "news_risk": 55,
  "assets": {
   "BTC": {
    "read": "rally",
-   "note": "About $86,971 at 20:56 UTC, +7.2% on the day and 93% of the way up an $80,581-$87,447 range after touching $87,000-plus on Coinbase and Binance, its highest since January; Hyperliquid funding is still cheap at 0.0018%/h (~0.043%/day) on $3.88bn of open interest, but the futures premium has doubled to 0.058% from 0.031% at midday and market-wide futures open interest is now above $31bn after ~$2bn was added since the $82,000 break - any entry here is at the top of the day's range with more leverage underneath it than this morning."
+   "note": "About $85,554, 2.2% under the $87,446.7 high and 69% of the way up the day's $81,387.1-$87,446.7 range after climbing from roughly $81,000 to a $86,980 hourly peak and drifting sideways since; Hyperliquid open interest has come off to $3.76bn from $3.88bn at 01:57 UTC with funding unchanged at 0.00125%/h and the premium steady at 0.059%, so the leverage is no longer building, but any entry here is still near the top of an eight-month high rather than into a discount, and this cycle's GDELT 24h news-tone component came back empty so the composite is running on four inputs instead of five."
   },
   "ETH": {
    "read": "rally",
-   "note": "About $2,783, the laggard again at +5.2% on the day and +8.8% on the week, 88% up its $2,608-$2,807 range; Hyperliquid funding is 0.0019%/h on $3.23bn of open interest, slightly more than this morning's $3.19bn, and its futures premium of 0.068% is the highest of the three majors, so ETH is where the fresh leverage is most concentrated relative to size."
+   "note": "About $2,737.20, the laggard at +2.7% on 24 hours versus BTC's +4.8%, and the weakest positioned of the three at 57% up its $2,645.66-$2,806.69 range; it printed its highest level since January and a single whale rotated 1,107 BTC (about $86.76m) into 34,422 ETH (about $86.5m) and staked all of it over five days, but one whale is not a flow - its Hyperliquid open interest fell to $3.11bn from $3.23bn and its futures premium halved to 0.044% from 0.068%, so the fresh leverage that was concentrated here at midnight has already been unwound."
   },
   "SOL": {
    "read": "rally",
-   "note": "About $119.13, +7.2% on the day and +14.6% on the week and the most extended of the three at 97% up its $109.00-$119.50 range; it carries the thinnest book at $719m of Hyperliquid open interest with the lowest funding (0.00125%/h), which makes it the most reflexive in both directions, and Alpenglow mainnet activation on 28 September is asset-specific event risk inside the next seven days."
+   "note": "About $116.97, +4.7% on 24 hours and the week's leader at +14.9%, sitting 2.5% below its $119.97 high and 65% up an $111.38-$119.97 range; it still carries the thinnest book at $701m of Hyperliquid open interest with funding at 0.00125%/h, which makes it the most reflexive of the three in both directions, and Alpenglow mainnet activation on 28 September - a feature-gate rollout cutting finality from about 12.8 seconds to 150 milliseconds, with Agave 4.3 recommended for general validator adoption on 21 September - is asset-specific event risk just outside the week."
   }
  },
  "drivers": [
   {
-   "title": "The squeeze took BTC through $87K - and $2bn of new leverage came with it",
-   "detail": "About $710m of positions were liquidated in 24 hours, with roughly $300m in the latest hour of which about 96% were shorts and $226m was bitcoin alone; BTC then inched above $87,000 on Coinbase and Binance, up more than 7% on the day. The part that matters for a dip-buyer is the other side of it: traders added over $2bn in futures bets since the overnight break above $82,000, pushing notional open interest above $31bn, and Wintermute's Jasper De Maere called new-all-time-high talk 'still premature', warning that leverage built this fast reverses hard if spot demand does not follow.",
+   "title": "The $1.01bn short squeeze finished, and the leverage behind it came off instead of building",
+   "detail": "Roughly $1.01bn of positions were liquidated in 24 hours across about 135,000 traders, with $844m of that - 82% - shorts, $608m in BTC and $181m in ETH, and the single largest a ~$21m BTC position on Hyperliquid; past-hour liquidations have since dropped below $11m from a $300m-plus peak, leaving BTC flat above $85,000 and dogecoin leading the rebound with a 15% move. That matters more than the direction: the Hyperliquid open interest that grew into the 01:57 UTC briefing has since fallen on all three majors and ETH's futures premium halved, so the squeeze exhausted itself rather than rolling into a second leg of borrowed positioning.",
    "impact": "mixed",
    "assets": [
     "BTC",
@@ -29,13 +29,29 @@
    ],
    "category": "crypto",
    "links": [
-    "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
-    "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building"
+    "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
+    "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
+    "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets"
    ]
   },
   {
-   "title": "Three Fed speakers pointed at more hikes on Monday",
-   "detail": "St. Louis Fed's Alberto Musalem said in an interview on 21 September that the Fed will likely need to hike further, calling the current 3.75-4.00% policy rate 'on the accommodative side' with PCE inflation at 3.7% y/y in July against a 2% target and underlying inflation about a point above target; Kashkari said inflation is still too high in all aspects of the economy and Goolsbee said it may require faster hikes. Investors are now carrying three more quarter-point hikes through April, the 2-year yield is above 4.74% at a cycle high and the 10-year real yield at 2.67% is the highest in over 20 years. The stored history flags this exact channel: 'inflation/CPI' headlines preceded a BTC dip within 6h 2.6% of the time versus 1.0% by chance (2.67x lift, n=117, held in both halves of the data).",
+   "title": "The ETF channel turned buyer: $618m in one day, plus Strategy's first purchase in three weeks",
+   "detail": "US spot bitcoin ETFs took in about $618m of net inflow on 21 September, lifting total fund assets to $105.59bn and cumulative net inflows to $55.8bn - a real change from the week to 18 September, when the whole week netted roughly $6.1m after $746.3m of midweek outflows were clawed back by a $433.03m Friday led by Fidelity's FBTC ($310.72m) and BlackRock's IBIT ($108.44m). Alongside it Strategy disclosed 950 BTC bought for $75.7m at an average $79,670, its first purchase in about three weeks, which is below today's price.",
+   "impact": "bullish",
+   "assets": [
+    "BTC"
+   ],
+   "category": "institutional",
+   "links": [
+    "https://phemex.com/news/article/bitcoin-spot-etfs-record-618-million-singleday-net-inflow-97420",
+    "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
+    "https://pluang.com/en/news-feed/etf-bitcoin-spot-aset-fidelity-fbtc-mimpin-inflow-433juta",
+    "https://www.straitstimes.com/business/bitcoin-jumps-to-over-108200-after-etf-flows-turn-positive"
+   ]
+  },
+  {
+   "title": "Fed week: speakers today, Powell tomorrow, flash PMIs Wednesday",
+   "detail": "The Fed hiked 25bp on 16 September in a unanimous 12-0 vote, its first hike since 2023, and pencilled 2026 headline and core PCE at 3.7% and 3.4% against a 2% target, with four policymakers expecting two more hikes this year; central bankers make around ten appearances this week. Today brings the Richmond Fed manufacturing index at 14:00 UTC with New York's John Williams at 14:05 UTC, Vice Chair Philip Jefferson at 14:20 UTC and Richmond's Thomas Barkin at 17:00 UTC (Kiplinger's calendar also puts Powell on 23 September), then S&P Global flash PMIs on Wednesday - euro area 08:00 UTC, US 13:45 UTC - the first full-month activity read since the hike. The stored history flags this exact channel: 'inflation/CPI' headlines preceded a BTC dip within 6h 2.6% of the time versus 1.0% by chance (2.67x lift, n=117, held in both halves of the data).",
    "impact": "bearish",
    "assets": [
     "BTC",
@@ -44,15 +60,15 @@
    ],
    "category": "macro",
    "links": [
-    "https://www.aol.com/articles/exclusive-feds-musalem-says-more-182321000.html",
-    "http://www.kitco.com/news/off-the-wire/2026-09-21/feds-kashkari-says-inflation-still-too-high-all-aspects-us-economy-fox",
-    "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---oil-extends-its-slide-before-the-trump-xi-summit---21-september-2026-21092026"
+    "https://www.cryptotimes.io/2026/09/21/crypto-week-ahead-16-6b-deribit-expiry-plasma-xpl-unlock-solana-alpenglow-flash-pmis-after-fed-hike/",
+    "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar",
+    "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead"
    ]
   },
   {
-   "title": "The falling-oil bid is borrowed, and a new sanctions law points at China days before the Xi summit",
-   "detail": "Brent fell 1.8% to $102 in a fourth straight session with Strait of Hormuz shipments at six-month highs, and that easing of the energy and yield squeeze is what lifted equities and crypto today. But on 18 September Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, which authorises tariffs of up to 100% on the five largest buyers of Russian oil and gas - China and India are named among them, with India importing about 2.08m barrels a day - so the same week that is supposed to defuse trade risk at the 24 September White House summit now has a live escalation mechanism sitting on the table.",
-   "impact": "bearish",
+   "title": "Xi has landed in Washington; the summit is Thursday with a 100% tariff law already on the books",
+   "detail": "Xi Jinping arrived in Washington for his first White House visit since 2015 and meets Trump on 24 September, with Treasury Secretary Scott Bessent and USTR Jamieson Greer having held preparatory talks with Vice Premier He Lifeng in New York on 20 September; the aim is to extend the Busan trade truce before it expires on 10 November, with soybean and Boeing purchases, rare earths and AI export controls on the table. The two-sided part for risk assets is that Trump signed the Graham sanctions act on 18 September authorising tariffs of up to 100% on the largest buyers of Russian oil, China among them - a ready-made escalation path if the summit goes badly - while a clean truce extension removes a risk premium that is currently priced in.",
+   "impact": "mixed",
    "assets": [
     "BTC",
     "ETH",
@@ -60,62 +76,72 @@
    ],
    "category": "geopolitics",
    "links": [
-    "https://americanbazaaronline.com/2026/09/21/trump-signs-russia-sanctions-bill-with-100-tariff-threat-488540/",
-    "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---oil-extends-its-slide-before-the-trump-xi-summit---21-september-2026-21092026",
-    "https://americanbazaaronline.com/2026/09/21/trump-plans-rare-personal-welcome-for-xi-jinping-in-washington-488544/"
+    "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+    "https://easternherald.com/2026/09/21/xi-jinping-trump-summit-washington-trade-taiwan/",
+    "https://americanbazaaronline.com/2026/09/21/trump-signs-russia-sanctions-bill-with-100-tariff-threat-488540/"
    ]
   },
   {
-   "title": "Balance sheets are buying, the ETF channel still is not",
-   "detail": "Strategy filed an 8-K on 21 September disclosing 950 BTC bought for $75.7m between 14 and 20 September at an average $79,670, taking it to 846,000 BTC for $63.80bn - its first purchase in about three weeks - and Strive Asset Management bought 1,355 BTC for $107.7m at an average $79,475, lifting it to 26,355 BTC. Both bought below today's price. The passive channel is far weaker: US spot bitcoin ETFs closed the week to 18 September with only about $6.1m of net inflow, as $746.3m of Tuesday-Wednesday outflows were almost exactly offset by $159.5m on Thursday and $433m on Friday.",
-   "impact": "mixed",
-   "assets": [
-    "BTC"
-   ],
-   "category": "institutional",
-   "links": [
-    "https://www.sec.gov/Archives/edgar/data/1050446/000119312526396093/0001193125-26-396093-index.htm",
-    "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
-    "https://cryptonews.com.au/news/bitcoin-etfs-dodge-second-straight-weekly-outflow-as-433m-friday-inflow-reverses-loss-134942/"
-   ]
-  },
-  {
-   "title": "Plumbing keeps building while the CLARITY Act stays dead",
-   "detail": "With federal market-structure legislation shelved after the 49-50 Senate cloture failure on 15 September, the activity has moved into infrastructure: Circle launched bitcoin-backed USDC borrowing for institutional clients, Coinbase opened IPO share allocations to US retail traders starting with Oura, the ECB confirmed on 21 September it will settle tokenised assets in central bank money via Pontes and invest part of its own funds in tokenised securities, and the CFTC's Innovation Task Force announced a Frontier Forum roundtable series on 21 September with the first session on AI and agentic finance set for 28 October. Separately the FT reported Saudi Arabia's central bank quietly exited the China-backed mBridge CBDC project. None of this is a bid for spot this week, but it is the direction of travel.",
+   "title": "Three mechanical events inside 72 hours: BitMEX closes, Deribit settles $16.6bn, XPL unlocks",
+   "detail": "BitMEX - the exchange that invented the perpetual swap - shuts down on 23 September at 04:00 UTC after an eleven-year run, with deposits credited only until then and unwithdrawn balances charged 1% a year, so open positions there have to move somewhere else this week. Then on 25 September at 08:00 UTC the Deribit quarterly expiry settles about $16.6bn notional - $14.73bn of BTC across roughly 186,000 contracts and $1.92bn of ETH across about 756,100 - with max pain cited near $72,000, far below spot, and the same day brings Plasma's XPL cliff releasing 1.76-1.81bn tokens, some 63-65% of circulating supply and about $158m, plus smaller unlocks in Humanity Protocol and others. None of these is directional on its own; together they are the week's largest source of forced, non-fundamental flow.",
    "impact": "mixed",
    "assets": [
     "BTC",
     "ETH"
    ],
+   "category": "crypto",
+   "links": [
+    "https://www.bitmex.com/blog/bitmex-closure",
+    "https://www.cryptotimes.io/2026/09/21/crypto-week-ahead-16-6b-deribit-expiry-plasma-xpl-unlock-solana-alpenglow-flash-pmis-after-fed-hike/",
+    "https://www.coindesk.com/markets/2026/07/23/bitmex-s-11-year-run-comes-to-an-end-notifies-users-it-is-ending-operations-in-by-sept-23"
+   ]
+  },
+  {
+   "title": "With CLARITY dead, the agencies are writing the rules and the money is going political",
+   "detail": "After the 49-50 Senate cloture failure killed federal market-structure legislation, SEC Chairman Paul Atkins and CFTC Chair Mike Selig have both said they are ready to ship digital-asset rules without it, building on the March 2026 SEC-CFTC joint interpretation and August's proposed 'Regulation Crypto Assets' regime; crypto super PAC Fairshake has responded by committing $30m against Sherrod Brown. Note that the market rallied 13% straight through the CLARITY defeat, so the legislative failure is not what is pricing here - the regulatory path is now an agency-rulemaking story with a multi-quarter clock, not a headline risk for this week.",
+   "impact": "mixed",
+   "assets": [
+    "BTC",
+    "ETH",
+    "SOL"
+   ],
    "category": "regulation",
    "links": [
-    "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients",
-    "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
-    "https://www.cftc.gov/PressRoom/PressReleases/9301-26",
-    "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft"
+    "https://www.theblock.co/news/regulation/2026-09-16-go-time-sec-cftc-prepare-push-crypto-rules-clarity-act-stalls-senate-415281",
+    "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
+    "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets",
+    "https://www.freemalaysiatoday.com/category/business/2026/09/22/bitcoin-retreats-from-eight-month-high-after-dizzying-13-rally"
    ]
   }
  ],
  "watch": [
   {
-   "when": "2026-09-23",
-   "what": "Global flash PMIs and the Chicago Fed National Activity Index - the first hard activity reads since the 16 September hike - inside a heavy Fed speaking calendar that has already turned hawkish."
+   "when": "2026-09-22 14:05 UTC",
+   "what": "New York Fed's John Williams, then Vice Chair Philip Jefferson at 14:20 UTC and Richmond's Thomas Barkin at 17:00 UTC, with the Richmond Fed manufacturing index at 14:00 UTC. The first read on how hard the Fed leans into further hikes after the 16 September move."
+  },
+  {
+   "when": "2026-09-23 04:00 UTC",
+   "what": "BitMEX shuts down permanently. Positions and balances still there have to be moved, and the venue that invented perps leaving the market is a small liquidity event in its own right."
+  },
+  {
+   "when": "2026-09-23 13:45 UTC",
+   "what": "US S&P Global flash PMI (euro area 08:00 UTC, UK 08:30 UTC) - the first full-month activity read since the hike - alongside Powell on Kiplinger's calendar and Fed Governor Michael Barr on the Crypto Times calendar."
   },
   {
    "when": "2026-09-24",
-   "what": "Trump hosts Xi Jinping at the White House on tariffs, rare earths and AI. Two-sided: a truce extension removes a risk premium, but the new law authorising up to 100% tariffs on buyers of Russian oil names China, so a breakdown has a ready-made escalation path."
+   "what": "Trump hosts Xi at the White House on tariffs, rare earths, soybeans and AI. Two-sided: extending the Busan truce before its 10 November expiry removes a risk premium, a breakdown meets a signed law authorising up to 100% tariffs on buyers of Russian oil."
   },
   {
    "when": "2026-09-25 08:00 UTC",
-   "what": "Deribit quarterly options expiry, about $16.6bn notional - $14.63bn BTC and $1.93bn ETH - the week's largest mechanical volatility source, landing on top of the $31bn of futures open interest built in the last day."
+   "what": "Deribit quarterly options expiry, about $16.6bn notional ($14.73bn BTC, $1.92bn ETH), max pain near $72,000. Same day: Plasma XPL cliff unlock of roughly $158m, about 63-65% of circulating supply."
   },
   {
    "when": "2026-09-28",
-   "what": "Solana's Alpenglow mainnet activation, the largest protocol change of the quarter for SOL and the main asset-specific risk among the three majors."
+   "what": "Solana's Alpenglow mainnet activation, cutting finality from about 12.8 seconds to 150 milliseconds - the largest protocol change of the quarter for SOL and the main asset-specific risk among the three majors."
   },
   {
    "when": "2026-09-30",
-   "what": "BEA Personal Income and Outlays with the August PCE print, the cleanest read on whether the Fed delivers the further hikes Musalem described. Quarter end falls the same day and tends to pull flows around."
+   "what": "BEA Personal Income and Outlays with the August PCE print, the cleanest test of the Fed's 3.7% headline / 3.4% core projections. Quarter end and the SEC fiscal year end fall the same day and tend to pull flows around."
   },
   {
    "when": "this week",
@@ -123,6 +149,14 @@
   }
  ],
  "sources": [
+  {
+   "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000 - CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000"
+  },
+  {
+   "title": "Short squeeze drives bitcoin toward $85,000 as $648 million shorts liquidated - CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets"
+  },
   {
    "title": "Live BTC price: Bitcoin hits $87,000 while Strategy's Saylor returns to BTC buying - CoinDesk",
    "url": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets"
@@ -132,78 +166,90 @@
    "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building"
   },
   {
-   "title": "Bitcoin Hitting New 33-Week High Brings Back Crypto Bull Market Claims - Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market"
+   "title": "Bitcoin spot ETFs see $618M single-day net inflow, total assets hit $105B - Phemex News",
+   "url": "https://phemex.com/news/article/bitcoin-spot-etfs-record-618-million-singleday-net-inflow-97420"
   },
   {
-   "title": "Exclusive - Fed's Musalem says more rate hikes likely needed to quell inflation - Reuters via AOL",
-   "url": "https://www.aol.com/articles/exclusive-feds-musalem-says-more-182321000.html"
+   "title": "US spot bitcoin ETFs see $433M net inflows, Fidelity FBTC leads - Pluang",
+   "url": "https://pluang.com/en/news-feed/etf-bitcoin-spot-aset-fidelity-fbtc-mimpin-inflow-433juta"
   },
   {
-   "title": "Fed's Kashkari says inflation is still too high in all aspects of US economy - Kitco",
-   "url": "http://www.kitco.com/news/off-the-wire/2026-09-21/feds-kashkari-says-inflation-still-too-high-all-aspects-us-economy-fox"
-  },
-  {
-   "title": "Fed's Goolsbee says inflation may require faster rate hikes - Hellenic Shipping News",
-   "url": "https://www.hellenicshippingnews.com/feds-goolsbee-says-inflation-may-require-faster-rate-hikes/"
-  },
-  {
-   "title": "Market Quick Take - Oil extends its slide before the Trump-Xi summit, 21 September 2026 - Saxo Bank",
-   "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---oil-extends-its-slide-before-the-trump-xi-summit---21-september-2026-21092026"
-  },
-  {
-   "title": "Trump signs Russia sanctions bill with 100% tariff threat - American Bazaar",
-   "url": "https://americanbazaaronline.com/2026/09/21/trump-signs-russia-sanctions-bill-with-100-tariff-threat-488540/"
-  },
-  {
-   "title": "Trump plans rare personal welcome for Xi Jinping in Washington - American Bazaar",
-   "url": "https://americanbazaaronline.com/2026/09/21/trump-plans-rare-personal-welcome-for-xi-jinping-in-washington-488544/"
-  },
-  {
-   "title": "Strategy Inc Form 8-K filed 21 September 2026 - SEC EDGAR",
-   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526396093/0001193125-26-396093-index.htm"
+   "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week - CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week"
   },
   {
    "title": "Michael Saylor's Strategy buys Bitcoin again as surprise rally pushes price above $85,000 - Fortune",
    "url": "https://fortune.com/2026/09/21/michael-saylors-strategy-bitcoin-surprise-rally-price-85000/"
   },
   {
-   "title": "Bitcoin ETFs dodge second straight weekly outflow as $433M Friday inflow reverses loss - Crypto News Australia",
-   "url": "https://cryptonews.com.au/news/bitcoin-etfs-dodge-second-straight-weekly-outflow-as-433m-friday-inflow-reverses-loss-134942/"
+   "title": "Bitcoin jumps above $87,000 amid positive ETF flows and rally - The Straits Times",
+   "url": "https://www.straitstimes.com/business/bitcoin-jumps-to-over-108200-after-etf-flows-turn-positive"
   },
   {
-   "title": "Circle launches bitcoin-backed USDC borrowing for institutional clients - Cointelegraph",
-   "url": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients"
+   "title": "Bitcoin retreats from eight-month high after dizzying 13% rally - Free Malaysia Today",
+   "url": "https://www.freemalaysiatoday.com/category/business/2026/09/22/bitcoin-retreats-from-eight-month-high-after-dizzying-13-rally"
   },
   {
-   "title": "Coinbase brings IPO shares to US retail traders, with Oura up first - Decrypt",
-   "url": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura"
+   "title": "Crypto Week Ahead: $16.6B Deribit expiry, Plasma XPL unlock, Solana Alpenglow & flash PMIs after Fed hike - The Crypto Times",
+   "url": "https://www.cryptotimes.io/2026/09/21/crypto-week-ahead-16-6b-deribit-expiry-plasma-xpl-unlock-solana-alpenglow-flash-pmis-after-fed-hike/"
   },
   {
-   "title": "CFTC Innovation Task Force to host Frontier Forum series on innovative financial technologies - CFTC",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9301-26"
+   "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead - CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead"
   },
   {
-   "title": "Europe's central bank prepares to invest own funds in tokenized securities - Decrypt",
-   "url": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities"
+   "title": "What to look out for in economic data this week (September 21-25) - Kiplinger",
+   "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
   },
   {
-   "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes - European Central Bank",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html"
+   "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large - CNBC",
+   "url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html"
   },
   {
-   "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT - Cointelegraph",
-   "url": "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft"
+   "title": "Xi arrives in Washington for Trump summit as tariff truce clock runs down - Eastern Herald",
+   "url": "https://easternherald.com/2026/09/21/xi-jinping-trump-summit-washington-trade-taiwan/"
   },
   {
-   "title": "Crypto Biz: Coinbase in focus after CLARITY Act setback - Cointelegraph",
-   "url": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks"
+   "title": "Trump signs Russia sanctions bill with 100% tariff threat - American Bazaar",
+   "url": "https://americanbazaaronline.com/2026/09/21/trump-signs-russia-sanctions-bill-with-100-tariff-threat-488540/"
   },
   {
-   "title": "Trump-Xi summit and the week's crypto catalysts - KuCoin",
-   "url": "https://www.kucoin.com/news/insight/BTC/6aae174962cf37000743177b"
+   "title": "BitMEX exchange to sunset on 23 September at 04:00 UTC - BitMEX",
+   "url": "https://www.bitmex.com/blog/bitmex-closure"
+  },
+  {
+   "title": "BitMEX, the exchange that invented perps, is shutting down - CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/07/23/bitmex-s-11-year-run-comes-to-an-end-notifies-users-it-is-ending-operations-in-by-sept-23"
+  },
+  {
+   "title": "'Go time': SEC, CFTC prepare to push crypto rules as CLARITY Act stalls in Senate - The Block",
+   "url": "https://www.theblock.co/news/regulation/2026-09-16-go-time-sec-cftc-prepare-push-crypto-rules-clarity-act-stalls-senate-415281"
+  },
+  {
+   "title": "SEC proposes new Regulation Crypto Assets - US Securities and Exchange Commission",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets"
+  },
+  {
+   "title": "After CLARITY Act fails, crypto super PAC Fairshake targets Sherrod Brown with $30 million - Decrypt",
+   "url": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million"
+  },
+  {
+   "title": "Ethereum eyes $3,000 as mystery whale rotates $87 million out of bitcoin - Benzinga",
+   "url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61907952/ethereum-eyes-3000-as-mystery-whale-rotates-87-million-out-of-bitcoin"
+  },
+  {
+   "title": "Ether hits highest since January: what to watch to see if the gain holds - InvestingLive",
+   "url": "https://investinglive.com/cryptocurrency/ether-hits-highest-since-january-what-to-watch-to-see-if-the-gain-holds-ps-one-whale-is-not-a-trend/"
+  },
+  {
+   "title": "Philip R. Lane: Interview with Le Temps (conducted 15 September, published 22 September 2026) - European Central Bank",
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html"
+  },
+  {
+   "title": "Crypto Update: Senate kills CLARITY Act 49 to 50, but Bitcoin rallies - openPR",
+   "url": "https://www.openpr.com/news/4638434/crypto-update-senate-kills-clarity-act-49-to-50-but-bitcoin"
   }
  ],
- "generated_ts": 1790042227,
- "generated_at": "2026-09-22T01:57:07Z"
+ "generated_ts": 1790056995,
+ "generated_at": "2026-09-22T06:03:15Z"
 }

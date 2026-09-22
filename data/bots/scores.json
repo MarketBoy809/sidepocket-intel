@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-22T05:54:22Z",
- "generated_ts": 1790056462,
+ "generated_at": "2026-09-22T05:59:31Z",
+ "generated_ts": 1790056771,
  "bots": {
   "patent": {
    "posts": 5,
@@ -260,9 +260,9 @@
    "total_r": null,
    "planned_rr": 1.6,
    "never_fired": 0.0,
-   "open_pnl": 30.58,
+   "open_pnl": 5.35,
    "realized_pnl": 0.0,
-   "total_pnl": 30.58,
+   "total_pnl": 5.35,
    "live_bets": 3,
    "stake": 1000.0,
    "by_class": {},
@@ -350,9 +350,9 @@
   "silent_bots": [],
   "passengers": [],
   "carriers": [],
-  "open_pnl": 37.58,
+  "open_pnl": 12.35,
   "realized_pnl": 0.0,
-  "total_pnl": 37.58,
+  "total_pnl": 12.35,
   "stake": 1000.0
  }
 }
