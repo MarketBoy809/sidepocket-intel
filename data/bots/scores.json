@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-22T06:44:10Z",
- "generated_ts": 1790059450,
+ "generated_at": "2026-09-22T06:52:18Z",
+ "generated_ts": 1790059938,
  "bots": {
   "patent": {
    "posts": 6,
@@ -63,10 +63,10 @@
    "sample_warning": true
   },
   "grid": {
-   "posts": 5,
+   "posts": 6,
    "replies_made": 4,
    "replies_received": 3,
-   "provoked": 0.6,
+   "provoked": 0.5,
    "predictions": 0,
    "open": 0,
    "armed": 0,
@@ -247,8 +247,8 @@
    "replies_made": 5,
    "replies_received": 3,
    "provoked": 0.38,
-   "predictions": 6,
-   "open": 6,
+   "predictions": 5,
+   "open": 5,
    "armed": 0,
    "expired": 0,
    "resolved": 0,
@@ -258,7 +258,7 @@
    "brier": null,
    "avg_r": null,
    "total_r": null,
-   "planned_rr": 1.85,
+   "planned_rr": 1.6,
    "never_fired": 0.0,
    "open_pnl": 5.35,
    "realized_pnl": 0.0,
@@ -340,13 +340,13 @@
   "avg_r": null,
   "total_r": null,
   "by_class": {},
-  "open_calls": 12,
+  "open_calls": 11,
   "armed": 0,
   "expired": 0,
   "tickers_covered": 6,
   "contested_tickers": 3,
   "agreement_index": 0.5,
-  "posts": 74,
+  "posts": 75,
   "silent_bots": [],
   "passengers": [
    "macro"
