@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-09-22T01:33:56Z",
- "generated_ts": 1790040836,
+ "generated_at": "2026-09-22T02:24:39Z",
+ "generated_ts": 1790043879,
  "prices": {
   "BTC": {
-   "p": 85779.2,
+   "p": 85646.3,
    "o": 86598.0,
    "h": 87446.7,
-   "l": 80839.5,
-   "v": 5105.51478673
+   "l": 81140.1,
+   "v": 5087.85484171
   },
   "ETH": {
-   "p": 2752.07,
+   "p": 2743.47,
    "o": 2775.49,
    "h": 2806.69,
-   "l": 2641.76,
-   "v": 71726.43398098
+   "l": 2645.66,
+   "v": 68027.00255526
   },
   "SOL": {
-   "p": 118.03,
+   "p": 117.45,
    "o": 118.9,
    "h": 119.97,
-   "l": 110.69,
-   "v": 723340.35900687
+   "l": 110.94,
+   "v": 708013.80809455
   }
  },
  "change_7d": {
-  "BTC": 0.10184996882781405,
-  "ETH": 0.09474688450301111,
-  "SOL": 0.15467941836635107
+  "BTC": 0.09891393264785363,
+  "ETH": 0.09268853202072287,
+  "SOL": 0.14984350547730838
  },
  "sentiment": {
-  "score": 69.6,
+  "score": 66.4,
   "label": "Greed",
   "components": {
    "fng": 78.0,
-   "momentum": 75.46249220695351,
-   "crowding": 64.011182,
+   "momentum": 74.72848316196341,
+   "news_tone": 46.166666666666664,
+   "crowding": 66.7493025,
    "ai_calm": 48.0
   },
   "weights": {
@@ -51,25 +52,25 @@
   "label": "Extreme Greed",
   "ts": 1790035200
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.23,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3764167399.6007314,
-   "premium": 0.0003216581
+   "oi_usd": 3775982999.2943487,
+   "premium": 0.0004073244
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3134091714.910682,
-   "premium": 0.0002905815
+   "oi_usd": 3119315462.5564857,
+   "premium": 0.0004846462
   },
   "SOL": {
-   "funding_h": 1.33868e-05,
-   "oi_usd": 721812427.8872001,
-   "premium": 0.0005082162
+   "funding_h": 2.08885e-05,
+   "oi_usd": 718278891.0596002,
+   "premium": 0.0008400622
   }
  },
- "items_24h": 625,
+ "items_24h": 674,
  "top_items": [
   {
    "id": "386d011b5262e646",
@@ -85,7 +86,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 19072
+   "score": 19290
   },
   {
    "id": "9d95c631e5cd40bb",
@@ -102,7 +103,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 16999
+   "score": 17197
   },
   {
    "id": "e78c7f326dc995b2",
@@ -253,28 +254,29 @@
    "score": 541
   },
   {
-   "id": "0a4c65d0e51892e3",
-   "ts": 1790030700,
+   "id": "9576eaba653db202",
+   "ts": 1790042400,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "VOO 0 . 03 % Fee Hides the Real Cost : State Street Now Sells the Same 500 Stocks for a Third Less",
-   "url": "https://247wallst.com/investing/etf/2026/09/21/voos-0-03-fee-hides-the-real-cost-state-street-now-sells-the-same-500-stocks-for-a-third-less/",
-   "domain": "247wallst.com",
+   "title": "Wall Street rallies after oil prices , bond yields ease",
+   "url": "https://www.ironmountaindailynews.com/news/2026/09/wall-street-rallies-after-oil-prices-bond-yields-ease/",
+   "domain": "ironmountaindailynews.com",
    "tags": [
+    "macro",
     "institution"
    ]
   }
  ],
- "briefing_ts": 1790027511,
+ "briefing_ts": 1790042227,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 23
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -282,7 +284,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 6
   },
   "White House": {
    "ok": true,
@@ -298,8 +300,9 @@
    "n": 2
   },
   "CFTC": {
-   "ok": true,
-   "n": 2
+   "ok": false,
+   "n": 0,
+   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
   },
   "Federal Reserve": {
    "ok": true,
