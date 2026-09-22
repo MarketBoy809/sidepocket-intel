@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-09-22T16:27:46Z",
- "generated_ts": 1790094466,
+ "generated_at": "2026-09-22T17:36:20Z",
+ "generated_ts": 1790098580,
  "prices": {
   "BTC": {
-   "p": 86090.5,
+   "p": 86584.8,
    "o": 86598.0,
    "h": 87446.7,
    "l": 85100.0,
-   "v": 3648.55561394
+   "v": 3692.91036371
   },
   "ETH": {
-   "p": 2730.72,
+   "p": 2756.2,
    "o": 2775.49,
    "h": 2806.69,
    "l": 2715.34,
-   "v": 47134.69492322
+   "v": 47060.24930874
   },
   "SOL": {
-   "p": 116.8,
+   "p": 117.98,
    "o": 118.9,
    "h": 119.97,
    "l": 115.53,
-   "v": 509739.00778185
+   "v": 502951.10245482
   }
  },
  "change_7d": {
-  "BTC": 0.13014540170682204,
-  "ETH": 0.13234153185869926,
-  "SOL": 0.18173580346355228
+  "BTC": 0.13226268364194682,
+  "ETH": 0.13415369617659692,
+  "SOL": 0.18598546042003217
  },
  "sentiment": {
-  "score": 72.5,
+  "score": 72.6,
   "label": "Greed",
   "components": {
    "fng": 78.0,
-   "momentum": 82.53635042670551,
+   "momentum": 83.0656709104867,
    "crowding": 63.6875,
    "ai_calm": 55.0
   },
@@ -55,39 +55,22 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 4013355199.961609,
-   "premium": 0.000603977
+   "oi_usd": 4007227226.71656,
+   "premium": 0.0004169318
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3128533147.9905024,
-   "premium": 0.0011351153
+   "oi_usd": 3179915014.1079426,
+   "premium": 0.0006893049
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 718242566.7536005,
-   "premium": 0.0006848729
+   "oi_usd": 727962125.4355997,
+   "premium": 0.0004238366
   }
  },
- "items_24h": 647,
+ "items_24h": 632,
  "top_items": [
-  {
-   "id": "e78c7f326dc995b2",
-   "ts": 1790011085,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "If Senate Republicans don't TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators,",
-   "url": "https://truthsocial.com/@realDonaldTrump/117310166479352147",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 40496
-  },
   {
    "id": "978190d32cc15068",
    "ts": 1790014107,
@@ -102,7 +85,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 20401
+   "score": 20653
   },
   {
    "id": "b5b5f759b2c31e4f",
@@ -118,7 +101,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 13684
+   "score": 13915
   },
   {
    "id": "094d2ecb7edaef27",
@@ -134,7 +117,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 11686
+   "score": 11856
   },
   {
    "id": "a00973f278a8ce41",
@@ -150,7 +133,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 11241
+   "score": 11396
   },
   {
    "id": "1e50e56fc5c9fe27",
@@ -169,6 +152,45 @@
    ],
    "author": "Donald Trump",
    "score": 1870
+  },
+  {
+   "id": "c79a0ab17c775147",
+   "ts": 1790094600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Retirees Are Dropping Traditional Bonds for This 12 %- Yielding Income Fund",
+   "url": "https://www.aol.com/articles/retirees-dropping-traditional-bonds-12-123422000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "0c94e0bfd18ebf29",
+   "ts": 1790094600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "VNQ vs . SGOV : Why Own a REIT ETF When T - Bills Pay Almost as Much With Zero Rate Risk ?",
+   "url": "https://www.aol.com/articles/vnq-vs-sgov-why-own-154633000.html",
+   "domain": "aol.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "9cd9dee315368564",
+   "ts": 1790092096,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "AGREEMENT BETWEEN THE GOVERNMENT OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE KINGDOM OF DENMARK TOGETHER WITH THE GOVERNMENT OF GREENLAND",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/agreement-between-the-government-of-the-united-states-of-america-and-the-government-of-the-kingdom-of-denmark-together-with-the-government-of-greenland-to-amend-and-supplement-the-agreement-of-27-apri/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "d1cb4af25a17216c",
@@ -222,33 +244,6 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "0571202db953b186",
-   "ts": 1790074800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Prediction : $10 , 000 Invested in VFVA Today Could Be Worth This Much by 2031",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-10-000-invested-vfva-102000834.html",
-   "domain": "finance.yahoo.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "28b9d3ed370a6a82",
-   "ts": 1790059500,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "iShares Russell 2500 ETF ( BATS : SMMD ) Stock Price Up 0 . 6 % – Still a Buy ?",
-   "url": "https://www.themarketsdaily.com/2026/09/22/ishares-russell-2500-etf-batssmmd-stock-price-up-0-6-still-a-buy.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790087372,
@@ -267,11 +262,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 3
+   "n": 5
   },
   "White House": {
    "ok": true,
-   "n": 28
+   "n": 29
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
