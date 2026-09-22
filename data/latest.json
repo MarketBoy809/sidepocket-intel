@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-22T13:21:10Z",
- "generated_ts": 1790083270,
+ "generated_at": "2026-09-22T14:09:06Z",
+ "generated_ts": 1790086146,
  "prices": {
   "BTC": {
-   "p": 85989.8,
+   "p": 86189.7,
    "o": 86598.0,
    "h": 87446.7,
-   "l": 84771.3,
-   "v": 3908.05505306
+   "l": 85100.0,
+   "v": 3778.79947423
   },
   "ETH": {
-   "p": 2751.02,
+   "p": 2750.63,
    "o": 2775.49,
    "h": 2806.69,
-   "l": 2711.21,
-   "v": 55483.2612977
+   "l": 2715.18,
+   "v": 54054.86000874
   },
   "SOL": {
-   "p": 117.43,
+   "p": 117.47,
    "o": 118.9,
    "h": 119.97,
    "l": 115.53,
-   "v": 541459.16031584
+   "v": 526080.07259455
   }
  },
  "change_7d": {
-  "BTC": 0.11832780513274954,
-  "ETH": 0.1120938715560791,
-  "SOL": 0.16333201267828854
+  "BTC": 0.12743380814967892,
+  "ETH": 0.124583586477417,
+  "SOL": 0.17359729407083171
  },
  "sentiment": {
-  "score": 72.8,
+  "score": 71.5,
   "label": "Greed",
   "components": {
    "fng": 78.0,
-   "momentum": 79.58195128318738,
-   "crowding": 74.5497175,
+   "momentum": 81.85845203741974,
+   "crowding": 63.8800375,
    "ai_calm": 50.0
   },
   "weights": {
@@ -55,21 +55,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3976485664.31424,
-   "premium": 0.000590607
+   "oi_usd": 4022822586.5781603,
+   "premium": 0.0006844865
   },
   "ETH": {
-   "funding_h": 2.34594e-05,
-   "oi_usd": 3175569186.535021,
-   "premium": 0.0005087394
+   "funding_h": 1.25e-05,
+   "oi_usd": 3183175609.6231217,
+   "premium": 0.0005450978
   },
   "SOL": {
-   "funding_h": 3.13001e-05,
-   "oi_usd": 744847092.5920002,
-   "premium": 0.0006853426
+   "funding_h": 1.30275e-05,
+   "oi_usd": 746465792.6627996,
+   "premium": 0.0007662183
   }
  },
- "items_24h": 628,
+ "items_24h": 624,
  "top_items": [
   {
    "id": "e78c7f326dc995b2",
@@ -86,7 +86,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 39477
+   "score": 39686
   },
   {
    "id": "756fba2651cf9944",
@@ -103,7 +103,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 21674
+   "score": 21807
   },
   {
    "id": "978190d32cc15068",
@@ -119,7 +119,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 19460
+   "score": 19661
   },
   {
    "id": "1e50e56fc5c9fe27",
@@ -265,7 +265,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -289,8 +289,9 @@
    "n": 2
   },
   "CFTC": {
-   "ok": true,
-   "n": 2
+   "ok": false,
+   "n": 0,
+   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
   },
   "Federal Reserve": {
    "ok": true,
@@ -334,7 +335,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 43
+   "n": 42
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
