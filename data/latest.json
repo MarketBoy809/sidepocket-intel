@@ -1,40 +1,41 @@
 {
- "generated_at": "2026-09-22T03:30:04Z",
- "generated_ts": 1790047804,
+ "generated_at": "2026-09-22T04:35:33Z",
+ "generated_ts": 1790051733,
  "prices": {
   "BTC": {
-   "p": 85571.5,
+   "p": 85468.2,
    "o": 86598.0,
    "h": 87446.7,
-   "l": 81210.2,
-   "v": 5139.22976675
+   "l": 81283.6,
+   "v": 5214.35143651
   },
   "ETH": {
-   "p": 2738.21,
+   "p": 2729.36,
    "o": 2775.49,
    "h": 2806.69,
    "l": 2645.66,
-   "v": 68080.63007077
+   "v": 67607.11096576
   },
   "SOL": {
-   "p": 116.95,
+   "p": 116.44,
    "o": 118.9,
    "h": 119.97,
-   "l": 111.02,
-   "v": 704698.64065556
+   "l": 111.22,
+   "v": 707812.02248705
   }
  },
  "change_7d": {
-  "BTC": 0.10031481586096741,
-  "ETH": 0.09058370592146385,
-  "SOL": 0.1466548950362959
+  "BTC": 0.10310954165524928,
+  "ETH": 0.09630895721336473,
+  "SOL": 0.15008863502068145
  },
  "sentiment": {
-  "score": 69.5,
+  "score": 66.0,
   "label": "Greed",
   "components": {
    "fng": 78.0,
-   "momentum": 75.07870396524186,
+   "momentum": 75.77738541381233,
+   "news_tone": 45.300000000000004,
    "crowding": 63.6875,
    "ai_calm": 48.0
   },
@@ -51,25 +52,25 @@
   "label": "Extreme Greed",
   "ts": 1790035200
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.282,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3746456122.34096,
-   "premium": 0.0002745263
+   "oi_usd": 3785612519.9639997,
+   "premium": 0.0005778886
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3108869219.9914794,
-   "premium": 0.000109525
+   "oi_usd": 3090901268.8180213,
+   "premium": 0.0002747102
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 706273415.4302,
-   "premium": 5.55681e-05
+   "oi_usd": 702599375.0475999,
+   "premium": 0.0005631655
   }
  },
- "items_24h": 674,
+ "items_24h": 647,
  "top_items": [
   {
    "id": "fa47847bb2e80c6c",
@@ -85,7 +86,7 @@
     "geo"
    ],
    "author": "Donald Trump",
-   "score": 35723
+   "score": 35971
   },
   {
    "id": "a588a600196bd2e0",
@@ -101,7 +102,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 30611
+   "score": 30882
   },
   {
    "id": "386d011b5262e646",
@@ -117,7 +118,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 19498
+   "score": 19654
   },
   {
    "id": "9d95c631e5cd40bb",
@@ -134,7 +135,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 17371
+   "score": 17516
   },
   {
    "id": "e78c7f326dc995b2",
@@ -253,16 +254,17 @@
    "score": 541
   },
   {
-   "id": "9576eaba653db202",
-   "ts": 1790042400,
+   "id": "b0efebaf2b06e259",
+   "ts": 1790048700,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Wall Street rallies after oil prices , bond yields ease",
-   "url": "https://www.ironmountaindailynews.com/news/2026/09/wall-street-rallies-after-oil-prices-bond-yields-ease/",
-   "domain": "ironmountaindailynews.com",
+   "title": "Bitcoin retreats from eight - month high after dizzying 13 % rally",
+   "url": "https://www.freemalaysiatoday.com/category/business/2026/09/22/bitcoin-retreats-from-eight-month-high-after-dizzying-13-rally",
+   "domain": "freemalaysiatoday.com",
    "tags": [
-    "macro",
+    "crypto",
+    "BTC",
     "institution"
    ]
   }
@@ -271,11 +273,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 17
+   "n": 19
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -283,7 +285,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 4
   },
   "White House": {
    "ok": true,
@@ -320,8 +322,9 @@
    "n": 8
   },
   "BIS": {
-   "ok": true,
-   "n": 0
+   "ok": false,
+   "n": 0,
+   "err": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a"
   },
   "Strategy (MSTR) filings": {
    "ok": true,
