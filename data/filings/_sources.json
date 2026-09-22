@@ -1,97 +1,12 @@
 {
- "ticker": "EOSE",
- "cik": "0001805077",
- "updated": "2026-09-22T06:17:57Z",
- "updated_ts": 1790057877,
- "filings": [
+ "sources": [
   {
-   "form": "8-K/A",
-   "date": "2026-09-16",
-   "url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026062265/eose-20260910.htm"
-  },
-  {
-   "form": "8-K",
-   "date": "2026-09-14",
-   "url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026061689/eose-20260910.htm"
-  },
-  {
-   "form": "S-3ASR",
-   "date": "2026-08-31",
-   "url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026059608/eos-sx3asr.htm"
-  },
-  {
-   "form": "8-K",
-   "date": "2026-08-25",
-   "url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026058890/eose-20260824.htm"
-  },
-  {
-   "form": "8-K",
-   "date": "2026-08-06",
-   "url": "https://www.sec.gov/Archives/edgar/data/1805077/000095010326012019/dp251424_8k.htm"
-  },
-  {
-   "form": "10-Q",
-   "date": "2026-08-05",
-   "url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026052906/eose-20260630.htm"
-  },
-  {
-   "form": "8-K",
-   "date": "2026-08-05",
-   "url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026052903/eose-20260805.htm"
-  }
- ],
- "insiders": {
-  "form4_count": 21,
-  "form144_count": 7,
-  "recent_dates": [
-   "2026-09-16",
-   "2026-09-15",
-   "2026-09-09",
-   "2026-08-26",
-   "2026-08-06",
-   "2026-07-28"
-  ],
-  "note": "Form 4 is a completed insider transaction; Form 144 is notice of an intended sale. Neither is the company issuing new stock."
- },
- "read": [
-  {
-   "form": "8-K/A",
-   "date": "2026-09-16",
-   "url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026062265/eose-20260910.htm",
-   "chars": 2378,
-   "excerpts": [
-    {
-     "id": "EOSE-8-KA-event-1",
-     "topic": "event",
-     "matched": "8-K/A",
-     "form": "8-K/A",
-     "date": "2026-09-16",
-     "text": "Item 5.02 of the Initial Form 8-K. The Initial Form 8-K reported, among other things, that Nathan Kroeker, the Company's then Chief Commercial Officer, will depart from the Company on October 20, 2026. This Amendment is being filed solely for the purpose of amending the disclosure in the Initial Form 8-K to include a description of Mr. Kroeker's separation agreement. This Amendment does not otherwise modify or update any other disclosures in the Initial Form 8-K. Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. In connection with the transition of his role and pending separation, on September 10, 2026, the Company entered into a separation agreement with Mr. Kroeker (the \"Separation Agreement\"). Pursuant to the terms of the Separation Agreement, in exchange for his execution and non-revocation of a release of claims and continued compliance with the terms of his agreement (including his restrictive covenants), Mr. Kroeker will receive the following benefits in accordance with the terms of his current employment agreement and equity award agreements: (i) twelve-months of base salary continuation at his current annual base salary of $470,000; (ii) a pro-rated annual bonus for 2026, subject to the actual achievement of the applicable performance conditions and paid at the same time as the 2026 annual will be paid to other executives of the Company; (iii) acceleration of each of his outstanding and unvested restricted stock units; and (iv) pro-rata acceleration of each of his outstanding and unvested performance stock units, subject to actual achievement of the applicable performance conditions. The foregoing description of the Separation Agreement contained herein do"
-    }
-   ]
-  },
-  {
-   "form": "8-K",
-   "date": "2026-09-14",
-   "url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026061689/eose-20260910.htm",
-   "chars": 8510,
-   "excerpts": [
-    {
-     "id": "EOSE-8-K-event-1",
-     "topic": "event",
-     "matched": "8-K",
-     "form": "8-K",
-     "date": "2026-09-14",
-     "text": "Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant. As previously disclosed, on November 26, 2024, (i) Eos Energy Enterprises, Inc. (the \"Company\"), the U.S. Department of Energy (the \"DOE\") and the Federal Financing Bank (the \"FFB\") entered into a Note Purchase Agreement (the \"FFB Note Purchase Agreement\") pursuant to which, among other things, the DOE provided a guarantee (the \"DOE Guarantee\") of the Company's (x) obligations to repay the term loan borrowings (such loans, collectively, the \"Guaranteed Loan\") provided by the FFB to the Company and evidenced by a future advance promissory note (the \"FFB Promissory Note\") and (y) the Company's other obligations owing to FFB in respect of the Guaranteed Loan and (ii) in connection and concurrently therewith, the Company entered into a Loan Guarantee Agreement (the \"DOE Loan Guarantee Agreement,\" and together with the FFB Note Purchase Agreement, the FFB Promissory Note, the DOE Guarantee and the other documents executed and delivered in connection therewith, the \"DOE Transaction Documents\") with the DOE. The FFB Promissory Note provides for the extension of the Guaranteed Loan in an aggregate maximum principal amount of up to $277,497,000 and an aggregate maximum amount of capitalized interest of up to $25,953,000. On December 19, 2024, the FFB funded an initial advance of $68,279,365 under the FFB Promissory Note. On July 1, 2025, the FFB funded a second advance of $22,665,635 under the FFB Promissory Note. On August 24, 2026, the Company delivered to the DOE and the FFB a third advance request, and on September 10, 2026, the FFB funded $87,018,601 under the FFB Promissory Note (the \"third loan advance\"). Item 7.01 Regulation FD Disclosure On Septem"
-    }
-   ]
-  },
-  {
-   "form": "WEB-sec",
-   "date": "2026-09-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026052906/eose-20260630.htm",
+   "host": "www.sec.gov",
+   "ticker": "EOSE",
+   "why": "test",
+   "added": "2026-09-22T06:24:21Z",
    "chars": 227103,
-   "requested_because": "test",
    "excerpts": [
     {
      "id": "EOSE-WEBsec-covenants-1",
