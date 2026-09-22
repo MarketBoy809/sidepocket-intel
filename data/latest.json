@@ -1,41 +1,40 @@
 {
- "generated_at": "2026-09-22T04:35:33Z",
- "generated_ts": 1790051733,
+ "generated_at": "2026-09-22T05:48:19Z",
+ "generated_ts": 1790056099,
  "prices": {
   "BTC": {
-   "p": 85468.2,
+   "p": 85554.0,
    "o": 86598.0,
    "h": 87446.7,
-   "l": 81283.6,
-   "v": 5214.35143651
+   "l": 81387.1,
+   "v": 5294.47604906
   },
   "ETH": {
-   "p": 2729.36,
+   "p": 2737.2,
    "o": 2775.49,
    "h": 2806.69,
    "l": 2645.66,
-   "v": 67607.11096576
+   "v": 68863.78128036
   },
   "SOL": {
-   "p": 116.44,
+   "p": 116.97,
    "o": 118.9,
    "h": 119.97,
-   "l": 111.22,
-   "v": 707812.02248705
+   "l": 111.38,
+   "v": 706609.46308865
   }
  },
  "change_7d": {
-  "BTC": 0.10310954165524928,
-  "ETH": 0.09630895721336473,
-  "SOL": 0.15008863502068145
+  "BTC": 0.10176710478382671,
+  "ETH": 0.09579359502058034,
+  "SOL": 0.14943209876543206
  },
  "sentiment": {
-  "score": 66.0,
+  "score": 69.6,
   "label": "Greed",
   "components": {
    "fng": 78.0,
-   "momentum": 75.77738541381233,
-   "news_tone": 45.300000000000004,
+   "momentum": 75.44177619595668,
    "crowding": 63.6875,
    "ai_calm": 48.0
   },
@@ -52,25 +51,25 @@
   "label": "Extreme Greed",
   "ts": 1790035200
  },
- "news_tone_24h": -0.282,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3785612519.9639997,
-   "premium": 0.0005778886
+   "oi_usd": 3759819471.75,
+   "premium": 0.0005866405
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3090901268.8180213,
-   "premium": 0.0002747102
+   "oi_usd": 3109254620.9460974,
+   "premium": 0.0004382921
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 702599375.0475999,
-   "premium": 0.0005631655
+   "oi_usd": 700527600.9123993,
+   "premium": 0.0005555318
   }
  },
- "items_24h": 647,
+ "items_24h": 683,
  "top_items": [
   {
    "id": "fa47847bb2e80c6c",
@@ -86,7 +85,7 @@
     "geo"
    ],
    "author": "Donald Trump",
-   "score": 35971
+   "score": 36055
   },
   {
    "id": "a588a600196bd2e0",
@@ -102,40 +101,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 30882
-  },
-  {
-   "id": "386d011b5262e646",
-   "ts": 1789966743,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Trump bans CNN, MSNOW, and Politico from White House: https://justthenews.com/politics-policy/all-things-trump/trump-bans-cnn-msnow-and-politico-white-house",
-   "url": "https://truthsocial.com/@realDonaldTrump/117307260504631667",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 19654
-  },
-  {
-   "id": "9d95c631e5cd40bb",
-   "ts": 1789966661,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Prosecutors zero in on John Brennan's role in Trump-Russia collusion narrative in conspiracy case: https://justthenews.com/government/courts-law/prosecutors-zero-john-brennans-role-trump-russia-collusion-narrative",
-   "url": "https://truthsocial.com/@realDonaldTrump/117307255154500060",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 17516
+   "score": 30964
   },
   {
    "id": "e78c7f326dc995b2",
@@ -254,6 +220,20 @@
    "score": 541
   },
   {
+   "id": "22a2822b0519b214",
+   "ts": 1790053200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Philip R. Lane: Interview with Le Temps",
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
    "id": "b0efebaf2b06e259",
    "ts": 1790048700,
    "source": "news",
@@ -267,17 +247,31 @@
     "BTC",
     "institution"
    ]
+  },
+  {
+   "id": "9576eaba653db202",
+   "ts": 1790042400,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Wall Street rallies after oil prices , bond yields ease",
+   "url": "https://www.ironmountaindailynews.com/news/2026/09/wall-street-rallies-after-oil-prices-bond-yields-ease/",
+   "domain": "ironmountaindailynews.com",
+   "tags": [
+    "macro",
+    "institution"
+   ]
   }
  ],
  "briefing_ts": 1790042227,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 19
+   "n": 13
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -285,7 +279,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 4
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -311,7 +305,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "Bank of England": {
    "ok": true,
@@ -322,9 +316,8 @@
    "n": 8
   },
   "BIS": {
-   "ok": false,
-   "n": 0,
-   "err": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a"
+   "ok": true,
+   "n": 0
   },
   "Strategy (MSTR) filings": {
    "ok": true,
