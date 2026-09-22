@@ -2,12 +2,14 @@
  "tickers": [
   "ALAB",
   "CRDO",
+  "CRML",
   "DXCM",
   "EOSE",
   "FVRR",
   "HIMS",
   "MP",
   "MRVL",
+  "MU",
   "PBF",
   "PODD",
   "TNDM",
@@ -15,5 +17,5 @@
   "VLO",
   "VRT"
  ],
- "updated": "2026-09-22T06:33:39Z"
+ "updated": "2026-09-22T06:44:10Z"
 }
