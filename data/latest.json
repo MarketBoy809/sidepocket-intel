@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-09-22T15:19:01Z",
- "generated_ts": 1790090341,
+ "generated_at": "2026-09-22T16:27:46Z",
+ "generated_ts": 1790094466,
  "prices": {
   "BTC": {
-   "p": 86136.5,
+   "p": 86090.5,
    "o": 86598.0,
    "h": 87446.7,
    "l": 85100.0,
-   "v": 3652.83005573
+   "v": 3648.55561394
   },
   "ETH": {
-   "p": 2738.19,
+   "p": 2730.72,
    "o": 2775.49,
    "h": 2806.69,
    "l": 2715.34,
-   "v": 49261.78958714
+   "v": 47134.69492322
   },
   "SOL": {
-   "p": 116.98,
+   "p": 116.8,
    "o": 118.9,
    "h": 119.97,
    "l": 115.53,
-   "v": 504866.34721474
+   "v": 509739.00778185
   }
  },
  "change_7d": {
-  "BTC": 0.13673034375187007,
-  "ETH": 0.13923004055042199,
-  "SOL": 0.18309716599190287
+  "BTC": 0.13014540170682204,
+  "ETH": 0.13234153185869926,
+  "SOL": 0.18173580346355228
  },
  "sentiment": {
-  "score": 72.9,
+  "score": 72.5,
   "label": "Greed",
   "components": {
    "fng": 78.0,
-   "momentum": 84.18258593796752,
+   "momentum": 82.53635042670551,
    "crowding": 63.6875,
    "ai_calm": 55.0
   },
@@ -55,21 +55,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 4025787009.28534,
-   "premium": 0.0005096053
+   "oi_usd": 4013355199.961609,
+   "premium": 0.000603977
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3137928855.9475904,
-   "premium": 0.000288457
+   "oi_usd": 3128533147.9905024,
+   "premium": 0.0011351153
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 720658446.4836003,
-   "premium": 0.00042746
+   "oi_usd": 718242566.7536005,
+   "premium": 0.0006848729
   }
  },
- "items_24h": 667,
+ "items_24h": 647,
  "top_items": [
   {
    "id": "e78c7f326dc995b2",
@@ -86,24 +86,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 40169
-  },
-  {
-   "id": "756fba2651cf9944",
-   "ts": 1790005709,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The same people that said, \"We'll all be dead in twelve years because of Global Warming,\" a name since \"reborn\" to Climate Change, because the Planet was cooling, not warming, and nobody was dead, are the people that are now saying that AI is going to kill us, that robots are goi",
-   "url": "https://truthsocial.com/@realDonaldTrump/117309814170246776",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 22108
+   "score": 40496
   },
   {
    "id": "978190d32cc15068",
@@ -119,7 +102,55 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 20094
+   "score": 20401
+  },
+  {
+   "id": "b5b5f759b2c31e4f",
+   "ts": 1790016204,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington's 5th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117310502008279319",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 13684
+  },
+  {
+   "id": "094d2ecb7edaef27",
+   "ts": 1790016194,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Joe Mitchell has my Complete and Total Endorsement to be the next U.S. Representative from Iowa's 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117310501298755407",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 11686
+  },
+  {
+   "id": "a00973f278a8ce41",
+   "ts": 1790016092,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Mike Bouchard has my Complete and Total Endorsement to be the next U.S. Representative from Michigan's 10th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117310494630713204",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 11241
   },
   {
    "id": "1e50e56fc5c9fe27",
@@ -140,52 +171,44 @@
    "score": 1870
   },
   {
-   "id": "a00973f278a8ce41",
-   "ts": 1790016092,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Mike Bouchard has my Complete and Total Endorsement to be the next U.S. Representative from Michigan's 10th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117310494630713204",
-   "domain": "truthsocial.com",
+   "id": "d1cb4af25a17216c",
+   "ts": 1790091000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "One of These Growth ETFs Has a 10 - Year Record . The Other Is Beating It Anyway .",
+   "url": "https://247wallst.com/investing/etf/2026/09/22/one-of-these-growth-etfs-has-a-10-year-record-the-other-is-beating-it-anyway/",
+   "domain": "247wallst.com",
    "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 695
+    "institution"
+   ]
   },
   {
-   "id": "b5b5f759b2c31e4f",
-   "ts": 1790016204,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington's 5th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117310502008279319",
-   "domain": "truthsocial.com",
+   "id": "f3cc9952a3b65c03",
+   "ts": 1790091000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "How Long Does It Take to Build $1 , 600 a Month in Dividend Income on $1 , 000 a Month in Savings ?",
+   "url": "https://247wallst.com/personal-finance/2026/09/22/how-long-does-it-take-to-build-1600-a-month-in-dividend-income-on-1000-a-month-in-savings/",
+   "domain": "247wallst.com",
    "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 633
+    "institution"
+   ]
   },
   {
-   "id": "094d2ecb7edaef27",
-   "ts": 1790016194,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Joe Mitchell has my Complete and Total Endorsement to be the next U.S. Representative from Iowa's 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117310501298755407",
-   "domain": "truthsocial.com",
+   "id": "5e4c862cc9adb672",
+   "ts": 1790091000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Foreign Currency Reserves 2026 – Market Notice 22 September 2026",
+   "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-22-september-2026",
+   "domain": "Bank of England",
+   "org": "Bank of England",
    "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 541
+    "macro"
+   ]
   },
   {
    "id": "24953ba72f0b2490",
@@ -226,35 +249,6 @@
     "crypto",
     "institution"
    ]
-  },
-  {
-   "id": "0e17a430c9e4702a",
-   "ts": 1790056800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Bitcoin retreats from eight - month high after dizzying 13 % rally",
-   "url": "https://www.moneycontrol.com/news/business/bitcoin-retreats-from-eight-month-high-after-dizzying-13-rally-14034999.html",
-   "domain": "moneycontrol.com",
-   "tags": [
-    "crypto",
-    "BTC",
-    "institution"
-   ]
-  },
-  {
-   "id": "2ef0f2a9c28d4be4",
-   "ts": 1790056800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "iShares ESG Aware MSCI EM ETF ( NASDAQ : ESGE ) Shares Up 2 . 7 % – What Next ?",
-   "url": "https://www.dailypolitical.com/2026/09/21/ishares-esg-aware-msci-em-etf-nasdaqesge-shares-up-2-7-whats-next.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790087372,
@@ -273,11 +267,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 3
   },
   "White House": {
    "ok": true,
-   "n": 29
+   "n": 28
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -303,7 +297,7 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 10
+   "n": 11
   },
   "Bank of Japan": {
    "ok": true,
@@ -335,7 +329,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 42
+   "n": 41
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
