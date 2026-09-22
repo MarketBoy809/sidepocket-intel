@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-09-22T05:48:19Z",
- "generated_ts": 1790056099,
+ "generated_at": "2026-09-22T07:19:07Z",
+ "generated_ts": 1790061547,
  "prices": {
   "BTC": {
-   "p": 85554.0,
+   "p": 85357.1,
    "o": 86598.0,
    "h": 87446.7,
-   "l": 81387.1,
-   "v": 5294.47604906
+   "l": 81460.3,
+   "v": 5317.68576271
   },
   "ETH": {
-   "p": 2737.2,
+   "p": 2729.05,
    "o": 2775.49,
    "h": 2806.69,
    "l": 2645.66,
-   "v": 68863.78128036
+   "v": 67116.06170808
   },
   "SOL": {
-   "p": 116.97,
+   "p": 116.68,
    "o": 118.9,
    "h": 119.97,
    "l": 111.38,
-   "v": 706609.46308865
+   "v": 704556.65890887
   }
  },
  "change_7d": {
-  "BTC": 0.10176710478382671,
-  "ETH": 0.09579359502058034,
-  "SOL": 0.14943209876543206
+  "BTC": 0.10475919177387023,
+  "ETH": 0.09836573433325833,
+  "SOL": 0.15528011898859703
  },
  "sentiment": {
-  "score": 69.6,
+  "score": 69.2,
   "label": "Greed",
   "components": {
    "fng": 78.0,
-   "momentum": 75.44177619595668,
+   "momentum": 76.18979794346755,
    "crowding": 63.6875,
-   "ai_calm": 48.0
+   "ai_calm": 45.0
   },
   "weights": {
    "fng": 0.35,
@@ -55,21 +55,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3759819471.75,
-   "premium": 0.0005866405
+   "oi_usd": 3751865213.7173,
+   "premium": 0.0005938068
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3109254620.9460974,
-   "premium": 0.0004382921
+   "oi_usd": 3116510832.854099,
+   "premium": 0.0005017892
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 700527600.9123993,
-   "premium": 0.0005555318
+   "oi_usd": 703851233.8571995,
+   "premium": 0.000342818
   }
  },
- "items_24h": 683,
+ "items_24h": 674,
  "top_items": [
   {
    "id": "fa47847bb2e80c6c",
@@ -220,28 +220,28 @@
    "score": 541
   },
   {
-   "id": "22a2822b0519b214",
-   "ts": 1790053200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Philip R. Lane: Interview with Le Temps",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
+   "id": "28b9d3ed370a6a82",
+   "ts": 1790059500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "iShares Russell 2500 ETF ( BATS : SMMD ) Stock Price Up 0 . 6 % – Still a Buy ?",
+   "url": "https://www.themarketsdaily.com/2026/09/22/ishares-russell-2500-etf-batssmmd-stock-price-up-0-6-still-a-buy.html",
+   "domain": "themarketsdaily.com",
    "tags": [
-    "macro"
+    "crypto",
+    "institution"
    ]
   },
   {
-   "id": "b0efebaf2b06e259",
-   "ts": 1790048700,
+   "id": "0e17a430c9e4702a",
+   "ts": 1790056800,
    "source": "news",
    "group": "institution",
    "kind": "news",
    "title": "Bitcoin retreats from eight - month high after dizzying 13 % rally",
-   "url": "https://www.freemalaysiatoday.com/category/business/2026/09/22/bitcoin-retreats-from-eight-month-high-after-dizzying-13-rally",
-   "domain": "freemalaysiatoday.com",
+   "url": "https://www.moneycontrol.com/news/business/bitcoin-retreats-from-eight-month-high-after-dizzying-13-rally-14034999.html",
+   "domain": "moneycontrol.com",
    "tags": [
     "crypto",
     "BTC",
@@ -249,25 +249,25 @@
    ]
   },
   {
-   "id": "9576eaba653db202",
-   "ts": 1790042400,
+   "id": "2ef0f2a9c28d4be4",
+   "ts": 1790056800,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Wall Street rallies after oil prices , bond yields ease",
-   "url": "https://www.ironmountaindailynews.com/news/2026/09/wall-street-rallies-after-oil-prices-bond-yields-ease/",
-   "domain": "ironmountaindailynews.com",
+   "title": "iShares ESG Aware MSCI EM ETF ( NASDAQ : ESGE ) Shares Up 2 . 7 % – What Next ?",
+   "url": "https://www.dailypolitical.com/2026/09/21/ishares-esg-aware-msci-em-etf-nasdaqesge-shares-up-2-7-whats-next.html",
+   "domain": "dailypolitical.com",
    "tags": [
-    "macro",
+    "crypto",
     "institution"
    ]
   }
  ],
- "briefing_ts": 1790042227,
+ "briefing_ts": 1790056995,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 13
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -279,7 +279,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 5
   },
   "White House": {
    "ok": true,
@@ -313,7 +313,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "BIS": {
    "ok": true,
