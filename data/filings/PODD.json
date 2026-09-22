@@ -1,0 +1,201 @@
+{
+ "ticker": "PODD",
+ "cik": "0001145197",
+ "updated": "2026-09-22T06:33:34Z",
+ "updated_ts": 1790058814,
+ "filings": [
+  {
+   "form": "8-K",
+   "date": "2026-09-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1145197/000119312526396779/d71204d8k.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-09-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519726000177/podd-20260914.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-09-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519726000175/podd-20260903.htm"
+  },
+  {
+   "form": "10-Q",
+   "date": "2026-08-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519726000169/podd-20260630.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-08-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519726000167/podd-20260805.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-06-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519726000148/podd-20260624.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-05-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519726000132/podd-20260526.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-05-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519726000121/podd-20260520.htm"
+  },
+  {
+   "form": "10-Q",
+   "date": "2026-05-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519726000102/podd-20260331.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-05-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519726000100/podd-20260506.htm"
+  }
+ ],
+ "insiders": {
+  "form4_count": 19,
+  "form144_count": 1,
+  "recent_dates": [
+   "2026-08-24",
+   "2026-08-04",
+   "2026-07-07",
+   "2026-07-02",
+   "2026-06-04",
+   "2026-06-03"
+  ],
+  "note": "Form 4 is a completed insider transaction; Form 144 is notice of an intended sale. Neither is the company issuing new stock."
+ },
+ "read": [
+  {
+   "form": "10-Q",
+   "date": "2026-08-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519726000169/podd-20260630.htm",
+   "chars": 105952,
+   "excerpts": [
+    {
+     "id": "PODD-10Q-covenants-1",
+     "topic": "covenants",
+     "matched": "covenant",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "At June 30, 2026, no amount was outstanding under the Revolving Credit Facility. The Revolving Credit Facility contains a covenant to maintain a specified leverage ratio when there are amounts of at least 35% of the aggregate Revolving Credit Facility outstanding. It also contains other customary covenants, none of which are considered restrictive to our operations. Additionally, we have a Term Loan B, whic"
+    },
+    {
+     "id": "PODD-10Q-covenants-2",
+     "topic": "covenants",
+     "matched": "covenant",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "erage ratio when there are amounts of at least 35% of the aggregate Revolving Credit Facility outstanding. It also contains other customary covenants, none of which are considered restrictive to our operations. Additionally, we have a Term Loan B, which matures in 2031, that contains covenants restricting or limiting our ability to incur additional indebtedness, make asset dispositions, create or permit liens, sell, transfer"
+    },
+    {
+     "id": "PODD-10Q-liquidity-1",
+     "topic": "liquidity",
+     "matched": "Cash and cash equivalents",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "ONSOLIDATED BALANCE SHEETS (UNAUDITED) (in millions, except share and per share data) June 30, 2026 December 31, 2025 ASSETS Current Assets Cash and cash equivalents $ 534.9 $ 716.1 Accounts receivable trade, net 588.7 516.9 Inventories 484.8 452.6 Prepaid expenses and other current assets 240.7 228.3 Total current assets 1,849.1 1,914.0 Property, plant and equipment, net 858.6 819.5 Other intangible assets, net 115.1 117.1 Goodwill 51.6 51."
+    },
+    {
+     "id": "PODD-10Q-liquidity-2",
+     "topic": "liquidity",
+     "matched": "cash and cash equivalents",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "th vesting of restricted stock units ( 16.2 ) ( 22.9 ) Net cash used in financing activities ( 315.9 ) ( 65.8 ) Effect of exchange rates on cash and cash equivalents ( 2.4 ) 12.7 Net (decrease) increase in cash and cash equivalents ( 181.2 ) 168.2 Cash and cash equivalents, beginning of period 716.1 953.4 Cash and cash equivalents, end of period $ 534.9 $ 1,121.6 Supplemental disclosure of cash flow information: Purchases of property and equ"
+    },
+    {
+     "id": "PODD-10Q-debt-1",
+     "topic": "debt",
+     "matched": "term loan",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "net of issuance costs - 440.7 Repayment of convertible debt - ( 541.5 ) Settlement of capped call options - 75.7 Proceeds from issuance of term loan B, net of issuance costs - 15.5 Repayment of other debt ( 9.1 ) ( 26.4 ) Proceeds from secured borrowings (note 3) - 36.1 Repayment of secured borrowings (note 3) - ( 32.6 ) Repurchase of common stock ( 300.0 ) ( 30.1 ) Proceeds from exercise of stock options 0.5 12.6 Proceeds f"
+    },
+    {
+     "id": "PODD-10Q-debt-2",
+     "topic": "debt",
+     "matched": "Maturity Date",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "Note 8. Debt The components of debt consisted of the following: June 30, 2026 December 31, 2025 (in millions) Maturity Date Amount Amount Equipment financings 2028 $ 28.3 $ 34.9 Costa Rica plant financing 2028 7.4 - Revolving Credit Facility 2030 - - Term Loan B 2031 475.0 477.5 Senior Unsecured Notes 2033 450.0 450.0 Unamortized debt discount ( 3.4 ) ( 3.5 ) Debt issuance costs ( 8.9 ) ( 9.7 ) Total"
+    },
+    {
+     "id": "PODD-10Q-dilution-1",
+     "topic": "dilution",
+     "matched": "Convertible",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "h2033Member 2025-03-31 0001145197 us-gaap:SeniorNotesMember podd:A6.5SeniorNotesDueMarch2033Member 2025-01-01 2025-03-31 0001145197 us-gaap:ConvertibleDebtMember podd:ConvertibleSeniorNotesDue2026Member 2025-04-01 2025-06-30 0001145197 us-gaap:ConvertibleDebtMember podd:ConvertibleSeniorNotesDue2026Member 2025-01-01 2025-06-30 0001145197 us-gaap:SecuredDebtMember podd:SeniorNotesDueAugust2031Member us-gaap:FairValueInputsLevel1"
+    },
+    {
+     "id": "PODD-10Q-dilution-2",
+     "topic": "dilution",
+     "matched": "Convertible",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "145197 us-gaap:SeniorNotesMember podd:A6.5SeniorNotesDueMarch2033Member 2025-01-01 2025-03-31 0001145197 us-gaap:ConvertibleDebtMember podd:ConvertibleSeniorNotesDue2026Member 2025-04-01 2025-06-30 0001145197 us-gaap:ConvertibleDebtMember podd:ConvertibleSeniorNotesDue2026Member 2025-01-01 2025-06-30 0001145197 us-gaap:SecuredDebtMember podd:SeniorNotesDueAugust2031Member us-gaap:FairValueInputsLevel1Member 2026-06-30 000114519"
+    },
+    {
+     "id": "PODD-10Q-impairment-1",
+     "topic": "impairment",
+     "matched": "impairment",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "6 and December 31, 2025 and was included within other assets on the consolidated balance sheets. These investments are carried at cost less impairment, if any. If an observable price change in orderly transactions for the identical or similar investment in the same issuer is identified, the investments are measured at fair value as of the date that the observable transaction occurred and categorized as Level 2 in the fair valu"
+    },
+    {
+     "id": "PODD-10Q-guidance-1",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "the FASB issued ASU 2024-03, Income Statement-Reporting Comprehensive Income-Expense Disaggregation Disclosures (Subtopic 220-40). The new guidance requires disaggregated disclosure of expenses included in certain expense captions presented in the statements of income as well as additional disclosures about selling expenses. The Company intends to adopt these new disclosure requirements beginning with our annual filing for"
+    },
+    {
+     "id": "PODD-10Q-guidance-2",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "The Company intends to adopt these new disclosure requirements beginning with our annual filing for 2027, as required. The guidance may be applied prospectively or retrospectively. The Company is currently evaluating the impact of this guidance. 9 Table of Contents In September 2025, the FASB issued ASU 2025-06, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Targeted Improvements to"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-09-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1145197/000119312526396779/d71204d8k.htm",
+   "chars": 869,
+   "excerpts": [
+    {
+     "id": "PODD-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-09-21",
+     "text": "Item 1.01 above is incorporated by reference into this Item 2.03. Item&#8201;9.01 Financial Statements and Exhibits. (d)&#8195;Exhibits. The following exhibit is filed as part of this report: No. Exhibit 10.1 Ninth Amendment to Credit Agreement, dated September 21, 2026, among Insulet Corporation, Insulet MA Securities Corporation, Morgan Stanley Senior Funding, Inc., as administrative agent, and the other lenders party thereto. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this Current Report on Form 8-K to be signed on its behalf by the undersigned thereunto duly authorized. INSULET CORPORATION Date: September 21, 2026 By: /s/ Flavia Pease Flavia Pease Executive Vice President, Chief Financial Officer"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-09-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1145197/000114519726000177/podd-20260914.htm",
+   "chars": 3560,
+   "excerpts": [
+    {
+     "id": "PODD-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-09-16",
+     "text": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. Adoption of Nonqualified Deferred Compensation Plan On September 14, 2026, the Talent and Compensation Committee (the \"Committee\") of the Board of Directors (the \"Board\") of Insulet Corporation (the \"Company\") approved and adopted the Insulet Nonqualified Deferred Compensation Plan (the \"Plan\"), with such Plan to be effective on January 1, 2027. The Plan is intended to be an unfunded \"top hat\" deferred compensation plan that allows a select group of management or highly compensated employees within the meaning of the Employee Retirement Income Security Act of 1974, as amended (\"ERISA\"), including the Company's named executive officers, to voluntarily defer compensation in a manner intended to comply with Section 409A of the Internal Revenue Code of 1986, as amended (the \"Code\"). The Plan will be administered by the Company's Employee Benefits Committee or such other administrative committee as the Committee may designate. Participants in the Plan are designated by the Committee and may elect to defer up to 60% of their cash compensation, consisting of base salary, annual incentive bonus and such other cash compensation as the Committee may approve. All participant cash deferrals and related earnings will be fully vested under the Plan. Equity awards may not be deferred under the Plan. The Plan also permits, but does not require, the Company to make matching, nonelective and discretionary contributions, which, unless otherwise determined by the Committee, are subject to a two-year cliff vesting schedule based on the participant's years of service and vest in full upon a change in control of the Company. Amounts defer"
+    }
+   ]
+  }
+ ]
+}

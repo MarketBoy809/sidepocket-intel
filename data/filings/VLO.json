@@ -1,0 +1,165 @@
+{
+ "ticker": "VLO",
+ "cik": "0001035002",
+ "updated": "2026-09-22T06:33:37Z",
+ "updated_ts": 1790058817,
+ "filings": [
+  {
+   "form": "8-K",
+   "date": "2026-09-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026062625/vlo-20260917.htm"
+  },
+  {
+   "form": "10-Q",
+   "date": "2026-07-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026050937/vlo-20260630.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-07-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026050822/vlo-20260730.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-07-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026048495/vlo-20260716.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-05-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026032765/vlo-20260507.htm"
+  },
+  {
+   "form": "10-Q",
+   "date": "2026-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026028690/vlo-20260331.htm"
+  }
+ ],
+ "insiders": {
+  "form4_count": 24,
+  "form144_count": 4,
+  "recent_dates": [
+   "2026-09-21",
+   "2026-09-18",
+   "2026-08-24",
+   "2026-08-03",
+   "2026-06-30",
+   "2026-06-29"
+  ],
+  "note": "Form 4 is a completed insider transaction; Form 144 is notice of an intended sale. Neither is the company issuing new stock."
+ },
+ "read": [
+  {
+   "form": "10-Q",
+   "date": "2026-07-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026050937/vlo-20260630.htm",
+   "chars": 190873,
+   "excerpts": [
+    {
+     "id": "VLO-10Q-covenants-1",
+     "topic": "covenants",
+     "matched": "waiver",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "sportation fuel mix, including, but not limited to, the Renewable and Low-Carbon Fuel Programs, tax credits, efficiency standards, or other waivers, benefits, or incentives that impact the demand for low-carbon fuels; and &#8226; expectations regarding our low-carbon fuels strategy, publicly disclosed GHG emissions reductions/displacements target, and our current, former, and any future low-carbon projects. We based our fo"
+    },
+    {
+     "id": "VLO-10Q-liquidity-1",
+     "topic": "liquidity",
+     "matched": "Cash and cash equivalents",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "TION CONSOLIDATED BALANCE SHEETS (millions of dollars, except par value) June 30, 2026 December 31, 2025 (unaudited) ASSETS Current assets: Cash and cash equivalents $ 7,874 $ 4,688 Receivables, net 13,928 9,877 Inventories 7,625 7,591 Prepaid expenses and other 1,243 1,054 Total current assets 30,670 23,210 Property, plant, and equipment, at cost 50,094 50,091 Accumulated depreciation ( 23,249 ) ( 22,474 ) Property, plant, and equipment, ne"
+    },
+    {
+     "id": "VLO-10Q-liquidity-2",
+     "topic": "liquidity",
+     "matched": "Cash and cash equivalents",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "he consolidated VIEs, which are included in our balance sheets (in millions): DGD Central Mexico Terminals Other Total June 30, 2026 Assets Cash and cash equivalents $ 387 $ 1 $ 55 $ 443 Other current assets 1,741 15 106 1,862 Property, plant, and equipment, net 3,544 609 60 4,213 Liabilities Current liabilities, including current portion of debt and finance lease obligations $ 567 $ 23 $ 5 $ 595 Debt and finance lease obligations, less curr"
+    },
+    {
+     "id": "VLO-10Q-debt-1",
+     "topic": "debt",
+     "matched": "Notes due",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "4. DEBT Public Debt On March 10, 2026, we issued $ 850 million of 5.150 percent Senior Notes due March 10, 2036. Proceeds from this debt issuance totaled $ 850 million before deducting the underwriting discount and other debt issuance costs. In July 2026, we repaid the $ 100 million outstanding principal balance of our 7.65 percent Debentures that matured on July 1, 2026. 9"
+    },
+    {
+     "id": "VLO-10Q-debt-2",
+     "topic": "debt",
+     "matched": "Notes due",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "PORATION CONDENSED NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) In February 2025, we issued $ 650 million of 5.150 percent Senior Notes due February 15, 2030. Proceeds from this debt issuance totaled $ 649 million before deducting the underwriting discount and other debt issuance costs. We used a portion of the net proceeds to repay the $ 189 million outstanding principal balance of our 3.65 percent Senior Notes tha"
+    },
+    {
+     "id": "VLO-10Q-impairment-1",
+     "topic": "impairment",
+     "matched": "impairment",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "ow) 1,506 1,522 3,101 3,045 Depreciation and amortization expense 723 786 1,551 1,466 Total cost of sales 39,007 28,640 69,336 58,391 Asset impairment loss - - - 1,131 Other operating expenses 26 4 50 8 General and administrative expenses (excluding depreciation and amortization expense reflected below) 233 220 518 481 Depreciation and amortization expense 14 28 26 39 Operating income 5,196 997 6,927 97 Other income, net 116 8"
+    },
+    {
+     "id": "VLO-10Q-impairment-2",
+     "topic": "impairment",
+     "matched": "impairment",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "1 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization expense 1,577 1,505 Asset impairment loss - 1,131 Deferred income tax benefit ( 268 ) ( 259 ) Changes in operating assets and liabilities: Current assets and current liabilities (see Note 11) 403 ( 168 ) Deferred charges and other assets ( 57 ) ( 50 ) Long-term liabilities ( 180 ) ( 56 ) Other operating activities,"
+    },
+    {
+     "id": "VLO-10Q-guidance-1",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "d issued Accounting Standards Update (ASU) 2026-02, Environmental Credits and Environmental Credit Obligations (Topic 818) , which provides guidance on the accounting for environmental credit assets and related obligations. This ASU establishes recognition, measurement, presentation, and disclosure requirements for entities that generate, purchase, or receive environmental credits or have regulatory compliance obligations th"
+    },
+    {
+     "id": "VLO-10Q-guidance-2",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "cipate,\" \"believe,\" \"expect,\" \"plan,\" \"intend,\" \"scheduled,\" \"estimate,\" \"project,\" \"projection,\" \"predict,\" \"budget,\" \"forecast,\" \"goal,\" \"guidance,\" \"target,\" \"could,\" \"would,\" \"should,\" \"may,\" \"strive,\" \"seek,\" \"pursue,\" \"potential,\" \"opportunity,\" \"aimed,\" \"considering,\" \"continue,\" \"evaluate,\" and similar expressions. These forward-looking statements include, among other things, statements regarding: &#8226; the effect,"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-09-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026062625/vlo-20260917.htm",
+   "chars": 4675,
+   "excerpts": [
+    {
+     "id": "VLO-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-09-18",
+     "text": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. (d) On September 17, 2026, the board of directors (the \"Board\") of Valero Energy Corporation (\"Valero\") increased its size to 11 members and elected Matthew Audette as a member of the Board, with an initial term beginning immediately and expiring at Valero's 2027 annual meeting of stockholders (the \"2027 Annual Meeting\"). Additionally, the Board appointed Mr. Audette to serve on the Audit Committee of the Board, effective immediately. Mr. Audette is expected to stand for re-election at the 2027 Annual Meeting. Mr. Audette is entitled to participate in Valero's non-employee director compensation program, as described under \"Director Compensation\" in Valero's proxy statement filed with the Securities and Exchange Commission on March 19, 2026 (the \"2026 Proxy Statement\"). On September 17, 2026, the Board's Human Resources and Compensation Committee also approved a modest increase beginning in 2027 of $10,000 to both the annual cash retainer and the equity grant components of our non-employee director compensation program as described in the 2026 Proxy Statement. Pursuant to such program, Mr. Audette is entitled to receive pro-rata compensation for the period of his service on the Board from the date of his election on September 17, 2026, to the anticipated date of the 2027 Annual Meeting. Accordingly, Valero granted Mr. Audette a pro-rata equity grant of 372 stock units upon his election to the Board, which are scheduled to vest in full on the first anniversary of the date of grant, and Mr. Audette is also entitled to receive a pro-rata annual cash retainer in the amount of $101,667. Item 7.01 Regulation FD Disclosure."
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-07-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035002/000162828026050822/vlo-20260730.htm",
+   "chars": 1286,
+   "excerpts": [
+    {
+     "id": "VLO-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-07-30",
+     "text": "Item 2.02 Results of Operations and Financial Condition. On July 30, 2026, Valero Energy Corporation (the \"Company\") issued a press release announcing the Company's financial and operating results for the second quarter ended June 30, 2026. A copy of the press release is furnished with this report as Exhibit 99.01 and is incorporated herein by reference. The information in this report is being furnished, not filed, pursuant to Item 2.02 of Form 8-K. Accordingly, the information in this report, including the press release, will not be incorporated by reference into any registration statement filed by the Company under the Securities Act of 1933, as amended, unless specifically identified therein as being incorporated therein by reference. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.01 Press release dated July 30, 2026. 104 Cover Page Interactive Data File (formatted as Inline XBRL). 2 SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. VALERO ENERGY CORPORATION (Registrant) Date: July 30, 2026 By: /s/ Homer S. Bhullar Homer S. Bhullar Senior Vice President and Chief Financial Officer 3"
+    }
+   ]
+  }
+ ]
+}

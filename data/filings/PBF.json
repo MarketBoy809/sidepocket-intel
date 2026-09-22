@@ -1,0 +1,70 @@
+{
+ "ticker": "PBF",
+ "cik": "0001534504",
+ "updated": "2026-09-22T06:33:32Z",
+ "updated_ts": 1790058812,
+ "filings": [
+  {
+   "form": "8-K",
+   "date": "2026-09-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534504/000119312526394108/d175053d8k.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-09-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534504/000119312526391405/d175358d8k.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-09-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534504/000119312526389847/d179978d8k.htm"
+  }
+ ],
+ "insiders": {
+  "form4_count": 21,
+  "form144_count": 15,
+  "recent_dates": [
+   "2026-09-15",
+   "2026-09-11",
+   "2026-09-04",
+   "2026-08-19",
+   "2026-08-18",
+   "2026-08-17"
+  ],
+  "note": "Form 4 is a completed insider transaction; Form 144 is notice of an intended sale. Neither is the company issuing new stock."
+ },
+ "read": [
+  {
+   "form": "8-K",
+   "date": "2026-09-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534504/000119312526394108/d175053d8k.htm",
+   "chars": 19912,
+   "excerpts": [
+    {
+     "id": "PBF-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-09-17",
+     "text": "State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.) One Sylvan Way, Second Floor Parsippany , New Jersey 07054 (Address of the Principal Executive Offices) (Zip Code) ( 973 ) 455-7500 (Registrant's Telephone Number, including area code) N/A (Former Name or Former Address, if Changed Since Last Report) Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): &#9744; Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) &#9744; Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) &#9744; Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) &#9744; Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of The Act: Title of each class Trading Symbol Name of each exchange on which registered Common Stock, par value $.001 PBF New York Stock Exchange Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (&#167;240.12b-2 of this chapter).&#8194; &#9744; If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.&#8194;&#9744; Item&#8201;1.01. Entry into a Material Definitive Agreement. 0% Exchangeable Senior Notes due 2032 O"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-09-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534504/000119312526391405/d175358d8k.htm",
+   "chars": 978,
+   "excerpts": [
+    {
+     "id": "PBF-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-09-15",
+     "text": "Item 8.01, including Exhibit 99.1, does not constitute an offer to sell, or a solicitation of an offer to buy, any of the notes in the Notes Offering, or any other securities of the Company, PBF Holding or PBF Finance Corporation. Item&#8201;9.01. Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Notes Offering Pricing Press Release dated September 14, 2026 104 Cover Page Interactive Data File (formatted as Inline XBRL). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrants have duly caused this report to be signed on their behalf by the undersigned hereunto duly authorized. Date: September 14, 2026 PBF Energy Inc. (Registrant) By: /s/ Trecia M. Canty Name: Trecia M. Canty Title: Senior Vice President, General Counsel and Secretary Date: September 14, 2026 PBF Holding Company LLC (Registrant) By: /s/ Trecia M. Canty Name: Trecia M. Canty Title: Senior Vice President, General Counsel and Secretary"
+    }
+   ]
+  }
+ ]
+}
