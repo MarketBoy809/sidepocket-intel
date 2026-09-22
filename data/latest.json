@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-09-22T02:24:39Z",
- "generated_ts": 1790043879,
+ "generated_at": "2026-09-22T03:30:04Z",
+ "generated_ts": 1790047804,
  "prices": {
   "BTC": {
-   "p": 85646.3,
+   "p": 85571.5,
    "o": 86598.0,
    "h": 87446.7,
-   "l": 81140.1,
-   "v": 5087.85484171
+   "l": 81210.2,
+   "v": 5139.22976675
   },
   "ETH": {
-   "p": 2743.47,
+   "p": 2738.21,
    "o": 2775.49,
    "h": 2806.69,
    "l": 2645.66,
-   "v": 68027.00255526
+   "v": 68080.63007077
   },
   "SOL": {
-   "p": 117.45,
+   "p": 116.95,
    "o": 118.9,
    "h": 119.97,
-   "l": 110.94,
-   "v": 708013.80809455
+   "l": 111.02,
+   "v": 704698.64065556
   }
  },
  "change_7d": {
-  "BTC": 0.09891393264785363,
-  "ETH": 0.09268853202072287,
-  "SOL": 0.14984350547730838
+  "BTC": 0.10031481586096741,
+  "ETH": 0.09058370592146385,
+  "SOL": 0.1466548950362959
  },
  "sentiment": {
-  "score": 66.4,
+  "score": 69.5,
   "label": "Greed",
   "components": {
    "fng": 78.0,
-   "momentum": 74.72848316196341,
-   "news_tone": 46.166666666666664,
-   "crowding": 66.7493025,
+   "momentum": 75.07870396524186,
+   "crowding": 63.6875,
    "ai_calm": 48.0
   },
   "weights": {
@@ -52,26 +51,58 @@
   "label": "Extreme Greed",
   "ts": 1790035200
  },
- "news_tone_24h": -0.23,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3775982999.2943487,
-   "premium": 0.0004073244
+   "oi_usd": 3746456122.34096,
+   "premium": 0.0002745263
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3119315462.5564857,
-   "premium": 0.0004846462
+   "oi_usd": 3108869219.9914794,
+   "premium": 0.000109525
   },
   "SOL": {
-   "funding_h": 2.08885e-05,
-   "oi_usd": 718278891.0596002,
-   "premium": 0.0008400622
+   "funding_h": 1.25e-05,
+   "oi_usd": 706273415.4302,
+   "premium": 5.55681e-05
   }
  },
  "items_24h": 674,
  "top_items": [
+  {
+   "id": "fa47847bb2e80c6c",
+   "ts": 1789992221,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Russia has unfortunately lost control of its Diesel Oil Industry due to its War with Ukraine. A large number of their Diesel refineries have been blown up and are, at least temporarily, out of commission. This ridiculous and never ending War with Ukraine must be ended. The whole ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117308930224398545",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 35723
+  },
+  {
+   "id": "a588a600196bd2e0",
+   "ts": 1789991618,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The White House is not instituting an assault on the Free Press, something which I cherish. It is instituting an assault on the FAKE NEWS, something that has grown like Cancer in our beloved United States of America. It is corrupt, purposeful, pervasive, fully coordinated, and to",
+   "url": "https://truthsocial.com/@realDonaldTrump/117308890736529824",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 30611
+  },
   {
    "id": "386d011b5262e646",
    "ts": 1789966743,
@@ -86,7 +117,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 19290
+   "score": 19498
   },
   {
    "id": "9d95c631e5cd40bb",
@@ -103,7 +134,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 17197
+   "score": 17371
   },
   {
    "id": "e78c7f326dc995b2",
@@ -139,22 +170,6 @@
    "score": 4926
   },
   {
-   "id": "a588a600196bd2e0",
-   "ts": 1789991618,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The White House is not instituting an assault on the Free Press, something which I cherish. It is instituting an assault on the FAKE NEWS, something that has grown like Cancer in our beloved United States of America. It is corrupt, purposeful, pervasive, fully coordinated, and to",
-   "url": "https://truthsocial.com/@realDonaldTrump/117308890736529824",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2553
-  },
-  {
    "id": "1e50e56fc5c9fe27",
    "ts": 1790019596,
    "source": "truth",
@@ -188,22 +203,6 @@
    ],
    "author": "Donald Trump",
    "score": 1580
-  },
-  {
-   "id": "fa47847bb2e80c6c",
-   "ts": 1789992221,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Russia has unfortunately lost control of its Diesel Oil Industry due to its War with Ukraine. A large number of their Diesel refineries have been blown up and are, at least temporarily, out of commission. This ridiculous and never ending War with Ukraine must be ended. The whole ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117308930224398545",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 995
   },
   {
    "id": "a00973f278a8ce41",
@@ -272,7 +271,7 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 23
+   "n": 17
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -284,7 +283,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 6
+   "n": 0
   },
   "White House": {
    "ok": true,
