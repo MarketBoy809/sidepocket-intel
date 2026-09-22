@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-09-22T14:09:06Z",
- "generated_ts": 1790086146,
+ "generated_at": "2026-09-22T15:19:01Z",
+ "generated_ts": 1790090341,
  "prices": {
   "BTC": {
-   "p": 86189.7,
+   "p": 86136.5,
    "o": 86598.0,
    "h": 87446.7,
    "l": 85100.0,
-   "v": 3778.79947423
+   "v": 3652.83005573
   },
   "ETH": {
-   "p": 2750.63,
+   "p": 2738.19,
    "o": 2775.49,
    "h": 2806.69,
-   "l": 2715.18,
-   "v": 54054.86000874
+   "l": 2715.34,
+   "v": 49261.78958714
   },
   "SOL": {
-   "p": 117.47,
+   "p": 116.98,
    "o": 118.9,
    "h": 119.97,
    "l": 115.53,
-   "v": 526080.07259455
+   "v": 504866.34721474
   }
  },
  "change_7d": {
-  "BTC": 0.12743380814967892,
-  "ETH": 0.124583586477417,
-  "SOL": 0.17359729407083171
+  "BTC": 0.13673034375187007,
+  "ETH": 0.13923004055042199,
+  "SOL": 0.18309716599190287
  },
  "sentiment": {
-  "score": 71.5,
+  "score": 72.9,
   "label": "Greed",
   "components": {
    "fng": 78.0,
-   "momentum": 81.85845203741974,
-   "crowding": 63.8800375,
-   "ai_calm": 50.0
+   "momentum": 84.18258593796752,
+   "crowding": 63.6875,
+   "ai_calm": 55.0
   },
   "weights": {
    "fng": 0.35,
@@ -55,21 +55,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 4022822586.5781603,
-   "premium": 0.0006844865
+   "oi_usd": 4025787009.28534,
+   "premium": 0.0005096053
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3183175609.6231217,
-   "premium": 0.0005450978
+   "oi_usd": 3137928855.9475904,
+   "premium": 0.000288457
   },
   "SOL": {
-   "funding_h": 1.30275e-05,
-   "oi_usd": 746465792.6627996,
-   "premium": 0.0007662183
+   "funding_h": 1.25e-05,
+   "oi_usd": 720658446.4836003,
+   "premium": 0.00042746
   }
  },
- "items_24h": 624,
+ "items_24h": 667,
  "top_items": [
   {
    "id": "e78c7f326dc995b2",
@@ -86,7 +86,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 39686
+   "score": 40169
   },
   {
    "id": "756fba2651cf9944",
@@ -103,7 +103,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 21807
+   "score": 22108
   },
   {
    "id": "978190d32cc15068",
@@ -119,7 +119,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 19661
+   "score": 20094
   },
   {
    "id": "1e50e56fc5c9fe27",
@@ -257,7 +257,7 @@
    ]
   }
  ],
- "briefing_ts": 1790072685,
+ "briefing_ts": 1790087372,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
@@ -265,7 +265,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
