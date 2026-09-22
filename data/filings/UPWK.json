@@ -1,8 +1,8 @@
 {
  "ticker": "UPWK",
  "cik": "0001627475",
- "updated": "2026-09-22T06:09:49Z",
- "updated_ts": 1790057389,
+ "updated": "2026-09-22T06:18:07Z",
+ "updated_ts": 1790057887,
  "filings": [
   {
    "form": "10-Q",
@@ -56,51 +56,99 @@
    "chars": 290553,
    "excerpts": [
     {
+     "id": "UPWK-10Q-covenants-1",
      "topic": "covenants",
+     "matched": "Covenant",
+     "form": "10-Q",
+     "date": "2026-08-10",
      "text": "An undrawn commitment fee of 0.20 % to 0.30 % per annum accrues on the unused portion of the facility, payable quarterly in arrears. Covenants The Credit Agreement contains financial maintenance covenants requiring the Company to maintain (i) a maximum Consolidated Net Leverage Ratio of 2.50 to 1.00, with cash netting of up to $ 100.0 million, and (ii) a minimum Consolidated Fixed Charge Coverage Ratio (as defined in"
     },
     {
+     "id": "UPWK-10Q-covenants-2",
      "topic": "covenants",
+     "matched": "covenant",
+     "form": "10-Q",
+     "date": "2026-08-10",
      "text": "Covenants The Credit Agreement contains financial maintenance covenants requiring the Company to maintain (i) a maximum Consolidated Net Leverage Ratio of 2.50 to 1.00, with cash netting of up to $ 100.0 million, and (ii) a minimum Consolidated Fixed Charge Coverage Ratio (as defined in the Credit Agreement) of 1.25 to 1.00, tested quarterly. The C"
     },
     {
+     "id": "UPWK-10Q-liquidity-1",
      "topic": "liquidity",
+     "matched": "Cash and cash equivalents",
+     "form": "10-Q",
+     "date": "2026-08-10",
      "text": "NSOLIDATED BALANCE SHEETS (Unaudited) (In thousands, except share and per share data) June 30, 2026 December 31, 2025 ASSETS Current assets Cash and cash equivalents $ 476,040 $ 294,356 Marketable securities 138,204 378,425 Funds held in escrow, including funds in transit 193,269 180,752 Trade and client receivables &#8211; net of allowance of $ 6,754 and $ 5,919 as of June 30, 2026 and December 31, 2025, respectively 76,459 76,236 Prepaid e"
     },
     {
+     "id": "UPWK-10Q-liquidity-2",
      "topic": "liquidity",
+     "matched": "Cash and Cash Equivalents",
+     "form": "10-Q",
+     "date": "2026-08-10",
      "text": "her income, net in the Company's condensed consolidated statements of operations and comprehensive income. Note 5- Balance Sheet Components Cash and Cash Equivalents, Restricted Cash, and Funds Held In Escrow, Including Funds In Transit The following table reconciles cash and cash equivalents, restricted cash, and funds held in escrow that are restricted as reported in the condensed consolidated balance sheets as of June 30, 2026 and Decembe"
     },
     {
+     "id": "UPWK-10Q-debt-1",
      "topic": "debt",
+     "matched": "Notes Due",
+     "form": "10-Q",
+     "date": "2026-08-10",
      "text": "( 307 ) ( 1,228 ) Balance $ 360,691 $ 359,770 Debt, current 360,691 359,770 Weighted-average interest rate 0.77 % 0.76 % Convertible Senior Notes Due 2026 In August 2021, the Company issued 0.25 % convertible senior notes due 2026, which are referred to as the Notes. The Notes were issued pursuant to and are subject to the terms and conditions of an indenture between the Company and Computershare Trust Company, National Assoc"
     },
     {
+     "id": "UPWK-10Q-debt-2",
      "topic": "debt",
+     "matched": "notes due",
+     "form": "10-Q",
+     "date": "2026-08-10",
      "text": "Weighted-average interest rate 0.77 % 0.76 % Convertible Senior Notes Due 2026 In August 2021, the Company issued 0.25 % convertible senior notes due 2026, which are referred to as the Notes. The Notes were issued pursuant to and are subject to the terms and conditions of an indenture between the Company and Computershare Trust Company, National Association (as successor in interest to Wells Fargo Bank, National Association),"
     },
     {
+     "id": "UPWK-10Q-dilution-1",
      "topic": "dilution",
+     "matched": "Convertible",
+     "form": "10-Q",
+     "date": "2026-08-10",
      "text": "-18 0001627475 upwk:AscenInc.Member 2025-10-01 2025-12-31 0001627475 2025-01-01 2025-09-30 0001627475 2025-10-01 2025-12-31 0001627475 upwk:ConvertibleSeniorNotesMember 2026-06-30 0001627475 upwk:ConvertibleSeniorNotesMember 2025-12-31 0001627475 upwk:ConvertibleSeniorNotesMember 2021-08-31 0001627475 upwk:ConvertibleSeniorNotesMember 2021-08-01 2021-08-31 0001627475 upwk:ConvertibleSeniorNotesMember 2026-04-01 2026-06-30 00016"
     },
     {
+     "id": "UPWK-10Q-dilution-2",
      "topic": "dilution",
+     "matched": "Convertible",
+     "form": "10-Q",
+     "date": "2026-08-10",
      "text": "1 0001627475 2025-01-01 2025-09-30 0001627475 2025-10-01 2025-12-31 0001627475 upwk:ConvertibleSeniorNotesMember 2026-06-30 0001627475 upwk:ConvertibleSeniorNotesMember 2025-12-31 0001627475 upwk:ConvertibleSeniorNotesMember 2021-08-31 0001627475 upwk:ConvertibleSeniorNotesMember 2021-08-01 2021-08-31 0001627475 upwk:ConvertibleSeniorNotesMember 2026-04-01 2026-06-30 0001627475 upwk:ConvertibleSeniorNotesMember 2025-04-01 2025-"
     },
     {
+     "id": "UPWK-10Q-impairment-1",
      "topic": "impairment",
+     "matched": "impairment",
+     "form": "10-Q",
+     "date": "2026-08-10",
      "text": "ed to: valuation of acquired intangible assets; the useful lives of assets; assessment of the recoverability of long-lived assets; goodwill impairment; allowance for expected credit 6 losses; liabilities relating to transaction losses; stock-based compensation; and accounting for income taxes. Management bases its estimates on historical experience and on various other assumptions that management believes to be reasonable unde"
     },
     {
+     "id": "UPWK-10Q-impairment-2",
      "topic": "impairment",
+     "matched": "impairment",
+     "form": "10-Q",
+     "date": "2026-08-10",
      "text": "ature and did not consider any of the Company's marketable securities to be other-than-temporarily impaired. The Company did not record any impairment charges with respect to its marketable securities during each of the three and six months ended June 30, 2026 and 2025. During the three months ended June 30, 2026 and 2025, interest income, net was $ 5.0 million and $ 6.7 million, respectively. During the six months ended June"
     },
     {
+     "id": "UPWK-10Q-guidance-1",
      "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-08-10",
      "text": "The Company is currently evaluating the timing of adoption and the potential impact of this new guidance on its consolidated financial statements. 7 Note 3- Revenue Disaggregation of Revenue Based on the information provided to and reviewed by the Chief Operating Decision Maker, who is referred to as the CODM, the nature, amount, timing, and uncertainty of revenue and cash flows an"
     },
     {
+     "id": "UPWK-10Q-guidance-2",
      "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-08-10",
      "text": "entirely to a wholly unsatisfied promise to transfer a distinct service that forms part of a single performance obligation under the series guidance. Contract Balances The following table provides information about the balances of the Company's Trade and client receivables, net of allowance and contract liabilities included in deferred revenue and other liabilities, noncurrent as of the dates presented: (In thousands) June 3"
     }
    ]
@@ -112,7 +160,11 @@
    "chars": 2898,
    "excerpts": [
     {
+     "id": "UPWK-8-K-event-1",
      "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-08-10",
      "text": "Item 2.02 Results of Operations and Financial Condition. On August 10, 2026, Upwork Inc., or the Company, will hold a conference call regarding its financial results for the quarter ended June 30, 2026. The Company issued a press release announcing its financial results for the quarter ended June 30, 2026. The full text of the press release is attached as Exhibit 99.1 to this report. The information furnished with this Item 2.02, including Exhibit 99.1, shall not be deemed \"filed\" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or the Exchange Act, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any other filing under the Securities Act of 1933, as amended, or the Securities Act, except as expressly set forth by specific reference in such a filing. The Company is making reference to certain financial measures not prepared in accordance with generally accepted accounting principles in the United States, or GAAP, in the press release and the conference call. A reconciliation of GAAP to these non-GAAP results is provided in the press release attached as Exhibit 99.1 to this report. The Company uses its Investor Relations website (investors.upwork.com), its blog (upwork.com/blog), its X handle (twitter.com/Upwork), Hayden Brown's X handle (twitter.com/hydnbrwn) and LinkedIn profile (linkedin.com/in/haydenlbrown), and Erica Gessert's LinkedIn profile (linkedin.com/in/erica-gessert) as means of disseminating or providing notification of, among other things, news or announcements regarding its business or financial performance, investor events, press releases, and earnings releases, and as means of disclosing material non-public information and for complying with its disclosure obliga"
     }
    ]
@@ -124,7 +176,11 @@
    "chars": 1736,
    "excerpts": [
     {
+     "id": "UPWK-8-K-event-1",
      "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-07-16",
      "text": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. Effective July 14, 2026, Upwork Inc.'s, or the Company's, Chief Financial Officer and principal financial officer, Erica Gessert, will take a temporary medical leave. The Company currently anticipates that Ms. Gessert will return to her role during the fourth quarter of 2026. During Ms. Gessert's leave, Hayden Brown, the Company's President and Chief Executive Officer, will assume the role of the Company's interim principal financial officer. Biographical information for Ms. Brown may be found in the Company's definitive proxy statement on Schedule 14A filed with the Securities and Exchange Commission on April 23, 2026. There is no arrangement or understanding between Ms. Brown and any other persons pursuant to which Ms. Brown was selected as interim principal financial officer, no family relationships among any of the Company's directors or executive officers and Ms. Brown, and Ms. Brown does not have any direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K. Ms. Brown will not receive any additional compensation for assuming the role of interim principal financial officer, and no changes have been made to any plans or arrangements in which Ms. Brown participates as a result of this appointment. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. UPWORK INC. Date: July 16, 2026 By: /s/Jacob McQuown Jacob McQuown Chief Legal Officer & Secretary"
     }
    ]

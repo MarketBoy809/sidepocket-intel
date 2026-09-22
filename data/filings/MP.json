@@ -1,8 +1,8 @@
 {
  "ticker": "MP",
  "cik": "0001801368",
- "updated": "2026-09-22T06:09:56Z",
- "updated_ts": 1790057396,
+ "updated": "2026-09-22T06:18:04Z",
+ "updated_ts": 1790057884,
  "filings": [
   {
    "form": "10-Q",
@@ -51,43 +51,83 @@
    "chars": 219075,
    "excerpts": [
     {
+     "id": "MP-10Q-covenants-1",
      "topic": "covenants",
+     "matched": "covenant",
+     "form": "10-Q",
+     "date": "2026-08-07",
      "text": "cceptable to it or at all; &#8226; risks related to certain restrictions imposed on the Company as a result of the affirmative and negative covenants contained in the DoW Transaction Agreements (as defined in Note 1 , \"Description of Business and Basis of Presentation\" ); &#8226; risks related to the Company's ability to meet obligations of its long-term agreements with General Motors Company (NYSE: GM) (\"GM\") and Apple Inc."
     },
     {
+     "id": "MP-10Q-covenants-2",
      "topic": "covenants",
+     "matched": "covenant",
+     "form": "10-Q",
+     "date": "2026-08-07",
      "text": "business; &#8226; risks relating to extensive and costly environmental regulatory requirements; &#8226; risks associated with the terms and covenants of the Company's credit agreement; &#8226; risks associated with the terms of the Company's convertible debt securities and related options or other hedging arrangements; and &#8226; the other factors described elsewhere in this Form 10-Q, included under the headings \"Managemen"
     },
     {
+     "id": "MP-10Q-liquidity-1",
      "topic": "liquidity",
+     "matched": "Cash and cash equivalents",
+     "form": "10-Q",
+     "date": "2026-08-07",
      "text": "dollars in thousands, except share and per share data) June 30, 2026 December 31, 2025 Assets Current assets Cash and cash equivalents $ 429,075 $ 1,166,011 Short-term investments 1,023,564 664,275 Total cash, cash equivalents and short-term investments 1,452,639 1,830,286 Trade accounts receivable, net of allowance for credit losses of $ 0 and $ 0 , respectively 40,436 14,642 Other receivables 56,281 132,042 I"
     },
     {
+     "id": "MP-10Q-liquidity-2",
      "topic": "liquidity",
+     "matched": "Cash and cash equivalents",
+     "form": "10-Q",
+     "date": "2026-08-07",
      "text": "Cash, cash equivalents and restricted cash ending balance $ 429,616 $ 262,993 Reconciliation of cash, cash equivalents and restricted cash: Cash and cash equivalents $ 429,075 $ 261,535 Restricted cash, current 541 918 Restricted cash, non-current - 540 Total cash, cash equivalents and restricted cash $ 429,616 $ 262,993 See accompanying notes to the Condensed Consolidated Financial Statements. 5 T able of Contents MP MATERIALS CORP. AND SUB"
     },
     {
+     "id": "MP-10Q-debt-1",
      "topic": "debt",
+     "matched": "credit agreement",
+     "form": "10-Q",
+     "date": "2026-08-07",
      "text": "ating to extensive and costly environmental regulatory requirements; &#8226; risks associated with the terms and covenants of the Company's credit agreement; &#8226; risks associated with the terms of the Company's convertible debt securities and related options or other hedging arrangements; and &#8226; the other factors described elsewhere in this Form 10-Q, included under the headings \"Management's Discussion and Analysis of Fina"
     },
     {
+     "id": "MP-10Q-debt-2",
      "topic": "debt",
+     "matched": "Principal Amount",
+     "form": "10-Q",
+     "date": "2026-08-07",
      "text": "BLIGATIONS The Company's current and non-current portions of long-term debt were as follows: June 30, 2026 December 31, 2025 (in thousands) Principal Amount Unamortized Debt Discount and Issuance Costs Carrying Amount Principal Amount Unamortized Debt Discount and Issuance Costs Carrying Amount Convertible Notes due 2026 $ - $ - $ - $ 67,499 $ ( 88 ) $ 67,411 Convertible Notes due 2030 862,793 ( 15,526 ) 847,267 862,793 ( 17,492 ) 8"
     },
     {
+     "id": "MP-10Q-dilution-1",
      "topic": "dilution",
+     "matched": "Convertible",
+     "form": "10-Q",
+     "date": "2026-08-07",
      "text": "01801368 2025-12-31 0001801368 2026-04-01 2026-06-30 0001801368 2025-04-01 2025-06-30 0001801368 2025-01-01 2025-06-30 0001801368 mp:SeriesAConvertiblePreferredStockMember 2026-03-31 0001801368 us-gaap:PreferredStockMember 2026-03-31 0001801368 us-gaap:CommonStockMember 2026-03-31 0001801368 us-gaap:AdditionalPaidInCapitalMember 2026-03-31 0001801368 us-gaap:RetainedEarningsMember 2026-03-31 0001801368 us-gaap:AccumulatedOtherC"
     },
     {
+     "id": "MP-10Q-dilution-2",
      "topic": "dilution",
+     "matched": "Convertible",
+     "form": "10-Q",
+     "date": "2026-08-07",
      "text": "arningsMember 2026-04-01 2026-06-30 0001801368 us-gaap:AccumulatedOtherComprehensiveIncomeMember 2026-04-01 2026-06-30 0001801368 mp:SeriesAConvertiblePreferredStockMember 2026-06-30 0001801368 us-gaap:PreferredStockMember 2026-06-30 0001801368 us-gaap:CommonStockMember 2026-06-30 0001801368 us-gaap:AdditionalPaidInCapitalMember 2026-06-30 0001801368 us-gaap:RetainedEarningsMember 2026-06-30 0001801368 us-gaap:AccumulatedOtherC"
     },
     {
+     "id": "MP-10Q-impairment-1",
      "topic": "impairment",
+     "matched": "impairment",
+     "form": "10-Q",
+     "date": "2026-08-07",
      "text": "No such amount was recognized for the three and six months ended June 30, 2025. No impairment charges were recorded during the three and six months ended June 30, 2026 and 2025. 8 T able of Contents NOTE 4- CASH, CASH EQUIVALENTS AND INVESTMENTS The following table presents the Company's cash, cash equivalents and short-term investments: June 30, 2026 December 31, 2025 ("
     },
     {
+     "id": "MP-10Q-impairment-2",
      "topic": "impairment",
+     "matched": "impairment",
+     "form": "10-Q",
+     "date": "2026-08-07",
      "text": "n expense $ 21,690 $ 19,123 $ 40,118 $ 37,260 Depletion expense $ 2,409 $ 1,288 $ 4,596 $ 4,168 There were no property, plant and equipment impairments recognized for the three and six months ended June 30, 2026 and 2025. 10 T able of Contents NOTE 7- ASSET RETIREMENT AND ENVIRONMENTAL OBLIGATIONS Asset Retirement Obligations The Company estimates asset retirement obligations based on the requirements to reclaim certain land a"
     }
    ]
@@ -99,7 +139,11 @@
    "chars": 854,
    "excerpts": [
     {
+     "id": "MP-8-K-event-1",
      "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-08-06",
      "text": "Item 2.02 Results of Operations and Financial Condition. On August 6, 2026, MP Materials Corp. (the \"Company\") issued a press release announcing its financial results for the three months ended June 30, 2026. A copy of the Company's press release is attached hereto as Exhibit 99.1 and is hereby incorporated by reference in this Item 2.02. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Press release dated August 6, 2026. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). 2 SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Date: August 6, 2026 MP Materials Corp. By: /s/ Elliot D. Hoops Elliot D. Hoops General Counsel and Secretary 3"
     }
    ]
@@ -111,7 +155,11 @@
    "chars": 1977,
    "excerpts": [
     {
+     "id": "MP-8-K-event-1",
      "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-06-10",
      "text": "Item 5.07 Submission of Matters to a Vote of Security Holders. On June 9, 2026, MP Materials Corp., a Delaware corporation (the \"Company\"), held its Annual Meeting of Stockholders (the \"Annual Meeting\"). At the Annual Meeting, the stockholders of the Company: (i) elected two Class III directors to serve until the 2029 Annual Meeting of Stockholders; (ii) approved, on an advisory basis, the compensation paid to the Company's named executive officers; and (iii) ratified the appointment of KPMG LLP as the Company's independent registered public accounting firm for the fiscal year ending December 31, 2026. Proposal One. Election of two Class III directors to serve until the 2029 Annual Meeting of Stockholders. The final vote tabulation for each of the individual directors was as follows: Director Votes FOR Votes WITHHELD Broker Non-Votes Arnold W. Donald 78,024,548 13,579,003 38,838,978 Randall J. Weisenburger 74,725,578 16,877,973 38,838,978 The term of office of each of Connie K. Duckworth, Maryanne R. Lavan, James H. Litinsky, Andrew A. McKnight, and General (Retired) Richard B. Myers continued following the Annual Meeting. Proposal Two. Advisory vote to approve the compensation of the Company's named executive officers. The final vote tabulation was as follows: Votes FOR Votes AGAINST Abstentions Broker Non-Votes 70,496,592 20,735,952 371,007 38,838,978 Proposal Three. Ratification of the appointment of KPMG LLP as the Company's independent registered public accounting firm for the fiscal year ending December 31, 2026. The final vote tabulation was as follows: Votes FOR Votes AGAINST Abstentions Broker Non-Votes 129,305,494 858,587 278,448 - 2 SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be "
     }
    ]

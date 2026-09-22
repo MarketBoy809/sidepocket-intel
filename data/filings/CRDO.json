@@ -1,8 +1,8 @@
 {
  "ticker": "CRDO",
  "cik": "0001807794",
- "updated": "2026-09-22T06:10:00Z",
- "updated_ts": 1790057400,
+ "updated": "2026-09-22T06:17:55Z",
+ "updated_ts": 1790057875,
  "filings": [
   {
    "form": "10-Q",
@@ -36,39 +36,75 @@
    "chars": 86667,
    "excerpts": [
     {
+     "id": "CRDO-10Q-liquidity-1",
      "topic": "liquidity",
+     "matched": "Cash and cash equivalents",
+     "form": "10-Q",
+     "date": "2026-09-02",
      "text": "Condensed Consolidated Balance Sheets (unaudited, in thousands, except per share amounts) August 1, 2026 May 2, 2026 Assets Current assets: Cash and cash equivalents $ 466,869 $ 1,164,952 Short-term investments 297,389 278,334 Accounts receivable 288,798 233,377 Inventories 313,051 250,831 Other current assets 100,186 73,576 Total current assets 1,466,293 2,001,070 Property and equipment, net 114,462 101,605 Right-of-use assets 25,061 24,640"
     },
     {
+     "id": "CRDO-10Q-liquidity-2",
      "topic": "liquidity",
+     "matched": "cash and cash equivalents",
+     "form": "10-Q",
+     "date": "2026-09-02",
      "text": "8 ) ( 3,712 ) Net cash used in financing activities ( 26,658 ) ( 2,970 ) Effect of exchange rate changes on cash 300 ( 69 ) Net decrease in cash and cash equivalents ( 698,083 ) ( 16,692 ) Cash and cash equivalents at beginning of the period 1,164,952 236,328 Cash and cash equivalents at end of the period $ 466,869 $ 219,636 Supplemental cash flow information: Purchases of property and equipment included in accounts payable, other current li"
     },
     {
+     "id": "CRDO-10Q-debt-1",
      "topic": "debt",
+     "matched": "maturity date",
+     "form": "10-Q",
+     "date": "2026-09-02",
      "text": "The Company's certificates of deposit are classified as held-to-maturity securities as the Company intends to hold until their maturity dates. The certificates of deposit are valued using Level 2 inputs. Pricing sources may include industry standard data providers, 15 Credo Technology Group Holding Ltd Notes to Unaudited Condensed Consolidated Financial Statements security master files from large financial institutio"
     },
     {
+     "id": "CRDO-10Q-dilution-1",
      "topic": "dilution",
+     "matched": "shares issued and outstanding",
+     "form": "10-Q",
+     "date": "2026-09-02",
      "text": "nts and contingencies (Note 9) Shareholders' equity: Ordinary shares, $ 0.00005 par value; 1,000,000 shares authorized; 187,768 and 185,419 shares issued and outstanding at August 1, 2026 and May 2, 2026, respectively 9 9 Additional paid in capital 2,210,077 1,672,060 Accumulated other comprehensive income (loss) ( 138 ) 2,426 Retained earnings 518,542 389,117 Total shareholders' equity 2,728,490 2,063,612 Total liabilities and shareholders' equ"
     },
     {
+     "id": "CRDO-10Q-dilution-2",
      "topic": "dilution",
+     "matched": "Warrant",
+     "form": "10-Q",
+     "date": "2026-09-02",
      "text": "upply capacity reservation agreement with an assembly subcontractor and will pay $ 102.4 million of refundable deposits within fiscal 2027. Warranty Obligations The Company's products generally carry a standard one-year warranty. The Company's warranty expense was not material in the periods presented. Indemnifications In the ordinary course of business, the Company has entered into agreements that contain certain indemnifi"
     },
     {
+     "id": "CRDO-10Q-impairment-1",
      "topic": "impairment",
+     "matched": "Write-down",
+     "form": "10-Q",
+     "date": "2026-09-02",
      "text": "ities: Depreciation and amortization 8,606 5,460 Share-based compensation 87,979 35,455 Amortization of acquired intangible assets 11,600 - Write-downs for excess and obsolete inventory 3,911 1,993 Changes in operating assets and liabilities: Accounts receivable ( 54,503 ) ( 19,059 ) Inventories ( 61,547 ) ( 27,513 ) Other current assets ( 25,338 ) 3,940 Other non-current assets 6,515 495 Accounts payable ( 12,563 ) ( 8,962 )"
     },
     {
+     "id": "CRDO-10Q-impairment-2",
      "topic": "impairment",
+     "matched": "write-down",
+     "form": "10-Q",
+     "date": "2026-09-02",
      "text": "rent conditions and beliefs of what could occur in the future, given the available information. Estimates are used for, but not limited to, write-down for excess and obsolete inventories, variable consideration from revenue contracts, determination of the fair value of share-based awards valued under Monte Carlo simulation, determination of the probability of achieving performance conditions for performance-based share-based a"
     },
     {
+     "id": "CRDO-10Q-guidance-1",
      "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-09-02",
      "text": "ds beginning after December 15, 2025 and interim periods within the fiscal year beginning after December 15, 2025. The Company adopted this guidance in the first quarter of fiscal year 2027 and the adoption did not have a material impact to the Company's consolidated financial statements. Recent Accounting Pronouncements Not Yet Adopted In November 2024, the FASB issued ASU 2024-03, Income Statement-Reporting Comprehensive I"
     },
     {
+     "id": "CRDO-10Q-guidance-2",
      "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-09-02",
      "text": "The Company is currently evaluating the impact of adopting this guidance on its consolidated financial statements and disclosures. 3. Concentrations Financial instruments that subject the Company to concentrations of credit risk consist primarily of cash and cash equivalents, short-term investments and accounts receivable. Cash is placed in major fin"
     }
    ]
@@ -80,7 +116,11 @@
    "chars": 1365,
    "excerpts": [
     {
+     "id": "CRDO-8-K-event-1",
      "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-09-01",
      "text": "Item 2.02 Results of Operations and Financial Condition. On September 1, 2026 , Credo Technology Group Holding Ltd (the \"Company\") issued a press release announcing its financial results for the fiscal quarter ended August 1, 2026. A copy of the press release is furnished herewith as Exhibit 99.1. The information in Item 2.02 of this current report on Form 8-K, including the accompanying Exhibit 99.1, shall not be deemed \"filed\" for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the \"Exchange Act\"), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, regardless of any general incorporation language in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit Number Description of Exhibit 99.1 Press Release dated September 1 , 2026 104 Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document) SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Credo Technology Group Holding Ltd Date: September 1, 2026 By: /s/ Daniel Fleming Daniel Fleming Chief Financial Officer"
     }
    ]
