@@ -1,0 +1,179 @@
+{
+ "ticker": "SNDK",
+ "cik": "0002023554",
+ "updated": "2026-09-22T12:11:43Z",
+ "updated_ts": 1790079103,
+ "filings": [
+  {
+   "form": "8-K",
+   "date": "2026-09-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026062267/sndk-20260910.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-09-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000119312526389293/d138343d8k.htm"
+  },
+  {
+   "form": "10-K",
+   "date": "2026-08-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026057406/sndk-20260703.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-08-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026053346/sndk-20260805.htm"
+  }
+ ],
+ "insiders": {
+  "form4_count": 27,
+  "form144_count": 7,
+  "recent_dates": [
+   "2026-09-21",
+   "2026-09-17",
+   "2026-09-16",
+   "2026-09-15",
+   "2026-09-14",
+   "2026-09-08"
+  ],
+  "note": "Form 4 is a completed insider transaction; Form 144 is notice of an intended sale. Neither is the company issuing new stock."
+ },
+ "read": [
+  {
+   "form": "10-K",
+   "date": "2026-08-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026057406/sndk-20260703.htm",
+   "chars": 400000,
+   "excerpts": [
+    {
+     "id": "SNDK-10K-covenants-1",
+     "topic": "covenants",
+     "matched": "event of default",
+     "form": "10-K",
+     "date": "2026-08-17",
+     "text": "also be terminated earlier upon the occurrence of certain specified events, including earlier dissolution by agreement of the parties or an event of default or bankruptcy. Upon the expiration of a Flash Ventures entity's joint venture agreements, the applicable Flash Ventures entity will commence a wind-up process and be dissolved. Net proceeds from the dissolution will be distributed in kind or cash to us and Kioxia on a pro rata b"
+    },
+    {
+     "id": "SNDK-10K-covenants-2",
+     "topic": "covenants",
+     "matched": "covenant",
+     "form": "10-K",
+     "date": "2026-08-17",
+     "text": "s to do so, we could suffer significant unreimbursable losses, and such failure could also cause Flash Ventures to breach various financing covenants. Our success depends on our ability to attract, retain and develop highly skilled management and technical talent. The success of our business depends on our ability to attract, retain, and develop highly skilled management and technical talent capable of advancing NAND technol"
+    },
+    {
+     "id": "SNDK-10K-liquidity-1",
+     "topic": "liquidity",
+     "matched": "liquidity and capital",
+     "form": "10-K",
+     "date": "2026-08-17",
+     "text": "14, Income Tax Expense of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K. Financial condition, liquidity and capital resources The following table summarizes our Consolidated Statements of Cash Flows: 2026 2025 2024 (in millions) Net cash provided by (used in): Operating activities $ 11,671 $ 84 $ (309) Investing activities (1,386) 556 210 Financing activities (7,001) 518 136 Effect of exchang"
+    },
+    {
+     "id": "SNDK-10K-liquidity-2",
+     "topic": "liquidity",
+     "matched": "cash and cash equivalents",
+     "form": "10-K",
+     "date": "2026-08-17",
+     "text": "vesting activities (1,386) 556 210 Financing activities (7,001) 518 136 Effect of exchange rate changes on cash (3) (5) (1) Net increase in cash and cash equivalents $ 3,281 $ 1,153 $ 36 In alignment with market conditions, we maintained what we believe to be a conservative capital expenditure strategy for fiscal years 2026 and 2025. For fiscal year 2027, we anticipate increased capital investments as we transition to newer nodes to meet the"
+    },
+    {
+     "id": "SNDK-10K-debt-1",
+     "topic": "debt",
+     "matched": "credit agreement",
+     "form": "10-K",
+     "date": "2026-08-17",
+     "text": "cing Activities Prior to the separation, we received financing from certain of WDC's subsidiaries in the form of borrowings under revolving credit agreements and promissory notes to fund activities primarily related to Flash Ventures. Additional information regarding our outstanding notes due to (from) Western Digital Corporation is included in Part II, Item 8., Note 10, Related Parties and Related Commitments and Contingencies of t"
+    },
+    {
+     "id": "SNDK-10K-debt-2",
+     "topic": "debt",
+     "matched": "notes due",
+     "form": "10-K",
+     "date": "2026-08-17",
+     "text": "Additional information regarding our outstanding notes due to (from) Western Digital Corporation is included in Part II, Item 8., Note 10, Related Parties and Related Commitments and Contingencies of the Notes to Consolidated Financial Statements included in this Annual Report on Form 10-K. As discussed in Part II, Item 8., Note 8, Debt"
+    },
+    {
+     "id": "SNDK-10K-dilution-1",
+     "topic": "dilution",
+     "matched": "Warrant",
+     "form": "10-K",
+     "date": "2026-08-17",
+     "text": "tMember srt:MaximumMember 2026-07-03 0002023554 srt:MinimumMember 2026-07-03 0002023554 srt:MaximumMember 2026-07-03 0002023554 sndk:ProductWarrantyUpTo10YearsOrMoreMember 2026-07-03 0002023554 us-gaap:RestrictedStockUnitsRSUMember srt:MinimumMember 2025-06-28 2026-07-03 0002023554 us-gaap:RestrictedStockUnitsRSUMember srt:MaximumMember 2025-06-28 2026-07-03 0002023554 us-gaap:ForeignExchangeContractMember 2026-07-03 000202"
+    },
+    {
+     "id": "SNDK-10K-dilution-2",
+     "topic": "dilution",
+     "matched": "Warrant",
+     "form": "10-K",
+     "date": "2026-08-17",
+     "text": "For a discussion of associated risks, see Part I, Item 1A., Risk Factors of this Annual Report on Form 10-K. Service and Warranty We generally warrant our newly manufactured products against defects in materials and workmanship from one to five years from the date of sale, depending on the type of product, with a small number of products having a warranty ranging up to ten years or more. Our warranty obli"
+    },
+    {
+     "id": "SNDK-10K-impairment-1",
+     "topic": "impairment",
+     "matched": "impairment",
+     "form": "10-K",
+     "date": "2026-08-17",
+     "text": "esult of underutilization of our assets, cause us to change our business practices, increase manufacturing and operating costs or result in impairment charges or other expenses. Public health crises and related government responses, including widespread disease outbreaks, quarantines, travel restrictions or business shutdowns, can also contribute to volatility in the financial markets, tighter credit conditions, reduced consum"
+    },
+    {
+     "id": "SNDK-10K-impairment-2",
+     "topic": "impairment",
+     "matched": "write-down",
+     "form": "10-K",
+     "date": "2026-08-17",
+     "text": "ss supply and lead to significant decreases in 18 Table of Contents our product prices, significant excess, obsolete inventory or inventory write-downs or underutilization charges, and the potential impairment of our investments in Flash Ventures. For example, in 2023, WDC incurred $296 million in charges for unabsorbed manufacturing overhead costs as a result of reduced utilization of its manufacturing capacity and $108 milli"
+    },
+    {
+     "id": "SNDK-10K-guidance-1",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-K",
+     "date": "2026-08-17",
+     "text": "&#8226; We strive to educate our employees at least annually on relevant ethics and compliance topics, publish accessible guidance on ethics and compliance-related issues and available company resources in our Global Code of Conduct and encourage reporting of ethical concerns through any of several global and local reporting channels. &#8226; We use a robust integrated management system, with associated pol"
+    },
+    {
+     "id": "SNDK-10K-guidance-2",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-K",
+     "date": "2026-08-17",
+     "text": "s in earnings estimates by securities analysts or our ability to meet those estimates&#894; &#8226; our ability to meet our forward looking guidance&#894; &#8226; the operating and stock price performance of other comparable companies&#894; &#8226; overall market fluctuations and domestic and worldwide economic conditions, including adverse geopolitical conditions&#894; and &#8226; other factors described in these \"Risk Fact"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-09-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026062267/sndk-20260910.htm",
+   "chars": 1868,
+   "excerpts": [
+    {
+     "id": "SNDK-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-09-16",
+     "text": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On September 10, 2026, following an annual review of the compensation levels of the executive officers of Sandisk Corporation (the \"Company\"), the Compensation and Talent Committee of the Board of Directors of the Company approved compensation adjustments for Alper Ilkbahar, the Company's Chief Technology Officer, and Bernard Shek, the Company's Chief Legal Officer, each effective as of October 1, 2026. The table below sets forth the adjusted annual base salary (if applicable) and adjusted annual short-term incentive (\"STI\") target percentage amounts as a percentage of annual base salary (if applicable). In addition to compensation adjustments for Messrs. Ilkbahar and Shek, the table below also reflects the current compensation levels for the Company's two other named executives, David Goeckeler, the Company's Chief Executive Officer, and Luis Visoso, the Company's Chief Financial Officer. There were no changes to Mr. Goeckeler's annual base salary or to Messrs. Goeckeler, Visoso, or Ilkbahar's annual STI targets. Name Position Annual Base Salary Annual STI Target % Alper Ilkbahar Executive Vice President and Chief Technology Officer $755,000 100% Bernard Shek Executive Vice President and Chief Legal Officer $618,000 100% David Goeckeler Chairman and Chief Executive Officer $1,300,000 200% Luis Visoso Executive Vice President and Chief Financial Officer $875,000 150% SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. Sandisk Corporation (Registrant) By: /s/ Bernard Shek Ber"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-09-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000119312526389293/d138343d8k.htm",
+   "chars": 6958,
+   "excerpts": [
+    {
+     "id": "SNDK-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-09-11",
+     "text": "Date of earliest event reported): September 9, 2026 Sandisk Corporation (Exact Name of Registrant as Specified in its Charter) Delaware 001-42420 99-1508671 (State or Other Jurisdiction of Incorporation) (Commission File Number) (I.R.S. Employer Identification No.) 951 Sandisk Drive Milpitas California 95035 (Address of Principal Executive Offices) (Zip Code) (408) 801-1000 (Registrant's Telephone Number, Including Area Code) Not applicable (Former Name or Former Address, if Changed Since Last Report) Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction A.2. below): &#9744; Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) &#9744; Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) &#9744; Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) &#9744; Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered Common Stock, $0.01 Par Value Per Share SNDK The Nasdaq Stock Market LLC (Nasdaq Global Select Market) Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (&#167;240.12b-2 of this chapter). Emerging growth company&#8194; &#9744; If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying w"
+    }
+   ]
+  }
+ ]
+}

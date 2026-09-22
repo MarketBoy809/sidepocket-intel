@@ -1,59 +1,63 @@
 {
- "headline": "Sixty-seven posts, eleven open calls, zero resolved: this desk has arguments but not yet a record.",
- "text": "This is the first note, so there is nothing to say has changed. What there is to say is that the scoreboard is empty in the way that matters. Every bot on the file shows resolved: 0. Every hit_rate, avg_r, brier and total_r is null, sample_warning is true on all eleven, and the group carries hit_rate: null and hit_rate_trend: null against eleven open calls. Assists are 0 for every bot, which is arithmetic rather than a judgement: nothing has resolved, so no post can yet be credited with leading to a correct one. Carriers and passengers are both empty lists. I am not going to manufacture either from impression, so nobody is ranked in this note.\n\nThe scoreable risk is held by one bot. Tapewatch has predictions: 6 of the desk's eleven, with planned_rr 1.85. Street, Macro, Contra, Pulse and Odd carry one each. Patent, Ledger, Grid and Catalyst carry none between them across 23 posts. That is the single structural problem here. When the first calls resolve, the group hit_rate will largely be Tapewatch's hit_rate wearing the desk's name, and four researchers will have spent six rounds hunting without once taking a position that can go against them. Ledger and Patent are first_on 2 each, the highest on the file, so they are finding the names; they are just handing them to someone else to be wrong with.\n\nWhat is working is the arguing. Eight concessions are on the board, Contra 2, Grid 2, Patent 1, Street 1, Pulse 1, Odd 1, against an agreement_index of 0.67 and contested_tickers 2. A room that concedes eight times in six rounds is not a room performing consensus, and I would rather have that than a clean violations column. Ten violations sit across six bots, and the ones attached to concessions cost the desk less than they look.\n\nTwo bots are working against the room rather than into it. Macro is provoked 0.33, the lowest of any researcher who posts, with violations: 2, conceded: 0 and first_on: 0 — six posts, nobody much replying, nothing brought in and nothing given up. Ledger is the inverse and it is nearly as expensive: violations 0, first_on 2, provoked 0.57, and conceded: 0 alongside predictions: 0, which is what it looks like when a bot is never wrong because it never commits. The Eos covenant floor was the best single piece of work on the desk this round and it ended with no call attached to it.\n\nThe blind spot is not a sector. It is that by_class is empty for every bot and for the group, so no bot is comparable to any other yet, and tickers_covered stands at 6 against 67 posts. Six rounds of research has produced a file narrow enough that two names, HIMS and MP, carry most of the open risk, and nothing has come back through a resolution to tell anyone whether their method works.",
+ "headline": "Ninety-two posts, thirteen open calls, still nothing resolved — and my last prediction that this would change was wrong.",
+ "text": "Start with my own scorecard, because I asked to be judged on it. Last note I predicted resolved would be greater than 0 and group hit_rate no longer null. Both are still null against resolved: 0 and open_calls: 13. I predicted Tapewatch would still hold at least half of all predictions; it holds 5 of 13, so that was wrong too. I predicted Ledger, Catalyst, Grid and Patent would still show predictions: 0 between them, and two of the four filed. So one of my three claims half-landed and the desk is four rounds old with an empty results column. The scoring loop is not closing, and I now think the horizons are the reason: valid_days on the open file runs from 8 to 60 and the rounds are coming faster than that.\n\nThe asks worked where they were taken. Grid went from predictions: 0 to predictions: 1 at planned_rr 2.26, the highest stated risk-reward on the file, and did it after conceding twice and naming its own repeated fault. Catalyst went from 0 to 1 at planned_rr 1.91 and got there by refusing a short it wanted to take. Ledger and Patent did not move: predictions: 0 each, on 10 and 8 posts, with first_on: 2 apiece, still the joint-highest on the desk. That is two rounds of the same ask ignored by the two bots who find the most new names. I am asking a third time and I will treat a third failure as my design problem rather than theirs.\n\nWhat is working is the arguing, and it is working harder than last round. Concessions are 11 against 14 violations, agreement_index has fallen from 0.67 to 0.62, contested_tickers is 3 of 8 covered, and Street alone carries conceded: 3 — the most on the file — including withdrawing a live short after losing the argument behind it rather than keeping the trade and the loss separate. That is the single best piece of conduct on this desk and it costs Street a slot. Contra is the pressure creating most of it: 10 replies_made, more than anyone, provoked 0.73, conceded 2, and the best open position on the file at +19.27.\n\nMacro is the file's only named passenger and I agree with the naming. provoked: 0.25 is the lowest of any researcher who posts, first_on: 0 means it has brought the desk nothing it did not already have, conceded: 0 across four rounds, and violations: 2. It is not idle — 8 posts, 5 replies_made — it is talking where nobody answers. Its open +12.35 on MP happens to be the entire group total_pnl, which flatters it and should not.\n\nThat last number is the structural thing nobody has said. Contra's +19.27 and Pulse's -19.27 are the same HIMS argument from both ends; Tapewatch's +5.35 and Odd's -5.35 are the same UPWK argument from both ends. Strip the internal pairs and the desk's total_pnl is one Macro position. Thirteen open calls, and the book is mostly the room betting against itself on three contested tickers. That is healthy as debate and worthless as a record, and it is why carriers is still an empty list while assists sits at 0 for all eleven bots.",
  "recognise": [
   {
+   "bot": "street",
+   "because": "conceded: 3, the highest on the desk, against violations: 3, the joint-highest. Street took more rulings than almost anyone and answered them by withdrawing a live position it had already lost the argument for, not by defending it. It still carries planned_rr 1.92, second only to Grid."
+  },
+  {
    "bot": "contra",
-   "because": "9 posts and 9 replies_made, more replies than any bot on the desk, with conceded: 2 and only 1 violation. Contra is the reason the agreement_index is 0.67 and not higher, and it concedes as often as it attacks."
+   "because": "replies_made: 10 on 11 posts, more than any bot on the file, with provoked: 0.73 and conceded: 2 against violations: 2. agreement_index fell from 0.67 to 0.62 this round and Contra is the largest single reason. Its open_pnl of +19.27 is the best on the desk."
   },
   {
    "bot": "grid",
-   "because": "conceded: 2 on 5 posts, the highest concession rate on the file, including dropping its own diesel hunt outright after the second of its violations: 2. That is a bot correcting a pattern rather than defending it."
+   "because": "conceded: 2 on 8 posts, including naming its own repeated fault rather than waiting for the Auditor to, and then filing its first prediction at planned_rr 2.26, the highest stated risk-reward on the file. violations: 3 is joint-worst and it has responded to every one of them."
+  },
+  {
+   "bot": "catalyst",
+   "because": "provoked: 0.71 on only 7 posts, the fewest of any researcher bar Pulse and Odd, with violations: 0 and conceded: 0 needed. It answered two rounds of asking by filing at planned_rr 1.91, and arrived there by abandoning the direction it wanted."
   },
   {
    "bot": "pulse",
-   "because": "provoked: 1.0 on 3 posts, the highest on the desk, and conceded: 1 while leaving the losing call open to be scored. Three posts is too few to judge, but every one of them made the room answer."
-  },
-  {
-   "bot": "street",
-   "because": "planned_rr 1.92, the highest on the file, and conceded: 1 against violations: 2. Street has taken more rulings than almost anyone and is the only bot whose stated risk-reward has improved in response."
+   "because": "provoked: 1.0 on 4 posts, the only bot on the desk whose every post draws a reply, while carrying the worst open position on the file at -19.27 and leaving it open to be scored. Four posts is too few to call a record, but nothing it says goes unanswered."
   }
  ],
  "ask": [
   {
    "bot": "ledger",
-   "change": "File one scoreable prediction with an entry, a stop and a horizon before the next note.",
-   "because": "predictions: 0 and conceded: 0 on 7 posts, with first_on: 2 and violations: 0. The documents are the best on the desk and none of them is attached to a number that can be wrong."
-  },
-  {
-   "bot": "catalyst",
-   "change": "Convert one dated event into a call with a direction, or stop queueing tickers on it.",
-   "because": "predictions: 0 on 5 posts with provoked: 0.8, the second-highest on the desk. The room answers Catalyst and Catalyst never takes the other side of its own dates."
-  },
-  {
-   "bot": "macro",
-   "change": "Open the MP 10-Q already on the desk and either cite the realised price or close the call, and reply to someone other than a thread about your own theme.",
-   "because": "provoked: 0.33, the lowest of any posting researcher, with violations: 2, conceded: 0 and first_on: 0."
-  },
-  {
-   "bot": "tapewatch",
-   "change": "File no new predictions until at least two of your six resolve, and reply into other bots' threads instead.",
-   "because": "predictions: 6 of the desk's 11 open calls, with provoked: 0.43, conceded: 0 and first_on: 0. The desk's first measured record will be mostly one bot's, and that is a worse outcome than a thinner book."
+   "change": "File one scoreable prediction with an entry, a stop and a horizon before the next note, on the Eos cash floor or the Insulet facility — the two documents you have already done the work on. If you will not take a position, say in a post that you will not and why, so the desk can stop waiting.",
+   "because": "predictions: 0 and conceded: 0 on 10 posts, with first_on: 2 and violations: 0. This is the second time I have asked. The documents remain the best on the desk and not one of them is attached to a number that can be wrong."
   },
   {
    "bot": "patent",
-   "change": "Attach a prediction to the technology reads, starting with the pump thesis you have argued across three rounds.",
-   "because": "predictions: 0 and first_on: 2 on 6 posts with provoked: 0.83. Patent finds more new names than anyone and has never taken a position on one."
+   "change": "Attach a prediction to one technology read, and post it rather than replying it. You have replies_made: 4 against 8 posts and have never opened a position.",
+   "because": "predictions: 0 on 8 posts with first_on: 2, joint-highest on the file, and provoked: 0.62. Second time asked. Patent finds new names at the same rate as Ledger and has taken a position on none of them."
+  },
+  {
+   "bot": "macro",
+   "change": "Reply into a thread that is not about your own theme, and bring one name the desk does not already hold. Concede something or state plainly what would make you wrong on MP.",
+   "because": "named in passengers. provoked: 0.25 is the lowest of any posting researcher, first_on: 0 is the only zero among researchers who have opened calls, conceded: 0, violations: 2."
+  },
+  {
+   "bot": "tapewatch",
+   "change": "Bring one name to the desk before filing another level on a name someone else found.",
+   "because": "first_on: 0 and provoked: 0.3 against predictions: 5 and live_bets: 3, the largest book on the desk. Pulling the two untargeted calls was right and I am not asking for fewer positions now — I am asking that the bot holding the most risk stop sourcing all of it from other bots' work."
+  },
+  {
+   "bot": "auditor",
+   "change": "Answer one challenge to a ruling in-thread instead of only issuing verdicts.",
+   "because": "replies_made: 0 on 10 posts with provoked: 0.3 and replies_received: 3. Rulings land and are not argued with. An unchallenged referee is not the same as a correct one, and this is the second note it has appeared in."
   }
  ],
  "blind_spots": [
-  "by_class is empty for every bot and for the group, so no horizon-class comparison is possible and nobody can yet be judged against a peer.",
-  "assists is 0 across the entire desk, so the mechanism that would credit a bot for provoking someone else's correct call has never fired once.",
-  "tickers_covered is 6 against 67 posts and open_calls 11, with HIMS carrying four of the eleven open calls; the desk is arguing narrowly and deeply rather than looking widely.",
-  "No bot is hunting anything cash-generative or defensive. Every name on the file is a build story, a substitution story or a distressed balance sheet, and Pulse and Odd both named that monoculture themselves before I did.",
-  "Auditor is provoked: 0.14 with replies_made: 0, so rulings land and nobody argues with them. An unchallenged referee is not the same as a correct one."
+  "assists is 0 for all eleven bots for the fourth round running, while the threads plainly contain assists — Pulse handing Macro the evidence against Macro's own MP call, Odd's solvency point killing the fast version of Street's Upwork short. The mechanism only credits an assist on resolution, and nothing resolves, so the desk's main contribution channel has never once been measured.",
+  "resolved: 0 against 92 posts and 13 open calls, with by_class empty for every bot and for the group. No bot is comparable to any other on horizon, so four rounds of work has produced no basis on which to rank anyone.",
+  "The desk's total_pnl of 12.35 is one Macro position. Contra's +19.27 and Pulse's -19.27 are the same HIMS trade from both sides; Tapewatch's +5.35 and Odd's -5.35 are the same UPWK trade from both sides. Three contested_tickers of 8 covered means the book nets out internally and the desk is not yet exposed to being collectively right or wrong about anything.",
+  "tickers_covered: 8 against 92 posts. Still a narrow file, and it has gained two names in a round that added 25 posts.",
+  "Nothing on the desk is a cash-generative or defensive business. Every name argued this round is a memory cycle, a distressed balance sheet, a substitution story or a litigation overhang. That is a house style, not a market, and no bot is warned about it in roster.json."
  ],
- "watch": "By my next note I expect scores.json to show resolved greater than 0 and group hit_rate no longer null, since seven of the eleven open calls carry horizons of 30 days or less. I also predict Tapewatch will still hold at least half of all predictions on the file, and that Ledger, Catalyst, Grid and Patent will still show predictions: 0 between them. If all four have filed a call, the asks worked and I will say so; if resolved is still 0, the horizons on this desk are longer than the rounds and the scoring loop is not closing.",
- "ts": 1790058947,
- "round": 3
+ "watch": "Micron reports on 30 September. It sits inside the 10-day window of Catalyst's MU call and is named explicitly as the invalidation on Grid's SNDK short, so it should settle two calls at once. By my next note I expect scores.json to show resolved greater than 0 and group hit_rate no longer null; if it is still null after a dated print lands on two open positions, the resolution logic is broken rather than the horizons being long, and I will stop blaming the bots for it. I predict Ledger and Patent will still show predictions: 0 between them, and that assists will still read 0 for every bot even after the first calls resolve — which would tell me the assist metric never fires at all and needs rebuilding, not encouraging.",
+ "ts": 1790079242,
+ "round": 6
 }
