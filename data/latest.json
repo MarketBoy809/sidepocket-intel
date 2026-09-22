@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-22T11:52:19Z",
- "generated_ts": 1790077939,
+ "generated_at": "2026-09-22T12:59:46Z",
+ "generated_ts": 1790081986,
  "prices": {
   "BTC": {
-   "p": 85959.9,
+   "p": 85978.0,
    "o": 86598.0,
    "h": 87446.7,
-   "l": 84714.2,
-   "v": 4101.73504562
+   "l": 84771.3,
+   "v": 3902.44815828
   },
   "ETH": {
-   "p": 2740.84,
+   "p": 2754.68,
    "o": 2775.49,
    "h": 2806.69,
    "l": 2711.21,
-   "v": 56222.6022314
+   "v": 55303.92520877
   },
   "SOL": {
-   "p": 117.23,
+   "p": 117.42,
    "o": 118.9,
    "h": 119.97,
    "l": 115.53,
-   "v": 569019.1778215
+   "v": 559562.66450881
   }
  },
  "change_7d": {
-  "BTC": 0.11491278664377566,
-  "ETH": 0.10413788381057489,
-  "SOL": 0.1576340037649856
+  "BTC": 0.11800321970724052,
+  "ETH": 0.10761337238662758,
+  "SOL": 0.1635588176949019
  },
  "sentiment": {
-  "score": 72.3,
+  "score": 73.0,
   "label": "Greed",
   "components": {
    "fng": 78.0,
-   "momentum": 78.72819666094392,
-   "crowding": 72.89236199999999,
+   "momentum": 79.50080492681013,
+   "crowding": 75.7782345,
    "ai_calm": 50.0
   },
   "weights": {
@@ -54,54 +54,39 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.88279e-05,
-   "oi_usd": 3976563270.21096,
-   "premium": 0.0005233228
+   "funding_h": 1.61186e-05,
+   "oi_usd": 3970526616.8416805,
+   "premium": 0.0006604329
   },
   "ETH": {
-   "funding_h": 1.85513e-05,
-   "oi_usd": 3153307178.4262404,
-   "premium": 0.0006930512
+   "funding_h": 2.11167e-05,
+   "oi_usd": 3193057911.012035,
+   "premium": 0.0008492846
   },
   "SOL": {
-   "funding_h": 2.53396e-05,
-   "oi_usd": 738664719.5074009,
-   "premium": 0.0011938262
+   "funding_h": 3.339e-05,
+   "oi_usd": 742854459.2760004,
+   "premium": 0.0007971629
   }
  },
- "items_24h": 691,
+ "items_24h": 634,
  "top_items": [
   {
-   "id": "fa47847bb2e80c6c",
-   "ts": 1789992221,
+   "id": "e78c7f326dc995b2",
+   "ts": 1790011085,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Russia has unfortunately lost control of its Diesel Oil Industry due to its War with Ukraine. A large number of their Diesel refineries have been blown up and are, at least temporarily, out of commission. This ridiculous and never ending War with Ukraine must be ended. The whole ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117308930224398545",
+   "title": "If Senate Republicans don't TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators,",
+   "url": "https://truthsocial.com/@realDonaldTrump/117310166479352147",
    "domain": "truthsocial.com",
    "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 36843
-  },
-  {
-   "id": "a588a600196bd2e0",
-   "ts": 1789991618,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The White House is not instituting an assault on the Free Press, something which I cherish. It is instituting an assault on the FAKE NEWS, something that has grown like Cancer in our beloved United States of America. It is corrupt, purposeful, pervasive, fully coordinated, and to",
-   "url": "https://truthsocial.com/@realDonaldTrump/117308890736529824",
-   "domain": "truthsocial.com",
-   "tags": [
+    "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 31804
+   "score": 39340
   },
   {
    "id": "756fba2651cf9944",
@@ -118,24 +103,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 21320
-  },
-  {
-   "id": "e78c7f326dc995b2",
-   "ts": 1790011085,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "If Senate Republicans don't TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators,",
-   "url": "https://truthsocial.com/@realDonaldTrump/117310166479352147",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 15117
+   "score": 21570
   },
   {
    "id": "978190d32cc15068",
@@ -151,7 +119,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 4926
+   "score": 19342
   },
   {
    "id": "1e50e56fc5c9fe27",
@@ -258,6 +226,35 @@
     "crypto",
     "institution"
    ]
+  },
+  {
+   "id": "0e17a430c9e4702a",
+   "ts": 1790056800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Bitcoin retreats from eight - month high after dizzying 13 % rally",
+   "url": "https://www.moneycontrol.com/news/business/bitcoin-retreats-from-eight-month-high-after-dizzying-13-rally-14034999.html",
+   "domain": "moneycontrol.com",
+   "tags": [
+    "crypto",
+    "BTC",
+    "institution"
+   ]
+  },
+  {
+   "id": "2ef0f2a9c28d4be4",
+   "ts": 1790056800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "iShares ESG Aware MSCI EM ETF ( NASDAQ : ESGE ) Shares Up 2 . 7 % – What Next ?",
+   "url": "https://www.dailypolitical.com/2026/09/21/ishares-esg-aware-msci-em-etf-nasdaqesge-shares-up-2-7-whats-next.html",
+   "domain": "dailypolitical.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
   }
  ],
  "briefing_ts": 1790072685,
@@ -268,7 +265,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -276,7 +273,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 2
+   "n": 0
   },
   "White House": {
    "ok": true,
