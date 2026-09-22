@@ -1,0 +1,102 @@
+{
+ "ticker": "ALAB",
+ "cik": "0001736297",
+ "updated": "2026-09-22T06:09:45Z",
+ "updated_ts": 1790057385,
+ "filings": [
+  {
+   "form": "10-Q",
+   "date": "2026-08-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000035/alab-20260630.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-08-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000033/alab-20260804.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-06-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000027/alab-20260604.htm"
+  }
+ ],
+ "insiders": {
+  "form4_count": 20,
+  "form144_count": 15,
+  "recent_dates": [
+   "2026-09-03",
+   "2026-09-02",
+   "2026-09-01",
+   "2026-08-19",
+   "2026-08-10",
+   "2026-08-06"
+  ],
+  "note": "Form 4 is a completed insider transaction; Form 144 is notice of an intended sale. Neither is the company issuing new stock."
+ },
+ "read": [
+  {
+   "form": "10-Q",
+   "date": "2026-08-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000035/alab-20260630.htm",
+   "chars": 107248,
+   "excerpts": [
+    {
+     "topic": "covenants",
+     "text": "obligated to indemnify such parties for losses or claims suffered or incurred in connection with its service, breach of representations or covenants, intellectual property infringement or other claims made against such parties. These provisions may limit the time within which an indemnification claim can be made. It is not possible to determine the maximum potential amount under 14 Table of Contents these indemnification ob"
+    },
+    {
+     "topic": "liquidity",
+     "text": "ENSED CONSOLIDATED BALANCE SHEETS (In thousands, except par values) (unaudited) As of June 30, 2026 December 31, 2025 Assets Current assets Cash and cash equivalents $ 111,453 $ 167,611 Marketable securities 1,141,505 1,021,205 Accounts receivable, net 192,469 83,202 Inventory 113,781 58,979 Prepaid expenses and other current assets 92,687 31,033 Total current assets 1,651,895 1,362,030 Property and equipment, net 119,284 92,038 Goodwill 91,"
+    },
+    {
+     "topic": "liquidity",
+     "text": "For the six months ended June 30, 2026 and 2025, the non-GAAP tax rate was approximately 11% and 8%, respectively. Liquidity and Capital Resources Since our inception, we have financed our operations primarily through proceeds from equity issuances including net proceeds from our IPO, and cash generated from the sale of our products. As of June 30, 2026 , our principal sources of liquidity were cash, cash equival"
+    },
+    {
+     "topic": "dilution",
+     "text": "0001736297 alab:PrivatelyHeldCompanyMember 2026-02-09 2026-02-09 0001736297 alab:PrivatelyHeldCompanyMember 2026-02-09 0001736297 alab:A2021WarrantMember 2021-04-30 0001736297 alab:A2021WarrantMember 2026-04-01 2026-06-30 0001736297 alab:A2021WarrantMember 2026-01-01 2026-06-30 0001736297 alab:CustomerWarrantMember 2022-10-31 0001736297 alab:CustomerWarrantMember 2022-10-01 2022-10-31 0001736297 alab:A2023WarrantMember 2023"
+    },
+    {
+     "topic": "dilution",
+     "text": "6-02-09 2026-02-09 0001736297 alab:PrivatelyHeldCompanyMember 2026-02-09 0001736297 alab:A2021WarrantMember 2021-04-30 0001736297 alab:A2021WarrantMember 2026-04-01 2026-06-30 0001736297 alab:A2021WarrantMember 2026-01-01 2026-06-30 0001736297 alab:CustomerWarrantMember 2022-10-31 0001736297 alab:CustomerWarrantMember 2022-10-01 2022-10-31 0001736297 alab:A2023WarrantMember 2023-10-31 0001736297 alab:A2026WarrantMember 2026"
+    },
+    {
+     "topic": "impairment",
+     "text": "The Company did not recognize any material allowance for credit losses as of June 30, 2026 and December 31, 2025 or impairment charges for the three and six months ended June 30, 2026 and 2025. There were no material realized gains or losses from available-for-sale securities that were reclassified out of accumulated other comprehensive income for the three and six months ended June 30, 2026 and 2025. 4"
+    },
+    {
+     "topic": "impairment",
+     "text": "However, if the Company is required to evaluate these assets for impairment, whether due to certain triggering events or because of the required annual impairment test, and a resulting impairment is recorded to reduce the carrying value to the fair value, these assets are measured at fair value during such period. There was no impairment on these assets"
+    },
+    {
+     "topic": "guidance",
+     "text": "ASU 2025-04 reduces diversity in practice and improves the decision usefulness and operability of the guidance for share-based consideration payable to a customer in conjunction with selling goods or services. The ASU is effective for annual reporting periods beginning after December 15, 2026 with updates to be applied on a retrospective or modified retrospective basis. Early adoption is"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-08-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000033/alab-20260804.htm",
+   "chars": 1391,
+   "excerpts": [
+    {
+     "topic": "event",
+     "text": "Item 2.02 Results of Operations and Financial Condition On August 4, 2026, Astera Labs, Inc. (the \"Company\") issued a press release regarding its financial results for the quarter ended June 30, 2026. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K. The information in Item 2.02 of this Current Report on Form 8-K, including the accompanying Exhibit 99.1, is intended to be furnished and shall not be deemed \"filed\" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the \"Exchange Act\"), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description of Exhibit 99.1 Press release issued by Astera Labs, Inc. dated August 4, 2026. 104 Cover Page Interactive Data File (Cover page XBRL tags are embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Date: August 4, 2026 Astera Labs, Inc. By: /s/ Desmond Lynch Name: Desmond Lynch Title: Chief Financial Officer"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-06-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000027/alab-20260604.htm",
+   "chars": 2754,
+   "excerpts": [
+    {
+     "topic": "event",
+     "text": "Item 5.07 Submission of Matters to a Vote of Security Holders (a) Astera Labs, Inc. (the \"Company\") held its 2026 Annual Stockholders Meeting on June 4, 2026, (the \"Annual Meeting\"). There were 171,281,952 shares of common stock entitled to be voted at the Annual Meeting, of which 141,439,565 were voted in person or by proxy. (b) At the Annual Meeting, stockholders elected all three Class II nominees for director to the Company's board of directors to serve until the 2029 Annual Meeting of Stockholders and until his or her successor has been duly elected and qualified, or until his or her earlier death, resignation or removal; ratified the appointment of PricewaterhouseCoopers LLP as the independent registered public accounting firm of the Company for the fiscal year ending December 31, (\"Auditor Ratification\"); approved, on an advisory basis, the compensation of our named executive officers (\"NEOs\") as disclosed in our proxy materials (\"Say-on-Pay\"); and approved, on an advisory basis, the holding of future advisory votes on the compensation of our NEOs (\"Say-on-Frequency\") every one year. The Company's inspector of election certified the following vote tabulations: Proposal No. 1 Election of Class II Director Nominees For Withheld Broker Non-Votes Sanjay Gajendra 98,435,707 16,774,390 26,229,468 Craig Barratt 96,549,639 18,660,458 26,229,468 Michael Hurlston 78,685,214 36,524,883 26,229,468 Proposal No. 2 For Against Abstain Broker Non-Votes* Auditor Ratification 141,298,992 115,708 24,865 - *Brokers were permitted to cast stockholder non-votes (i.e., uninstructed shares) at their discretion on this proposal item, and such non-votes are reflected in the votes For, Against or to Abstain. Proposal No. 3 For Against Abstain Broker Non-Votes Say-on-Pay 111,520,205 3,615,9"
+    }
+   ]
+  }
+ ]
+}
