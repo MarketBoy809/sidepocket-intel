@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-09-22T00:13:10Z",
- "generated_ts": 1790035990,
+ "generated_at": "2026-09-22T01:18:39Z",
+ "generated_ts": 1790039919,
  "prices": {
   "BTC": {
-   "p": 86406.2,
+   "p": 85633.3,
    "o": 86598.0,
    "h": 87446.7,
    "l": 80839.5,
-   "v": 5025.10685804
+   "v": 5141.75604405
   },
   "ETH": {
-   "p": 2771.36,
+   "p": 2742.59,
    "o": 2775.49,
    "h": 2806.69,
    "l": 2641.76,
-   "v": 75389.48094854
+   "v": 73406.32993686
   },
   "SOL": {
-   "p": 118.54,
+   "p": 117.51,
    "o": 118.9,
    "h": 119.97,
    "l": 110.69,
-   "v": 785716.45622129
+   "v": 733500.29317105
   }
  },
  "change_7d": {
-  "BTC": 0.10770615827231757,
-  "ETH": 0.10342168138250721,
-  "SOL": 0.15977370269215774
+  "BTC": 0.10184996882781405,
+  "ETH": 0.09474688450301111,
+  "SOL": 0.15467941836635107
  },
  "sentiment": {
-  "score": 66.3,
+  "score": 66.1,
   "label": "Greed",
   "components": {
    "fng": 78.0,
-   "momentum": 76.92653956807939,
-   "news_tone": 45.849999999999994,
-   "crowding": 63.695968,
+   "momentum": 75.46249220695351,
+   "news_tone": 46.06666666666667,
+   "crowding": 63.6875,
    "ai_calm": 48.0
   },
   "weights": {
@@ -52,25 +52,25 @@
   "label": "Extreme Greed",
   "ts": 1790035200
  },
- "news_tone_24h": -0.249,
+ "news_tone_24h": -0.236,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3794808028.518,
-   "premium": 0.000319328
+   "oi_usd": 3763254472.9079857,
+   "premium": 0.0005101785
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3167949504.198801,
-   "premium": 0.0
+   "oi_usd": 3121363329.4653587,
+   "premium": 0.0004483373
   },
   "SOL": {
-   "funding_h": 1.25232e-05,
-   "oi_usd": 718693578.6696001,
-   "premium": 0.0
+   "funding_h": 1.25e-05,
+   "oi_usd": 716546242.9114002,
+   "premium": 0.0005105514
   }
  },
- "items_24h": 681,
+ "items_24h": 639,
  "top_items": [
   {
    "id": "386d011b5262e646",
@@ -86,7 +86,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 18722
+   "score": 18995
   },
   {
    "id": "9d95c631e5cd40bb",
@@ -103,7 +103,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 16685
+   "score": 16918
   },
   {
    "id": "e78c7f326dc995b2",
@@ -271,11 +271,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 47
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -352,8 +352,9 @@
    "n": 24
   },
   "Reddit r/Bitcoin": {
-   "ok": true,
-   "n": 24
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
