@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-09-21T23:07:27Z",
- "generated_ts": 1790032047,
+ "generated_at": "2026-09-22T00:13:10Z",
+ "generated_ts": 1790035990,
  "prices": {
   "BTC": {
-   "p": 86550.5,
-   "o": 81164.0,
+   "p": 86406.2,
+   "o": 86598.0,
    "h": 87446.7,
    "l": 80839.5,
-   "v": 5029.92089004
+   "v": 5025.10685804
   },
   "ETH": {
-   "p": 2784.38,
-   "o": 2644.67,
+   "p": 2771.36,
+   "o": 2775.49,
    "h": 2806.69,
-   "l": 2631.59,
-   "v": 77533.20791225
+   "l": 2641.76,
+   "v": 75389.48094854
   },
   "SOL": {
-   "p": 119.65,
-   "o": 111.15,
+   "p": 118.54,
+   "o": 118.9,
    "h": 119.97,
-   "l": 110.58,
-   "v": 773423.13219819
+   "l": 110.69,
+   "v": 785716.45622129
   }
  },
  "change_7d": {
-  "BTC": 0.1003528207901858,
-  "ETH": 0.09703616845712579,
-  "SOL": 0.16140009722897433
+  "BTC": 0.10770615827231757,
+  "ETH": 0.10342168138250721,
+  "SOL": 0.15977370269215774
  },
  "sentiment": {
-  "score": 63.1,
+  "score": 66.3,
   "label": "Greed",
   "components": {
-   "fng": 70.0,
-   "momentum": 75.08820519754644,
+   "fng": 78.0,
+   "momentum": 76.92653956807939,
    "news_tone": 45.849999999999994,
-   "crowding": 63.6875,
+   "crowding": 63.695968,
    "ai_calm": 48.0
   },
   "weights": {
@@ -48,47 +48,30 @@
   }
  },
  "fear_greed": {
-  "value": 70,
-  "label": "Greed",
-  "ts": 1789948800
+  "value": 78,
+  "label": "Extreme Greed",
+  "ts": 1790035200
  },
  "news_tone_24h": -0.249,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3795796982.532726,
-   "premium": 0.0005324992
+   "oi_usd": 3794808028.518,
+   "premium": 0.000319328
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3200268144.6193213,
-   "premium": 0.0006104787
+   "oi_usd": 3167949504.198801,
+   "premium": 0.0
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 724700089.5072,
-   "premium": 0.0007521939
+   "funding_h": 1.25232e-05,
+   "oi_usd": 718693578.6696001,
+   "premium": 0.0
   }
  },
- "items_24h": 640,
+ "items_24h": 681,
  "top_items": [
-  {
-   "id": "e78c7f326dc995b2",
-   "ts": 1790011085,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "If Senate Republicans don't TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators,",
-   "url": "https://truthsocial.com/@realDonaldTrump/117310166479352147",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 15117
-  },
   {
    "id": "386d011b5262e646",
    "ts": 1789966743,
@@ -103,7 +86,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 6781
+   "score": 18722
   },
   {
    "id": "9d95c631e5cd40bb",
@@ -120,7 +103,24 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 6227
+   "score": 16685
+  },
+  {
+   "id": "e78c7f326dc995b2",
+   "ts": 1790011085,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "If Senate Republicans don't TERMINATE THE FILIBUSTER, the Dumocrats will, and I will be, despite how well our Party is doing, the last Republican President! The Dumocrats will vote in Puerto Rico (4% Republican Vote), and Washington, D.C. (3% Republican Vote), pick up 4 Senators,",
+   "url": "https://truthsocial.com/@realDonaldTrump/117310166479352147",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 15117
   },
   {
    "id": "978190d32cc15068",
@@ -271,11 +271,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 48
+   "n": 47
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -283,7 +283,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 23
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -345,11 +345,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 44
+   "n": 43
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 23
+   "n": 24
   },
   "Reddit r/Bitcoin": {
    "ok": true,
