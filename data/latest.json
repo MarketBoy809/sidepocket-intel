@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-22T18:02:31Z",
- "generated_ts": 1790100151,
+ "generated_at": "2026-09-22T21:12:27Z",
+ "generated_ts": 1790111547,
  "prices": {
   "BTC": {
-   "p": 86556.7,
+   "p": 86265.8,
    "o": 86598.0,
-   "h": 87446.7,
+   "h": 86833.6,
    "l": 85100.0,
-   "v": 3691.70625516
+   "v": 3272.28604175
   },
   "ETH": {
-   "p": 2751.47,
+   "p": 2748.81,
    "o": 2775.49,
-   "h": 2806.69,
+   "h": 2787.86,
    "l": 2715.34,
-   "v": 46901.32796553
+   "v": 32362.0685411
   },
   "SOL": {
    "p": 117.87,
    "o": 118.9,
    "h": 119.97,
    "l": 115.53,
-   "v": 506020.9289283
+   "v": 497936.82234596
   }
  },
  "change_7d": {
-  "BTC": 0.12581441472786883,
-  "ETH": 0.12888945364218052,
-  "SOL": 0.17813280079880167
+  "BTC": 0.1371593905075606,
+  "ETH": 0.14391527354043868,
+  "SOL": 0.21207764198418394
  },
  "sentiment": {
-  "score": 67.9,
+  "score": 68.0,
   "label": "Greed",
   "components": {
    "fng": 78.0,
-   "momentum": 81.45360368196721,
-   "news_tone": 43.64999999999999,
+   "momentum": 84.28984762689015,
+   "news_tone": 40.35,
    "crowding": 63.6875,
    "ai_calm": 55.0
   },
@@ -52,107 +52,53 @@
   "label": "Extreme Greed",
   "ts": 1790035200
  },
- "news_tone_24h": -0.381,
+ "news_tone_24h": -0.579,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 4021506187.2265887,
-   "premium": 0.0003685445
+   "oi_usd": 3996498793.3374405,
+   "premium": 0.0003918241
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3167142642.6292777,
-   "premium": 0.0005451572
+   "oi_usd": 3165095277.4313593,
+   "premium": 0.0002219078
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 727439022.8309996,
-   "premium": 0.0003393281
+   "oi_usd": 742376284.9304881,
+   "premium": 0.0003817603
   }
  },
- "items_24h": 628,
+ "items_24h": 557,
  "top_items": [
   {
-   "id": "1e50e56fc5c9fe27",
-   "ts": 1790019596,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "As expected, Fake News CNN, Politico (Pay back the 8 Million Dollar contribution made by the U.S. Government to keep them afloat!), and MSNOW (formerly known as MSDNC!), have brought suit to gain access to the White House, and your President, ME! They have drawn a great Judge, fo",
-   "url": "https://truthsocial.com/@realDonaldTrump/117310724294153031",
-   "domain": "truthsocial.com",
+   "id": "e52fde9cc016b79d",
+   "ts": 1790109480,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "CFTC Releases Staff Advisory on Mention Markets",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9302-26",
+   "domain": "CFTC",
+   "org": "CFTC",
    "tags": [
-    "crypto",
-    "macro",
     "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 28116
+   ]
   },
   {
-   "id": "978190d32cc15068",
-   "ts": 1790014107,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "We are just leaving the White House Lawn on the maiden voyage from the newly built, and very beautiful, Heliport! I want to thank Jim Taiclet, CEO of Lockheed Martin, who made this valuable contribution to our Country. Our Government has been thinking about doing this for 25 year",
-   "url": "https://truthsocial.com/@realDonaldTrump/117310364553695688",
-   "domain": "truthsocial.com",
+   "id": "bb3326ddb25c563c",
+   "ts": 1790109000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
    "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 20748
-  },
-  {
-   "id": "b5b5f759b2c31e4f",
-   "ts": 1790016204,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Michael Baumgartner has my Complete and Total Endorsement for Re-Election as U.S. Representative from Washington's 5th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117310502008279319",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 13990
-  },
-  {
-   "id": "094d2ecb7edaef27",
-   "ts": 1790016194,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Joe Mitchell has my Complete and Total Endorsement to be the next U.S. Representative from Iowa's 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117310501298755407",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 11911
-  },
-  {
-   "id": "a00973f278a8ce41",
-   "ts": 1790016092,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Mike Bouchard has my Complete and Total Endorsement to be the next U.S. Representative from Michigan's 10th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117310494630713204",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 11450
+    "macro"
+   ]
   },
   {
    "id": "cd2d305c72ceb98a",
@@ -244,13 +190,53 @@
    "tags": [
     "institution"
    ]
+  },
+  {
+   "id": "5e4c862cc9adb672",
+   "ts": 1790091000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Foreign Currency Reserves 2026 – Market Notice 22 September 2026",
+   "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-22-september-2026",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "24953ba72f0b2490",
+   "ts": 1790074800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Prediction : $10 , 000 Invested in VFVA Today Could Be Worth This Much by 2031",
+   "url": "https://www.aol.com/articles/prediction-10-000-invested-vfva-102000000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "0571202db953b186",
+   "ts": 1790074800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Prediction : $10 , 000 Invested in VFVA Today Could Be Worth This Much by 2031",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-10-000-invested-vfva-102000834.html",
+   "domain": "finance.yahoo.com",
+   "tags": [
+    "institution"
+   ]
   }
  ],
  "briefing_ts": 1790087372,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 12
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -262,11 +248,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 4
+   "n": 0
   },
   "White House": {
    "ok": true,
-   "n": 30
+   "n": 27
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -279,11 +265,11 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "European Central Bank": {
    "ok": true,
@@ -323,11 +309,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 41
+   "n": 39
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 24
+   "n": 25
   },
   "Reddit r/Bitcoin": {
    "ok": false,
