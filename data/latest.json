@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-09-22T07:19:07Z",
- "generated_ts": 1790061547,
+ "generated_at": "2026-09-22T07:38:41Z",
+ "generated_ts": 1790062721,
  "prices": {
   "BTC": {
-   "p": 85357.1,
+   "p": 85163.7,
    "o": 86598.0,
    "h": 87446.7,
    "l": 81460.3,
-   "v": 5317.68576271
+   "v": 5315.46628172
   },
   "ETH": {
-   "p": 2729.05,
+   "p": 2722.92,
    "o": 2775.49,
    "h": 2806.69,
    "l": 2645.66,
-   "v": 67116.06170808
+   "v": 65112.90933859
   },
   "SOL": {
-   "p": 116.68,
+   "p": 116.02,
    "o": 118.9,
    "h": 119.97,
    "l": 111.38,
-   "v": 704556.65890887
+   "v": 704691.41463133
   }
  },
  "change_7d": {
@@ -55,21 +55,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3751865213.7173,
-   "premium": 0.0005938068
+   "oi_usd": 3744257511.0296545,
+   "premium": 0.0006433435
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3116510832.854099,
-   "premium": 0.0005017892
+   "oi_usd": 3100889791.933438,
+   "premium": 0.0004479563
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 703851233.8571995,
-   "premium": 0.000342818
+   "oi_usd": 695134305.6606001,
+   "premium": 0.0005171076
   }
  },
- "items_24h": 674,
+ "items_24h": 649,
  "top_items": [
   {
    "id": "fa47847bb2e80c6c",
@@ -102,6 +102,23 @@
    ],
    "author": "Donald Trump",
    "score": 30964
+  },
+  {
+   "id": "756fba2651cf9944",
+   "ts": 1790005709,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The same people that said, \"We'll all be dead in twelve years because of Global Warming,\" a name since \"reborn\" to Climate Change, because the Planet was cooling, not warming, and nobody was dead, are the people that are now saying that AI is going to kill us, that robots are goi",
+   "url": "https://truthsocial.com/@realDonaldTrump/117309814170246776",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 20211
   },
   {
    "id": "e78c7f326dc995b2",
@@ -153,23 +170,6 @@
    ],
    "author": "Donald Trump",
    "score": 1870
-  },
-  {
-   "id": "756fba2651cf9944",
-   "ts": 1790005709,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The same people that said, \"We'll all be dead in twelve years because of Global Warming,\" a name since \"reborn\" to Climate Change, because the Planet was cooling, not warming, and nobody was dead, are the people that are now saying that AI is going to kill us, that robots are goi",
-   "url": "https://truthsocial.com/@realDonaldTrump/117309814170246776",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1580
   },
   {
    "id": "a00973f278a8ce41",
@@ -271,7 +271,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -279,7 +279,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 5
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -295,9 +295,8 @@
    "n": 2
   },
   "CFTC": {
-   "ok": false,
-   "n": 0,
-   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
+   "ok": true,
+   "n": 2
   },
   "Federal Reserve": {
    "ok": true,
