@@ -1,43 +1,42 @@
 {
- "generated_at": "2026-09-22T09:34:10Z",
- "generated_ts": 1790069650,
+ "generated_at": "2026-09-22T10:42:26Z",
+ "generated_ts": 1790073746,
  "prices": {
   "BTC": {
-   "p": 85885.2,
+   "p": 85892.6,
    "o": 86598.0,
    "h": 87446.7,
    "l": 84124.0,
-   "v": 4619.37536891
+   "v": 4177.77002565
   },
   "ETH": {
-   "p": 2738.93,
+   "p": 2741.07,
    "o": 2775.49,
    "h": 2806.69,
-   "l": 2707.9,
-   "v": 60480.88527851
+   "l": 2709.43,
+   "v": 58337.37139532
   },
   "SOL": {
-   "p": 117.18,
+   "p": 116.75,
    "o": 118.9,
    "h": 119.97,
-   "l": 115.35,
-   "v": 634539.75582819
+   "l": 115.53,
+   "v": 591257.84056896
   }
  },
  "change_7d": {
-  "BTC": 0.12011867705645354,
-  "ETH": 0.10988478453132379,
-  "SOL": 0.1676605048698071
+  "BTC": 0.12076018315010706,
+  "ETH": 0.1118608299104111,
+  "SOL": 0.16509574362535964
  },
  "sentiment": {
-  "score": 66.4,
+  "score": 72.2,
   "label": "Greed",
   "components": {
    "fng": 78.0,
-   "momentum": 80.02966926411338,
-   "news_tone": 43.26666666666667,
-   "crowding": 65.7588385,
-   "ai_calm": 45.0
+   "momentum": 80.19004578752677,
+   "crowding": 70.0764235,
+   "ai_calm": 50.0
   },
   "weights": {
    "fng": 0.35,
@@ -52,25 +51,25 @@
   "label": "Extreme Greed",
   "ts": 1790035200
  },
- "news_tone_24h": -0.404,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3918856674.7580314,
-   "premium": 0.0006633383
+   "funding_h": 1.88238e-05,
+   "oi_usd": 3943718049.685089,
+   "premium": 0.0006646576
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3141091213.1335206,
-   "premium": 0.0007662276
+   "funding_h": 2.36801e-05,
+   "oi_usd": 3142915434.6227975,
+   "premium": 0.000612754
   },
   "SOL": {
-   "funding_h": 1.81749e-05,
-   "oi_usd": 718394613.1040009,
-   "premium": 0.0007958259
+   "funding_h": 1.25e-05,
+   "oi_usd": 719630970.408,
+   "premium": 0.0006850488
   }
  },
- "items_24h": 645,
+ "items_24h": 643,
  "top_items": [
   {
    "id": "fa47847bb2e80c6c",
@@ -86,7 +85,7 @@
     "geo"
    ],
    "author": "Donald Trump",
-   "score": 36482
+   "score": 36649
   },
   {
    "id": "a588a600196bd2e0",
@@ -102,7 +101,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 31401
+   "score": 31590
   },
   {
    "id": "756fba2651cf9944",
@@ -119,7 +118,7 @@
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 20757
+   "score": 20994
   },
   {
    "id": "e78c7f326dc995b2",
@@ -264,11 +263,11 @@
    ]
   }
  ],
- "briefing_ts": 1790056995,
+ "briefing_ts": 1790072685,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 7
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
