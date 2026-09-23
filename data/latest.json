@@ -1,40 +1,41 @@
 {
- "generated_at": "2026-09-23T16:46:03Z",
- "generated_ts": 1790181963,
+ "generated_at": "2026-09-23T20:11:05Z",
+ "generated_ts": 1790194265,
  "prices": {
   "BTC": {
-   "p": 84082.6,
+   "p": 84357.3,
    "o": 86199.4,
    "h": 87274.4,
    "l": 83501.0,
-   "v": 3629.0462302
+   "v": 3547.38778833
   },
   "ETH": {
-   "p": 2664.54,
+   "p": 2674.48,
    "o": 2753.49,
    "h": 2787.89,
    "l": 2635.3,
-   "v": 49540.14557598
+   "v": 52340.97842732
   },
   "SOL": {
-   "p": 114.57,
+   "p": 114.43,
    "o": 118.58,
    "h": 119.78,
    "l": 112.99,
-   "v": 583389.32088878
+   "v": 540920.9561207
   }
  },
  "change_7d": {
-  "BTC": 0.10916851641800121,
-  "ETH": 0.11083139226108092,
-  "SOL": 0.1733127253992788
+  "BTC": 0.11205092105263152,
+  "ETH": 0.11295819133904089,
+  "SOL": 0.16882719199755034
  },
  "sentiment": {
-  "score": 71.2,
+  "score": 66.0,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 77.2921291045003,
+   "momentum": 78.01273026315788,
+   "news_tone": 40.68333333333333,
    "crowding": 63.6875
   },
   "weights": {
@@ -50,25 +51,25 @@
   "label": "Greed",
   "ts": 1790121600
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.559,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3291225198.26316,
-   "premium": -0.0002306986
+   "oi_usd": 3277114295.62344,
+   "premium": -0.0002903859
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2926102206.9123373,
-   "premium": 0.0001651057
+   "oi_usd": 2929765546.939999,
+   "premium": 0.0001121579
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 699976162.515,
-   "premium": 0.0
+   "oi_usd": 701844915.9288001,
+   "premium": -0.0002621232
   }
  },
- "items_24h": 410,
+ "items_24h": 501,
  "top_items": [
   {
    "id": "596b14e78a39e95e",
@@ -117,6 +118,34 @@
    ],
    "author": "Donald Trump",
    "score": 1335
+  },
+  {
+   "id": "89c48d2341bb816f",
+   "ts": 1790190472,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "White House App Hits No. 1 in News and Cracks App Store Top 20 as Americans Tune Out Fake News",
+   "url": "https://www.whitehouse.gov/releases/2026/09/white-house-app-hits-no-1-in-news-and-cracks-app-store-top-20-as-americans-tune-out-fake-news/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "39a27e3d1e762f91",
+   "ts": 1790188020,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised",
+   "domain": "SEC",
+   "org": "SEC",
+   "tags": [
+    "regulation"
+   ]
   },
   {
    "id": "96186ee52de7febc",
@@ -175,6 +204,20 @@
    ]
   },
   {
+   "id": "35a0137163837f4d",
+   "ts": 1790179200,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement",
+   "domain": "SEC",
+   "org": "SEC",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
    "id": "8581af3f5c060ef0",
    "ts": 1790177400,
    "source": "news",
@@ -201,56 +244,13 @@
     "crypto",
     "institution"
    ]
-  },
-  {
-   "id": "bfa0dca1edce2ce1",
-   "ts": 1790154000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Almost ten million people took part in ECB survey on new euro banknotes",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "dda50408f6b16130",
-   "ts": 1790141400,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "And now Bitcoin bulls are getting another push from the ETF inflows",
-   "url": "https://investinglive.com/cryptocurrency/and-now-bitcoin-bulls-are-getting-another-push-from-the-etf-inflows/",
-   "domain": "investinglive.com",
-   "tags": [
-    "crypto",
-    "institution",
-    "BTC"
-   ]
-  },
-  {
-   "id": "cb7c4b137330e8a3",
-   "ts": 1790141400,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "AI Could Drive Crypto Demand , BlackRock Says",
-   "url": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock",
-   "domain": "cointelegraph.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790087372,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 22
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -262,7 +262,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 4
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -275,7 +275,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 2
+   "n": 4
   },
   "CFTC": {
    "ok": true,
@@ -283,7 +283,7 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 5
+   "n": 3
   },
   "European Central Bank": {
    "ok": true,
@@ -319,7 +319,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 37
+   "n": 38
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
@@ -327,7 +327,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
