@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-22T21:12:27Z",
- "generated_ts": 1790111547,
+ "generated_at": "2026-09-23T00:18:16Z",
+ "generated_ts": 1790122696,
  "prices": {
   "BTC": {
-   "p": 86265.8,
-   "o": 86598.0,
-   "h": 86833.6,
+   "p": 86398.0,
+   "o": 86199.4,
+   "h": 86705.3,
    "l": 85100.0,
-   "v": 3272.28604175
+   "v": 3168.28257535
   },
   "ETH": {
-   "p": 2748.81,
-   "o": 2775.49,
-   "h": 2787.86,
+   "p": 2758.73,
+   "o": 2753.49,
+   "h": 2776.79,
    "l": 2715.34,
-   "v": 32362.0685411
+   "v": 34435.87793557
   },
   "SOL": {
-   "p": 117.87,
-   "o": 118.9,
-   "h": 119.97,
+   "p": 118.86,
+   "o": 118.58,
+   "h": 119.46,
    "l": 115.53,
-   "v": 497936.82234596
+   "v": 505484.75078476
   }
  },
  "change_7d": {
-  "BTC": 0.1371593905075606,
-  "ETH": 0.14391527354043868,
-  "SOL": 0.21207764198418394
+  "BTC": 0.1404246418264566,
+  "ETH": 0.1490897860726002,
+  "SOL": 0.22454038421813685
  },
  "sentiment": {
-  "score": 68.0,
+  "score": 65.4,
   "label": "Greed",
   "components": {
-   "fng": 78.0,
-   "momentum": 84.28984762689015,
-   "news_tone": 40.35,
+   "fng": 71.0,
+   "momentum": 85.10616045661415,
+   "news_tone": 38.15,
    "crowding": 63.6875,
    "ai_calm": 55.0
   },
@@ -48,187 +48,200 @@
   }
  },
  "fear_greed": {
-  "value": 78,
-  "label": "Extreme Greed",
-  "ts": 1790035200
+  "value": 71,
+  "label": "Greed",
+  "ts": 1790121600
  },
- "news_tone_24h": -0.579,
+ "news_tone_24h": -0.711,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3996498793.3374405,
-   "premium": 0.0003918241
+   "oi_usd": 4005780820.6801,
+   "premium": 0.000528915
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3165095277.4313593,
-   "premium": 0.0002219078
+   "oi_usd": 3169848070.406121,
+   "premium": 0.0005798992
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 742376284.9304881,
-   "premium": 0.0003817603
+   "oi_usd": 756641439.4125999,
+   "premium": 0.0005678353
   }
  },
- "items_24h": 557,
+ "items_24h": 549,
  "top_items": [
   {
-   "id": "e52fde9cc016b79d",
-   "ts": 1790109480,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "CFTC Releases Staff Advisory on Mention Markets",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9302-26",
-   "domain": "CFTC",
-   "org": "CFTC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "bb3326ddb25c563c",
-   "ts": 1790109000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "cd2d305c72ceb98a",
-   "ts": 1790096663,
-   "source": "government",
+   "id": "596b14e78a39e95e",
+   "ts": 1790115232,
+   "source": "truth",
    "group": "government",
-   "kind": "official",
-   "title": "President Trump at the United Nations: “While Others Have Talked, I Have Acted”",
-   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-at-the-united-nations-while-others-have-talked-i-have-acted/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "f28625e431492590",
-   "ts": 1790095271,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci",
-   "domain": "SEC",
-   "org": "SEC",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: https://justthenews.com/accountability/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data",
+   "url": "https://truthsocial.com/@realDonaldTrump/117316991845409643",
+   "domain": "truthsocial.com",
    "tags": [
     "regulation"
-   ]
+   ],
+   "author": "Donald Trump",
+   "score": 5524
   },
   {
-   "id": "c79a0ab17c775147",
-   "ts": 1790094600,
+   "id": "032eb9f5b58698b3",
+   "ts": 1790118900,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Retirees Are Dropping Traditional Bonds for This 12 %- Yielding Income Fund",
-   "url": "https://www.aol.com/articles/retirees-dropping-traditional-bonds-12-123422000.html",
+   "title": "Bitcoin Cleared $85 , 000 a Week After the CLARITY Act Died and the Fed Hiked . How High Can It Go ?",
+   "url": "https://247wallst.com/investing/cryptocurrency/2026/09/22/bitcoin-cleared-85000-a-week-after-the-clarity-act-died-and-the-fed-hiked-how-high-can-it-go/",
+   "domain": "247wallst.com",
+   "tags": [
+    "crypto",
+    "macro",
+    "regulation",
+    "BTC",
+    "institution"
+   ]
+  },
+  {
+   "id": "915caead093642a7",
+   "ts": 1790118900,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "VOO 0 . 03 % Fee Hides a Costlier Truth : 38 % in One Sector and a Tax Bill on Dividends You Reinvested",
+   "url": "https://www.aol.com/articles/voo-0-03-fee-hides-220523000.html",
+   "domain": "aol.com",
+   "tags": [
+    "regulation",
+    "institution"
+   ]
+  },
+  {
+   "id": "1d3db0e594041177",
+   "ts": 1790118900,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "VTI 3 , 000 Extra Stocks Cost Holders $393 , 400 Per $500 , 000 Over the Past Decade",
+   "url": "https://247wallst.com/investing/etf/2026/09/22/vtis-3000-extra-stocks-cost-holders-393400-per-500000-over-the-past-decade/",
+   "domain": "247wallst.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "91e2724f85bf2d50",
+   "ts": 1790118900,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "The Market Is Near Another All - Time High and Youre 66 With Cash to Invest . Buying Now Feels Like the Top . These 3 ETFs Are How You Get In Anyway",
+   "url": "https://www.aol.com/articles/market-near-another-time-high-222553000.html",
    "domain": "aol.com",
    "tags": [
     "institution"
    ]
   },
   {
-   "id": "0c94e0bfd18ebf29",
-   "ts": 1790094600,
+   "id": "84bc48516162d7b6",
+   "ts": 1790118900,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "VNQ vs . SGOV : Why Own a REIT ETF When T - Bills Pay Almost as Much With Zero Rate Risk ?",
-   "url": "https://www.aol.com/articles/vnq-vs-sgov-why-own-154633000.html",
+   "title": "Claiming Social Security at 63 and Earning $60K ? These 3 ETFs Help Replace the Withheld Check",
+   "url": "https://247wallst.com/investing/etf/2026/09/22/claiming-social-security-at-63-and-earning-60k-these-3-etfs-help-replace-the-withheld-check/",
+   "domain": "247wallst.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "0257320f18e2e011",
+   "ts": 1790118900,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "VTI 3 , 000 Extra Stocks Cost Holders $393 , 400 Per $500 , 000 Over the Past Decade",
+   "url": "https://www.aol.com/articles/vti-3-000-extra-stocks-223511000.html",
    "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "88a1f8a302f91086",
+   "ts": 1790118900,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Inflation Is 3 . 4 % and Gas Is Up 27 %. These Six Income Funds Raised Their Payouts Faster Than Prices",
+   "url": "https://www.aol.com/articles/inflation-3-4-gas-27-215525000.html",
+   "domain": "aol.com",
+   "tags": [
+    "macro",
+    "institution"
+   ]
+  },
+  {
+   "id": "7549c79795a3079d",
+   "ts": 1790118000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Vanguard Russell 2000 Growth ETF ( NASDAQ : VTWG ) Announces Quarterly Dividend of $0 . 34",
+   "url": "https://www.tickerreport.com/banking-finance/13592045/vanguard-russell-2000-growth-etf-nasdaqvtwg-announces-quarterly-dividend-of-0-34.html",
+   "domain": "tickerreport.com",
    "tags": [
     "crypto",
     "institution"
    ]
   },
   {
-   "id": "9cd9dee315368564",
-   "ts": 1790092096,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "AGREEMENT BETWEEN THE GOVERNMENT OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE KINGDOM OF DENMARK TOGETHER WITH THE GOVERNMENT OF GREENLAND",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/agreement-between-the-government-of-the-united-states-of-america-and-the-government-of-the-kingdom-of-denmark-together-with-the-government-of-greenland-to-amend-and-supplement-the-agreement-of-27-apri/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "d1cb4af25a17216c",
-   "ts": 1790091000,
+   "id": "56416d832e36955c",
+   "ts": 1790117100,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "One of These Growth ETFs Has a 10 - Year Record . The Other Is Beating It Anyway .",
-   "url": "https://247wallst.com/investing/etf/2026/09/22/one-of-these-growth-etfs-has-a-10-year-record-the-other-is-beating-it-anyway/",
-   "domain": "247wallst.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "f3cc9952a3b65c03",
-   "ts": 1790091000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "How Long Does It Take to Build $1 , 600 a Month in Dividend Income on $1 , 000 a Month in Savings ?",
-   "url": "https://247wallst.com/personal-finance/2026/09/22/how-long-does-it-take-to-build-1600-a-month-in-dividend-income-on-1000-a-month-in-savings/",
-   "domain": "247wallst.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "5e4c862cc9adb672",
-   "ts": 1790091000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Foreign Currency Reserves 2026 – Market Notice 22 September 2026",
-   "url": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-22-september-2026",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "24953ba72f0b2490",
-   "ts": 1790074800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Prediction : $10 , 000 Invested in VFVA Today Could Be Worth This Much by 2031",
-   "url": "https://www.aol.com/articles/prediction-10-000-invested-vfva-102000000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "0571202db953b186",
-   "ts": 1790074800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Prediction : $10 , 000 Invested in VFVA Today Could Be Worth This Much by 2031",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-10-000-invested-vfva-102000834.html",
+   "title": "The Fed Just Raised Rates for the First Time Since 2023 . CoreWeave CEO Sees an Inflection Point , But Its $51 Billion Debt Problem Just Got Worse .",
+   "url": "https://finance.yahoo.com/economy/policy/articles/fed-just-raised-rates-first-143638934.html",
    "domain": "finance.yahoo.com",
    "tags": [
+    "macro",
     "institution"
+   ]
+  },
+  {
+   "id": "f7b1a44a22ac2e44",
+   "ts": 1790115300,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Bitcoin ETFs Just Pulled In $1 Billion in a Day as Investors Break Even",
+   "url": "https://247wallst.com/investing/cryptocurrency/2026/09/22/bitcoin-etfs-just-pulled-in-1-billion-in-a-day-as-investors-break-even/",
+   "domain": "247wallst.com",
+   "tags": [
+    "crypto",
+    "BTC",
+    "institution"
+   ]
+  },
+  {
+   "id": "f7fa30e975fa6b94",
+   "ts": 1790115300,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "If You Own IBIT , This Bitcoin Fund 13 % Yield Deserves a Second Look",
+   "url": "https://247wallst.com/investing/etf/2026/09/22/if-you-own-ibit-this-bitcoin-funds-13-yield-deserves-a-second-look/",
+   "domain": "247wallst.com",
+   "tags": [
+    "crypto",
+    "macro",
+    "institution",
+    "BTC"
    ]
   }
  ],
@@ -236,7 +249,7 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 57
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -248,11 +261,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 24
   },
   "White House": {
    "ok": true,
-   "n": 27
+   "n": 30
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -309,11 +322,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 39
+   "n": 40
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 25
+   "n": 24
   },
   "Reddit r/Bitcoin": {
    "ok": false,
