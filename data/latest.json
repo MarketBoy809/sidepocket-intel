@@ -1,43 +1,41 @@
 {
- "generated_at": "2026-09-23T00:18:16Z",
- "generated_ts": 1790122696,
+ "generated_at": "2026-09-23T05:49:53Z",
+ "generated_ts": 1790142593,
  "prices": {
   "BTC": {
-   "p": 86398.0,
+   "p": 86570.3,
    "o": 86199.4,
-   "h": 86705.3,
-   "l": 85100.0,
-   "v": 3168.28257535
+   "h": 87274.4,
+   "l": 85149.1,
+   "v": 2935.77137809
   },
   "ETH": {
-   "p": 2758.73,
+   "p": 2764.01,
    "o": 2753.49,
-   "h": 2776.79,
-   "l": 2715.34,
-   "v": 34435.87793557
+   "h": 2787.89,
+   "l": 2716.18,
+   "v": 32857.21751613
   },
   "SOL": {
-   "p": 118.86,
+   "p": 118.82,
    "o": 118.58,
-   "h": 119.46,
-   "l": 115.53,
-   "v": 505484.75078476
+   "h": 119.78,
+   "l": 115.78,
+   "v": 471374.02794132
   }
  },
  "change_7d": {
-  "BTC": 0.1404246418264566,
-  "ETH": 0.1490897860726002,
-  "SOL": 0.22454038421813685
+  "BTC": 0.14998675398132572,
+  "ETH": 0.1570780894175247,
+  "SOL": 0.2293209876543209
  },
  "sentiment": {
-  "score": 65.4,
-  "label": "Greed",
+  "score": 76.1,
+  "label": "Extreme greed",
   "components": {
    "fng": 71.0,
-   "momentum": 85.10616045661415,
-   "news_tone": 38.15,
-   "crowding": 63.6875,
-   "ai_calm": 55.0
+   "momentum": 87.49668849533143,
+   "crowding": 72.68602750000001
   },
   "weights": {
    "fng": 0.35,
@@ -52,25 +50,25 @@
   "label": "Greed",
   "ts": 1790121600
  },
- "news_tone_24h": -0.711,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 4005780820.6801,
-   "premium": 0.000528915
+   "oi_usd": 4005763742.889591,
+   "premium": 0.0006467484
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3169848070.406121,
-   "premium": 0.0005798992
+   "funding_h": 2.74192e-05,
+   "oi_usd": 3221909612.7662992,
+   "premium": 0.000879043
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 756641439.4125999,
-   "premium": 0.0005678353
+   "funding_h": 2.22343e-05,
+   "oi_usd": 765402617.3856,
+   "premium": 0.0008928429
   }
  },
- "items_24h": 549,
+ "items_24h": 495,
  "top_items": [
   {
    "id": "596b14e78a39e95e",
@@ -89,159 +87,161 @@
    "score": 5524
   },
   {
-   "id": "032eb9f5b58698b3",
-   "ts": 1790118900,
+   "id": "ba1bc85004a7a723",
+   "ts": 1790136264,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Azerbaijan's Hajiyev to Newsmax: Trump Peacemaker, Iran Deal Possible: https://www.newsmax.com/newsfront/azerbaijan-ilham-aliyev-armenia/2026/09/14/id/1269433/",
+   "url": "https://truthsocial.com/@realDonaldTrump/117318370203435194",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 1539
+  },
+  {
+   "id": "026264649a4275b5",
+   "ts": 1790136243,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Netanyahu Bloc Takes Lead in Latest Israeli Election Poll: https://www.newsmax.com/newsfront/israel-benjamin-netanyahu-likud/2026/09/17/id/1269830/",
+   "url": "https://truthsocial.com/@realDonaldTrump/117318368847920040",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 1335
+  },
+  {
+   "id": "dda50408f6b16130",
+   "ts": 1790141400,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Bitcoin Cleared $85 , 000 a Week After the CLARITY Act Died and the Fed Hiked . How High Can It Go ?",
-   "url": "https://247wallst.com/investing/cryptocurrency/2026/09/22/bitcoin-cleared-85000-a-week-after-the-clarity-act-died-and-the-fed-hiked-how-high-can-it-go/",
-   "domain": "247wallst.com",
+   "title": "And now Bitcoin bulls are getting another push from the ETF inflows",
+   "url": "https://investinglive.com/cryptocurrency/and-now-bitcoin-bulls-are-getting-another-push-from-the-etf-inflows/",
+   "domain": "investinglive.com",
    "tags": [
     "crypto",
-    "macro",
-    "regulation",
-    "BTC",
-    "institution"
-   ]
-  },
-  {
-   "id": "915caead093642a7",
-   "ts": 1790118900,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "VOO 0 . 03 % Fee Hides a Costlier Truth : 38 % in One Sector and a Tax Bill on Dividends You Reinvested",
-   "url": "https://www.aol.com/articles/voo-0-03-fee-hides-220523000.html",
-   "domain": "aol.com",
-   "tags": [
-    "regulation",
-    "institution"
-   ]
-  },
-  {
-   "id": "1d3db0e594041177",
-   "ts": 1790118900,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "VTI 3 , 000 Extra Stocks Cost Holders $393 , 400 Per $500 , 000 Over the Past Decade",
-   "url": "https://247wallst.com/investing/etf/2026/09/22/vtis-3000-extra-stocks-cost-holders-393400-per-500000-over-the-past-decade/",
-   "domain": "247wallst.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "91e2724f85bf2d50",
-   "ts": 1790118900,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "The Market Is Near Another All - Time High and Youre 66 With Cash to Invest . Buying Now Feels Like the Top . These 3 ETFs Are How You Get In Anyway",
-   "url": "https://www.aol.com/articles/market-near-another-time-high-222553000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "84bc48516162d7b6",
-   "ts": 1790118900,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Claiming Social Security at 63 and Earning $60K ? These 3 ETFs Help Replace the Withheld Check",
-   "url": "https://247wallst.com/investing/etf/2026/09/22/claiming-social-security-at-63-and-earning-60k-these-3-etfs-help-replace-the-withheld-check/",
-   "domain": "247wallst.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "0257320f18e2e011",
-   "ts": 1790118900,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "VTI 3 , 000 Extra Stocks Cost Holders $393 , 400 Per $500 , 000 Over the Past Decade",
-   "url": "https://www.aol.com/articles/vti-3-000-extra-stocks-223511000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "88a1f8a302f91086",
-   "ts": 1790118900,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Inflation Is 3 . 4 % and Gas Is Up 27 %. These Six Income Funds Raised Their Payouts Faster Than Prices",
-   "url": "https://www.aol.com/articles/inflation-3-4-gas-27-215525000.html",
-   "domain": "aol.com",
-   "tags": [
-    "macro",
-    "institution"
-   ]
-  },
-  {
-   "id": "7549c79795a3079d",
-   "ts": 1790118000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Vanguard Russell 2000 Growth ETF ( NASDAQ : VTWG ) Announces Quarterly Dividend of $0 . 34",
-   "url": "https://www.tickerreport.com/banking-finance/13592045/vanguard-russell-2000-growth-etf-nasdaqvtwg-announces-quarterly-dividend-of-0-34.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "56416d832e36955c",
-   "ts": 1790117100,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "The Fed Just Raised Rates for the First Time Since 2023 . CoreWeave CEO Sees an Inflection Point , But Its $51 Billion Debt Problem Just Got Worse .",
-   "url": "https://finance.yahoo.com/economy/policy/articles/fed-just-raised-rates-first-143638934.html",
-   "domain": "finance.yahoo.com",
-   "tags": [
-    "macro",
-    "institution"
-   ]
-  },
-  {
-   "id": "f7b1a44a22ac2e44",
-   "ts": 1790115300,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Bitcoin ETFs Just Pulled In $1 Billion in a Day as Investors Break Even",
-   "url": "https://247wallst.com/investing/cryptocurrency/2026/09/22/bitcoin-etfs-just-pulled-in-1-billion-in-a-day-as-investors-break-even/",
-   "domain": "247wallst.com",
-   "tags": [
-    "crypto",
-    "BTC",
-    "institution"
-   ]
-  },
-  {
-   "id": "f7fa30e975fa6b94",
-   "ts": 1790115300,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "If You Own IBIT , This Bitcoin Fund 13 % Yield Deserves a Second Look",
-   "url": "https://247wallst.com/investing/etf/2026/09/22/if-you-own-ibit-this-bitcoin-funds-13-yield-deserves-a-second-look/",
-   "domain": "247wallst.com",
-   "tags": [
-    "crypto",
-    "macro",
     "institution",
     "BTC"
+   ]
+  },
+  {
+   "id": "cb7c4b137330e8a3",
+   "ts": 1790141400,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "AI Could Drive Crypto Demand , BlackRock Says",
+   "url": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock",
+   "domain": "cointelegraph.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "beffadd9f3aef017",
+   "ts": 1790141400,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Altruist is acquired by Vanguard to vertically integrate asset management and custody",
+   "url": "https://www.investmentnews.com/advisor-tech/altruist-is-acquired-by-vanguard-to-vertically-integrate-asset-management-and-custody/268306",
+   "domain": "investmentnews.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "7f8837f81ea920a0",
+   "ts": 1790140500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Michael Saylor Strategy buys Bitcoin again as surprise rally pushes price above $85 , 000",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-strategy-buys-bitcoin-170509444.html",
+   "domain": "finance.yahoo.com",
+   "tags": [
+    "crypto",
+    "institution",
+    "BTC"
+   ]
+  },
+  {
+   "id": "19dc52244ccd8b17",
+   "ts": 1790138700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Crypto - linked stocks surge as bitcoin breaks through May highs",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-linked-stocks-surge-bitcoin-165100185.html",
+   "domain": "finance.yahoo.com",
+   "tags": [
+    "crypto",
+    "BTC",
+    "institution"
+   ]
+  },
+  {
+   "id": "68775555db51e3da",
+   "ts": 1790137800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Trump buys up to $50 , 000 of Musk SpaceX , sells some a week later",
+   "url": "https://timesofindia.indiatimes.com/business/international-business/trump-buys-up-to-50000-of-musks-spacex-sells-some-a-week-later/articleshow/134425049.cms",
+   "domain": "timesofindia.indiatimes.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "839fbf812126cd0d",
+   "ts": 1790136000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "S & P 500 Profits Are on Track for a Third Straight Quarter of 25 % + Growth . The Index Hasnt Kept Up .",
+   "url": "https://www.fool.com/investing/2026/09/22/s-and-p-500-profits-are-on-track-for-a-third-straight-quarter-of-25-growth-the-index-hasn-t-kept-up/?source=iedfolrf0000001",
+   "domain": "fool.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "4b002334232403fe",
+   "ts": 1790135100,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "S & P 500 Profits Are on Track for a Third Straight Quarter of 25 % + Growth . The Index Hasnt Kept Up .",
+   "url": "https://www.aol.com/articles/p-500-profits-track-third-025701000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "73c064c27bcad285",
+   "ts": 1790134200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Strategy Buys 950 BTC With Cash , Holdings Hit 846 , 000",
+   "url": "https://insidebitcoins.com/news/strategy-buys-950-btc-cash-reserve-not-stock",
+   "domain": "insidebitcoins.com",
+   "tags": [
+    "crypto",
+    "BTC",
+    "institution"
    ]
   }
  ],
@@ -249,11 +249,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 57
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -261,7 +261,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 24
+   "n": 9
   },
   "White House": {
    "ok": true,
@@ -322,11 +322,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 40
+   "n": 41
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 24
+   "n": 25
   },
   "Reddit r/Bitcoin": {
    "ok": false,
