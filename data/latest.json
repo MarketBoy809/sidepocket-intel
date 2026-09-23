@@ -1,41 +1,40 @@
 {
- "generated_at": "2026-09-23T20:11:05Z",
- "generated_ts": 1790194265,
+ "generated_at": "2026-09-23T23:35:36Z",
+ "generated_ts": 1790206536,
  "prices": {
   "BTC": {
-   "p": 84357.3,
+   "p": 84492.2,
    "o": 86199.4,
    "h": 87274.4,
    "l": 83501.0,
-   "v": 3547.38778833
+   "v": 3511.64128944
   },
   "ETH": {
-   "p": 2674.48,
+   "p": 2684.66,
    "o": 2753.49,
    "h": 2787.89,
    "l": 2635.3,
-   "v": 52340.97842732
+   "v": 48238.77285545
   },
   "SOL": {
-   "p": 114.43,
+   "p": 114.87,
    "o": 118.58,
    "h": 119.78,
    "l": 112.99,
-   "v": 540920.9561207
+   "v": 549700.10340212
   }
  },
  "change_7d": {
-  "BTC": 0.11205092105263152,
-  "ETH": 0.11295819133904089,
-  "SOL": 0.16882719199755034
+  "BTC": 0.11809178197113783,
+  "ETH": 0.12499686284351881,
+  "SOL": 0.18191150805872086
  },
  "sentiment": {
-  "score": 66.0,
+  "score": 71.9,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 78.01273026315788,
-   "news_tone": 40.68333333333333,
+   "momentum": 79.52294549278446,
    "crowding": 63.6875
   },
   "weights": {
@@ -51,42 +50,26 @@
   "label": "Greed",
   "ts": 1790121600
  },
- "news_tone_24h": -0.559,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3277114295.62344,
-   "premium": -0.0002903859
+   "oi_usd": 3304031383.3402004,
+   "premium": -0.0002603489
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2929765546.939999,
-   "premium": 0.0001121579
+   "oi_usd": 2929033891.5244203,
+   "premium": 0.0
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 701844915.9288001,
-   "premium": -0.0002621232
+   "oi_usd": 698732391.2624,
+   "premium": 0.000130554
   }
  },
- "items_24h": 501,
+ "items_24h": 450,
  "top_items": [
-  {
-   "id": "596b14e78a39e95e",
-   "ts": 1790115232,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: https://justthenews.com/accountability/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data",
-   "url": "https://truthsocial.com/@realDonaldTrump/117316991845409643",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 5524
-  },
   {
    "id": "ba1bc85004a7a723",
    "ts": 1790136264,
@@ -244,6 +227,18 @@
     "crypto",
     "institution"
    ]
+  },
+  {
+   "id": "4e0cbbd4a56123d3",
+   "ts": 1790172131,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Delivers Powerful America First Message to the United Nations",
+   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-powerful-america-first-message-to-the-united-nations/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   }
  ],
  "briefing_ts": 1790087372,
@@ -266,7 +261,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 30
+   "n": 25
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -323,11 +318,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 41
+   "n": 40
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 17
   },
   "Reddit r/Bitcoin": {
    "ok": false,
