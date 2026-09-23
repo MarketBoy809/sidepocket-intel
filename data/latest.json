@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-23T05:49:53Z",
- "generated_ts": 1790142593,
+ "generated_at": "2026-09-23T11:23:19Z",
+ "generated_ts": 1790162599,
  "prices": {
   "BTC": {
-   "p": 86570.3,
+   "p": 85584.1,
    "o": 86199.4,
    "h": 87274.4,
-   "l": 85149.1,
-   "v": 2935.77137809
+   "l": 85448.1,
+   "v": 2950.53740541
   },
   "ETH": {
-   "p": 2764.01,
+   "p": 2723.94,
    "o": 2753.49,
    "h": 2787.89,
    "l": 2716.18,
-   "v": 32857.21751613
+   "v": 33516.78835222
   },
   "SOL": {
-   "p": 118.82,
+   "p": 116.79,
    "o": 118.58,
    "h": 119.78,
-   "l": 115.78,
-   "v": 471374.02794132
+   "l": 115.87,
+   "v": 481219.25645054
   }
  },
  "change_7d": {
-  "BTC": 0.14998675398132572,
-  "ETH": 0.1570780894175247,
-  "SOL": 0.2293209876543209
+  "BTC": 0.13154188619599583,
+  "ETH": 0.13854171432374088,
+  "SOL": 0.21008230452674898
  },
  "sentiment": {
-  "score": 76.1,
-  "label": "Extreme greed",
+  "score": 72.8,
+  "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 87.49668849533143,
-   "crowding": 72.68602750000001
+   "momentum": 82.88547154899896,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 4005763742.889591,
-   "premium": 0.0006467484
+   "oi_usd": 3938117482.5592227,
+   "premium": 0.0004416497
   },
   "ETH": {
-   "funding_h": 2.74192e-05,
-   "oi_usd": 3221909612.7662992,
-   "premium": 0.000879043
+   "funding_h": 1.25e-05,
+   "oi_usd": 3081267742.1705008,
+   "premium": 0.0002935888
   },
   "SOL": {
-   "funding_h": 2.22343e-05,
-   "oi_usd": 765402617.3856,
-   "premium": 0.0008928429
+   "funding_h": 1.25e-05,
+   "oi_usd": 739252956.7359995,
+   "premium": 0.0001344129
   }
  },
- "items_24h": 495,
+ "items_24h": 421,
  "top_items": [
   {
    "id": "596b14e78a39e95e",
@@ -117,6 +117,20 @@
    ],
    "author": "Donald Trump",
    "score": 1335
+  },
+  {
+   "id": "bfa0dca1edce2ce1",
+   "ts": 1790154000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Almost ten million people took part in ECB survey on new euro banknotes",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "dda50408f6b16130",
@@ -228,21 +242,6 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "73c064c27bcad285",
-   "ts": 1790134200,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Strategy Buys 950 BTC With Cash , Holdings Hit 846 , 000",
-   "url": "https://insidebitcoins.com/news/strategy-buys-950-btc-cash-reserve-not-stock",
-   "domain": "insidebitcoins.com",
-   "tags": [
-    "crypto",
-    "BTC",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790087372,
@@ -253,7 +252,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -261,7 +260,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 9
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -294,11 +293,11 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 7
+   "n": 6
   },
   "BIS": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "Strategy (MSTR) filings": {
    "ok": true,
@@ -318,7 +317,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 38
+   "n": 36
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
@@ -326,7 +325,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 25
+   "n": 24
   },
   "Reddit r/Bitcoin": {
    "ok": false,
