@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-09-23T11:23:19Z",
- "generated_ts": 1790162599,
+ "generated_at": "2026-09-23T16:46:03Z",
+ "generated_ts": 1790181963,
  "prices": {
   "BTC": {
-   "p": 85584.1,
+   "p": 84082.6,
    "o": 86199.4,
    "h": 87274.4,
-   "l": 85448.1,
-   "v": 2950.53740541
+   "l": 83501.0,
+   "v": 3629.0462302
   },
   "ETH": {
-   "p": 2723.94,
+   "p": 2664.54,
    "o": 2753.49,
    "h": 2787.89,
-   "l": 2716.18,
-   "v": 33516.78835222
+   "l": 2635.3,
+   "v": 49540.14557598
   },
   "SOL": {
-   "p": 116.79,
+   "p": 114.57,
    "o": 118.58,
    "h": 119.78,
-   "l": 115.87,
-   "v": 481219.25645054
+   "l": 112.99,
+   "v": 583389.32088878
   }
  },
  "change_7d": {
-  "BTC": 0.13154188619599583,
-  "ETH": 0.13854171432374088,
-  "SOL": 0.21008230452674898
+  "BTC": 0.10916851641800121,
+  "ETH": 0.11083139226108092,
+  "SOL": 0.1733127253992788
  },
  "sentiment": {
-  "score": 72.8,
+  "score": 71.2,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 82.88547154899896,
+   "momentum": 77.2921291045003,
    "crowding": 63.6875
   },
   "weights": {
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3938117482.5592227,
-   "premium": 0.0004416497
+   "oi_usd": 3291225198.26316,
+   "premium": -0.0002306986
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3081267742.1705008,
-   "premium": 0.0002935888
+   "oi_usd": 2926102206.9123373,
+   "premium": 0.0001651057
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 739252956.7359995,
-   "premium": 0.0001344129
+   "oi_usd": 699976162.515,
+   "premium": 0.0
   }
  },
- "items_24h": 421,
+ "items_24h": 410,
  "top_items": [
   {
    "id": "596b14e78a39e95e",
@@ -119,6 +119,90 @@
    "score": 1335
   },
   {
+   "id": "96186ee52de7febc",
+   "ts": 1790181000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "b962c9b943219ab4",
+   "ts": 1790180100,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Prediction : This Underrated ETF Could Be the Most Surprising Outperformer of the Next 10 Years",
+   "url": "https://www.fool.com/investing/2026/09/23/prediction-this-underrated-etf-could-be-the-most/?source=iedfolrf0000001",
+   "domain": "fool.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "82ce7bb88dfae5a5",
+   "ts": 1790180100,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "As AI Faces a Number of Critical Bottlenecks , Exposures Now Available in One Ticker Via xETFs AI Bottlenecks ETF ( NECK )",
+   "url": "https://www.manilatimes.net/2026/09/23/tmt-newswire/globenewswire/as-ai-faces-a-number-of-critical-bottlenecks-exposures-now-available-in-one-ticker-via-xetfs-ai-bottlenecks-etf-neck/2431570",
+   "domain": "manilatimes.net",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "ce372b02b2f21b2c",
+   "ts": 1790179200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "The digitalisation of money, payments and finance",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "8581af3f5c060ef0",
+   "ts": 1790177400,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Should You Really Invest in a Tech ETF in 2026 ? Here What History Says .",
+   "url": "https://www.aol.com/articles/really-invest-tech-etf-2026-150500000.html",
+   "domain": "aol.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "5c32b2adf81edc10",
+   "ts": 1790176500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Should You Really Invest in a Tech ETF in 2026 ? Here What History Says .",
+   "url": "https://www.fool.com/investing/2026/09/23/should-you-really-invest-in-a-tech-etf-in-2026/",
+   "domain": "fool.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
    "id": "bfa0dca1edce2ce1",
    "ts": 1790154000,
    "source": "central_bank",
@@ -160,99 +244,17 @@
     "crypto",
     "institution"
    ]
-  },
-  {
-   "id": "beffadd9f3aef017",
-   "ts": 1790141400,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Altruist is acquired by Vanguard to vertically integrate asset management and custody",
-   "url": "https://www.investmentnews.com/advisor-tech/altruist-is-acquired-by-vanguard-to-vertically-integrate-asset-management-and-custody/268306",
-   "domain": "investmentnews.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "7f8837f81ea920a0",
-   "ts": 1790140500,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Michael Saylor Strategy buys Bitcoin again as surprise rally pushes price above $85 , 000",
-   "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-strategy-buys-bitcoin-170509444.html",
-   "domain": "finance.yahoo.com",
-   "tags": [
-    "crypto",
-    "institution",
-    "BTC"
-   ]
-  },
-  {
-   "id": "19dc52244ccd8b17",
-   "ts": 1790138700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Crypto - linked stocks surge as bitcoin breaks through May highs",
-   "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-linked-stocks-surge-bitcoin-165100185.html",
-   "domain": "finance.yahoo.com",
-   "tags": [
-    "crypto",
-    "BTC",
-    "institution"
-   ]
-  },
-  {
-   "id": "68775555db51e3da",
-   "ts": 1790137800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Trump buys up to $50 , 000 of Musk SpaceX , sells some a week later",
-   "url": "https://timesofindia.indiatimes.com/business/international-business/trump-buys-up-to-50000-of-musks-spacex-sells-some-a-week-later/articleshow/134425049.cms",
-   "domain": "timesofindia.indiatimes.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "839fbf812126cd0d",
-   "ts": 1790136000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "S & P 500 Profits Are on Track for a Third Straight Quarter of 25 % + Growth . The Index Hasnt Kept Up .",
-   "url": "https://www.fool.com/investing/2026/09/22/s-and-p-500-profits-are-on-track-for-a-third-straight-quarter-of-25-growth-the-index-hasn-t-kept-up/?source=iedfolrf0000001",
-   "domain": "fool.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "4b002334232403fe",
-   "ts": 1790135100,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "S & P 500 Profits Are on Track for a Third Straight Quarter of 25 % + Growth . The Index Hasnt Kept Up .",
-   "url": "https://www.aol.com/articles/p-500-profits-track-third-025701000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790087372,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 22
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -260,7 +262,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 4
   },
   "White House": {
    "ok": true,
@@ -273,7 +275,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "CFTC": {
    "ok": true,
@@ -285,11 +287,11 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 6
+   "n": 8
   },
   "Bank of England": {
    "ok": true,
-   "n": 11
+   "n": 10
   },
   "Bank of Japan": {
    "ok": true,
@@ -317,7 +319,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 36
+   "n": 37
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
@@ -325,7 +327,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 24
+   "n": 21
   },
   "Reddit r/Bitcoin": {
    "ok": false,
