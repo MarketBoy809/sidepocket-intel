@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-09-24T04:33:40Z",
- "generated_ts": 1790224420,
+ "generated_at": "2026-09-24T09:53:21Z",
+ "generated_ts": 1790243601,
  "prices": {
   "BTC": {
-   "p": 83890.3,
+   "p": 83238.2,
    "o": 84384.5,
-   "h": 87274.4,
-   "l": 83501.0,
-   "v": 3479.96161776
+   "h": 85956.3,
+   "l": 82832.3,
+   "v": 3871.68013128
   },
   "ETH": {
-   "p": 2676.62,
+   "p": 2645.3,
    "o": 2683.99,
-   "h": 2786.39,
-   "l": 2635.3,
-   "v": 43534.67455494
+   "h": 2739.05,
+   "l": 2627.68,
+   "v": 43489.59658945
   },
   "SOL": {
-   "p": 114.93,
+   "p": 113.44,
    "o": 115.01,
-   "h": 119.69,
-   "l": 112.99,
-   "v": 521754.75513605
+   "h": 117.78,
+   "l": 112.48,
+   "v": 531455.01307834
   }
  },
  "change_7d": {
-  "BTC": 0.09904580095193355,
-  "ETH": 0.09976945931840513,
-  "SOL": 0.1482779335202243
+  "BTC": 0.09329044748433449,
+  "ETH": 0.09214441538455247,
+  "SOL": 0.13836791699920198
  },
  "sentiment": {
-  "score": 69.5,
+  "score": 63.5,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 74.76145023798338,
-   "crowding": 58.7830315
+   "momentum": 73.32261187108362,
+   "news_tone": 42.483333333333334,
+   "crowding": 53.652847
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Greed",
   "ts": 1790208000
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.451,
  "derivatives": {
   "BTC": {
-   "funding_h": -9.369e-07,
-   "oi_usd": 3105924920.5212803,
-   "premium": -0.0004886479
+   "funding_h": -3.4525e-06,
+   "oi_usd": 3091763726.12172,
+   "premium": -0.0004684122
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2904844255.4990196,
-   "premium": -4.10831e-05
+   "oi_usd": 2847349225.63884,
+   "premium": -7.558e-06
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 703582951.1671999,
-   "premium": -0.0001600858
+   "funding_h": 9.603e-07,
+   "oi_usd": 677453178.0936002,
+   "premium": -0.0004407616
   }
  },
- "items_24h": 441,
+ "items_24h": 411,
  "top_items": [
   {
    "id": "c4a26d202d4558c5",
@@ -101,6 +102,33 @@
    ],
    "author": "Donald Trump",
    "score": 10673
+  },
+  {
+   "id": "e5f751f0937f4fbc",
+   "ts": 1790240400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Philip R. Lane: The outlook for the euro area economy",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "868c7c4f6f15d4de",
+   "ts": 1790235000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Stocks Settle Mixed as Chipmakers Climb and Financial Stocks Fall",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-mixed-chipmakers-climb-203442164.html",
+   "domain": "finance.yahoo.com",
+   "tags": [
+    "institution"
+   ]
   },
   {
    "id": "d5b70513bfe6f3ef",
@@ -210,45 +238,17 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "b962c9b943219ab4",
-   "ts": 1790180100,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Prediction : This Underrated ETF Could Be the Most Surprising Outperformer of the Next 10 Years",
-   "url": "https://www.fool.com/investing/2026/09/23/prediction-this-underrated-etf-could-be-the-most/?source=iedfolrf0000001",
-   "domain": "fool.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "82ce7bb88dfae5a5",
-   "ts": 1790180100,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "As AI Faces a Number of Critical Bottlenecks , Exposures Now Available in One Ticker Via xETFs AI Bottlenecks ETF ( NECK )",
-   "url": "https://www.manilatimes.net/2026/09/23/tmt-newswire/globenewswire/as-ai-faces-a-number-of-critical-bottlenecks-exposures-now-available-in-one-ticker-via-xetfs-ai-bottlenecks-etf-neck/2431570",
-   "domain": "manilatimes.net",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790087372,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 20
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -256,7 +256,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 4
+   "n": 1
   },
   "White House": {
    "ok": true,
@@ -281,7 +281,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 8
+   "n": 9
   },
   "Bank of England": {
    "ok": true,
@@ -289,12 +289,11 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 6
+   "n": 4
   },
   "BIS": {
-   "ok": false,
-   "n": 0,
-   "err": "<urlopen error timed out>"
+   "ok": true,
+   "n": 1
   },
   "Strategy (MSTR) filings": {
    "ok": true,
@@ -314,7 +313,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 38
+   "n": 36
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
@@ -322,7 +321,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 17
+   "n": 18
   },
   "Reddit r/Bitcoin": {
    "ok": false,
