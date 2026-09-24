@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-23T23:35:36Z",
- "generated_ts": 1790206536,
+ "generated_at": "2026-09-24T04:33:40Z",
+ "generated_ts": 1790224420,
  "prices": {
   "BTC": {
-   "p": 84492.2,
-   "o": 86199.4,
+   "p": 83890.3,
+   "o": 84384.5,
    "h": 87274.4,
    "l": 83501.0,
-   "v": 3511.64128944
+   "v": 3479.96161776
   },
   "ETH": {
-   "p": 2684.66,
-   "o": 2753.49,
-   "h": 2787.89,
+   "p": 2676.62,
+   "o": 2683.99,
+   "h": 2786.39,
    "l": 2635.3,
-   "v": 48238.77285545
+   "v": 43534.67455494
   },
   "SOL": {
-   "p": 114.87,
-   "o": 118.58,
-   "h": 119.78,
+   "p": 114.93,
+   "o": 115.01,
+   "h": 119.69,
    "l": 112.99,
-   "v": 549700.10340212
+   "v": 521754.75513605
   }
  },
  "change_7d": {
-  "BTC": 0.11809178197113783,
-  "ETH": 0.12499686284351881,
-  "SOL": 0.18191150805872086
+  "BTC": 0.09904580095193355,
+  "ETH": 0.09976945931840513,
+  "SOL": 0.1482779335202243
  },
  "sentiment": {
-  "score": 71.9,
+  "score": 69.5,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 79.52294549278446,
-   "crowding": 63.6875
+   "momentum": 74.76145023798338,
+   "crowding": 58.7830315
   },
   "weights": {
    "fng": 0.35,
@@ -48,59 +48,126 @@
  "fear_greed": {
   "value": 71,
   "label": "Greed",
-  "ts": 1790121600
+  "ts": 1790208000
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3304031383.3402004,
-   "premium": -0.0002603489
+   "funding_h": -9.369e-07,
+   "oi_usd": 3105924920.5212803,
+   "premium": -0.0004886479
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2929033891.5244203,
-   "premium": 0.0
+   "oi_usd": 2904844255.4990196,
+   "premium": -4.10831e-05
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 698732391.2624,
-   "premium": 0.000130554
+   "oi_usd": 703582951.1671999,
+   "premium": -0.0001600858
   }
  },
- "items_24h": 450,
+ "items_24h": 441,
  "top_items": [
   {
-   "id": "ba1bc85004a7a723",
-   "ts": 1790136264,
+   "id": "c4a26d202d4558c5",
+   "ts": 1790209285,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Azerbaijan's Hajiyev to Newsmax: Trump Peacemaker, Iran Deal Possible: https://www.newsmax.com/newsfront/azerbaijan-ilham-aliyev-armenia/2026/09/14/id/1269433/",
-   "url": "https://truthsocial.com/@realDonaldTrump/117318370203435194",
+   "title": "The story that the White House, or me, want to affix my name to Ford's Theatre, in Washington, D.C., where Abraham Lincoln was assassinated, is a ridiculous lie. It is FAKE NEWS! Who would possibly want a name on such a tragic place? The Dumocrats suffer from serious Trump Derang",
+   "url": "https://truthsocial.com/@realDonaldTrump/117323155721195611",
    "domain": "truthsocial.com",
    "tags": [
-    "geo"
+    "regulation"
    ],
    "author": "Donald Trump",
-   "score": 1539
+   "score": 12788
   },
   {
-   "id": "026264649a4275b5",
-   "ts": 1790136243,
+   "id": "a61726d6af7ecece",
+   "ts": 1790209169,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Netanyahu Bloc Takes Lead in Latest Israeli Election Poll: https://www.newsmax.com/newsfront/israel-benjamin-netanyahu-likud/2026/09/17/id/1269830/",
-   "url": "https://truthsocial.com/@realDonaldTrump/117318368847920040",
+   "title": "BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS of Dollars in Sales, and huge U.S. Export",
+   "url": "https://truthsocial.com/@realDonaldTrump/117323148147220269",
    "domain": "truthsocial.com",
    "tags": [
-    "geo"
+    "macro"
    ],
    "author": "Donald Trump",
-   "score": 1335
+   "score": 10673
+  },
+  {
+   "id": "d5b70513bfe6f3ef",
+   "ts": 1790223300,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Multiple pullbacks ahead Kevin Mahn on what worth buying",
+   "url": "https://www.aol.com/articles/multiple-pullbacks-ahead-kevin-mahn-233036000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "3e5a54de8cb93510",
+   "ts": 1790221500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "VNQ vs . SGOV : Why Own a REIT ETF When T - Bills Pay Almost as Much With Zero Rate Risk ?",
+   "url": "https://finance.yahoo.com/real-estate/articles/vnq-vs-sgov-why-own-154633834.html",
+   "domain": "finance.yahoo.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "41d82996c68570ad",
+   "ts": 1790215200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Cynthia Chung – The Greanville Post",
+   "url": "https://www.greanvillepost.com/author/cynthia-chung/",
+   "domain": "greanvillepost.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "5d3a1e56122116fd",
+   "ts": 1790215200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "The True Origins of China Social Credit System Part I – The Greanville Post",
+   "url": "https://www.greanvillepost.com/the-true-origins-of-chinas-social-credit-system-part-i/",
+   "domain": "greanvillepost.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "5efd81cff8473748",
+   "ts": 1790207400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Statistics on Securities Financing Transactions in Japan",
+   "url": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "89c48d2341bb816f",
@@ -171,74 +238,6 @@
     "crypto",
     "institution"
    ]
-  },
-  {
-   "id": "ce372b02b2f21b2c",
-   "ts": 1790179200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "The digitalisation of money, payments and finance",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "35a0137163837f4d",
-   "ts": 1790179200,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement",
-   "domain": "SEC",
-   "org": "SEC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "8581af3f5c060ef0",
-   "ts": 1790177400,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Should You Really Invest in a Tech ETF in 2026 ? Here What History Says .",
-   "url": "https://www.aol.com/articles/really-invest-tech-etf-2026-150500000.html",
-   "domain": "aol.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "5c32b2adf81edc10",
-   "ts": 1790176500,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Should You Really Invest in a Tech ETF in 2026 ? Here What History Says .",
-   "url": "https://www.fool.com/investing/2026/09/23/should-you-really-invest-in-a-tech-etf-in-2026/",
-   "domain": "fool.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "4e0cbbd4a56123d3",
-   "ts": 1790172131,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "President Trump Delivers Powerful America First Message to the United Nations",
-   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-powerful-america-first-message-to-the-united-nations/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
   }
  ],
  "briefing_ts": 1790087372,
@@ -257,11 +256,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 4
   },
   "White House": {
    "ok": true,
-   "n": 25
+   "n": 26
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -293,8 +292,9 @@
    "n": 6
   },
   "BIS": {
-   "ok": true,
-   "n": 1
+   "ok": false,
+   "n": 0,
+   "err": "<urlopen error timed out>"
   },
   "Strategy (MSTR) filings": {
    "ok": true,
@@ -318,7 +318,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 40
+   "n": 42
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
