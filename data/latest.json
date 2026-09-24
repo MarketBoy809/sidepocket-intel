@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-09-24T09:53:21Z",
- "generated_ts": 1790243601,
+ "generated_at": "2026-09-24T14:54:27Z",
+ "generated_ts": 1790261667,
  "prices": {
   "BTC": {
-   "p": 83238.2,
+   "p": 83682.4,
    "o": 84384.5,
-   "h": 85956.3,
+   "h": 84914.8,
    "l": 82832.3,
-   "v": 3871.68013128
+   "v": 3597.8588079
   },
   "ETH": {
-   "p": 2645.3,
+   "p": 2656.71,
    "o": 2683.99,
-   "h": 2739.05,
+   "h": 2703.0,
    "l": 2627.68,
-   "v": 43489.59658945
+   "v": 29508.9585275
   },
   "SOL": {
-   "p": 113.44,
+   "p": 114.72,
    "o": 115.01,
-   "h": 117.78,
+   "h": 116.41,
    "l": 112.48,
-   "v": 531455.01307834
+   "v": 426060.7401594
   }
  },
  "change_7d": {
-  "BTC": 0.09329044748433449,
-  "ETH": 0.09214441538455247,
-  "SOL": 0.13836791699920198
+  "BTC": 0.09942866092608488,
+  "ETH": 0.08503044641187607,
+  "SOL": 0.14218998410174882
  },
  "sentiment": {
-  "score": 63.5,
+  "score": 70.5,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 73.32261187108362,
-   "news_tone": 42.483333333333334,
-   "crowding": 53.652847
+   "momentum": 74.85716523152122,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +50,25 @@
   "label": "Greed",
   "ts": 1790208000
  },
- "news_tone_24h": -0.451,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": -3.4525e-06,
-   "oi_usd": 3091763726.12172,
-   "premium": -0.0004684122
+   "funding_h": 1.25e-05,
+   "oi_usd": 3202275587.793492,
+   "premium": -0.0001087229
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2847349225.63884,
-   "premium": -7.558e-06
+   "oi_usd": 2846880786.5195346,
+   "premium": 0.0001053297
   },
   "SOL": {
-   "funding_h": 9.603e-07,
-   "oi_usd": 677453178.0936002,
-   "premium": -0.0004407616
+   "funding_h": 1.25e-05,
+   "oi_usd": 685650995.2694161,
+   "premium": -0.0001028188
   }
  },
- "items_24h": 411,
+ "items_24h": 431,
  "top_items": [
   {
    "id": "c4a26d202d4558c5",
@@ -102,6 +101,61 @@
    ],
    "author": "Donald Trump",
    "score": 10673
+  },
+  {
+   "id": "9345a3dcd2f12ea0",
+   "ts": 1790253406,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117326044871082645This is a survey of people in business — the S&P Flash Survey — of purchasing, manufacturing and hiring. Guess what? The report shows impressive Growth. Composite Index — Services + Manufacturing, 62 mon",
+   "url": "https://truthsocial.com/@realDonaldTrump/117326047233268228",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro",
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 4928
+  },
+  {
+   "id": "cc93818549af5422",
+   "ts": 1790258400,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on the Beatification of Archbishop Fulton J. Sheen",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-beatification-of-archbishop-fulton-j-sheen/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "9dcdc3e9be60045f",
+   "ts": 1790252479,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "First Lady Melania Trump Releases Details on the State Dinner with His Excellency Xi Jinping, President of The People’s Republic of China, and Madame Peng Liyuan",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuan/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "a3f17a038f4ab5d2",
+   "ts": 1790251200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "e5f751f0937f4fbc",
@@ -182,69 +236,13 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "5efd81cff8473748",
-   "ts": 1790207400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Statistics on Securities Financing Transactions in Japan",
-   "url": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "89c48d2341bb816f",
-   "ts": 1790190472,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "White House App Hits No. 1 in News and Cracks App Store Top 20 as Americans Tune Out Fake News",
-   "url": "https://www.whitehouse.gov/releases/2026/09/white-house-app-hits-no-1-in-news-and-cracks-app-store-top-20-as-americans-tune-out-fake-news/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "39a27e3d1e762f91",
-   "ts": 1790188020,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised",
-   "domain": "SEC",
-   "org": "SEC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "96186ee52de7febc",
-   "ts": 1790181000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790087372,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 20
+   "n": 27
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -256,7 +254,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -269,11 +267,11 @@
   },
   "SEC": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "CFTC": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "Federal Reserve": {
    "ok": true,
@@ -281,11 +279,11 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 9
+   "n": 10
   },
   "Bank of England": {
    "ok": true,
-   "n": 10
+   "n": 4
   },
   "Bank of Japan": {
    "ok": true,
@@ -313,15 +311,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 36
+   "n": 34
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 42
+   "n": 43
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 18
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
