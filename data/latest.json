@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-09-25T13:37:25Z",
- "generated_ts": 1790343445,
+ "generated_at": "2026-09-25T14:26:18Z",
+ "generated_ts": 1790346378,
  "prices": {
   "BTC": {
-   "p": 84081.8,
+   "p": 83650.6,
    "o": 84380.0,
    "h": 85247.4,
-   "l": 83348.9,
-   "v": 3304.50922526
+   "l": 83163.6,
+   "v": 3329.28974884
   },
   "ETH": {
-   "p": 2700.53,
+   "p": 2686.03,
    "o": 2687.22,
    "h": 2742.42,
    "l": 2645.35,
-   "v": 28262.76595436
+   "v": 29445.92368573
   },
   "SOL": {
-   "p": 119.86,
+   "p": 119.89,
    "o": 117.02,
    "h": 122.2,
    "l": 114.1,
-   "v": 517919.76000019
+   "v": 540397.77250336
   }
  },
  "change_7d": {
-  "BTC": 0.08304789898131074,
-  "ETH": 0.08684087372854564,
-  "SOL": 0.14200567644276244
+  "BTC": 0.04849550842549012,
+  "ETH": 0.05551572984851878,
+  "SOL": 0.10150271964598512
  },
  "sentiment": {
-  "score": 64.3,
+  "score": 61.8,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 70.76197474532768,
-   "news_tone": 40.666666666666664,
-   "crowding": 63.6875
+   "momentum": 62.12387710637253,
+   "crowding": 63.6875,
+   "ai_calm": 38.0
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +51,25 @@
   "label": "Greed",
   "ts": 1790294400
  },
- "news_tone_24h": -0.56,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3389748069.92172,
-   "premium": 0.000185561
+   "oi_usd": 3222950420.58276,
+   "premium": -0.0003752883
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2962419126.8223057,
-   "premium": 0.0008407937
+   "oi_usd": 2949837813.763199,
+   "premium": 0.0
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 725792365.9949602,
-   "premium": 0.0007303078
+   "oi_usd": 730537116.9587998,
+   "premium": 0.0
   }
  },
- "items_24h": 398,
+ "items_24h": 393,
  "top_items": [
   {
    "id": "e6779bcb51230729",
@@ -242,7 +242,7 @@
    ]
   }
  ],
- "briefing_ts": 1790087372,
+ "briefing_ts": 1790344987,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
@@ -274,8 +274,9 @@
    "n": 3
   },
   "CFTC": {
-   "ok": true,
-   "n": 3
+   "ok": false,
+   "n": 0,
+   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
   },
   "Federal Reserve": {
    "ok": true,
@@ -315,7 +316,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 35
+   "n": 34
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
@@ -323,7 +324,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 18
   },
   "Reddit r/Bitcoin": {
    "ok": false,
