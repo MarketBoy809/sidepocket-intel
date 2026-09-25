@@ -1,0 +1,178 @@
+{
+ "ticker": "DINO",
+ "cik": "0001915657",
+ "updated": "2026-09-25T09:53:37Z",
+ "updated_ts": 1790330017,
+ "filings": [
+  {
+   "form": "8-K",
+   "date": "2026-08-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1915657/000162828026059117/dino-20260826.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-08-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1915657/000162828026052797/dino-20260804.htm"
+  },
+  {
+   "form": "10-Q",
+   "date": "2026-07-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1915657/000191565726000057/dino-20260630.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-07-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1915657/000162828026050235/dino-20260728.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-07-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1915657/000191565726000046/dino-20260728.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-07-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1915657/000119312526297981/d125995d8k.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-05-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1915657/000162828026036527/dino-20260519.htm"
+  }
+ ],
+ "insiders": {
+  "form4_count": 15,
+  "form144_count": 5,
+  "recent_dates": [
+   "2026-09-21",
+   "2026-08-18",
+   "2026-08-11",
+   "2026-08-06",
+   "2026-08-05",
+   "2026-08-04"
+  ],
+  "note": "Form 4 is a completed insider transaction; Form 144 is notice of an intended sale. Neither is the company issuing new stock."
+ },
+ "read": [
+  {
+   "form": "10-Q",
+   "date": "2026-07-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1915657/000191565726000057/dino-20260630.htm",
+   "chars": 196154,
+   "excerpts": [
+    {
+     "id": "DINO-10Q-covenants-1",
+     "topic": "covenants",
+     "matched": "covenant",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "At June 30, 2026, we were in compliance with all covenants and had no outstanding borrowings or letters of credit under the HF Sinclair Credit Agreement. Senior Notes Our unsecured senior notes and unsubordinated obligations rank equally with all future unsecured and unsubordinated indebtedness. We may, from time to time, seek to retir"
+    },
+    {
+     "id": "DINO-10Q-covenants-2",
+     "topic": "covenants",
+     "matched": "waiver",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "dition, during the six months ended June 30, 2026, we recognized $21 million in Sales and other revenues related to the small refinery RINs waivers granted by the EPA in the fourth quarter of 2025. At June 30, 2026, our open RINs credit obligations were $493 million. For additional information regarding the RFS and small refinery RINs waivers, refer to the discussion under \"Renewable Fuel Standard\" in Item 1 of Part II of"
+    },
+    {
+     "id": "DINO-10Q-liquidity-1",
+     "topic": "liquidity",
+     "matched": "Liquidity and Capital",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "Management's Discussion and Analysis of Financial Condition and Results of Operations 30 Overview 30 Results of Operations 32 Liquidity and Capital Resources 43 Critical Accounting Policies and Estimates 45 Risk Management 45 Reconciliations to Amounts Reported Under Generally Accepted Accounting Principles 47 Item 3. Quantitative and Qualitative Disclosures About Market Risk 51 Item 4. Controls and Procedures 52 PART II -"
+    },
+    {
+     "id": "DINO-10Q-liquidity-2",
+     "topic": "liquidity",
+     "matched": "Liquidity and Capital",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "rical fact included in this Quarterly Report on Form 10-Q, including, but not limited to, those under \"Overview,\" \"Results of Operations,\" \"Liquidity and Capital Resources\" and \"Risk Management\" in Part I, Item 2 \"Management's Discussion and Analysis of Financial Condition and Results of Operations\" and those in Part II, Item 1 \"Legal Proceedings\" are forward-looking statements. Forward-looking statements use words such as \"anticipate,\""
+    },
+    {
+     "id": "DINO-10Q-debt-1",
+     "topic": "debt",
+     "matched": "credit agreement",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "s to noncontrolling interests ( 3 ) ( 6 ) Proceeds from financing arrangements 71 - Redemption of senior notes - ( 1,007 ) Repayments under credit agreements - ( 350 ) Proceeds from issuance of senior notes - 1,394 Deferred financing costs - ( 19 ) Other, net ( 8 ) ( 11 ) Net cash used for financing activities ( 400 ) ( 239 ) Effect of exchange rate on cash flow ( 3 ) 8 Cash and cash equivalents: Net change for the period 1,284 74 C"
+    },
+    {
+     "id": "DINO-10Q-debt-2",
+     "topic": "debt",
+     "matched": "Credit Agreement",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "ith the revaluation of deferred tax liabilities from state tax law changes enacted in the second quarter of 2025. NOTE 12: Debt HF Sinclair Credit Agreement We have a $ 2.0 billion senior unsecured revolving credit facility m aturing in April 2030 (the \"HF Sinclair Credit Agreement\") which contains an extension feature that allows us to extend the term of the commitment from time to time in increments of up to one year , subject to"
+    },
+    {
+     "id": "DINO-10Q-impairment-1",
+     "topic": "impairment",
+     "matched": "impairment",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": ", equipment, or information systems, or any of the foregoing at our suppliers, customers, or third-party providers, and any potential asset impairments resulting from, or the failure to have adequate insurance coverage for or receive insurance recoveries from, such actions; &#8226; the effects of current and/or future governmental and environmental regulations and policies, including compliance with, or exemptions from, existi"
+    },
+    {
+     "id": "DINO-10Q-impairment-2",
+     "topic": "impairment",
+     "matched": "impairment",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "$ 1,543 $ 208 Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization 457 451 Asset impairments 47 1 Lower of cost or market inventory valuation adjustments ( 642 ) 31 Earnings of equity method investments, net of distributions ( 12 ) ( 1 ) Loss on early extinguishment of debt - 16 Gain on sale of assets - ( 1 ) Loss on sale of equity method investment - 40 Deferred incom"
+    },
+    {
+     "id": "DINO-10Q-guidance-1",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "arrying out and consummating construction projects, including our ability to complete announced capital projects on time and within capital guidance; &#8226; our ability to timely obtain or maintain permits, including those necessary for operations or capital projects; &#8226; our ability to acquire complementary assets or businesses to our existing assets and businesses on acceptable terms and to integrate any existing or f"
+    },
+    {
+     "id": "DINO-10Q-guidance-2",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "In September 2025, ASU 2025-06, \"Internal-Use Software\" was issued amending guidance related to the accounting for internal-use software development costs. ASU 2025-06 is effective for fiscal years beginning after December 15, 2027, with early adoption permitted. We are currently assessing the impact of this guidance on our consolidated financial statements. 12"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-08-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1915657/000162828026059117/dino-20260826.htm",
+   "chars": 1683,
+   "excerpts": [
+    {
+     "id": "DINO-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-08-26",
+     "text": "Item 8.01 Other Events. On August 26, 2026, the Board of Directors of HF Sinclair Corporation (the \" Corporation \") authorized a new $1.5 billion share repurchase program (the \" New Share Repurchase Program \"), effective August 26, 2026. The New Share Repurchase Program replaces all existing share repurchase authorizations, of which there was approximately $11 million remaining under the Corporation's prior share repurchase program initially authorized in May 2024. Share repurchases under the New Share Repurchase Program may be made in the open market or through privately negotiated transactions from time to time or by other means in accordance with federal securities laws. The New Share Repurchase Program also authorizes privately negotiated repurchases from REH Advisors Inc. (\" REH \"), subject to REH's interest and other limitations. The timing and amount of share repurchases under the New Share Repurchase Program will depend on market conditions and corporate, tax, regulatory and other relevant considerations. The New Share Repurchase Program may be discontinued at any time by the Board of Directors of the Corporation. In addition, the Corporation is authorized by the Board of Directors to repurchase shares in an amount sufficient to offset shares issued under the Corporation's compensation programs. SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. HF SINCLAIR CORPORATION By: /s/ Vivek Garg Vivek Garg Acting Chief Financial Officer, Vice President, Chief Accounting Officer and Controller Date: August 26, 2026"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-08-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1915657/000162828026052797/dino-20260804.htm",
+   "chars": 5044,
+   "excerpts": [
+    {
+     "id": "DINO-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-08-05",
+     "text": "Item 1.01 Entry into a Material Definitive Agreement. HF Sinclair Corporation (the \"Company\") entered into a Stock Purchase Agreement, dated August 2, 2026 (the \"Stock Purchase Agreement\"), with REH Advisors Inc. (the \"Selling Stockholder\" or \"REH\") (now the parent company of REH Company, LLC (formerly known as The Sinclair Companies)), pursuant to which the Company agreed to repurchase from the Selling Stockholder 2,375,000 shares of the Company's outstanding common stock, par value $0.01 per share (the \"Common Stock\"), in a privately negotiated transaction. The price per share to be paid by the Company under the Stock Purchase Agreement is $89.41 per share resulting in an aggregate purchase price of approximately $212 million. The purchase price will be funded with cash on hand and is expected to be completed on or around August 5, 2026. The Stock Purchase Agreement contains customary representations, warranties and covenants of the parties. The shares to be repurchased under the Stock Purchase Agreement will be held as treasury stock by the Company. This share repurchase is the twenty-second privately negotiated transaction between the Company and the Selling Stockholder and will be made pursuant to the Company's Share Repurchase Program described below. In connection with the Stock Purchase Agreement, the Board of Directors of the Company (the \"Board\") increased the previously disclosed $1 billion share repurchase program initially authorized by the Board on May 7, 2024 by $15 million, effective July 31, 2026 (the \"Share Repurchase Program\"). To date, the Company has repurchased over $1 billion in Common Stock under the Company's Share Repurchase Program, which is inclusive of the share repurchase described above, and has approximately $11 million authorization rema"
+    }
+   ]
+  }
+ ]
+}

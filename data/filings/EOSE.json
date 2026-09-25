@@ -1,8 +1,8 @@
 {
  "ticker": "EOSE",
  "cik": "0001805077",
- "updated": "2026-09-22T06:17:57Z",
- "updated_ts": 1790057877,
+ "updated": "2026-09-25T09:53:40Z",
+ "updated_ts": 1790330020,
  "filings": [
   {
    "form": "8-K/A",
@@ -44,16 +44,136 @@
   "form4_count": 21,
   "form144_count": 7,
   "recent_dates": [
+   "2026-09-22",
    "2026-09-16",
    "2026-09-15",
    "2026-09-09",
    "2026-08-26",
-   "2026-08-06",
-   "2026-07-28"
+   "2026-08-06"
   ],
   "note": "Form 4 is a completed insider transaction; Form 144 is notice of an intended sale. Neither is the company issuing new stock."
  },
  "read": [
+  {
+   "form": "10-Q",
+   "date": "2026-08-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026052906/eose-20260630.htm",
+   "chars": 227103,
+   "excerpts": [
+    {
+     "id": "EOSE-10Q-covenants-1",
+     "topic": "covenants",
+     "matched": "covenant",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "estricted cash as of June 30, 2026, relates to, as defined in the credit and guaranty agreement (\"Credit Agreement\"), the Minimum Liquidity covenant. Under the Minimum Liquidity covenant, as defined in the Credit Agreement and the DOE Loan Facility, the Company shall not permit cash and cash equivalents at any time be less than $ 15,000 . Long-term restricted cash as of June 30, 2025, relates to the Minimum Liquidity covenan"
+    },
+    {
+     "id": "EOSE-10Q-covenants-2",
+     "topic": "covenants",
+     "matched": "covenant",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "lates to, as defined in the credit and guaranty agreement (\"Credit Agreement\"), the Minimum Liquidity covenant. Under the Minimum Liquidity covenant, as defined in the Credit Agreement and the DOE Loan Facility, the Company shall not permit cash and cash equivalents at any time be less than $ 15,000 . Long-term restricted cash as of June 30, 2025, relates to the Minimum Liquidity covenant, prior to the first tranche funding"
+    },
+    {
+     "id": "EOSE-10Q-liquidity-1",
+     "topic": "liquidity",
+     "matched": "Cash and cash equivalents",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "ENSED CONSOLIDATED BALANCE SHEETS (In thousands, except share and per share amounts) June 30, 2026 December 31, 2025 ASSETS Current assets: Cash and cash equivalents $ 305,491 $ 567,992 Restricted cash 43,579 34,636 Accounts receivable, net 8,117 6,779 Accounts receivable - related party 5,516 - Inventory 74,990 59,026 Vendor deposits 16,118 11,756 Contract assets, current 15,877 13,972 Prepaid expenses 3,243 2,701 Grant receivable, net 33,8"
+    },
+    {
+     "id": "EOSE-10Q-liquidity-2",
+     "topic": "liquidity",
+     "matched": "Minimum Liquidity",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "Long-term restricted cash as of June 30, 2026, relates to, as defined in the credit and guaranty agreement (\"Credit Agreement\"), the Minimum Liquidity covenant. Under the Minimum Liquidity covenant, as defined in the Credit Agreement and the DOE Loan Facility, the Company shall not permit cash and cash equivalents at any time be less than $ 15,000 . Long-term restricted cash as of June 30, 2025, relates to the Minimum Liquidit"
+    },
+    {
+     "id": "EOSE-10Q-debt-1",
+     "topic": "debt",
+     "matched": "Credit Agreement",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "e; &#8226; our customer's ability to secure project financing; &#8226; risks associated with the Department of Energy Loan Facility and the Credit Agreement (each as defined below), including risks of default, dilution of outstanding common stock, consequences for failure to meet milestones and contractual lockup of shares; &#8226; the amount of final tax credits available to our customers or to Eos pursuant to the Inflation Reducti"
+    },
+    {
+     "id": "EOSE-10Q-debt-2",
+     "topic": "debt",
+     "matched": "Credit Agreement",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "Under the Minimum Liquidity covenant, as defined in the Credit Agreement and the DOE Loan Facility, the Company shall not permit cash and cash equivalents at any time be less than $ 15,000 . Long-term restricted cash as of June 30, 2025, relates to the Minimum Liquidity covenant, prior to the first tranche funding the Minimum Liquidity covenant, the"
+    },
+    {
+     "id": "EOSE-10Q-dilution-1",
+     "topic": "dilution",
+     "matched": "Warrant",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "e eose:vote eose:businessDay 0001805077 2026-01-01 2026-06-30 0001805077 us-gaap:CommonStockMember 2026-01-01 2026-06-30 0001805077 us-gaap:WarrantMember 2026-01-01 2026-06-30 0001805077 2026-08-03 0001805077 2026-06-30 0001805077 2025-12-31 0001805077 us-gaap:NonrelatedPartyMember 2026-06-30 0001805077 us-gaap:NonrelatedPartyMember 2025-12-31 0001805077 us-gaap:RelatedPartyMember 2026-06-30 0001805077 us-gaap:RelatedPartyM"
+    },
+    {
+     "id": "EOSE-10Q-dilution-2",
+     "topic": "dilution",
+     "matched": "Convertible",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "edOtherComprehensiveIncomeMember 2026-01-01 2026-06-30 0001805077 us-gaap:RetainedEarningsMember 2026-01-01 2026-06-30 0001805077 eose:A2025ConvertibleNotesDue2030Member 2026-01-01 2026-06-30 0001805077 eose:A2025ConvertibleNotesDue2030Member 2025-01-01 2025-06-30 0001805077 us-gaap:ProductMember us-gaap:NonrelatedPartyMember 2026-04-01 2026-06-30 0001805077 us-gaap:ProductMember us-gaap:NonrelatedPartyMember 2025-04-01 2025-06"
+    },
+    {
+     "id": "EOSE-10Q-subsequent-1",
+     "topic": "subsequent",
+     "matched": "Subsequent Event",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "rontier JV Holdco, LLC and HBC MSF Capital Solutions Blocker II LLC as part of the formation of Frontier Power USA Parent, LLC. See Note 22 Subsequent Events . These warrants were legally binding and are recognized as of June 30, 2026 under ASC 815-40. 9. Accrued Expenses Accrued expenses were as follows: June 30, 2026 December 31, 2025 Accrued payroll $ 10,282 $ 4,471 Warranty reserve (1) 12,690 9,469 Accrued legal and professional"
+    },
+    {
+     "id": "EOSE-10Q-subsequent-2",
+     "topic": "subsequent",
+     "matched": "Subsequent Event",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "Statement of Operations and Comprehensive (Loss) Income and as an Other liability within the Consolidated Balance Sheets. Refer to Note 22, Subsequent Events for further discussion pertaining to the registered direct offering. 31 Table of Contents EOS ENERGY ENTERPRISES, INC. NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (In thousands, except share and per share amounts) 14. Fair Value Measurement (cont.) The fo"
+    },
+    {
+     "id": "EOSE-10Q-impairment-1",
+     "topic": "impairment",
+     "matched": "write-down",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "arch and development expenses 10,505 7,201 21,224 14,038 Selling, general and administrative expenses 24,500 25,488 48,595 46,483 Loss from write-down of property, plant and equipment 5 205 76 766 Total operating expenses 35,010 32,894 69,895 61,287 Operating income (loss) ( 83,811 ) ( 63,847 ) ( 163,123 ) ( 116,779 ) Other income (expense) Interest expense ( 11,972 ) ( 2,980 ) ( 24,214 ) ( 3,958 ) Interest expense - related p"
+    },
+    {
+     "id": "EOSE-10Q-impairment-2",
+     "topic": "impairment",
+     "matched": "write-down",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "activities Stock-based compensation 12,085 14,701 Depreciation and amortization 11,461 5,615 Loss on debt extinguishment - 49,063 Loss from write-down of property, plant and equipment 76 766 Amortization of right-of-use assets 1,522 805 Non-cash interest expense 17,236 3,826 Non-cash interest expense - related parties - 10,291 Change in fair value of debt - related party 8,766 ( 25,682 ) Change in fair value of warrants ( 146,"
+    },
+    {
+     "id": "EOSE-10Q-guidance-1",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "The amendments in this update clarify and refine the guidance for capitalizing costs related to internal-use software, including development phases and implementation activities. The update is effective for annual periods beginning after December 15, 2027, including interim periods within those fiscal years. Early adoption is permitted beg"
+    },
+    {
+     "id": "EOSE-10Q-guidance-2",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-08-05",
+     "text": "25, the FASB issued ASU 2025-10, Government Grants (Topic 832): Accounting for Government Grants Received by Business Entities , which adds guidance to ASC 832 on the recognition, measurement, and presentation of government grants. In the absence of such guidance, many for-profit entities historically have analogized to other GAAP, including IAS 20 or ASC 958-605, when accounting for government grants. The amendments in this"
+    }
+   ]
+  },
   {
    "form": "8-K/A",
    "date": "2026-09-16",
@@ -83,127 +203,6 @@
      "form": "8-K",
      "date": "2026-09-14",
      "text": "Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant. As previously disclosed, on November 26, 2024, (i) Eos Energy Enterprises, Inc. (the \"Company\"), the U.S. Department of Energy (the \"DOE\") and the Federal Financing Bank (the \"FFB\") entered into a Note Purchase Agreement (the \"FFB Note Purchase Agreement\") pursuant to which, among other things, the DOE provided a guarantee (the \"DOE Guarantee\") of the Company's (x) obligations to repay the term loan borrowings (such loans, collectively, the \"Guaranteed Loan\") provided by the FFB to the Company and evidenced by a future advance promissory note (the \"FFB Promissory Note\") and (y) the Company's other obligations owing to FFB in respect of the Guaranteed Loan and (ii) in connection and concurrently therewith, the Company entered into a Loan Guarantee Agreement (the \"DOE Loan Guarantee Agreement,\" and together with the FFB Note Purchase Agreement, the FFB Promissory Note, the DOE Guarantee and the other documents executed and delivered in connection therewith, the \"DOE Transaction Documents\") with the DOE. The FFB Promissory Note provides for the extension of the Guaranteed Loan in an aggregate maximum principal amount of up to $277,497,000 and an aggregate maximum amount of capitalized interest of up to $25,953,000. On December 19, 2024, the FFB funded an initial advance of $68,279,365 under the FFB Promissory Note. On July 1, 2025, the FFB funded a second advance of $22,665,635 under the FFB Promissory Note. On August 24, 2026, the Company delivered to the DOE and the FFB a third advance request, and on September 10, 2026, the FFB funded $87,018,601 under the FFB Promissory Note (the \"third loan advance\"). Item 7.01 Regulation FD Disclosure On Septem"
-    }
-   ]
-  },
-  {
-   "form": "WEB-sec",
-   "date": "2026-09-22",
-   "url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026052906/eose-20260630.htm",
-   "chars": 227103,
-   "requested_because": "test",
-   "excerpts": [
-    {
-     "id": "EOSE-WEBsec-covenants-1",
-     "topic": "covenants",
-     "matched": "covenant",
-     "form": "WEB-sec",
-     "date": "2026-09-22",
-     "text": "estricted cash as of June 30, 2026, relates to, as defined in the credit and guaranty agreement (\"Credit Agreement\"), the Minimum Liquidity covenant. Under the Minimum Liquidity covenant, as defined in the Credit Agreement and the DOE Loan Facility, the Company shall not permit cash and cash equivalents at any time be less than $ 15,000 . Long-term restricted cash as of June 30, 2025, relates to the Minimum Liquidity covenan"
-    },
-    {
-     "id": "EOSE-WEBsec-covenants-2",
-     "topic": "covenants",
-     "matched": "covenant",
-     "form": "WEB-sec",
-     "date": "2026-09-22",
-     "text": "lates to, as defined in the credit and guaranty agreement (\"Credit Agreement\"), the Minimum Liquidity covenant. Under the Minimum Liquidity covenant, as defined in the Credit Agreement and the DOE Loan Facility, the Company shall not permit cash and cash equivalents at any time be less than $ 15,000 . Long-term restricted cash as of June 30, 2025, relates to the Minimum Liquidity covenant, prior to the first tranche funding"
-    },
-    {
-     "id": "EOSE-WEBsec-liquidity-1",
-     "topic": "liquidity",
-     "matched": "Cash and cash equivalents",
-     "form": "WEB-sec",
-     "date": "2026-09-22",
-     "text": "ENSED CONSOLIDATED BALANCE SHEETS (In thousands, except share and per share amounts) June 30, 2026 December 31, 2025 ASSETS Current assets: Cash and cash equivalents $ 305,491 $ 567,992 Restricted cash 43,579 34,636 Accounts receivable, net 8,117 6,779 Accounts receivable - related party 5,516 - Inventory 74,990 59,026 Vendor deposits 16,118 11,756 Contract assets, current 15,877 13,972 Prepaid expenses 3,243 2,701 Grant receivable, net 33,8"
-    },
-    {
-     "id": "EOSE-WEBsec-liquidity-2",
-     "topic": "liquidity",
-     "matched": "Minimum Liquidity",
-     "form": "WEB-sec",
-     "date": "2026-09-22",
-     "text": "Long-term restricted cash as of June 30, 2026, relates to, as defined in the credit and guaranty agreement (\"Credit Agreement\"), the Minimum Liquidity covenant. Under the Minimum Liquidity covenant, as defined in the Credit Agreement and the DOE Loan Facility, the Company shall not permit cash and cash equivalents at any time be less than $ 15,000 . Long-term restricted cash as of June 30, 2025, relates to the Minimum Liquidit"
-    },
-    {
-     "id": "EOSE-WEBsec-debt-1",
-     "topic": "debt",
-     "matched": "Credit Agreement",
-     "form": "WEB-sec",
-     "date": "2026-09-22",
-     "text": "e; &#8226; our customer's ability to secure project financing; &#8226; risks associated with the Department of Energy Loan Facility and the Credit Agreement (each as defined below), including risks of default, dilution of outstanding common stock, consequences for failure to meet milestones and contractual lockup of shares; &#8226; the amount of final tax credits available to our customers or to Eos pursuant to the Inflation Reducti"
-    },
-    {
-     "id": "EOSE-WEBsec-debt-2",
-     "topic": "debt",
-     "matched": "Credit Agreement",
-     "form": "WEB-sec",
-     "date": "2026-09-22",
-     "text": "Under the Minimum Liquidity covenant, as defined in the Credit Agreement and the DOE Loan Facility, the Company shall not permit cash and cash equivalents at any time be less than $ 15,000 . Long-term restricted cash as of June 30, 2025, relates to the Minimum Liquidity covenant, prior to the first tranche funding the Minimum Liquidity covenant, the"
-    },
-    {
-     "id": "EOSE-WEBsec-dilution-1",
-     "topic": "dilution",
-     "matched": "Warrant",
-     "form": "WEB-sec",
-     "date": "2026-09-22",
-     "text": "e eose:vote eose:businessDay 0001805077 2026-01-01 2026-06-30 0001805077 us-gaap:CommonStockMember 2026-01-01 2026-06-30 0001805077 us-gaap:WarrantMember 2026-01-01 2026-06-30 0001805077 2026-08-03 0001805077 2026-06-30 0001805077 2025-12-31 0001805077 us-gaap:NonrelatedPartyMember 2026-06-30 0001805077 us-gaap:NonrelatedPartyMember 2025-12-31 0001805077 us-gaap:RelatedPartyMember 2026-06-30 0001805077 us-gaap:RelatedPartyM"
-    },
-    {
-     "id": "EOSE-WEBsec-dilution-2",
-     "topic": "dilution",
-     "matched": "Convertible",
-     "form": "WEB-sec",
-     "date": "2026-09-22",
-     "text": "edOtherComprehensiveIncomeMember 2026-01-01 2026-06-30 0001805077 us-gaap:RetainedEarningsMember 2026-01-01 2026-06-30 0001805077 eose:A2025ConvertibleNotesDue2030Member 2026-01-01 2026-06-30 0001805077 eose:A2025ConvertibleNotesDue2030Member 2025-01-01 2025-06-30 0001805077 us-gaap:ProductMember us-gaap:NonrelatedPartyMember 2026-04-01 2026-06-30 0001805077 us-gaap:ProductMember us-gaap:NonrelatedPartyMember 2025-04-01 2025-06"
-    },
-    {
-     "id": "EOSE-WEBsec-subsequent-1",
-     "topic": "subsequent",
-     "matched": "Subsequent Event",
-     "form": "WEB-sec",
-     "date": "2026-09-22",
-     "text": "rontier JV Holdco, LLC and HBC MSF Capital Solutions Blocker II LLC as part of the formation of Frontier Power USA Parent, LLC. See Note 22 Subsequent Events . These warrants were legally binding and are recognized as of June 30, 2026 under ASC 815-40. 9. Accrued Expenses Accrued expenses were as follows: June 30, 2026 December 31, 2025 Accrued payroll $ 10,282 $ 4,471 Warranty reserve (1) 12,690 9,469 Accrued legal and professional"
-    },
-    {
-     "id": "EOSE-WEBsec-subsequent-2",
-     "topic": "subsequent",
-     "matched": "Subsequent Event",
-     "form": "WEB-sec",
-     "date": "2026-09-22",
-     "text": "Statement of Operations and Comprehensive (Loss) Income and as an Other liability within the Consolidated Balance Sheets. Refer to Note 22, Subsequent Events for further discussion pertaining to the registered direct offering. 31 Table of Contents EOS ENERGY ENTERPRISES, INC. NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (In thousands, except share and per share amounts) 14. Fair Value Measurement (cont.) The fo"
-    },
-    {
-     "id": "EOSE-WEBsec-impairment-1",
-     "topic": "impairment",
-     "matched": "write-down",
-     "form": "WEB-sec",
-     "date": "2026-09-22",
-     "text": "arch and development expenses 10,505 7,201 21,224 14,038 Selling, general and administrative expenses 24,500 25,488 48,595 46,483 Loss from write-down of property, plant and equipment 5 205 76 766 Total operating expenses 35,010 32,894 69,895 61,287 Operating income (loss) ( 83,811 ) ( 63,847 ) ( 163,123 ) ( 116,779 ) Other income (expense) Interest expense ( 11,972 ) ( 2,980 ) ( 24,214 ) ( 3,958 ) Interest expense - related p"
-    },
-    {
-     "id": "EOSE-WEBsec-impairment-2",
-     "topic": "impairment",
-     "matched": "write-down",
-     "form": "WEB-sec",
-     "date": "2026-09-22",
-     "text": "activities Stock-based compensation 12,085 14,701 Depreciation and amortization 11,461 5,615 Loss on debt extinguishment - 49,063 Loss from write-down of property, plant and equipment 76 766 Amortization of right-of-use assets 1,522 805 Non-cash interest expense 17,236 3,826 Non-cash interest expense - related parties - 10,291 Change in fair value of debt - related party 8,766 ( 25,682 ) Change in fair value of warrants ( 146,"
-    },
-    {
-     "id": "EOSE-WEBsec-guidance-1",
-     "topic": "guidance",
-     "matched": "guidance",
-     "form": "WEB-sec",
-     "date": "2026-09-22",
-     "text": "The amendments in this update clarify and refine the guidance for capitalizing costs related to internal-use software, including development phases and implementation activities. The update is effective for annual periods beginning after December 15, 2027, including interim periods within those fiscal years. Early adoption is permitted beg"
-    },
-    {
-     "id": "EOSE-WEBsec-guidance-2",
-     "topic": "guidance",
-     "matched": "guidance",
-     "form": "WEB-sec",
-     "date": "2026-09-22",
-     "text": "25, the FASB issued ASU 2025-10, Government Grants (Topic 832): Accounting for Government Grants Received by Business Entities , which adds guidance to ASC 832 on the recognition, measurement, and presentation of government grants. In the absence of such guidance, many for-profit entities historically have analogized to other GAAP, including IAS 20 or ASC 958-605, when accounting for government grants. The amendments in this"
     }
    ]
   }

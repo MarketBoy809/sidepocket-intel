@@ -1,0 +1,183 @@
+{
+ "ticker": "MPC",
+ "cik": "0001510295",
+ "updated": "2026-09-25T09:53:43Z",
+ "updated_ts": 1790330023,
+ "filings": [
+  {
+   "form": "10-Q",
+   "date": "2026-08-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000061/mpc-20260630.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-08-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000060/mpc-20260804.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000055/mpc-20260626.htm"
+  },
+  {
+   "form": "S-3ASR",
+   "date": "2026-05-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000046/mpcs-3asrshelf2026.htm"
+  },
+  {
+   "form": "10-Q",
+   "date": "2026-05-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000042/mpc-20260331.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-05-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000039/mpc-20260505.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-05-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000033/mpc-20260429.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-04-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000029/mpc-20260407.htm"
+  }
+ ],
+ "insiders": {
+  "form4_count": 18,
+  "form144_count": 10,
+  "recent_dates": [
+   "2026-09-01",
+   "2026-08-31",
+   "2026-08-28",
+   "2026-08-27",
+   "2026-08-24",
+   "2026-08-20"
+  ],
+  "note": "Form 4 is a completed insider transaction; Form 144 is notice of an intended sale. Neither is the company issuing new stock."
+ },
+ "read": [
+  {
+   "form": "10-Q",
+   "date": "2026-08-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000061/mpc-20260630.htm",
+   "chars": 198642,
+   "excerpts": [
+    {
+     "id": "MPC-10Q-covenants-1",
+     "topic": "covenants",
+     "matched": "covenant",
+     "form": "10-Q",
+     "date": "2026-08-04",
+     "text": "MPC's bank revolving credit facility and trade receivables facility contain representations and warranties, affirmative and negative covenants and restrictions, including financial covenants, and events of default that we consider usual and customary for agreements of a similar type and nature. As of June 30, 2026, we were in compliance with such covenants and restrictions. Our intention is to maintain an investment-g"
+    },
+    {
+     "id": "MPC-10Q-covenants-2",
+     "topic": "covenants",
+     "matched": "covenant",
+     "form": "10-Q",
+     "date": "2026-08-04",
+     "text": "trade receivables facility contain representations and warranties, affirmative and negative covenants and restrictions, including financial covenants, and events of default that we consider usual and customary for agreements of a similar type and nature. As of June 30, 2026, we were in compliance with such covenants and restrictions. Our intention is to maintain an investment-grade credit profile. As of June 30, 2026, the cr"
+    },
+    {
+     "id": "MPC-10Q-liquidity-1",
+     "topic": "liquidity",
+     "matched": "Cash and cash equivalents",
+     "form": "10-Q",
+     "date": "2026-08-04",
+     "text": "troleum Corporation Consolidated Balance Sheets (Unaudited) (Millions of dollars, except share data) June 30, 2026 December 31, 2025 Assets Cash and cash equivalents $ 7,768 $ 3,672 Receivables, less allowance for expected credit loss of $ 13 and $ 20 , respectively 15,740 10,317 Inventories 9,973 10,129 Other current assets 805 662 Total current assets 34,286 24,780 Equity method investments 7,197 6,795 Property, plant and equipment, net 37"
+    },
+    {
+     "id": "MPC-10Q-liquidity-2",
+     "topic": "liquidity",
+     "matched": "Cash and cash equivalents",
+     "form": "10-Q",
+     "date": "2026-08-04",
+     "text": "s well as measurement period adjustments since the acquisition date: (In millions) August 29, 2025 Adjustments As adjusted Assets acquired: Cash and cash equivalents $ 17 $ - $ 17 Receivables 11 - 11 Other current assets 1 - 1 Property, plant and equipment 1,182 ( 15 ) 1,167 Intangibles 951 6 957 Other noncurrent assets 2 - 2 Total assets acquired 2,164 ( 9 ) 2,155 Liabilities assumed: Accounts payable 105 9 114 Other current liabilities 1 -"
+    },
+    {
+     "id": "MPC-10Q-debt-1",
+     "topic": "debt",
+     "matched": "principal amount",
+     "form": "10-Q",
+     "date": "2026-08-04",
+     "text": "On July 3, 2025, MPLX used cash on hand to extinguish approximately $ 656 million principal amount of debt outstanding, including interest, related to certain term and revolving loans assumed as part of the BANGL Acquisition. Upon completion of the BANGL Acquisition, MPLX's existing equity investment was remeasured to fair value. The fair value of the previously held equity m"
+    },
+    {
+     "id": "MPC-10Q-debt-2",
+     "topic": "debt",
+     "matched": "principal amount",
+     "form": "10-Q",
+     "date": "2026-08-04",
+     "text": "371 ) Total long-term debt due after one year $ 30,696 $ 30,505 MPLX Senior Notes On February 12, 2026, MPLX issued $ 1.0 billion aggregate principal amount of 5.300 percent senior notes due 2036 (the \"2036 Senior Notes\") and $ 500 million aggregate principal amount of 6.100 percent senior notes due 2056 (the \"2056 Senior Notes\") in an underwritten public offering. The 2036 Senior Notes were offered at a price to the public of 99.67"
+    },
+    {
+     "id": "MPC-10Q-dilution-1",
+     "topic": "dilution",
+     "matched": "shares issued and outstanding",
+     "form": "10-Q",
+     "date": "2026-08-04",
+     "text": "ts and other liabilities 2,255 1,536 Total liabilities 68,590 59,869 Commitments and contingencies (see Note 22) Equity Preferred stock, no shares issued and outstanding (par value $ 0.01 per share, 30 million shares authorized) - - Common stock: Issued &#8211; 995 million and 994 million shares (par value $ 0.01 per share, 2 billion shares authorized) 10 10 Held in treasury, at cost &#8211; 712 million and 699 million shares ( 59,308 ) ( 56,027"
+    },
+    {
+     "id": "MPC-10Q-dilution-2",
+     "topic": "dilution",
+     "matched": "public offering",
+     "form": "10-Q",
+     "date": "2026-08-04",
+     "text": "or Notes\") and $ 500 million aggregate principal amount of 6.100 percent senior notes due 2056 (the \"2056 Senior Notes\") in an underwritten public offering. The 2036 Senior Notes were offered at a price to the public of 99.678 percent of par, with interest payable semi-annually in arrears, commencing on October 1, 2026. The 2056 Senior Notes were offered at a price to the public of 98.453 percent of par, with interest payable semi-"
+    },
+    {
+     "id": "MPC-10Q-guidance-1",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-08-04",
+     "text": "nvironmental Credits and Environmental Credit Obligations (Topic 818) In May 2026, the FASB issued an ASU to provide specific authoritative guidance on the recognition, measurement, presentation, and disclosure requirements for environmental credits and environmental credit obligations. This ASU is effective for fiscal years beginning after December 15, 2027, and for interim periods within fiscal years beginning after Decemb"
+    },
+    {
+     "id": "MPC-10Q-guidance-2",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-08-04",
+     "text": "probable that the project will be completed and the software will be used to perform its intended function. This ASU also provides enhanced guidance on evaluating whether the probable-to-complete recognition threshold has been met. This ASU is effective for fiscal years beginning after December 15, 2027. Early adoption is permitted. The amendments in this ASU may be applied either (1) prospectively to all projects started in"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-08-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000060/mpc-20260804.htm",
+   "chars": 1297,
+   "excerpts": [
+    {
+     "id": "MPC-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-08-04",
+     "text": "Item 2.02 Results of Operations and Financial Condition On August 4, 2026, Marathon Petroleum Corporation issued a press release announcing its financial results for the quarter ended June 30, 2026. The press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. Information in this Item 2.02 and Exhibit 99.1 of Item 9.01 below shall not be deemed \"filed\" for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the \"Exchange Act\"), or otherwise incorporated by reference into any filing pursuant to the Securities Act of 1933, as amended, or the Exchange Act except as otherwise expressly stated in such a filing. Item 9.01 Financial Statements and Exhibits (d) Exhibits. Exhibit Number Description 99.1 Press Release issued by Marathon Petroleum Corporation on August 4, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Marathon Petroleum Corporation Date: August 4, 2026 By: /s/ Maria A. Khoury Name: Maria A. Khoury Title: Executive Vice President and Chief Financial Officer"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000055/mpc-20260626.htm",
+   "chars": 867,
+   "excerpts": [
+    {
+     "id": "MPC-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-06-29",
+     "text": "Item 8.01 Other Events. On June 26, 2026, Marathon Petroleum Corporation (the \"Company\") was informed of the passing of director Abdulaziz F. Alkhayyal. Mr. Alkhayyal had served as a member of the Company's board of directors (the \"Board\") since 2016. He was a member of the Board's Compensation and Organization Development Committee and its Sustainability and Public Policy Committee. His commitment and service to the Company will be greatly missed, and the Company offers its sincere condolences to the Alkhayyal family. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Marathon Petroleum Corporation Date: June 29, 2026 By: /s/ Molly R. Benson Name: Molly R. Benson Title: Chief Legal Officer and Corporate Secretary"
+    }
+   ]
+  }
+ ]
+}
