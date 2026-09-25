@@ -1,169 +1,21 @@
 {
  "ticker": "HIMS",
  "cik": "0001773751",
- "updated": "2026-09-22T06:18:01Z",
- "updated_ts": 1790057881,
- "filings": [
-  {
-   "form": "10-Q",
-   "date": "2026-08-10",
-   "url": "https://www.sec.gov/Archives/edgar/data/1773751/000177375126000163/hims-20260630.htm"
-  },
-  {
-   "form": "8-K",
-   "date": "2026-08-10",
-   "url": "https://www.sec.gov/Archives/edgar/data/1773751/000177375126000161/hims-20260810.htm"
-  }
- ],
+ "updated": "2026-09-25T09:09:48Z",
+ "updated_ts": 1790327388,
+ "filings": [],
  "insiders": {
-  "form4_count": 30,
-  "form144_count": 7,
+  "form4_count": 31,
+  "form144_count": 8,
   "recent_dates": [
+   "2026-09-23",
+   "2026-09-22",
    "2026-09-18",
    "2026-09-17",
    "2026-09-16",
-   "2026-09-15",
-   "2026-09-03",
-   "2026-09-02"
+   "2026-09-15"
   ],
   "note": "Form 4 is a completed insider transaction; Form 144 is notice of an intended sale. Neither is the company issuing new stock."
  },
- "read": [
-  {
-   "form": "10-Q",
-   "date": "2026-08-10",
-   "url": "https://www.sec.gov/Archives/edgar/data/1773751/000177375126000163/hims-20260630.htm",
-   "chars": 400000,
-   "excerpts": [
-    {
-     "id": "HIMS-10Q-covenants-1",
-     "topic": "covenants",
-     "matched": "event of default",
-     "form": "10-Q",
-     "date": "2026-08-10",
-     "text": "th in Rule 144(c) and (i)(2) under the Securities Act, or (ii) the 2030 Convertible Notes are not otherwise freely tradable. If there is an event of default relating to failures by the Company to comply with certain reporting requirements, the Company may elect, at its option, that the sole remedy to consist exclusively of the right of the noteholders to receive special interest on the 2030 Convertible Notes for up to 365 days at a"
-    },
-    {
-     "id": "HIMS-10Q-covenants-2",
-     "topic": "covenants",
-     "matched": "covenant",
-     "form": "10-Q",
-     "date": "2026-08-10",
-     "text": "t the Company is not a holder thereof) preferred equity, if any, of the Company's subsidiaries. There are no requirements for any financial covenant compliance or reporting in connection with the 2030 Convertible Notes. The net carrying amount of the 2030 Convertible Notes as of June 30, 2026 was as follows (in thousands): Principal $ 1,000,000 Unamortized debt discount and issuance costs ( 24,348 ) Net carrying amount $ 975"
-    },
-    {
-     "id": "HIMS-10Q-liquidity-1",
-     "topic": "liquidity",
-     "matched": "Cash and cash equivalents",
-     "form": "10-Q",
-     "date": "2026-08-10",
-     "text": "solidated Balance Sheets (In Thousands, Except Share and Per Share Data) June 30, 2026 December 31, 2025 (Unaudited) Assets Current assets: Cash and cash equivalents $ 609,811 $ 228,616 Short-term available-for-sale investments 231,237 348,876 Receivables, net 375,291 32,149 Inventory 87,781 80,128 Prepaid expenses and other current assets 80,493 77,869 Total current assets 1,384,613 767,638 Long-term available-for-sale investments - 351,263"
-    },
-    {
-     "id": "HIMS-10Q-liquidity-2",
-     "topic": "liquidity",
-     "matched": "cash and cash equivalents",
-     "form": "10-Q",
-     "date": "2026-08-10",
-     "text": ") - Payments for debt issuance costs ( 671 ) ( 3,041 ) Net cash provided by financing activities 263,876 866,151 Foreign currency effect on cash and cash equivalents ( 5,189 ) 1,270 Increase in cash, cash equivalents, and restricted cash 381,195 903,510 Cash, cash equivalents, and restricted cash at beginning of period 228,616 221,440 Cash, cash equivalents, and restricted cash at end of period $ 609,811 $ 1,124,950 Reconciliation of cash, c"
-    },
-    {
-     "id": "HIMS-10Q-debt-1",
-     "topic": "debt",
-     "matched": "principal amount",
-     "form": "10-Q",
-     "date": "2026-08-10",
-     "text": "13. Debt 2030 Convertible Notes In May 2025, the Company issued $ 1.0 billion aggregate principal amount of 0 % convertible senior notes due 2030 (the \"2030 Convertible Notes\"). The 2030 Convertible Notes mature on May 15, 2030, unless earlier repurchased, redeemed, or converted, do not bear regular interest, and their principal amount will not accrete. The total net proceeds from"
-    },
-    {
-     "id": "HIMS-10Q-debt-2",
-     "topic": "debt",
-     "matched": "principal amount",
-     "form": "10-Q",
-     "date": "2026-08-10",
-     "text": "2030 Convertible Notes mature on May 15, 2030, unless earlier repurchased, redeemed, or converted, do not bear regular interest, and their principal amount will not accrete. The total net proceeds from the issuance of the 2030 Convertible Notes, after deducting initial purchasers' discounts and debt issuance costs, were $ 968.7 million. Each $1,000 principal amount of the 2030 Convertible Notes is initially convertible into 14.1493"
-    },
-    {
-     "id": "HIMS-10Q-dilution-1",
-     "topic": "dilution",
-     "matched": "Convertible",
-     "form": "10-Q",
-     "date": "2026-08-10",
-     "text": "EarnOutLiabilityMember 2026-01-01 2026-06-30 0001773751 hims:ZavaGlobalGmbHMember hims:EarnOutLiabilityMember 2026-06-30 0001773751 us-gaap:ConvertibleDebtMember hims:ConvertibleSeniorNotesDue2030Member 2025-05-31 0001773751 us-gaap:ConvertibleDebtMember hims:ConvertibleSeniorNotesDue2030Member 2025-05-01 2025-05-31 0001773751 us-gaap:ConvertibleDebtMember hims:ConvertibleSeniorNotesDue2030Member hims:DebtConversionTermsOneMemb"
-    },
-    {
-     "id": "HIMS-10Q-dilution-2",
-     "topic": "dilution",
-     "matched": "Convertible",
-     "form": "10-Q",
-     "date": "2026-08-10",
-     "text": "-01-01 2026-06-30 0001773751 hims:ZavaGlobalGmbHMember hims:EarnOutLiabilityMember 2026-06-30 0001773751 us-gaap:ConvertibleDebtMember hims:ConvertibleSeniorNotesDue2030Member 2025-05-31 0001773751 us-gaap:ConvertibleDebtMember hims:ConvertibleSeniorNotesDue2030Member 2025-05-01 2025-05-31 0001773751 us-gaap:ConvertibleDebtMember hims:ConvertibleSeniorNotesDue2030Member hims:DebtConversionTermsOneMember 2025-05-01 2025-05-31 00"
-    },
-    {
-     "id": "HIMS-10Q-subsequent-1",
-     "topic": "subsequent",
-     "matched": "Subsequent Event",
-     "form": "10-Q",
-     "date": "2026-08-10",
-     "text": "Revolving Credit Agreement to permit the Company and its subsidiaries to enter into the Receivables Purchase Agreement (see Note 20 &#8211; Subsequent Events for additional details). 14. Commitments and Contingencies Purchase Obligations The Company has non-cancelable contractual obligations with remaining terms in excess of one year to make future purchases, primarily related to cloud-based software contracts used in operations and"
-    },
-    {
-     "id": "HIMS-10Q-subsequent-2",
-     "topic": "subsequent",
-     "matched": "Subsequent Event",
-     "form": "10-Q",
-     "date": "2026-08-10",
-     "text": "estimate the domestic earnings for the full year and utilized the annualized effective tax rate method for the second quarter of 2026. 20. Subsequent Events On July 1, 2026, XeCare LLC and Apostrophe Pharmacy LLC, each a wholly-owned subsidiary of the Company (each a \"RPA Seller\" and, collectively, the \"RPA Sellers\"), entered into a Master Receivables Purchase Agreement (the \"Receivables Purchase Agreement\") with JPMorgan Chase Ban"
-    },
-    {
-     "id": "HIMS-10Q-impairment-1",
-     "topic": "impairment",
-     "matched": "Impairment",
-     "form": "10-Q",
-     "date": "2026-08-10",
-     "text": "hange in fair value of liabilities 21,869 - Net accretion on securities ( 338 ) ( 1,060 ) Benefit from deferred taxes ( 23,338 ) ( 10,346 ) Impairment of long-lived assets 1,148 - Amortization of debt discount and issuance costs 3,656 1,047 Non-cash operating lease cost 9,482 4,594 Non-cash acquisition-related costs 21,311 2,985 Non-cash restructuring and other related charges included within cost of revenue 28,462 - Non-cash"
-    },
-    {
-     "id": "HIMS-10Q-impairment-2",
-     "topic": "impairment",
-     "matched": "impairment",
-     "form": "10-Q",
-     "date": "2026-08-10",
-     "text": "Management monitors inventory to identify events that would require impairment due to slow-moving, expired, or obsolete inventory and reduces the value of inventory when required. Goodwill Goodwill represents the excess of the purchase price over the fair value of the net tangible and intangible assets acquired in a business combination. Goodwill balances"
-    },
-    {
-     "id": "HIMS-10Q-guidance-1",
-     "topic": "guidance",
-     "matched": "guidance",
-     "form": "10-Q",
-     "date": "2026-08-10",
-     "text": "ial software development stages (referred to as \"project stages\") throughout Subtopic 350-40 to increase the operability of the recognition guidance considering different methods of software development. ASU 2025-06 is effective for all public entities for annual periods beginning after December 15, 2027, and interim reporting periods within those annual reporting periods, with early adoption permitted as of the beginning of"
-    },
-    {
-     "id": "HIMS-10Q-guidance-2",
-     "topic": "guidance",
-     "matched": "guidance",
-     "form": "10-Q",
-     "date": "2026-08-10",
-     "text": "y or consumer protection-related laws, regulations, industry self-regulatory principles, industry standards or codes of conduct, regulatory guidance, orders to which we may be subject or other legal obligations relating to privacy, consumer consent, or consumer protection could adversely affect our reputation, brand, and business, and may result in claims, proceedings or actions against us by governmental entities, consumers"
-    }
-   ]
-  },
-  {
-   "form": "8-K",
-   "date": "2026-08-10",
-   "url": "https://www.sec.gov/Archives/edgar/data/1773751/000177375126000161/hims-20260810.htm",
-   "chars": 1441,
-   "excerpts": [
-    {
-     "id": "HIMS-8-K-event-1",
-     "topic": "event",
-     "matched": "8-K",
-     "form": "8-K",
-     "date": "2026-08-10",
-     "text": "Item 2.02. Results of Operations and Financial Condition. On August 10, 2026, Hims & Hers Health, Inc. (the \"Company\") issued a press release announcing its results of operations for the quarter ended June 30, 2026. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated by reference in this Item 2.02. The information in this Current Report on Form 8-K and Exhibit 99.1 is being furnished pursuant to Item 2.02 of Form 8-K and shall not be deemed to be \"filed\" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the \"Exchange Act\"), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing made by the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. Item 9.01. Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release dated August 10 , 2026 104 Cover Page Interactive Data file (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. HIMS & HERS HEALTH, INC. DATE: August 10, 2026 By: /s/ Oluyemi Okupe Oluyemi Okupe Chief Financial Officer (Principal Financial Officer)"
-    }
-   ]
-  }
- ]
+ "read": []
 }

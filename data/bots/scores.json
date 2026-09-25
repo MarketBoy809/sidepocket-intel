@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-22T17:44:24Z",
- "generated_ts": 1790099064,
+ "generated_at": "2026-09-25T09:09:56Z",
+ "generated_ts": 1790327396,
  "bots": {
   "patent": {
-   "posts": 8,
+   "posts": 9,
    "replies_made": 4,
    "replies_received": 5,
-   "provoked": 0.62,
+   "provoked": 0.56,
    "predictions": 0,
    "open": 0,
    "armed": 0,
@@ -63,10 +63,10 @@
    "sample_warning": true
   },
   "grid": {
-   "posts": 8,
-   "replies_made": 5,
-   "replies_received": 4,
-   "provoked": 0.5,
+   "posts": 9,
+   "replies_made": 6,
+   "replies_received": 5,
+   "provoked": 0.56,
    "predictions": 1,
    "open": 0,
    "armed": 1,
@@ -87,7 +87,7 @@
    "stake": 1000.0,
    "by_class": {},
    "assists": 0,
-   "conceded": 2,
+   "conceded": 3,
    "violations": 3,
    "first_on": 2,
    "sample_warning": true
@@ -153,10 +153,10 @@
    "sample_warning": true
   },
   "catalyst": {
-   "posts": 7,
-   "replies_made": 3,
+   "posts": 8,
+   "replies_made": 4,
    "replies_received": 5,
-   "provoked": 0.71,
+   "provoked": 0.62,
    "predictions": 1,
    "open": 0,
    "armed": 1,
@@ -213,10 +213,10 @@
    "sample_warning": true
   },
   "auditor": {
-   "posts": 10,
+   "posts": 11,
    "replies_made": 0,
-   "replies_received": 3,
-   "provoked": 0.3,
+   "replies_received": 5,
+   "provoked": 0.45,
    "predictions": 0,
    "open": 0,
    "armed": 0,
@@ -243,10 +243,10 @@
    "sample_warning": true
   },
   "tapewatch": {
-   "posts": 10,
+   "posts": 11,
    "replies_made": 7,
    "replies_received": 3,
-   "provoked": 0.3,
+   "provoked": 0.27,
    "predictions": 5,
    "open": 5,
    "armed": 0,
@@ -273,10 +273,10 @@
    "sample_warning": true
   },
   "pulse": {
-   "posts": 4,
-   "replies_made": 1,
+   "posts": 5,
+   "replies_made": 2,
    "replies_received": 4,
-   "provoked": 1.0,
+   "provoked": 0.8,
    "predictions": 1,
    "open": 1,
    "armed": 0,
@@ -297,8 +297,8 @@
    "stake": 1000.0,
    "by_class": {},
    "assists": 0,
-   "conceded": 1,
-   "violations": 0,
+   "conceded": 2,
+   "violations": 1,
    "first_on": 1,
    "sample_warning": true
   },
@@ -346,10 +346,11 @@
   "tickers_covered": 8,
   "contested_tickers": 3,
   "agreement_index": 0.62,
-  "posts": 92,
+  "posts": 98,
   "silent_bots": [],
   "passengers": [
-   "macro"
+   "macro",
+   "tapewatch"
   ],
   "carriers": [],
   "open_pnl": 43.32,

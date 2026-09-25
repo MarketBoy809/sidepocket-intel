@@ -1,0 +1,174 @@
+{
+ "ticker": "TNDM",
+ "cik": "0001438133",
+ "updated": "2026-09-25T09:09:53Z",
+ "updated_ts": 1790327393,
+ "filings": [
+  {
+   "form": "10-Q",
+   "date": "2026-08-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1438133/000143813326000125/tndm-20260630.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-08-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1438133/000143813326000124/tndm-20260806.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-05-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1438133/000143813326000070/tndm-20260520.htm"
+  }
+ ],
+ "insiders": {
+  "form4_count": 30,
+  "form144_count": 4,
+  "recent_dates": [
+   "2026-09-17",
+   "2026-08-18",
+   "2026-07-17",
+   "2026-06-17",
+   "2026-06-04",
+   "2026-06-02"
+  ],
+  "note": "Form 4 is a completed insider transaction; Form 144 is notice of an intended sale. Neither is the company issuing new stock."
+ },
+ "read": [
+  {
+   "form": "10-Q",
+   "date": "2026-08-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1438133/000143813326000125/tndm-20260630.htm",
+   "chars": 343224,
+   "excerpts": [
+    {
+     "id": "TNDM-10Q-covenants-1",
+     "topic": "covenants",
+     "matched": "event of default",
+     "form": "10-Q",
+     "date": "2026-08-06",
+     "text": "failure to comply with certain obligations under the Notes, or inability to make required debt service payments, if any, could result in an event of default under the applicable indenture. A default, if not cured or waived, could result in acceleration of the indebtedness, which could have a material adverse effect on our business, financial condition and liquidity. Further, if our indebtedness is accelerated, we cannot be certain t"
+    },
+    {
+     "id": "TNDM-10Q-covenants-2",
+     "topic": "covenants",
+     "matched": "covenant",
+     "form": "10-Q",
+     "date": "2026-08-06",
+     "text": "n of our current liquidity or cash flow from operations to interest payments, limiting the availability of cash for other purposes; &#8226; covenants contained in future agreements governing indebtedness may limit our ability to borrow additional funds, refinance indebtedness or make certain investments; 52 &#8226; debt covenants may affect our flexibility in planning for, and reacting to, changes in the economy and our indu"
+    },
+    {
+     "id": "TNDM-10Q-liquidity-1",
+     "topic": "liquidity",
+     "matched": "Cash and cash equivalents",
+     "form": "10-Q",
+     "date": "2026-08-06",
+     "text": "ED CONSOLIDATED BALANCE SHEETS (In thousands, except par value) June 30, December 31, 2026 2025 Assets (Unaudited) (Note 1) Current assets: Cash and cash equivalents $ 62,818 $ 90,634 Short-term investments 393,178 202,032 Accounts receivable, net 162,065 165,491 Inventories 135,106 128,769 Prepaid and other current assets 51,472 31,217 Total current assets 804,639 618,143 Property and equipment, net 84,501 83,580 Operating lease right-of-us"
+    },
+    {
+     "id": "TNDM-10Q-liquidity-2",
+     "topic": "liquidity",
+     "matched": "cash and cash equivalents",
+     "form": "10-Q",
+     "date": "2026-08-06",
+     "text": "provided by (used in) financing activities 276,315 ( 44,401 ) Effect of foreign exchange rate changes on cash 2,229 ( 263 ) Net decrease in cash and cash equivalents ( 27,816 ) ( 5,122 ) Cash and cash equivalents at beginning of period 90,634 69,234 Cash and cash equivalents at end of period $ 62,818 $ 64,112 Supplemental disclosures of cash flow information Income taxes (refunded) paid $ ( 1,758 ) $ 4,892 Supplemental schedule of non-cash i"
+    },
+    {
+     "id": "TNDM-10Q-debt-1",
+     "topic": "debt",
+     "matched": "notes due",
+     "form": "10-Q",
+     "date": "2026-08-06",
+     "text": "se Plan 541 1 5,893 - - 5,894 Stock-based compensation expense - - 30,811 - - 30,811 Purchase of capped call options related to convertible notes due 2029 - - ( 15,300 ) - - ( 15,300 ) Unrealized loss on short-term investments - - - ( 1,719 ) - ( 1,719 ) Unrealized gain on cash flow hedges - - - 2,418 - 2,418 Foreign currency translation gains - - - 111 - 111 Net loss - - - - ( 41,561 ) ( 41,561 ) Balance at June 30, 2026 69,"
+    },
+    {
+     "id": "TNDM-10Q-debt-2",
+     "topic": "debt",
+     "matched": "notes due",
+     "form": "10-Q",
+     "date": "2026-08-06",
+     "text": "- Net cash provided by (used in) investing activities ( 282,784 ) 67,316 Financing Activities Proceeds from issuance of convertible senior notes due 2032, net of $ 8,843 debt issuance costs 291,157 - Principal payments on convertible senior notes due 2025 - ( 40,760 ) Payment for capped call transactions related to convertible senior notes due 2032 ( 15,300 ) - Cash used to settle withholding taxes on vested restricted stock"
+    },
+    {
+     "id": "TNDM-10Q-dilution-1",
+     "topic": "dilution",
+     "matched": "Warrant",
+     "form": "10-Q",
+     "date": "2026-08-06",
+     "text": "strictedStockUnitsRSUMember 2026-01-01 2026-06-30 0001438133 us-gaap:RestrictedStockUnitsRSUMember 2025-01-01 2025-06-30 0001438133 us-gaap:WarrantMember 2026-04-01 2026-06-30 0001438133 us-gaap:WarrantMember 2025-04-01 2025-06-30 0001438133 us-gaap:WarrantMember 2026-01-01 2026-06-30 0001438133 us-gaap:WarrantMember 2025-01-01 2025-06-30 0001438133 us-gaap:EmployeeStockMember 2026-04-01 2026-06-30 0001438133 us-gaap:Employ"
+    },
+    {
+     "id": "TNDM-10Q-dilution-2",
+     "topic": "dilution",
+     "matched": "Warrant",
+     "form": "10-Q",
+     "date": "2026-08-06",
+     "text": "38133 us-gaap:RestrictedStockUnitsRSUMember 2025-01-01 2025-06-30 0001438133 us-gaap:WarrantMember 2026-04-01 2026-06-30 0001438133 us-gaap:WarrantMember 2025-04-01 2025-06-30 0001438133 us-gaap:WarrantMember 2026-01-01 2026-06-30 0001438133 us-gaap:WarrantMember 2025-01-01 2025-06-30 0001438133 us-gaap:EmployeeStockMember 2026-04-01 2026-06-30 0001438133 us-gaap:EmployeeStockMember 2025-04-01 2025-06-30 0001438133 us-gaap:"
+    },
+    {
+     "id": "TNDM-10Q-impairment-1",
+     "topic": "impairment",
+     "matched": "impairment",
+     "form": "10-Q",
+     "date": "2026-08-06",
+     "text": "xpense 8,974 8,678 Amortization of debt issuance costs 1,384 970 Provision for expected credit losses 5,358 3,577 Operating lease and other impairment charges - 6,697 Amortization of discount or (accretion of premium) on short-term investments ( 1,821 ) ( 1,780 ) Loss from equity method investment 9,506 6,917 Stock-based compensation expense 31,400 51,130 Acquired in-process research and development expenses - 75,217 Other 1,0"
+    },
+    {
+     "id": "TNDM-10Q-impairment-2",
+     "topic": "impairment",
+     "matched": "impairment",
+     "form": "10-Q",
+     "date": "2026-08-06",
+     "text": "ble Assets Subject to Amortization Finite-lived intangible assets are recorded at cost, net of accumulated amortization and, if applicable, impairment charges. Amortization of finite-lived intangible assets is recognized over their estimated useful lives using a straight-line or accelerated attribution method, depending on the economic benefit associated with the asset. In the second quarter 2025, the Company and various Roche"
+    },
+    {
+     "id": "TNDM-10Q-guidance-1",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-08-06",
+     "text": "oftware (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software (ASU 2025-06), which modernizes the accounting guidance for internal-use software, including website development costs. The amendments eliminate the consideration of software development stages and introduce a new capitalization threshold based on the entity's commitment to fund the project and the probability of completion. The Comp"
+    },
+    {
+     "id": "TNDM-10Q-guidance-2",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-08-06",
+     "text": "2025, the FASB issued ASU 2025-11 Interim Reporting (Topic 270): Narrow-Scope Improvements (ASU 2025-11), which clarifies and improves the guidance for interim financial reporting. The amendments introduce a disclosure principle requiring entities to disclose events since the end of the previous annual reporting period that materially affect the entity, consolidate a comprehensive list of interim disclosure requirements wit"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-08-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1438133/000143813326000124/tndm-20260806.htm",
+   "chars": 1388,
+   "excerpts": [
+    {
+     "id": "TNDM-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-08-06",
+     "text": "Item 2.02 Results of Operations and Financial Condition . On August 6, 2026, Tandem Diabetes Care, Inc. issued a press release announcing its f inancial results for the quarter ended June 30, 2026. This press release has been furnished as Exhibit 99.1 to this report and is incorporated herein by this reference. The information under this Item 2.02 and Exhibit 99.1 hereto is being furnished and shall not be deemed \"filed\" for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that section, nor shall they be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Number Description 99.1 Press release of Tandem Diabetes Care, Inc. dated August 6, 2026. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). 2 SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Tandem Diabetes Care, Inc. By: /s/ SHANNON M. HANSEN Shannon M. Hansen Executive Vice President, Chief Legal, Privacy & Compliance Officer and Secretary Date: August 6, 2026 3"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-05-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1438133/000143813326000070/tndm-20260520.htm",
+   "chars": 6248,
+   "excerpts": [
+    {
+     "id": "TNDM-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-05-21",
+     "text": "Item 3.03 Material Modification to Rights of Security Holders. On May 20, 2026, at the 2026 Annual Meeting of Stockholders (the Annual Meeting) of Tandem Diabetes Care, Inc. (the Company), upon recommendation of the Company's Board of Directors (the Board), the Company's stockholders approved amendments to the Company's Amended and Restated Certificate of Incorporation to: (i) provide for removal of directors with or without cause, as required by Section 141(k) of the Delaware General Corporation Law (DGCL); and (ii) among other things, (x) limit the liability of officers of the Company to the maximum extent permitted by law as permitted pursuant to Section 102(b)(7) of the DGCL and (y) implement certain other changes based on updates to the DGCL (together, the Charter Amendments). The descriptions of the Charter Amendments are set forth in the Company's Definitive Proxy Statement on Schedule 14A, filed with the U.S. Securities and Exchange Commission on April 7, 2026 (the Proxy Statement), in the sections titled \"Proposal 4: Section 141(k) Amendment\" and \"Proposal 5: Officer Exculpation Amendment\" and are incorporated by reference herein. Following stockholder approval at the Annual Meeting, on May 21, 2026, the Company filed an Amended and Restated Certificate of Incorporation (the Amended and Restated Charter) integrating the Charter Amendments with the Secretary of State of the State of Delaware. The description of the Charter Amendments contained herein and in the Proxy Statement are qualified in their entirety by reference to the Amended and Restated Charter, a copy of which is filed as Exhibit 3.1 hereto and incorporated herein by reference. Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory "
+    }
+   ]
+  }
+ ]
+}

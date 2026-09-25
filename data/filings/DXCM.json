@@ -1,0 +1,179 @@
+{
+ "ticker": "DXCM",
+ "cik": "0001093557",
+ "updated": "2026-09-25T09:09:46Z",
+ "updated_ts": 1790327386,
+ "filings": [
+  {
+   "form": "8-K",
+   "date": "2026-09-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355726000175/dxcm-20260910.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-09-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355726000167/dxcm-20260910.htm"
+  },
+  {
+   "form": "10-Q",
+   "date": "2026-07-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355726000143/dxcm-20260630.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-07-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355726000142/dxcm-20260730.htm"
+  }
+ ],
+ "insiders": {
+  "form4_count": 20,
+  "form144_count": 15,
+  "recent_dates": [
+   "2026-09-16",
+   "2026-09-15",
+   "2026-09-14",
+   "2026-09-10",
+   "2026-08-28",
+   "2026-08-27"
+  ],
+  "note": "Form 4 is a completed insider transaction; Form 144 is notice of an intended sale. Neither is the company issuing new stock."
+ },
+ "read": [
+  {
+   "form": "10-Q",
+   "date": "2026-07-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355726000143/dxcm-20260630.htm",
+   "chars": 135955,
+   "excerpts": [
+    {
+     "id": "DXCM-10Q-covenants-1",
+     "topic": "covenants",
+     "matched": "covenant",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "or asset sales and customary anti-dilution adjustments, the indentures relating to our senior convertible notes include customary terms and covenants, including certain events of default after which the senior convertible notes may be due and payable immediately. 2028 Capped Call Transactions In May 2023, in connection with the offering of the 2028 Notes, we entered into privately negotiated capped call transactions, or the"
+    },
+    {
+     "id": "DXCM-10Q-covenants-2",
+     "topic": "covenants",
+     "matched": "covenant",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "iaries but excluding real property and intellectual property (which is subject to a negative pledge). The Amended Credit Agreement contains covenants that limit certain indebtedness, liens, investments, transactions with affiliates, dividends and other restricted payments, subordinated indebtedness and amendments to subordinated indebtedness documents, and sale and leaseback transactions of Dexcom or any of its domestic subs"
+    },
+    {
+     "id": "DXCM-10Q-liquidity-1",
+     "topic": "liquidity",
+     "matched": "Cash and cash equivalents",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "nsolidated Balance Sheets (Unaudited) (In millions, except share and par value data) June 30, 2026 December 31, 2025 Assets Current assets: Cash and cash equivalents $ 1,105.0 $ 917.7 Short-term marketable securities 842.0 1,081.0 Accounts receivable, net 1,257.7 1,216.1 Inventory 726.4 629.1 Prepaid and other current assets 155.5 189.4 Total current assets 4,086.6 4,033.3 Property and equipment, net 1,577.2 1,559.9 Operating lease right-of-"
+    },
+    {
+     "id": "DXCM-10Q-liquidity-2",
+     "topic": "liquidity",
+     "matched": "Cash and cash equivalents",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "valents and restricted cash, end of period $ 1,105.2 $ 1,160.3 Reconciliation of cash, cash equivalents and restricted cash, end of period: Cash and cash equivalents $ 1,105.0 $ 1,159.0 Restricted cash 0.2 1.3 Total cash, cash equivalents and restricted cash $ 1,105.2 $ 1,160.3 Supplemental disclosure of non-cash investing and financing transactions: Acquisition of property and equipment included in accounts payable and accrued liabilities $"
+    },
+    {
+     "id": "DXCM-10Q-debt-1",
+     "topic": "debt",
+     "matched": "maturity date",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "ues obtained from this professional pricing source can also be based on pricing models whereby all significant observable inputs, including maturity dates, issue dates, settlement dates, benchmark yields, reported trades, broker-dealer quotes, issue spreads, benchmark securities, bids, offers or other market related data, are observable or can be derived from, or corroborated by, observable market data for substantially the full"
+    },
+    {
+     "id": "DXCM-10Q-debt-2",
+     "topic": "debt",
+     "matched": "notes due",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "Debt Senior Convertible Notes As of June 30, 2026 and December 31, 2025, the if-converted value of our unsecured senior convertible notes due 2028, or 2028 Notes, did not exceed their outstanding principal amount. Our unsecured senior convertible notes due 2025, or 2025 Notes, matured in November 2025 and we repaid the principal of $ 1.21 billion entirely in cash on the maturity date. The carrying amounts of our senio"
+    },
+    {
+     "id": "DXCM-10Q-dilution-1",
+     "topic": "dilution",
+     "matched": "Convertible",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "nceStockUnitsMember 2026-01-01 2026-06-30 0001093557 dxcm:RestrictedAndPerformanceStockUnitsMember 2025-01-01 2025-06-30 0001093557 us-gaap:ConvertibleDebtSecuritiesMember 2026-04-01 2026-06-30 0001093557 us-gaap:ConvertibleDebtSecuritiesMember 2025-04-01 2025-06-30 0001093557 us-gaap:ConvertibleDebtSecuritiesMember 2026-01-01 2026-06-30 0001093557 us-gaap:ConvertibleDebtSecuritiesMember 2025-01-01 2025-06-30 0001093557 us-gaap"
+    },
+    {
+     "id": "DXCM-10Q-dilution-2",
+     "topic": "dilution",
+     "matched": "Convertible",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "rformanceStockUnitsMember 2025-01-01 2025-06-30 0001093557 us-gaap:ConvertibleDebtSecuritiesMember 2026-04-01 2026-06-30 0001093557 us-gaap:ConvertibleDebtSecuritiesMember 2025-04-01 2025-06-30 0001093557 us-gaap:ConvertibleDebtSecuritiesMember 2026-01-01 2026-06-30 0001093557 us-gaap:ConvertibleDebtSecuritiesMember 2025-01-01 2025-06-30 0001093557 us-gaap:FairValueInputsLevel1Member us-gaap:FairValueMeasurementsRecurringMember"
+    },
+    {
+     "id": "DXCM-10Q-impairment-1",
+     "topic": "impairment",
+     "matched": "impairment",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "nd liabilities initially measured at fair value in a business combination and non-financial long-lived assets measured at fair value for an impairment assessment. In general, non-financial assets, including goodwill, intangible assets, and property and equipment, are measured at fair value when there are indicators of impairment and are recorded at fair value only when an impairment is recognized. 14 Table of Contents Our non-"
+    },
+    {
+     "id": "DXCM-10Q-impairment-2",
+     "topic": "impairment",
+     "matched": "impairment",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "inancial assets, including goodwill, intangible assets, and property and equipment, are measured at fair value when there are indicators of impairment and are recorded at fair value only when an impairment is recognized. 14 Table of Contents Our non-marketable equity investments without readily determinable fair values are accounted for under the measurement alternative. As such, we measure these investments at cost less impai"
+    },
+    {
+     "id": "DXCM-10Q-guidance-1",
+     "topic": "guidance",
+     "matched": "Guidance",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "ws: Three Months Ended June 30, Six Months Ended June 30, (In millions) 2026 2025 2026 2025 RSUs and PSUs 1.4 1.2 1.0 1.2 Recent Accounting Guidance Recently Adopted Accounting Pronouncements In November 2024, the FASB issued ASU 2024-04, Debt-Debt with Conversion and Other Options . The ASU clarifies the requirements for determining whether certain settlements of convertible debt instruments should be accounted for as an in"
+    },
+    {
+     "id": "DXCM-10Q-guidance-2",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-07-30",
+     "text": "Assets and Liabilities Measured at Fair Value on a Non-Recurring Basis In accordance with authoritative guidance, we measure certain non-financial assets and liabilities at fair value on a non-recurring basis. These measurements are usually performed using the discounted cash flow method or cost method and Level 3 inputs. These include items such as non-financial assets and liabilities ini"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-09-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355726000175/dxcm-20260910.htm",
+   "chars": 4065,
+   "excerpts": [
+    {
+     "id": "DXCM-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-09-14",
+     "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): &#9744; Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) &#9744; Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) &#9744; Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) &#9744; Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of the Act: Title of Each Class Trading Symbol(s) Name of Each Exchange on Which Registered Common Stock, $0.001 Par Value Per Share DXCM Nasdaq Global Select Market Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (&#167;240.12b-2 of this chapter). Emerging growth company &#9744; If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. &#9744; ITEM 5.02. DEPARTURE OF DIRECTORS OR CERTAIN OFFICERS; ELECTION OF DIRECTORS; APPOINTMENT OF CERTAIN OFFICERS; COMPENSATORY ARRANGEMENTS OF CERTAIN OFFICERS. On September 10, 2026, the Board of Directors (the \"Board\") of DexCom, Inc. (\"Dexcom\" or the \"Company\") appointed Jereme Sylvain, the Company's EVP, Chief Financial Officer, to the role of EVP, Chief Operating Officer and Chief Financial Officer, effective September 1"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-09-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355726000167/dxcm-20260910.htm",
+   "chars": 4581,
+   "excerpts": [
+    {
+     "id": "DXCM-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-09-10",
+     "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below): &#9744; Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) &#9744; Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) &#9744; Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) &#9744; Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of the Act: Title of Each Class Trading Symbol(s) Name of Each Exchange on Which Registered Common Stock, $0.001 Par Value Per Share DXCM Nasdaq Global Select Market Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (&#167;240.12b-2 of this chapter). Emerging growth company &#9744; If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. &#9744; ITEM 5.02. DEPARTURE OF DIRECTORS OR CERTAIN OFFICERS; ELECTION OF DIRECTORS; APPOINTMENT OF CERTAIN OFFICERS; COMPENSATORY ARRANGEMENTS OF CERTAIN OFFICERS. On September 10, 2026, the Board of Directors (the \"Board\") of DexCom, Inc. (\"Dexcom\" or the \"Company\"), pursuant to the Amended and Restated Bylaws of the Company, increased the size of the Board to thirteen directors and appointed Glenn S. Boehnlein as a director, e"
+    }
+   ]
+  }
+ ]
+}
