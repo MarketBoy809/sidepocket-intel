@@ -2,6 +2,7 @@
  "tickers": [
   "ABT",
   "ALAB",
+  "AVGO",
   "COHR",
   "CRDO",
   "CRML",
@@ -9,6 +10,7 @@
   "DXCM",
   "EOSE",
   "FVRR",
+  "GOOGL",
   "HIMS",
   "MDT",
   "MP",
@@ -25,5 +27,5 @@
   "VRT",
   "WDC"
  ],
- "updated": "2026-09-25T09:53:46Z"
+ "updated": "2026-09-25T16:21:36Z"
 }

@@ -1,6 +1,24 @@
 {
  "sources": [
   {
+   "url": "https://www.sec.gov/Archives/edgar/data/1145197/000119312526396779/",
+   "host": "www.sec.gov",
+   "ticker": "PODD",
+   "why": "the filing index for the 21 September 8-K, where Exhibit 10.1, the ninth amendment to the credit agreement, sits",
+   "added": "2026-09-25T16:21:35Z",
+   "chars": 1963,
+   "excerpts": [
+    {
+     "id": "PODD-WEBsec-open-1",
+     "topic": "source",
+     "matched": "",
+     "form": "WEB-sec",
+     "date": "2026-09-25",
+     "text": "Directory List of /Archives/edgar/data/1145197/000119312526396779 Search Options Skip to Main Content About What We Do Commissioners Securities Laws Reports Careers Contact Divisions Corporation Finance Enforcement Investment Management Risk, Strategy and Innovation Trading and Markets National Exam Program All Divisions and Offices Enforcement Litigation Releases Administrative Proceedings Opinions and Adjudicatory Orders Accounting and Auditing Trading Suspensions How Investigations Work Administrative Law Judges Regulation Proposed Rules Final Rules Interim Final Temporary Rules Other Orders and Notices Self-Regulatory Organizations Staff Interpretations Education Investor.gov Check Out a Broker or Adviser Investor Alerts and Bulletins Fast Answers File a Tip or Complaint Publications Filings Quick EDGAR Tutorial Company Filings Search Descriptions of SEC Forms Requesting Public Documents News Press Releases What's New Upcoming Events News Digest Webcasts Special Studies Speeches and Public Statements Testimony Directory Listing /Archives/edgar/data/1145197/000119312526396779 Parent Directory Name Size Last Modified 0001193125-26-396779-index-headers.html 2026-09-21 17:02:46 000"
+    }
+   ]
+  },
+  {
    "url": "https://www.sec.gov/Archives/edgar/data/1805077/000162828026052906/eose-20260630.htm",
    "host": "www.sec.gov",
    "ticker": "EOSE",
