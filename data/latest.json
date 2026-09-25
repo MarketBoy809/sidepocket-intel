@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-09-24T22:13:33Z",
- "generated_ts": 1790288013,
+ "generated_at": "2026-09-25T01:23:33Z",
+ "generated_ts": 1790299413,
  "prices": {
   "BTC": {
-   "p": 84305.1,
-   "o": 84384.5,
+   "p": 84597.1,
+   "o": 84380.0,
    "h": 84914.8,
    "l": 82832.3,
-   "v": 3325.46965974
+   "v": 3357.50771927
   },
   "ETH": {
-   "p": 2684.03,
-   "o": 2683.99,
+   "p": 2691.98,
+   "o": 2687.22,
    "h": 2704.82,
    "l": 2627.68,
-   "v": 27132.28126822
+   "v": 27245.95610871
   },
   "SOL": {
-   "p": 116.51,
-   "o": 115.01,
-   "h": 117.76,
+   "p": 117.45,
+   "o": 117.02,
+   "h": 117.88,
    "l": 112.48,
-   "v": 413687.53850106
+   "v": 429864.17869055
   }
  },
  "change_7d": {
-  "BTC": 0.10440433095731261,
-  "ETH": 0.09841214019620284,
-  "SOL": 0.15614486443696815
+  "BTC": 0.10521271759403429,
+  "ETH": 0.09956340089445592,
+  "SOL": 0.15859074311654997
  },
  "sentiment": {
-  "score": 70.4,
+  "score": 65.9,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 76.10108273932815,
-   "crowding": 61.319818
+   "momentum": 76.30317939850858,
+   "news_tone": 42.55,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -48,60 +49,28 @@
  "fear_greed": {
   "value": 71,
   "label": "Greed",
-  "ts": 1790208000
+  "ts": 1790294400
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.447,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3273762586.8031116,
-   "premium": -0.0003201746
+   "oi_usd": 3328939962.55874,
+   "premium": -0.0001063654
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2864815739.6265197,
-   "premium": -8.56761e-05
+   "oi_usd": 2873037257.050201,
+   "premium": 0.0
   },
   "SOL": {
-   "funding_h": 6.0132e-06,
-   "oi_usd": 692304163.0830003,
-   "premium": -0.0005578681
+   "funding_h": 1.25e-05,
+   "oi_usd": 698611605.6331999,
+   "premium": 0.0
   }
  },
- "items_24h": 391,
+ "items_24h": 410,
  "top_items": [
-  {
-   "id": "c4a26d202d4558c5",
-   "ts": 1790209285,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The story that the White House, or me, want to affix my name to Ford's Theatre, in Washington, D.C., where Abraham Lincoln was assassinated, is a ridiculous lie. It is FAKE NEWS! Who would possibly want a name on such a tragic place? The Dumocrats suffer from serious Trump Derang",
-   "url": "https://truthsocial.com/@realDonaldTrump/117323155721195611",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 12788
-  },
-  {
-   "id": "a61726d6af7ecece",
-   "ts": 1790209169,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS of Dollars in Sales, and huge U.S. Export",
-   "url": "https://truthsocial.com/@realDonaldTrump/117323148147220269",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro"
-   ],
-   "author": "Donald Trump",
-   "score": 10673
-  },
   {
    "id": "e6779bcb51230729",
    "ts": 1790283034,
@@ -136,108 +105,140 @@
    "score": 4928
   },
   {
-   "id": "f36480f10ee0906b",
-   "ts": 1790286300,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "History Says Investing in the Stock Market During a Bear Market Is the Smartest Move You Can Make . Here Why .",
-   "url": "https://www.fool.com/investing/2026/09/24/history-says-investing-in-the-stock-market-during/?source=iedfolrf0000001",
-   "domain": "fool.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "0dd487182ef25231",
-   "ts": 1790286300,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "iShares MSCI Global Min Vol Factor ETF ( BATS : ACWV ) Stock Short Interest Drops 94 . 8 %",
-   "url": "https://www.tickerreport.com/banking-finance/13594551/ishares-msci-global-min-vol-factor-etf-batsacwv-stock-short-interest-drops-94-8.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "aed651214ae55b23",
-   "ts": 1790286300,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "History shows financial calamities occur when rates rise rapidly like this : Something always breaks",
-   "url": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
-   "domain": "cnbc.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "7299043fd77bca0a",
-   "ts": 1790285400,
+   "id": "60e18de4943d3417",
+   "ts": 1790298000,
    "source": "news",
    "group": "institution",
    "kind": "news",
    "title": "S & P Dow Jones Indices and Vanguard Investments Canada Inc . Close the Market",
-   "url": "https://www.thewhig.com/press-releases/newsfile/sp-dow-jones-indices-and-vanguard-investments-canada-inc-close-the-market/",
-   "domain": "thewhig.com",
+   "url": "https://www.standard-freeholder.com/press-releases/newsfile/sp-dow-jones-indices-and-vanguard-investments-canada-inc-close-the-market/",
+   "domain": "standard-freeholder.com",
    "tags": [
     "institution"
    ]
   },
   {
-   "id": "ee9698a7fdb9719d",
-   "ts": 1790285400,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Gemini 3 . 8 Live with Live Avatar gives Google AI a face",
-   "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-   "domain": "theverge.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "9d8a98fff0ab3f03",
-   "ts": 1790284500,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Strategy Bought 950 Bitcoin at $79 , 670 Last Week . Will Michael Saylor Keep Buying at $84 , 000 ?",
-   "url": "https://www.aol.com/articles/strategy-bought-950-bitcoin-79-201827000.html",
-   "domain": "aol.com",
-   "tags": [
-    "crypto",
-    "institution",
-    "BTC"
-   ]
-  },
-  {
-   "id": "da9bd20f18a18c79",
-   "ts": 1790284500,
+   "id": "90430d2846ad138b",
+   "ts": 1790298000,
    "source": "news",
    "group": "institution",
    "kind": "news",
    "title": "S & P Dow Jones Indices and Vanguard Investments Canada Inc . Close the Market",
-   "url": "https://www.owensoundsuntimes.com/press-releases/newsfile/sp-dow-jones-indices-and-vanguard-investments-canada-inc-close-the-market/",
-   "domain": "owensoundsuntimes.com",
+   "url": "https://www.chathamdailynews.ca/press-releases/newsfile/sp-dow-jones-indices-and-vanguard-investments-canada-inc-close-the-market/",
+   "domain": "chathamdailynews.ca",
    "tags": [
     "institution"
    ]
   },
   {
-   "id": "892744107cbcc5e9",
-   "ts": 1790282700,
+   "id": "819415c908ceecca",
+   "ts": 1790298000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Bank of Japan Accounts (September 20)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260920.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "abcc68eff8d46fe7",
+   "ts": 1790296200,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "iShares Currency Hedged MSCI Emerging Markets ETF ( BATS : HEEM ) Shares Up 0 . 2 % – Here Why",
-   "url": "https://www.themarketsdaily.com/2026/09/24/ishares-currency-hedged-msci-emerging-markets-etf-batsheem-shares-up-0-2-heres-why.html",
+   "title": "US Treasury Yields Hit Multi - Decade High as BTC Steadies and ONDO Rallies",
+   "url": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs",
+   "domain": "cointelegraph.com",
+   "tags": [
+    "crypto",
+    "macro",
+    "BTC",
+    "institution"
+   ]
+  },
+  {
+   "id": "a041684c01b6fd4c",
+   "ts": 1790293800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Results of BIS International Locational Banking Statistics and International Consolidated Banking Statistics in Japan",
+   "url": "http://www.boj.or.jp/en/statistics/bis/ibs/index.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "7c292a43dc2117b0",
+   "ts": 1790293500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "TCW Corporate Bond ETF ( NYSE : IGCB ) Shares Shorted : Short Interest Up 2 , 800 . 0 % in September",
+   "url": "https://www.themarketsdaily.com/2026/09/24/tcw-corporate-bond-etf-nyseigcb-shares-shorted-short-interest-up-2800-0-in-september.html",
    "domain": "themarketsdaily.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "d9e050a5995bbf7c",
+   "ts": 1790293500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Roundhill S & P 500 0DTE Covered Call Strategy ETF ( BATS : XDTE ) Shares Up 0 . 1 % – Time to Buy ?",
+   "url": "https://www.dailypolitical.com/2026/09/24/roundhill-sp-500-0dte-covered-call-strategy-etf-batsxdte-shares-up-0-1-time-to-buy.html",
+   "domain": "dailypolitical.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "e37e5cda0fe9e2ac",
+   "ts": 1790290800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Vanguard New York Tax - Exempt Bond ETF ( BATS : MUNY ) Sees Large Increase in Short Interest",
+   "url": "https://www.themarketsdaily.com/2026/09/24/vanguard-new-york-tax-exempt-bond-etf-batsmuny-sees-large-increase-in-short-interest-2.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "80bd01d5d11dd7c1",
+   "ts": 1790290800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Invesco Russell 2000 Dynamic Multifactor ETF ( BATS : OMFS ) Stock Short Interest Climbs 897 . 7 %",
+   "url": "https://www.dailypolitical.com/2026/09/24/invesco-russell-2000-dynamic-multifactor-etf-batsomfs-stock-short-interest-climbs-897-7.html",
+   "domain": "dailypolitical.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "2f5d9279b29812f4",
+   "ts": 1790289900,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Vanguard Long - Term Tax - Exempt Bond ETF ( BATS : VTEL ) Shares Shorted : Short Interest Down 90 . 1 % in September",
+   "url": "https://www.dailypolitical.com/2026/09/24/vanguard-long-term-tax-exempt-bond-etf-batsvtel-shares-shorted-short-interest-down-90-1-in-september.html",
+   "domain": "dailypolitical.com",
    "tags": [
     "crypto",
     "institution"
@@ -248,11 +249,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 51
+   "n": 28
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -260,7 +261,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 14
+   "n": 12
   },
   "White House": {
    "ok": true,
@@ -293,7 +294,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 4
+   "n": 6
   },
   "BIS": {
    "ok": true,
@@ -321,7 +322,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 42
+   "n": 39
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
