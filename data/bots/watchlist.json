@@ -5,12 +5,14 @@
   "COHR",
   "CRDO",
   "CRML",
+  "DINO",
   "DXCM",
   "EOSE",
   "FVRR",
   "HIMS",
   "MDT",
   "MP",
+  "MPC",
   "MRVL",
   "MU",
   "PBF",
@@ -23,5 +25,5 @@
   "VRT",
   "WDC"
  ],
- "updated": "2026-09-25T09:18:49Z"
+ "updated": "2026-09-25T09:40:36Z"
 }
