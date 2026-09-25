@@ -1,41 +1,40 @@
 {
- "generated_at": "2026-09-25T12:07:22Z",
- "generated_ts": 1790338042,
+ "generated_at": "2026-09-25T13:17:06Z",
+ "generated_ts": 1790342226,
  "prices": {
   "BTC": {
-   "p": 84632.5,
+   "p": 84451.9,
    "o": 84380.0,
    "h": 85247.4,
-   "l": 83316.1,
-   "v": 3080.97466172
+   "l": 83348.9,
+   "v": 3280.586494
   },
   "ETH": {
-   "p": 2720.17,
+   "p": 2715.44,
    "o": 2687.22,
    "h": 2742.42,
-   "l": 2638.74,
-   "v": 27096.8860911
+   "l": 2645.35,
+   "v": 28044.28041807
   },
   "SOL": {
-   "p": 120.73,
+   "p": 120.84,
    "o": 117.02,
    "h": 122.2,
-   "l": 113.06,
-   "v": 501774.3647126
+   "l": 114.1,
+   "v": 516316.59640366
   }
  },
  "change_7d": {
-  "BTC": 0.08436225362102447,
-  "ETH": 0.08430042301859676,
-  "SOL": 0.14360090874668688
+  "BTC": 0.08304789898131074,
+  "ETH": 0.08684087372854564,
+  "SOL": 0.14200567644276244
  },
  "sentiment": {
-  "score": 64.5,
+  "score": 69.4,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 71.09056340525612,
-   "news_tone": 41.18333333333333,
+   "momentum": 70.76197474532768,
    "crowding": 63.6875
   },
   "weights": {
@@ -51,25 +50,25 @@
   "label": "Greed",
   "ts": 1790294400
  },
- "news_tone_24h": -0.529,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3446940256.9224,
-   "premium": 0.0
+   "oi_usd": 3397130900.3701196,
+   "premium": -0.0001894074
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2992645307.110823,
-   "premium": 0.0001837492
+   "oi_usd": 2995505003.2824006,
+   "premium": -7.36377e-05
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 720390256.8450001,
-   "premium": 3.64403e-05
+   "oi_usd": 749769086.9534398,
+   "premium": 4.964e-06
   }
  },
- "items_24h": 412,
+ "items_24h": 399,
  "top_items": [
   {
    "id": "e6779bcb51230729",
@@ -86,23 +85,6 @@
    ],
    "author": "Donald Trump",
    "score": 5448
-  },
-  {
-   "id": "9345a3dcd2f12ea0",
-   "ts": 1790253406,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117326044871082645This is a survey of people in business — the S&P Flash Survey — of purchasing, manufacturing and hiring. Guess what? The report shows impressive Growth. Composite Index — Services + Manufacturing, 62 mon",
-   "url": "https://truthsocial.com/@realDonaldTrump/117326047233268228",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro",
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 4928
   },
   {
    "id": "eccbdffda1fdbadc",
@@ -241,6 +223,22 @@
    "tags": [
     "macro"
    ]
+  },
+  {
+   "id": "abcc68eff8d46fe7",
+   "ts": 1790296200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "US Treasury Yields Hit Multi - Decade High as BTC Steadies and ONDO Rallies",
+   "url": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs",
+   "domain": "cointelegraph.com",
+   "tags": [
+    "crypto",
+    "macro",
+    "BTC",
+    "institution"
+   ]
   }
  ],
  "briefing_ts": 1790087372,
@@ -251,7 +249,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -317,7 +315,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 36
+   "n": 35
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
