@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-25T21:19:28Z",
- "generated_ts": 1790371168,
+ "generated_at": "2026-09-25T22:12:42Z",
+ "generated_ts": 1790374362,
  "prices": {
   "BTC": {
-   "p": 83619.7,
+   "p": 83908.2,
    "o": 84380.0,
    "h": 85247.4,
    "l": 83163.6,
-   "v": 3129.51496268
+   "v": 3142.89836104
   },
   "ETH": {
-   "p": 2677.12,
+   "p": 2685.12,
    "o": 2687.22,
    "h": 2742.42,
    "l": 2667.23,
-   "v": 28596.67908168
+   "v": 27153.81615344
   },
   "SOL": {
-   "p": 121.05,
+   "p": 121.39,
    "o": 117.02,
    "h": 122.91,
    "l": 115.85,
-   "v": 578766.57035924
+   "v": 574373.73151808
   }
  },
  "change_7d": {
-  "BTC": 0.03412626807968779,
-  "ETH": 0.019874294139553335,
-  "SOL": 0.07091886177429299
+  "BTC": 0.031569203009266474,
+  "ETH": 0.020896556713513884,
+  "SOL": 0.06909958469559065
  },
  "sentiment": {
-  "score": 60.6,
+  "score": 61.1,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 58.53156701992195,
-   "crowding": 59.783131499999996,
+   "momentum": 57.892300752316615,
+   "crowding": 63.4072165,
    "ai_calm": 40.0
   },
   "weights": {
@@ -54,22 +54,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.8031e-06,
-   "oi_usd": 3192889517.3844,
-   "premium": -0.000633706
+   "funding_h": 1.17321e-05,
+   "oi_usd": 3209819583.55072,
+   "premium": -0.0003813019
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2959740956.3643203,
-   "premium": 6.72239e-05
+   "oi_usd": 2971150313.5828786,
+   "premium": 7.4474e-05
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 741512752.9649999,
-   "premium": -6.1128e-05
+   "oi_usd": 743839303.9896002,
+   "premium": 0.0003294622
   }
  },
- "items_24h": 243,
+ "items_24h": 226,
  "top_items": [
   {
    "id": "737bdd247a9483d1",
@@ -254,7 +254,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 23
+   "n": 14
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -266,9 +266,8 @@
    "n": 3
   },
   "CFTC": {
-   "ok": false,
-   "n": 0,
-   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
+   "ok": true,
+   "n": 3
   },
   "Federal Reserve": {
    "ok": true,
@@ -316,7 +315,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
