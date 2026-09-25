@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-25T20:11:38Z",
- "generated_ts": 1790367098,
+ "generated_at": "2026-09-25T21:19:28Z",
+ "generated_ts": 1790371168,
  "prices": {
   "BTC": {
-   "p": 83947.3,
+   "p": 83619.7,
    "o": 84380.0,
    "h": 85247.4,
    "l": 83163.6,
-   "v": 3063.79080211
+   "v": 3129.51496268
   },
   "ETH": {
-   "p": 2690.34,
+   "p": 2677.12,
    "o": 2687.22,
    "h": 2742.42,
    "l": 2667.23,
-   "v": 28913.0332549
+   "v": 28596.67908168
   },
   "SOL": {
-   "p": 121.54,
+   "p": 121.05,
    "o": 117.02,
-   "h": 122.83,
+   "h": 122.91,
    "l": 115.85,
-   "v": 558769.11218813
+   "v": 578766.57035924
   }
  },
  "change_7d": {
-  "BTC": 0.03460967981784744,
-  "ETH": 0.021455613131320776,
-  "SOL": 0.06706356154789
+  "BTC": 0.03412626807968779,
+  "ETH": 0.019874294139553335,
+  "SOL": 0.07091886177429299
  },
  "sentiment": {
-  "score": 61.3,
+  "score": 60.6,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 58.65241995446186,
-   "crowding": 63.6875,
+   "momentum": 58.53156701992195,
+   "crowding": 59.783131499999996,
    "ai_calm": 40.0
   },
   "weights": {
@@ -54,22 +54,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3261374449.8244,
-   "premium": -0.0003144414
+   "funding_h": 1.8031e-06,
+   "oi_usd": 3192889517.3844,
+   "premium": -0.000633706
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2979484165.312021,
-   "premium": 0.0
+   "oi_usd": 2959740956.3643203,
+   "premium": 6.72239e-05
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 753659059.3056002,
-   "premium": 0.0
+   "oi_usd": 741512752.9649999,
+   "premium": -6.1128e-05
   }
  },
- "items_24h": 273,
+ "items_24h": 243,
  "top_items": [
   {
    "id": "737bdd247a9483d1",
@@ -88,20 +88,68 @@
    "score": 17511
   },
   {
-   "id": "e6779bcb51230729",
-   "ts": 1790283034,
-   "source": "truth",
+   "id": "5a0ccfacc36b1ea6",
+   "ts": 1790368200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "b90ae55e395073d7",
+   "ts": 1790367042,
+   "source": "government",
    "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "CNN and MSDNC's Ratings have dropped considerably. The primary reason is NO CREDIBILITY! They only write badly about a man who won the Election IN A GIANT LANDSLIDE, winning all 7 Swing States, the Popular Vote, and 86% of the Counties, etc., and whose Popularity has grown becaus",
-   "url": "https://truthsocial.com/@realDonaldTrump/117327988960070739",
-   "domain": "truthsocial.com",
+   "kind": "official",
+   "title": "President Trump, First Lady Conclude Historic China State Visit",
+   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-first-lady-conclude-historic-china-state-visit/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "8d34c87166d68979",
+   "ts": 1790365705,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Congressional Bills H.R. 3657, H.R. 7250, S. 550, S. 603, S. 759 and S. 790 Signed into Law",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-h-r-3657-h-r-7250-s-550-s-603-s-759-and-s-790-signed-into-law/",
+   "domain": "White House",
+   "org": "White House",
    "tags": [
     "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 5448
+   ]
+  },
+  {
+   "id": "080a2b8341cebbaf",
+   "ts": 1790365652,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Gold Star Mother’s And Family’s Day, 2026",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/gold-star-mothers-and-familys-day-2026/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "ee17d91dca6f556d",
+   "ts": 1790363441,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Public Service Announcements Are Nothing New",
+   "url": "https://www.whitehouse.gov/releases/2026/09/presidential-public-service-announcements-are-nothing-new/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "c25dfcf33e9b3607",
@@ -184,60 +232,6 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "acf2110e68e40ec5",
-   "ts": 1790312400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "(BOJ Review) Granular Insights into Depositor Dynamics and Deposit Spreads in Japanese G-SIBs' Foreign Currency Deposits",
-   "url": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e12.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "cca12182e804bae3",
-   "ts": 1790312400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Indicators for Core CPI",
-   "url": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "60e18de4943d3417",
-   "ts": 1790298000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "S & P Dow Jones Indices and Vanguard Investments Canada Inc . Close the Market",
-   "url": "https://www.standard-freeholder.com/press-releases/newsfile/sp-dow-jones-indices-and-vanguard-investments-canada-inc-close-the-market/",
-   "domain": "standard-freeholder.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "90430d2846ad138b",
-   "ts": 1790298000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "S & P Dow Jones Indices and Vanguard Investments Canada Inc . Close the Market",
-   "url": "https://www.chathamdailynews.ca/press-releases/newsfile/sp-dow-jones-indices-and-vanguard-investments-canada-inc-close-the-market/",
-   "domain": "chathamdailynews.ca",
-   "tags": [
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790359707,
@@ -260,7 +254,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 19
+   "n": 23
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -278,7 +272,7 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "European Central Bank": {
    "ok": true,
@@ -318,7 +312,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 23
+   "n": 22
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
