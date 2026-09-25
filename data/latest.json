@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-09-25T13:17:06Z",
- "generated_ts": 1790342226,
+ "generated_at": "2026-09-25T13:37:25Z",
+ "generated_ts": 1790343445,
  "prices": {
   "BTC": {
-   "p": 84451.9,
+   "p": 84081.8,
    "o": 84380.0,
    "h": 85247.4,
    "l": 83348.9,
-   "v": 3280.586494
+   "v": 3304.50922526
   },
   "ETH": {
-   "p": 2715.44,
+   "p": 2700.53,
    "o": 2687.22,
    "h": 2742.42,
    "l": 2645.35,
-   "v": 28044.28041807
+   "v": 28262.76595436
   },
   "SOL": {
-   "p": 120.84,
+   "p": 119.86,
    "o": 117.02,
    "h": 122.2,
    "l": 114.1,
-   "v": 516316.59640366
+   "v": 517919.76000019
   }
  },
  "change_7d": {
@@ -30,11 +30,12 @@
   "SOL": 0.14200567644276244
  },
  "sentiment": {
-  "score": 69.4,
+  "score": 64.3,
   "label": "Greed",
   "components": {
    "fng": 71.0,
    "momentum": 70.76197474532768,
+   "news_tone": 40.666666666666664,
    "crowding": 63.6875
   },
   "weights": {
@@ -50,25 +51,25 @@
   "label": "Greed",
   "ts": 1790294400
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.56,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3397130900.3701196,
-   "premium": -0.0001894074
+   "oi_usd": 3389748069.92172,
+   "premium": 0.000185561
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2995505003.2824006,
-   "premium": -7.36377e-05
+   "oi_usd": 2962419126.8223057,
+   "premium": 0.0008407937
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 749769086.9534398,
-   "premium": 4.964e-06
+   "oi_usd": 725792365.9949602,
+   "premium": 0.0007303078
   }
  },
- "items_24h": 399,
+ "items_24h": 398,
  "top_items": [
   {
    "id": "e6779bcb51230729",
@@ -273,9 +274,8 @@
    "n": 3
   },
   "CFTC": {
-   "ok": false,
-   "n": 0,
-   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
+   "ok": true,
+   "n": 3
   },
   "Federal Reserve": {
    "ok": true,
