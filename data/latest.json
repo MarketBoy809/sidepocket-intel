@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-09-25T16:44:58Z",
- "generated_ts": 1790354698,
+ "generated_at": "2026-09-25T17:53:08Z",
+ "generated_ts": 1790358788,
  "prices": {
   "BTC": {
-   "p": 83890.6,
+   "p": 83689.9,
    "o": 84380.0,
    "h": 85247.4,
    "l": 83163.6,
-   "v": 3170.58536997
+   "v": 3137.00250716
   },
   "ETH": {
-   "p": 2689.22,
+   "p": 2680.91,
    "o": 2687.22,
    "h": 2742.42,
    "l": 2660.01,
-   "v": 30009.32496822
+   "v": 30878.33737129
   },
   "SOL": {
-   "p": 121.49,
+   "p": 120.6,
    "o": 117.02,
    "h": 122.2,
    "l": 115.85,
-   "v": 574133.92892652
+   "v": 546852.12368331
   }
  },
  "change_7d": {
-  "BTC": 0.03820751315169586,
-  "ETH": 0.03995013974806647,
-  "SOL": 0.08100081000810008
+  "BTC": 0.03597270416754623,
+  "ETH": 0.033338211845541144,
+  "SOL": 0.08210959885386808
  },
  "sentiment": {
-  "score": 61.2,
+  "score": 61.1,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 59.55187828792397,
+   "momentum": 58.99317604188656,
    "crowding": 63.6875,
    "ai_calm": 38.0
   },
@@ -55,22 +55,38 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3311816355.63189,
-   "premium": -0.0001668534
+   "oi_usd": 3292246567.2332997,
+   "premium": -0.000219796
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2964788332.96324,
-   "premium": -2.23085e-05
+   "oi_usd": 2964174393.464157,
+   "premium": -0.0001118693
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 756769842.972,
-   "premium": 0.0002262955
+   "oi_usd": 734631479.6800001,
+   "premium": 0.0
   }
  },
- "items_24h": 392,
+ "items_24h": 354,
  "top_items": [
+  {
+   "id": "737bdd247a9483d1",
+   "ts": 1790354990,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Scott Bessent will not be going to be Super Intelligence (SI) Czar. Number One, he doesn't want to. Number Two, he's doing such a great job at Treasury, and that's where I want to keep him! Why would I ever make such a change? Just more Fake News! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117332704655075384",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro"
+   ],
+   "author": "Donald Trump",
+   "score": 17511
+  },
   {
    "id": "e6779bcb51230729",
    "ts": 1790283034,
@@ -86,6 +102,18 @@
    ],
    "author": "Donald Trump",
    "score": 5448
+  },
+  {
+   "id": "c25dfcf33e9b3607",
+   "ts": 1790353458,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "First Lady Melania Trump Highlights Art, Culture, and the Next Generation During State Visit of President Xi Jinping and Madame Peng Liyuan",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-highlights-art-culture-and-the-next-generation-during-state-visit-of-president-xi-jinping-and-madame-peng-liyuan/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "eccbdffda1fdbadc",
@@ -210,36 +238,6 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "819415c908ceecca",
-   "ts": 1790298000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Bank of Japan Accounts (September 20)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260920.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "abcc68eff8d46fe7",
-   "ts": 1790296200,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "US Treasury Yields Hit Multi - Decade High as BTC Steadies and ONDO Rallies",
-   "url": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs",
-   "domain": "cointelegraph.com",
-   "tags": [
-    "crypto",
-    "macro",
-    "BTC",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790344987,
@@ -262,7 +260,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 22
+   "n": 23
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -320,7 +318,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 37
+   "n": 38
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
