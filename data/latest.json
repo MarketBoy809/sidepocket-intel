@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-25T10:57:23Z",
- "generated_ts": 1790333843,
+ "generated_at": "2026-09-25T12:07:22Z",
+ "generated_ts": 1790338042,
  "prices": {
   "BTC": {
-   "p": 84729.7,
+   "p": 84632.5,
    "o": 84380.0,
-   "h": 84914.8,
+   "h": 85247.4,
    "l": 83316.1,
-   "v": 2886.99756159
+   "v": 3080.97466172
   },
   "ETH": {
-   "p": 2714.6,
+   "p": 2720.17,
    "o": 2687.22,
-   "h": 2718.6,
+   "h": 2742.42,
    "l": 2638.74,
-   "v": 26170.76559227
+   "v": 27096.8860911
   },
   "SOL": {
-   "p": 119.25,
+   "p": 120.73,
    "o": 117.02,
-   "h": 119.53,
-   "l": 113.04,
-   "v": 464888.35327733
+   "h": 122.2,
+   "l": 113.06,
+   "v": 501774.3647126
   }
  },
  "change_7d": {
-  "BTC": 0.08214386164533154,
-  "ETH": 0.07913766681565661,
-  "SOL": 0.11343115124153502
+  "BTC": 0.08436225362102447,
+  "ETH": 0.08430042301859676,
+  "SOL": 0.14360090874668688
  },
  "sentiment": {
-  "score": 64.4,
+  "score": 64.5,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 70.53596541133288,
-   "news_tone": 41.75,
+   "momentum": 71.09056340525612,
+   "news_tone": 41.18333333333333,
    "crowding": 63.6875
   },
   "weights": {
@@ -51,25 +51,25 @@
   "label": "Greed",
   "ts": 1790294400
  },
- "news_tone_24h": -0.495,
+ "news_tone_24h": -0.529,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3399503705.923078,
-   "premium": -0.0002005971
+   "oi_usd": 3446940256.9224,
+   "premium": 0.0
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2937598784.72188,
-   "premium": 0.0001988657
+   "oi_usd": 2992645307.110823,
+   "premium": 0.0001837492
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 710590871.0879998,
-   "premium": 0.0
+   "oi_usd": 720390256.8450001,
+   "premium": 3.64403e-05
   }
  },
- "items_24h": 379,
+ "items_24h": 412,
  "top_items": [
   {
    "id": "e6779bcb51230729",
@@ -103,6 +103,20 @@
    ],
    "author": "Donald Trump",
    "score": 4928
+  },
+  {
+   "id": "eccbdffda1fdbadc",
+   "ts": 1790337797,
+   "source": "institution",
+   "group": "institution",
+   "kind": "official",
+   "title": "8-K - Current report",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526401636/0001193125-26-401636-index.htm",
+   "domain": "Strategy (MSTR) filings",
+   "org": "Strategy (MSTR) filings",
+   "tags": [
+    "institution"
+   ]
   },
   {
    "id": "d8875c2c2a1333ee",
@@ -227,22 +241,6 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "abcc68eff8d46fe7",
-   "ts": 1790296200,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "US Treasury Yields Hit Multi - Decade High as BTC Steadies and ONDO Rallies",
-   "url": "https://cointelegraph.com/markets/bitcoin-steadies-ondo-rallies-us-treasury-yields-hit-2007-highs",
-   "domain": "cointelegraph.com",
-   "tags": [
-    "crypto",
-    "macro",
-    "BTC",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790087372,
@@ -253,7 +251,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -291,7 +289,7 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 5
+   "n": 4
   },
   "Bank of Japan": {
    "ok": true,
@@ -303,7 +301,7 @@
   },
   "Strategy (MSTR) filings": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "Coinbase filings": {
    "ok": true,
@@ -319,7 +317,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 35
+   "n": 36
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
