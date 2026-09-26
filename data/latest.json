@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-09-26T12:39:15Z",
- "generated_ts": 1790426355,
+ "generated_at": "2026-09-26T12:58:50Z",
+ "generated_ts": 1790427530,
  "prices": {
   "BTC": {
-   "p": 84069.1,
+   "p": 84050.6,
    "o": 84090.5,
    "h": 84552.7,
    "l": 83163.6,
-   "v": 2105.58041897
+   "v": 2046.8893609
   },
   "ETH": {
-   "p": 2686.49,
+   "p": 2688.72,
    "o": 2691.35,
    "h": 2721.54,
    "l": 2668.33,
-   "v": 20319.21486893
+   "v": 19850.18360551
   },
   "SOL": {
-   "p": 121.02,
+   "p": 121.06,
    "o": 122.12,
    "h": 122.91,
    "l": 118.28,
-   "v": 471954.35736953
+   "v": 466765.18081477
   }
  },
  "change_7d": {
@@ -35,7 +35,7 @@
   "components": {
    "fng": 74.0,
    "momentum": 58.84328863188978,
-   "crowding": 63.6875,
+   "crowding": 63.219497,
    "ai_calm": 56.0
   },
   "weights": {
@@ -54,22 +54,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3175301476.9098,
-   "premium": -0.0005066326
+   "funding_h": 1.12178e-05,
+   "oi_usd": 3161571220.016,
+   "premium": -0.0004532148
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2946330001.03896,
-   "premium": -7.07111e-05
+   "oi_usd": 2948432498.7566986,
+   "premium": -3.71892e-05
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 686457993.9174004,
-   "premium": -0.0002065348
+   "oi_usd": 686495928.3727999,
+   "premium": -0.0002065006
   }
  },
- "items_24h": 60,
+ "items_24h": 62,
  "top_items": [
   {
    "id": "737bdd247a9483d1",
@@ -287,9 +287,8 @@
    "n": 3
   },
   "CFTC": {
-   "ok": false,
-   "n": 0,
-   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
+   "ok": true,
+   "n": 3
   },
   "Federal Reserve": {
    "ok": true,
