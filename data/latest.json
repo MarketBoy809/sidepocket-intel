@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-09-26T10:59:46Z",
- "generated_ts": 1790420386,
+ "generated_at": "2026-09-26T12:39:15Z",
+ "generated_ts": 1790426355,
  "prices": {
   "BTC": {
-   "p": 84164.7,
+   "p": 84069.1,
    "o": 84090.5,
-   "h": 85247.4,
+   "h": 84552.7,
    "l": 83163.6,
-   "v": 2517.40952086
+   "v": 2105.58041897
   },
   "ETH": {
-   "p": 2686.97,
+   "p": 2686.49,
    "o": 2691.35,
-   "h": 2742.42,
+   "h": 2721.54,
    "l": 2668.33,
-   "v": 22852.80595872
+   "v": 20319.21486893
   },
   "SOL": {
-   "p": 120.59,
+   "p": 121.02,
    "o": 122.12,
    "h": 122.91,
    "l": 118.28,
-   "v": 511692.22020819
+   "v": 471954.35736953
   }
  },
  "change_7d": {
-  "BTC": 0.03338436317172546,
-  "ETH": 0.015919308837621438,
-  "SOL": 0.07308346005903915
+  "BTC": 0.03537315452755911,
+  "ETH": 0.01909724854089285,
+  "SOL": 0.0842199374161824
  },
  "sentiment": {
-  "score": 65.3,
+  "score": 65.4,
   "label": "Greed",
   "components": {
    "fng": 74.0,
-   "momentum": 58.34609079293136,
+   "momentum": 58.84328863188978,
    "crowding": 63.6875,
    "ai_calm": 56.0
   },
@@ -55,21 +55,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3176521587.51522,
-   "premium": -0.0003801378
+   "oi_usd": 3175301476.9098,
+   "premium": -0.0005066326
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2944707436.475618,
-   "premium": -0.0001414017
+   "oi_usd": 2946330001.03896,
+   "premium": -7.07111e-05
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 683238086.5924003,
-   "premium": -8.29119e-05
+   "oi_usd": 686457993.9174004,
+   "premium": -0.0002065348
   }
  },
- "items_24h": 67,
+ "items_24h": 60,
  "top_items": [
   {
    "id": "737bdd247a9483d1",
@@ -86,6 +86,38 @@
    ],
    "author": "Donald Trump",
    "score": 17511
+  },
+  {
+   "id": "fbe4b2610c77b0d6",
+   "ts": 1790425373,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "FAKE NEWS SHOULD NOT BE ALLOWED IN THE WHITE HOUSE!!! IT HAS GONE ON FAR TOO LONG, AT A TREMENDOUS COST TO OUR COUNTRY. President DJT",
+   "url": "https://truthsocial.com/@realDonaldTrump/117337317276437965",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2844
+  },
+  {
+   "id": "93d6b27bd9111855",
+   "ts": 1790425084,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "IRAN CAN NOT HAVE A NUCLEAR WEAPON!!! President DJT",
+   "url": "https://truthsocial.com/@realDonaldTrump/117337298336162712",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 2656
   },
   {
    "id": "b584429317ba3007",
@@ -221,32 +253,6 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
-  },
-  {
-   "id": "8d34c87166d68979",
-   "ts": 1790365705,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Congressional Bills H.R. 3657, H.R. 7250, S. 550, S. 603, S. 759 and S. 790 Signed into Law",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-h-r-3657-h-r-7250-s-550-s-603-s-759-and-s-790-signed-into-law/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "080a2b8341cebbaf",
-   "ts": 1790365652,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Gold Star Mother’s And Family’s Day, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/gold-star-mothers-and-familys-day-2026/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
   }
  ],
  "briefing_ts": 1790419107,
@@ -327,7 +333,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 28
+   "n": 30
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,

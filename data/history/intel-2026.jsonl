@@ -77,3 +77,4 @@
 {"t":1790412405,"score":64.7,"comp":{"fng":74.0,"momentum":59.3,"crowding":61.1,"ai_calm":54.0},"px":{"BTC":84233.4,"ETH":2692.32,"SOL":120.94},"n_new":47}
 {"t":1790416448,"score":65.1,"comp":{"fng":74.0,"momentum":58.9,"crowding":63.7,"ai_calm":54.0},"px":{"BTC":83996.1,"ETH":2681.08,"SOL":119.89},"n_new":48}
 {"t":1790420386,"score":65.3,"comp":{"fng":74.0,"momentum":58.3,"crowding":63.7,"ai_calm":56.0},"px":{"BTC":84164.7,"ETH":2686.97,"SOL":120.59},"n_new":53}
+{"t":1790426355,"score":65.4,"comp":{"fng":74.0,"momentum":58.8,"crowding":63.7,"ai_calm":56.0},"px":{"BTC":84069.1,"ETH":2686.49,"SOL":121.02},"n_new":50}
