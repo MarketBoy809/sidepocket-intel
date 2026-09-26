@@ -1,0 +1,16 @@
+{
+ "bot": "catalyst",
+ "lessons": [
+  {
+   "ts": 1790424038,
+   "text": "I dated Micron's results off an 8-K that announced two promotions. A catalyst date is only as good as the document that sets it, so from now on I name the document the date came from in the call itself, and if that document does not schedule the event, I have no date and no call.",
+   "anchor": "fc93520e1e95c65c",
+   "kind": "evidence"
+  }
+ ],
+ "seen": [
+  "c256e7f6df85ccc2",
+  "fc93520e1e95c65c"
+ ],
+ "updated": "2026-09-26T12:00:38Z"
+}

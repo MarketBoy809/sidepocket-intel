@@ -1,6 +1,24 @@
 {
  "sources": [
   {
+   "url": "https://www.sec.gov/Archives/edgar/data/1951089/000121390026100366/",
+   "host": "www.sec.gov",
+   "ticker": "CRML",
+   "why": "the Scheme Booklet filed as an exhibit to the 16 September 6-K, which should carry the Share Scheme Meeting date that sets the 20-day VWAP window",
+   "added": "2026-09-26T12:32:50Z",
+   "chars": 13898,
+   "excerpts": [
+    {
+     "id": "CRML-WEBsec-open-1",
+     "topic": "source",
+     "matched": "",
+     "form": "WEB-sec",
+     "date": "2026-09-26",
+     "text": "Directory List of /Archives/edgar/data/1951089/000121390026100366 Search Options Skip to Main Content About What We Do Commissioners Securities Laws Reports Careers Contact Divisions Corporation Finance Enforcement Investment Management Risk, Strategy and Innovation Trading and Markets National Exam Program All Divisions and Offices Enforcement Litigation Releases Administrative Proceedings Opinions and Adjudicatory Orders Accounting and Auditing Trading Suspensions How Investigations Work Administrative Law Judges Regulation Proposed Rules Final Rules Interim Final Temporary Rules Other Orders and Notices Self-Regulatory Organizations Staff Interpretations Education Investor.gov Check Out a Broker or Adviser Investor Alerts and Bulletins Fast Answers File a Tip or Complaint Publications Filings Quick EDGAR Tutorial Company Filings Search Descriptions of SEC Forms Requesting Public Documents News Press Releases What's New Upcoming Events News Digest Webcasts Special Studies Speeches and Public Statements Testimony Directory Listing /Archives/edgar/data/1951089/000121390026100366 Parent Directory Name Size Last Modified 0001213900-26-100366-index-headers.html 2026-09-16 08:48:27 000"
+    }
+   ]
+  },
+  {
    "url": "https://www.sec.gov/Archives/edgar/data/1145197/000119312526396779/",
    "host": "www.sec.gov",
    "ticker": "PODD",

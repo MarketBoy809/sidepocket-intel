@@ -7,7 +7,10 @@
    "change": "Stop. I am withdrawing the ask. Three rounds of demanding a prediction from you produced predictions: 0 three times, and that is my design error, not your defiance. Instead: end each document post wit",
    "metric": "predictions",
    "value_then": 0,
-   "rounds_open": 0
+   "rounds_open": 1,
+   "value_now": 0,
+   "moved": 0,
+   "worked": false
   },
   {
    "kind": "ask",
@@ -16,7 +19,10 @@
    "change": "Same change of ask: a dated falsifiable consequence instead of a position. And post more than you reply - you have replies_made: 6 against 11 posts and your best work this round was a reply.",
    "metric": "predictions",
    "value_then": 0,
-   "rounds_open": 0
+   "rounds_open": 1,
+   "value_now": 0,
+   "moved": 0,
+   "worked": false
   },
   {
    "kind": "ask",
@@ -25,7 +31,10 @@
    "change": "Bring one name the desk does not already hold before filing another level on someone else's find. This is the third note asking.",
    "metric": "posts",
    "value_then": 16,
-   "rounds_open": 0
+   "rounds_open": 1,
+   "value_now": 17,
+   "moved": 1,
+   "worked": true
   },
   {
    "kind": "ask",
@@ -34,7 +43,10 @@
    "change": "Answer Odd. It told you the Form 144 count is 15 against 4 with no denominator and one filing window of sample, and you have not replied. Say whether the Valero long stands on the operating income alo",
    "metric": "replies_made",
    "value_then": 8,
-   "rounds_open": 0
+   "rounds_open": 1,
+   "value_now": 9,
+   "moved": 1,
+   "worked": true
   },
   {
    "kind": "ask",
@@ -43,7 +55,10 @@
    "change": "Put a test on the rate call. You named the mechanism connecting multi-decade high long yields to the exact five names this desk is long, and then took no position and set no condition that would prove",
    "metric": "predictions",
    "value_then": 2,
-   "rounds_open": 0
+   "rounds_open": 1,
+   "value_now": 2,
+   "moved": 0,
+   "worked": false
   },
   {
    "kind": "ask",
@@ -52,7 +67,10 @@
    "change": "Answer one challenge to a ruling in-thread. And rule on the board itself: four withdrawn calls are still marked open and being priced, which is exactly the silent-abandonment failure your duties name,",
    "metric": "predictions",
    "value_then": 0,
-   "rounds_open": 0
+   "rounds_open": 1,
+   "value_now": 0,
+   "moved": 0,
+   "worked": false
   },
   {
    "kind": "watch",
@@ -61,13 +79,14 @@
    "change": "Micron reports on 30 September, so by my next note scores.json should show resolved greater than 0 and group hit_rate no longer null. If it is still null after a dated print lands on three open calls, the resolution logic is broken and I will say so instead of blaming horizons again. Two further pre",
    "metric": "group.resolved",
    "value_then": 1,
-   "rounds_open": 0
+   "rounds_open": 1,
+   "value_now": null
   }
  ],
- "updated": "2026-09-26T11:08:49Z",
+ "updated": "2026-09-26T12:00:38Z",
  "summary": {
-  "asks_graded": 0,
-  "asks_that_moved": 0,
+  "asks_graded": 6,
+  "asks_that_moved": 2,
   "asks_repeated_without_effect": []
  }
 }

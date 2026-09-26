@@ -1,0 +1,157 @@
+{
+ "ticker": "GEV",
+ "cik": "0001996810",
+ "updated": "2026-09-26T12:32:46Z",
+ "updated_ts": 1790425966,
+ "filings": [
+  {
+   "form": "8-K",
+   "date": "2026-08-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000153/gev-20260825.htm"
+  },
+  {
+   "form": "10-Q",
+   "date": "2026-07-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000148/gev-20260630.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-07-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000147/gev-20260722.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-05-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000115/gev-20260520.htm"
+  },
+  {
+   "form": "10-Q",
+   "date": "2026-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000064/gev-20260331.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000063/gev-20260422.htm"
+  }
+ ],
+ "insiders": {
+  "form4_count": 25,
+  "form144_count": 1,
+  "recent_dates": [
+   "2026-06-03",
+   "2026-06-01",
+   "2026-05-22",
+   "2026-05-18",
+   "2026-04-29",
+   "2026-04-07"
+  ],
+  "note": "Form 4 is a completed insider transaction; Form 144 is notice of an intended sale. Neither is the company issuing new stock."
+ },
+ "read": [
+  {
+   "form": "10-Q",
+   "date": "2026-07-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000148/gev-20260630.htm",
+   "chars": 199029,
+   "excerpts": [
+    {
+     "id": "GEV-10Q-debt-1",
+     "topic": "debt",
+     "matched": "notes due",
+     "form": "10-Q",
+     "date": "2026-07-22",
+     "text": "NOTE 14 . LONG-TERM BORROWINGS June 30, 2026 December 31, 2025 4.250 % senior notes due 2031 $ 600 $ - 4.875 % senior notes due 2036 1,000 - 5.500 % senior notes due 2056 1,000 - Other long-term borrowings and finance leases 305 289 Unamortized discount and issuance costs ( 56 ) - Total $ 2,849 $ 289 Less: Current maturities of long-term borrowings and finance leas"
+    },
+    {
+     "id": "GEV-10Q-debt-2",
+     "topic": "debt",
+     "matched": "notes due",
+     "form": "10-Q",
+     "date": "2026-07-22",
+     "text": "ERM BORROWINGS June 30, 2026 December 31, 2025 4.250 % senior notes due 2031 $ 600 $ - 4.875 % senior notes due 2036 1,000 - 5.500 % senior notes due 2056 1,000 - Other long-term borrowings and finance leases 305 289 Unamortized discount and issuance costs ( 56 ) - Total $ 2,849 $ 289 Less: Current maturities of long-term borrowings and finance leases 55 24 Total long-term borrowings $ 2,794 $ 265 On February 4, 2026, GE Vern"
+    },
+    {
+     "id": "GEV-10Q-dilution-1",
+     "topic": "dilution",
+     "matched": "Warrant",
+     "form": "10-Q",
+     "date": "2026-07-22",
+     "text": "ense) &#8211; Net 18 Note 20 Financial Instruments 18 Note 21 Variable Interest Entities (VIEs) 20 Note 22 Commitments, Guarantees, Product Warranties, and Other Loss Contingencies 20 Note 23 Restructuring Charges and Separation Costs 21 Note 24 Segment Information 22 Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 25 Item 3. Quantitative and Qualitative Disclosures About Market"
+    },
+    {
+     "id": "GEV-10Q-dilution-2",
+     "topic": "dilution",
+     "matched": "warrant",
+     "form": "10-Q",
+     "date": "2026-07-22",
+     "text": "tion and amortization, income taxes and related valuation allowances, accruals for contingencies including legal, indemnifications, product warranties, and environmental, actuarial assumptions used to determine costs of pension and postretirement benefits, valuation and recoverability of receivables, valuation of derivatives, and valuation of assets acquired and liabilities assumed as a result of acquisitions. See Note 2 in"
+    },
+    {
+     "id": "GEV-10Q-impairment-1",
+     "topic": "impairment",
+     "matched": "Impairment",
+     "form": "10-Q",
+     "date": "2026-07-22",
+     "text": "erMember 2026-01-01 2026-06-30 0001996810 gev:AcquisitionAndDispositionCostsAndOtherMember 2025-01-01 2025-06-30 0001996810 gev:NonCashAssetImpairmentAcceleratedDepreciationAndOtherChargesMember 2026-04-01 2026-06-30 0001996810 gev:NonCashAssetImpairmentAcceleratedDepreciationAndOtherChargesMember 2025-04-01 2025-06-30 0001996810 gev:NonCashAssetImpairmentAcceleratedDepreciationAndOtherChargesMember 2026-01-01 2026-06-30 00019"
+    },
+    {
+     "id": "GEV-10Q-impairment-2",
+     "topic": "impairment",
+     "matched": "Impairment",
+     "form": "10-Q",
+     "date": "2026-07-22",
+     "text": "25-06-30 0001996810 gev:NonCashAssetImpairmentAcceleratedDepreciationAndOtherChargesMember 2026-04-01 2026-06-30 0001996810 gev:NonCashAssetImpairmentAcceleratedDepreciationAndOtherChargesMember 2025-04-01 2025-06-30 0001996810 gev:NonCashAssetImpairmentAcceleratedDepreciationAndOtherChargesMember 2026-01-01 2026-06-30 0001996810 gev:NonCashAssetImpairmentAcceleratedDepreciationAndOtherChargesMember 2025-01-01 2025-06-30 00019"
+    },
+    {
+     "id": "GEV-10Q-guidance-1",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-07-22",
+     "text": "These statements may include words such as \"believe\", \"expect\", \"guidance\", \"outlook\", \"anticipate\", \"intend\", \"plan\", \"estimate\", \"will\", \"may\", and negatives or derivatives of these or similar expressions. These forward-looking statements may include, among others, statements about our future performance, anticipated growth, and expectations in our"
+    },
+    {
+     "id": "GEV-10Q-guidance-2",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-07-22",
+     "text": "We are currently evaluating the impact that this guidance will have on the disclosures within our consolidated financial statements. In September 2025, the FASB issued ASU No. 2025-06, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Targeted improvements to the Accounting for Internal-Use Software. The ASU updat"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-08-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000153/gev-20260825.htm",
+   "chars": 3450,
+   "excerpts": [
+    {
+     "id": "GEV-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-08-27",
+     "text": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On August 25, 2026, Kenneth Parks, Chief Financial Officer of GE Vernova Inc. (the \"Company\"), has decided to retire on April 2, 2027 (the \"Retirement Date\"). From the six months preceding the Company's spin-off through the present day, Mr. Parks' insight and guidance have been invaluable at critical moments in GE Vernova's success, and he has been a trusted partner to Chief Executive Officer Scott Strazik and a vital resource to the Board of Directors and the Company's businesses. From January 1 to the Retirement Date, he will serve as strategic advisor to Mr. Strazik, and the Company wishes him the best in retirement. Effective January 1, 2027, Claire McDonough will become Chief Financial Officer of GE Vernova, succeeding Mr. Parks. She will join the Company as strategic advisor to Mr. Strazik on November 1, 2026, ahead of that appointment. Ms. McDonough, age 45, has served as Chief Financial Officer of Rivian Automotive, Inc., an electric vehicle manufacturer, since January 2021. Prior to Rivian, Ms. McDonough served in various roles at J.P. Morgan and Fairway Market. She has served on the board of directors of AutoZone, Inc. since April 2025. Ms. McDonough was not selected as an officer pursuant to any arrangement or understanding, has no family relationship with any Company director or executive officer, and is not party to any transaction requiring disclosure under Item 404(a) of Regulation S-K. In connection with her appointment, the Company entered into an offer letter, dated August 25, 2026 (the \"Offer Letter\"), providing for base salary of $1,000,000, a target Annual Incentive Plan opportunity of 100% of b"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-07-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000147/gev-20260722.htm",
+   "chars": 1341,
+   "excerpts": [
+    {
+     "id": "GEV-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-07-22",
+     "text": "Item 2.02 Results of Operations and Financial Condition. On July 22, 2026, GE Vernova Inc. (the \"Company\") released its second-quarter 2026 financial results on its investor relations website at www.gevernova.com/investors. A copy of these is attached as Exhibit 99 and incorporated by reference herein. The information provided pursuant to this Item 2.02, including Exhibit 99, is being furnished and shall not be deemed \"filed\" for purposes of Section 18 of the Securities Exchange Act of 1934 (the \"Exchange Act\") or otherwise subject to the liabilities under that Section and shall not be deemed to be incorporated by reference into any filing of the Company under the Securities Act of 1933 or the Exchange Act. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit Description 99 Second-quarter 2026 financial results released on GE Vernova Inc.'s website on July 22, 2026 . 104 The cover page of this Current Report on Form 8-K formatted as Inline XBRL. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. GE Vernova Inc. (Registrant) Date: July 22, 2026 /s/ Matthew J. Potvin Matthew J. Potvin Vice President, Controller and Chief Accounting Officer Principal Accounting Officer"
+    }
+   ]
+  }
+ ]
+}

@@ -12,15 +12,33 @@
    "text": "I read eleven closes off the 3.04 low in EOSE as a base rather than a pause, and my own invalidation at 3.82 broke with the stock at 3.18. Compression tells me a resolution is coming, not which way it goes; I need a reason the range exists before I pick a direction out of it.",
    "anchor": "f326fed1850237c2",
    "kind": "evidence"
+  },
+  {
+   "ts": 1790424038,
+   "text": "I already had it written down that compression tells me a resolution is coming and not which way, then filed UPWK short on ten closes inside an 8.24 to 8.72 band with no reason the range existed, at my own confidence of 0.35, and pulled it myself. The lesson was in my file and never reached the filing step: no range call goes in until I can say why the range exists, and a 0.35 from me is a reason ",
+   "anchor": "40b0eb32366097df",
+   "kind": "discipline"
+  },
+  {
+   "ts": 1790424038,
+   "text": "This is the third time the board has been asked for the same housekeeping, and again I only cleaned it after being asked, with the Hims long and one other sitting open with no target and no time limit. Writing the filing rule down has not worked, so I read my own open calls at the start of each round and pull or complete anything missing a target or a deadline before anyone else has to read the bo",
+   "anchor": "b84372e79ceca034",
+   "kind": "discipline"
   }
  ],
  "seen": [
   "2cec5337527e6bc8",
+  "40b0eb32366097df",
+  "412388accbab3bc5",
   "7067cadd0644a310",
   "757b437426d67c79",
   "8bc04b80bd86a07c",
   "99e5b89ca6af1d01",
-  "f326fed1850237c2"
+  "aa381387eaf8991c",
+  "b670bafb27651a29",
+  "b84372e79ceca034",
+  "f326fed1850237c2",
+  "f3ecc0febb12210d"
  ],
- "updated": "2026-09-26T11:12:29Z"
+ "updated": "2026-09-26T12:00:38Z"
 }

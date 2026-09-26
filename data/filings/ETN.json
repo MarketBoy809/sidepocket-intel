@@ -1,0 +1,155 @@
+{
+ "ticker": "ETN",
+ "cik": "0001551182",
+ "updated": "2026-09-26T12:32:44Z",
+ "updated_ts": 1790425964,
+ "filings": [
+  {
+   "form": "10-Q",
+   "date": "2026-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000030/etn-20260630.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000027/etn-20260731.htm"
+  },
+  {
+   "form": "8-K",
+   "date": "2026-06-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000095014226001733/eh260792115_8k.htm"
+  },
+  {
+   "form": "10-Q",
+   "date": "2026-05-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000013/etn-20260331.htm"
+  }
+ ],
+ "insiders": {
+  "form4_count": 27,
+  "form144_count": 4,
+  "recent_dates": [
+   "2026-09-03",
+   "2026-08-14",
+   "2026-08-13",
+   "2026-08-11",
+   "2026-08-07",
+   "2026-08-05"
+  ],
+  "note": "Form 4 is a completed insider transaction; Form 144 is notice of an intended sale. Neither is the company issuing new stock."
+ },
+ "read": [
+  {
+   "form": "10-Q",
+   "date": "2026-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000030/etn-20260630.htm",
+   "chars": 143520,
+   "excerpts": [
+    {
+     "id": "ETN-10Q-covenants-1",
+     "topic": "covenants",
+     "matched": "covenant",
+     "form": "10-Q",
+     "date": "2026-07-31",
+     "text": "Notes. The 2026 U.S. Notes are subject to customary non-financial covenants. On March 10, 2026, Eaton Capital Unlimited Company, a subsidiary of Eaton, issued Euro denominated notes (2026 Euro Notes) with an aggregate face amount of &#8364; 1,200 million ($ 1,390 million). The 2026 Euro Notes are comprised of two tranches of &#8364; 600 million each, w"
+    },
+    {
+     "id": "ETN-10Q-covenants-2",
+     "topic": "covenants",
+     "matched": "covenant",
+     "form": "10-Q",
+     "date": "2026-07-31",
+     "text": "The 2026 Euro Notes are subject to customary non-financial covenants. On March 6, 2026, Eaton Corporation, a subsidiary of Eaton, terminated the $ 8,000 million senior unsecured delayed-draw term loan facility (Term Credit Agreement) entered into on February 6, 2026. No loans were outstanding as of the date of termination and the Company incurre"
+    },
+    {
+     "id": "ETN-10Q-debt-1",
+     "topic": "debt",
+     "matched": "Notes due",
+     "form": "10-Q",
+     "date": "2026-07-31",
+     "text": "ass Trading Symbol(s) Name of each exchange on which registered Ordinary shares ($0.01 par value) ETN New York Stock Exchange 3.850% Senior Notes due 2028 ETN/28 New York Stock Exchange 3.950% Senior Notes due 2029 ETN/29 New York Stock Exchange 4.450% Senior Notes due 2030 ETN/30 New York Stock Exchange 4.200% Senior Notes due 2031 ETN/31 New York Stock Exchange 4.500% Senior Notes due 2033 ETN/33 New York Stock Exchange 3.5"
+    },
+    {
+     "id": "ETN-10Q-debt-2",
+     "topic": "debt",
+     "matched": "Notes due",
+     "form": "10-Q",
+     "date": "2026-07-31",
+     "text": "red Ordinary shares ($0.01 par value) ETN New York Stock Exchange 3.850% Senior Notes due 2028 ETN/28 New York Stock Exchange 3.950% Senior Notes due 2029 ETN/29 New York Stock Exchange 4.450% Senior Notes due 2030 ETN/30 New York Stock Exchange 4.200% Senior Notes due 2031 ETN/31 New York Stock Exchange 4.500% Senior Notes due 2033 ETN/33 New York Stock Exchange 3.550% Senior Notes due 2034 ETN/34 New York Stock Exchange 3.6"
+    },
+    {
+     "id": "ETN-10Q-dilution-1",
+     "topic": "dilution",
+     "matched": "warrant",
+     "form": "10-Q",
+     "date": "2026-07-31",
+     "text": "matters, including, but not limited to, contract, indemnity, tax, patent infringement, intellectual property, personal injury, commercial, warranty, product liability, environmental, antitrust and trade regulation, class action, and labor and employment matters. Eaton is also subject to legal claims from historic products which may have contained asbestos. Insurance may cover some of the costs associated with claims and pr"
+    },
+    {
+     "id": "ETN-10Q-subsequent-1",
+     "topic": "subsequent",
+     "matched": "subsequent event",
+     "form": "10-Q",
+     "date": "2026-07-31",
+     "text": "The interim period results are not necessarily indicative of the results to be expected for the full year. Management has evaluated subsequent events through the date this Form 10-Q was filed with the Securities and Exchange Commission. During the first quarter of 2026, Eaton re-segmented certain business segments due to a reorganization of the Company's businesses. The new segment is Mobility, which consists of the legacy V"
+    },
+    {
+     "id": "ETN-10Q-impairment-1",
+     "topic": "impairment",
+     "matched": "impairment",
+     "form": "10-Q",
+     "date": "2026-07-31",
+     "text": "Eaton accounts for this nonmarketable investment at cost, less impairment, adjusted for observable price changes. The investment is included in Other assets on the Consolidated Balance Sheets. Acquisition of Ultra PCS Limited On January 23, 2026, Eaton acquired Ultra PCS Limited (Ultra PCS) for $ 1.53 billion, net of cash acquired. Ultra PCS is headqu"
+    },
+    {
+     "id": "ETN-10Q-impairment-2",
+     "topic": "impairment",
+     "matched": "RESTRUCTURING CHARGE",
+     "form": "10-Q",
+     "date": "2026-07-31",
+     "text": "debt with similar creditworthiness, terms and maturities and is considered a Level 2 fair value measurement. 21 Table of Contents Note 14. RESTRUCTURING CHARGES During the first quarter of 2024, Eaton implemented a multi-year restructuring program to accelerate opportunities to optimize its operations and global support structure. These actions will better align the Company's functions to support anticipated growth and drive greater ef"
+    },
+    {
+     "id": "ETN-10Q-guidance-1",
+     "topic": "guidance",
+     "matched": "guidance",
+     "form": "10-Q",
+     "date": "2026-07-31",
+     "text": "use of words and phrases such as \"aim,\" \"anticipate,\" \"believe,\" \"could,\" \"develop,\" \"endeavor,\" \"estimate,\" \"expect,\" \"forecast,\" \"goal,\" \"guidance,\" \"intend,\" \"may,\" \"outlook,\" \"plan,\" \"possible,\" \"potential,\" \"predict,\" \"project\" \"seek,\" \"should,\" \"target,\" \"will,\" \"would\" or other similar words, phrases or expressions. Readers are cautioned not to place undue reliance on forward-looking statements, which speak only as of"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000027/etn-20260731.htm",
+   "chars": 849,
+   "excerpts": [
+    {
+     "id": "ETN-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-07-31",
+     "text": "Item 2.02 Results of Operations and Financial Condition. On July 31, 2026, Eaton Corporation plc issued a press release announcing its financial results for the quarter ended June 30, 2026. A copy of the press release is furnished with this Report as Exhibit 99.1 and is incorporated herein by reference. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Exhibit Description 99.1 Press release of Eaton Corporation plc, dated July 31 , 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Eaton Corporation plc Date: July 31, 2026 By: /s/ Adam Wadecki Adam Wadecki Senior Vice President and Controller"
+    }
+   ]
+  },
+  {
+   "form": "8-K",
+   "date": "2026-06-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000095014226001733/eh260792115_8k.htm",
+   "chars": 13465,
+   "excerpts": [
+    {
+     "id": "ETN-8-K-event-1",
+     "topic": "event",
+     "matched": "8-K",
+     "form": "8-K",
+     "date": "2026-06-11",
+     "text": "Item 7.01 Regulation FD Disclosure. On June 11, 2026, Eaton Corporation plc (the \"Company\") issued a press release announcing the Company's entry into a definitive agreement with Dana Incorporated, a Delaware corporation (\"Merger Partner\"), regarding the separation of the Company's mobility business. The press release is furnished hereto as Exhibit 99.1 to this Current Report on Form 8-K, and is incorporated herein by reference. Item 8.01 Other Events. On June 10, 2026, the Company entered into definitive agreements with Merger Partner pursuant to which the Company will separate its Mobility segment (the \"SpinCo Business\") and combine it with Merger Partner in a Reverse Morris Trust transaction. Immediately prior to the Merger (as defined below) and pursuant to a Separation and Distribution Agreement among the Company, Eaton Corporation, an Ohio corporation (\"Eaton Ohio\"), Eaton Capital Unlimited Company, an Irish public unlimited company, Mobility (USA) Corporation, a Delaware corporation and wholly owned subsidiary of the Company (\"SpinCo\"), and Merger Partner, dated as of June 10, 2026 (the \"Separation Agreement\"), the Company will, among other things and subject to the terms and conditions of the Separation Agreement, transfer the SpinCo Business to SpinCo and its subsidiaries and, in connection therewith, will distribute to the Company shareholders shares of common stock of SpinCo (the \"Distribution\"). Immediately following the Distribution and pursuant to an Agreement and Plan of Merger (the \"Merger Agreement\") with Eaton Ohio, SpinCo, Atlas Mobility Sub, Inc., a Delaware corporation and wholly owned subsidiary of SpinCo (\"Merger Sub\"), Merger Sub will be merged with and into Merger Partner (the \"Merger\"), with Merger Partner surviving and continuing as the surviv"
+    }
+   ]
+  }
+ ]
+}

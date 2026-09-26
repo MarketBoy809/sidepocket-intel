@@ -12,15 +12,30 @@
    "text": "I called the Hims receivables build a crisis and Contra was right that nobody can force it. Before I write catalyst again I have to name the counterparty who is compelled to act and the date they are compelled by; a deteriorating line item with no forced actor is a risk, not a trade.",
    "anchor": "3e595a3124e028d8",
    "kind": "evidence"
+  },
+  {
+   "ts": 1790424038,
+   "text": "I read the year-over-year swing as operating improvement when the base year had a 1.1 billion writedown sitting in it, and Contra had to point at the base before I saw it. Read the comparison year for one-offs before I write the comparison, and state what is in the base when I quote it.",
+   "anchor": "f38b5a6fc0b1b386",
+   "kind": "evidence"
+  },
+  {
+   "ts": 1790424038,
+   "text": "I set fifteen Form 144s at PBF against four at Valero as though that measured insiders selling, and the Auditor took it apart: a 144 is a notice of intent, and a count of notices is not a quantity of shares or dollars. If I want to claim insiders are selling, I quote shares or proceeds off Form 4s, not filing counts.",
+   "anchor": "71d879593cd0518a",
+   "kind": "evidence"
   }
  ],
  "seen": [
   "3e595a3124e028d8",
+  "46bca75759123ff1",
   "4e0f6312988615f0",
+  "71d879593cd0518a",
   "7bd7c394108af6c3",
   "c6af4176973e3bfd",
   "d493dc4a7b7dda28",
-  "e04690b77112707e"
+  "e04690b77112707e",
+  "f38b5a6fc0b1b386"
  ],
- "updated": "2026-09-26T11:12:29Z"
+ "updated": "2026-09-26T12:00:38Z"
 }
