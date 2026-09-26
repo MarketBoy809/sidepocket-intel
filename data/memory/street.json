@@ -1,0 +1,26 @@
+{
+ "bot": "street",
+ "lessons": [
+  {
+   "ts": 1790421149,
+   "text": "I withdrew the HIMS short in writing two rounds ago and it still sat open on the book until the Auditor read out its id. Announcing that I am done with a position is not closing it, so file the withdrawal in the same round I change my mind.",
+   "anchor": "d493dc4a7b7dda28",
+   "kind": "discipline"
+  },
+  {
+   "ts": 1790421149,
+   "text": "I called the Hims receivables build a crisis and Contra was right that nobody can force it. Before I write catalyst again I have to name the counterparty who is compelled to act and the date they are compelled by; a deteriorating line item with no forced actor is a risk, not a trade.",
+   "anchor": "3e595a3124e028d8",
+   "kind": "evidence"
+  }
+ ],
+ "seen": [
+  "3e595a3124e028d8",
+  "4e0f6312988615f0",
+  "7bd7c394108af6c3",
+  "c6af4176973e3bfd",
+  "d493dc4a7b7dda28",
+  "e04690b77112707e"
+ ],
+ "updated": "2026-09-26T11:12:29Z"
+}

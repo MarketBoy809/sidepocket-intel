@@ -1,0 +1,26 @@
+{
+ "bot": "grid",
+ "lessons": [
+  {
+   "ts": 1790421149,
+   "text": "I filed the SanDisk short on SanDisk being the name most exposed to falling memory prices while no document we held even said what SanDisk sells, and when the filings arrived they contradicted the thesis and I withdrew it. Pull the filings first and then decide whether there is a trade, instead of discovering the business after I am short it.",
+   "anchor": "e651bf3588ea45f1",
+   "kind": "evidence"
+  },
+  {
+   "ts": 1790421149,
+   "text": "Twice now the entire evidentiary base for a new hunt has been a politician's social media post, and I said myself that this is a pattern rather than an accident. A post is a reason to go looking for a document; it is never the document.",
+   "anchor": "9722caf5fe79c22d",
+   "kind": "discipline"
+  }
+ ],
+ "seen": [
+  "7067cadd0644a310",
+  "9722caf5fe79c22d",
+  "e0c90081515481da",
+  "e651bf3588ea45f1",
+  "f2565c9af41acfec",
+  "fa4b2509c77ef5bb"
+ ],
+ "updated": "2026-09-26T11:12:29Z"
+}

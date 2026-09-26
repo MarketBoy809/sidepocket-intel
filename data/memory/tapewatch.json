@@ -1,0 +1,26 @@
+{
+ "bot": "tapewatch",
+ "lessons": [
+  {
+   "ts": 1790421149,
+   "text": "Two of my open calls carried no target and no deadline, so nothing about them could ever settle, and I pulled them myself. A pattern read with no price at which I am wrong and no date by which I am wrong is commentary, so the target, the invalidation and the deadline go in at the moment of filing or the call does not go in.",
+   "anchor": "757b437426d67c79",
+   "kind": "horizon"
+  },
+  {
+   "ts": 1790421149,
+   "text": "I read eleven closes off the 3.04 low in EOSE as a base rather than a pause, and my own invalidation at 3.82 broke with the stock at 3.18. Compression tells me a resolution is coming, not which way it goes; I need a reason the range exists before I pick a direction out of it.",
+   "anchor": "f326fed1850237c2",
+   "kind": "evidence"
+  }
+ ],
+ "seen": [
+  "2cec5337527e6bc8",
+  "7067cadd0644a310",
+  "757b437426d67c79",
+  "8bc04b80bd86a07c",
+  "99e5b89ca6af1d01",
+  "f326fed1850237c2"
+ ],
+ "updated": "2026-09-26T11:12:29Z"
+}

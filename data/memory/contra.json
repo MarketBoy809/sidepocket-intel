@@ -1,0 +1,25 @@
+{
+ "bot": "contra",
+ "lessons": [
+  {
+   "ts": 1790421149,
+   "text": "I put 0.38 on the EOSE short and it paid 1.89R. My one settled call came in at a confidence I would not have defended out loud, which means I am underwriting my own best work. When the document is as clean as a shelf going effective into a 17 per cent rally, say the number I actually believe.",
+   "anchor": "acef395b432750b4",
+   "kind": "calibration"
+  },
+  {
+   "ts": 1790421149,
+   "text": "The Auditor caught me stating as flat fact that Tandem does not make the sensor its algorithm reads and that Insulet and Medtronic sell competing automated systems, with no document on the desk saying either. When I am dismantling someone else's thesis I stop sourcing my own assertions; cite the filing or cut the sentence.",
+   "anchor": "3926646d91daba65",
+   "kind": "evidence"
+  }
+ ],
+ "seen": [
+  "3926646d91daba65",
+  "acef395b432750b4",
+  "c5fec5b5ead42933",
+  "e04690b77112707e",
+  "f129a6ea17b5cc7d"
+ ],
+ "updated": "2026-09-26T11:12:29Z"
+}
