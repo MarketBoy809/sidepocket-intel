@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-26T06:31:01Z",
- "generated_ts": 1790404261,
+ "generated_at": "2026-09-26T07:30:45Z",
+ "generated_ts": 1790407845,
  "prices": {
   "BTC": {
-   "p": 83943.4,
+   "p": 84002.6,
    "o": 84090.5,
    "h": 85247.4,
    "l": 83163.6,
-   "v": 2740.64556029
+   "v": 2688.39724992
   },
   "ETH": {
-   "p": 2685.8,
+   "p": 2689.79,
    "o": 2691.35,
    "h": 2742.42,
    "l": 2667.23,
-   "v": 24729.33261115
+   "v": 24663.47090475
   },
   "SOL": {
-   "p": 120.39,
+   "p": 120.56,
    "o": 122.12,
    "h": 122.91,
-   "l": 115.85,
-   "v": 551187.71262045
+   "l": 115.86,
+   "v": 552993.5165285
   }
  },
  "change_7d": {
-  "BTC": 0.035741306427227074,
-  "ETH": 0.022092089692514312,
-  "SOL": 0.07694369973190347
+  "BTC": 0.03529250590726243,
+  "ETH": 0.02243460381525325,
+  "SOL": 0.07531979604615786
  },
  "sentiment": {
   "score": 64.9,
   "label": "Greed",
   "components": {
    "fng": 74.0,
-   "momentum": 58.93532660680677,
-   "crowding": 62.5424585,
+   "momentum": 58.8231264768156,
+   "crowding": 62.772189499999996,
    "ai_calm": 54.0
   },
   "weights": {
@@ -54,22 +54,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 9.3629e-06,
-   "oi_usd": 3157615771.5212803,
-   "premium": -0.0003811657
+   "funding_h": 9.9923e-06,
+   "oi_usd": 3160482790.443,
+   "premium": -0.0004761111
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2964082810.566781,
-   "premium": -2.60604e-05
+   "oi_usd": 2964219580.5466394,
+   "premium": -0.0001561211
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 682594856.1212002,
-   "premium": -0.0002907339
+   "oi_usd": 684253093.0215999,
+   "premium": -0.000577993
   }
  },
- "items_24h": 129,
+ "items_24h": 124,
  "top_items": [
   {
    "id": "737bdd247a9483d1",
@@ -218,18 +218,18 @@
    ]
   },
   {
-   "id": "a7fdacb57d61f776",
-   "ts": 1790398800,
+   "id": "c2f6f6cd4b1e8f85",
+   "ts": 1790405969,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-   "url": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
+   "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+   "url": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": [
     "crypto",
-    "SOL"
+    "regulation"
    ]
   }
  ],
@@ -253,7 +253,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 20
+   "n": 19
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -265,9 +265,8 @@
    "n": 3
   },
   "CFTC": {
-   "ok": false,
-   "n": 0,
-   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
+   "ok": true,
+   "n": 3
   },
   "Federal Reserve": {
    "ok": true,
@@ -315,7 +314,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
