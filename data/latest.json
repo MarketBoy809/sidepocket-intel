@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-09-26T18:20:00Z",
- "generated_ts": 1790446800,
+ "generated_at": "2026-09-26T19:30:01Z",
+ "generated_ts": 1790451001,
  "prices": {
   "BTC": {
-   "p": 84061.6,
+   "p": 84030.2,
    "o": 84090.5,
    "h": 84314.7,
    "l": 83619.6,
-   "v": 1167.16985933
+   "v": 1111.4516644
   },
   "ETH": {
-   "p": 2687.05,
+   "p": 2683.04,
    "o": 2691.35,
-   "h": 2698.71,
+   "h": 2697.17,
    "l": 2676.84,
-   "v": 10683.62018539
+   "v": 10343.64471712
   },
   "SOL": {
-   "p": 121.31,
+   "p": 121.21,
    "o": 122.12,
    "h": 122.91,
    "l": 119.84,
-   "v": 334946.68331663
+   "v": 321237.73676596
   }
  },
  "change_7d": {
-  "BTC": 0.033025979559684636,
-  "ETH": 0.017013232514177693,
-  "SOL": 0.09077848612732332
+  "BTC": 0.03171967753251839,
+  "ETH": 0.01757125530624626,
+  "SOL": 0.08937089370893715
  },
  "sentiment": {
-  "score": 62.8,
+  "score": 62.4,
   "label": "Greed",
   "components": {
    "fng": 74.0,
-   "momentum": 58.25649488992116,
-   "crowding": 63.6875,
-   "ai_calm": 42.0
+   "momentum": 57.9299193831296,
+   "crowding": 60.8266665,
+   "ai_calm": 43.0
   },
   "weights": {
    "fng": 0.35,
@@ -54,22 +54,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3135461604.70006,
-   "premium": -0.0004757261
+   "funding_h": 4.6621e-06,
+   "oi_usd": 3132149609.2910995,
+   "premium": -0.000428398
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2957488167.7824,
-   "premium": 0.0001116196
+   "oi_usd": 2952462125.6711993,
+   "premium": 0.0
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 682372039.9272001,
-   "premium": -4.53347e-05
+   "oi_usd": 685005050.9192,
+   "premium": -0.0001649893
   }
  },
- "items_24h": 64,
+ "items_24h": 58,
  "top_items": [
   {
    "id": "4cb8506ff9940cd4",
@@ -86,6 +86,22 @@
    ],
    "author": "Donald Trump",
    "score": 4812
+  },
+  {
+   "id": "5d8878f428ab736c",
+   "ts": 1790449116,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The American People elected me to deliver HISTORIC Economic Results, and now, I have a new responsibility, reporting our incredible results because the Fake News refuses to do it. S&P Global reported this week that U.S. Business Growth is at its HIGHEST LEVEL IN MORE THAN FIVE YE",
+   "url": "https://truthsocial.com/@realDonaldTrump/117338873310369293",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro"
+   ],
+   "author": "Donald Trump",
+   "score": 3101
   },
   {
    "id": "fbe4b2610c77b0d6",
@@ -239,23 +255,9 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
-  },
-  {
-   "id": "5a0ccfacc36b1ea6",
-   "ts": 1790368200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro"
-   ]
   }
  ],
- "briefing_ts": 1790436122,
+ "briefing_ts": 1790450993,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
@@ -333,11 +335,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 29
+   "n": 30
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 16
+   "n": 15
   },
   "Reddit r/Bitcoin": {
    "ok": false,
