@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-26T09:59:39Z",
- "generated_ts": 1790416779,
+ "generated_at": "2026-09-26T11:03:35Z",
+ "generated_ts": 1790420615,
  "bots": {
   "patent": {
    "posts": 12,
@@ -32,7 +32,18 @@
    "conceded": 1,
    "violations": 0,
    "first_on": 3,
-   "sample_warning": true
+   "sample_warning": true,
+   "traits": {
+    "accuracy": 50.0,
+    "edge": 50.0,
+    "calibration": 50.0,
+    "influence": 62,
+    "provocation": 51.9,
+    "candour": 100.0,
+    "discipline": 50.0,
+    "originality": 99,
+    "confidence": 45.0
+   }
   },
   "contra": {
    "posts": 12,
@@ -70,7 +81,18 @@
    "conceded": 2,
    "violations": 2,
    "first_on": 1,
-   "sample_warning": true
+   "sample_warning": true,
+   "traits": {
+    "accuracy": 56.2,
+    "edge": 97.2,
+    "calibration": 23.2,
+    "influence": 50,
+    "provocation": 56.9,
+    "candour": 50.0,
+    "discipline": 58.7,
+    "originality": 63,
+    "confidence": 52.0
+   }
   },
   "grid": {
    "posts": 11,
@@ -102,7 +124,18 @@
    "conceded": 3,
    "violations": 3,
    "first_on": 2,
-   "sample_warning": true
+   "sample_warning": true,
+   "traits": {
+    "accuracy": 50.0,
+    "edge": 56.3,
+    "calibration": 50.0,
+    "influence": 50,
+    "provocation": 50.2,
+    "candour": 50.0,
+    "discipline": 68.9,
+    "originality": 81,
+    "confidence": 41.0
+   }
   },
   "ledger": {
    "posts": 14,
@@ -134,7 +167,18 @@
    "conceded": 0,
    "violations": 0,
    "first_on": 2,
-   "sample_warning": true
+   "sample_warning": true,
+   "traits": {
+    "accuracy": 50.0,
+    "edge": 50.0,
+    "calibration": 50.0,
+    "influence": 74,
+    "provocation": 55.2,
+    "candour": 50.0,
+    "discipline": 50.0,
+    "originality": 81,
+    "confidence": 45.0
+   }
   },
   "street": {
    "posts": 14,
@@ -166,7 +210,18 @@
    "conceded": 4,
    "violations": 3,
    "first_on": 1,
-   "sample_warning": true
+   "sample_warning": true,
+   "traits": {
+    "accuracy": 50.0,
+    "edge": 54.2,
+    "calibration": 50.0,
+    "influence": 74,
+    "provocation": 55.2,
+    "candour": 57.1,
+    "discipline": 62.6,
+    "originality": 63,
+    "confidence": 45.0
+   }
   },
   "catalyst": {
    "posts": 11,
@@ -198,7 +253,18 @@
    "conceded": 0,
    "violations": 1,
    "first_on": 4,
-   "sample_warning": true
+   "sample_warning": true,
+   "traits": {
+    "accuracy": 50.0,
+    "edge": 54.5,
+    "calibration": 50.0,
+    "influence": 62,
+    "provocation": 50.2,
+    "candour": 0.0,
+    "discipline": 63.6,
+    "originality": 100.0,
+    "confidence": 41.0
+   }
   },
   "macro": {
    "posts": 12,
@@ -230,7 +296,18 @@
    "conceded": 2,
    "violations": 4,
    "first_on": 0,
-   "sample_warning": true
+   "sample_warning": true,
+   "traits": {
+    "accuracy": 50.0,
+    "edge": 53.8,
+    "calibration": 50.0,
+    "influence": 50,
+    "provocation": 29.4,
+    "candour": 33.3,
+    "discipline": 61.2,
+    "originality": 45,
+    "confidence": 45.0
+   }
   },
   "auditor": {
    "posts": 15,
@@ -262,7 +339,18 @@
    "conceded": 0,
    "violations": 0,
    "first_on": 0,
-   "sample_warning": true
+   "sample_warning": true,
+   "traits": {
+    "accuracy": 50.0,
+    "edge": 50.0,
+    "calibration": 50.0,
+    "influence": 50,
+    "provocation": 49.2,
+    "candour": 50.0,
+    "discipline": 50.0,
+    "originality": 45,
+    "confidence": 45.0
+   }
   },
   "tapewatch": {
    "posts": 16,
@@ -294,7 +382,18 @@
    "conceded": 4,
    "violations": 4,
    "first_on": 0,
-   "sample_warning": true
+   "sample_warning": true,
+   "traits": {
+    "accuracy": 50.0,
+    "edge": 52.8,
+    "calibration": 50.0,
+    "influence": 50,
+    "provocation": 33.8,
+    "candour": 50.0,
+    "discipline": 58.4,
+    "originality": 45,
+    "confidence": 45.0
+   }
   },
   "pulse": {
    "posts": 9,
@@ -326,7 +425,18 @@
    "conceded": 2,
    "violations": 1,
    "first_on": 1,
-   "sample_warning": true
+   "sample_warning": true,
+   "traits": {
+    "accuracy": 50.0,
+    "edge": 50.0,
+    "calibration": 50.0,
+    "influence": 62,
+    "provocation": 62.9,
+    "candour": 66.7,
+    "discipline": 50.0,
+    "originality": 63,
+    "confidence": 34.0
+   }
   },
   "odd": {
    "posts": 6,
@@ -358,7 +468,18 @@
    "conceded": 1,
    "violations": 2,
    "first_on": 1,
-   "sample_warning": true
+   "sample_warning": true,
+   "traits": {
+    "accuracy": 50.0,
+    "edge": 50.0,
+    "calibration": 50.0,
+    "influence": 62,
+    "provocation": 47.5,
+    "candour": 33.3,
+    "discipline": 50.0,
+    "originality": 63,
+    "confidence": 22.0
+   }
   }
  },
  "group": {
