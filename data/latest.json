@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-09-26T09:54:08Z",
- "generated_ts": 1790416448,
+ "generated_at": "2026-09-26T10:59:46Z",
+ "generated_ts": 1790420386,
  "prices": {
   "BTC": {
-   "p": 83996.1,
+   "p": 84164.7,
    "o": 84090.5,
    "h": 85247.4,
    "l": 83163.6,
-   "v": 2537.622775
+   "v": 2517.40952086
   },
   "ETH": {
-   "p": 2681.08,
+   "p": 2686.97,
    "o": 2691.35,
    "h": 2742.42,
    "l": 2668.33,
-   "v": 23370.61174754
+   "v": 22852.80595872
   },
   "SOL": {
-   "p": 119.89,
+   "p": 120.59,
    "o": 122.12,
    "h": 122.91,
-   "l": 117.9,
-   "v": 530809.69201083
+   "l": 118.28,
+   "v": 511692.22020819
   }
  },
  "change_7d": {
-  "BTC": 0.03563780748890041,
-  "ETH": 0.01740659506882459,
-  "SOL": 0.0755793226381462
+  "BTC": 0.03338436317172546,
+  "ETH": 0.015919308837621438,
+  "SOL": 0.07308346005903915
  },
  "sentiment": {
-  "score": 65.1,
+  "score": 65.3,
   "label": "Greed",
   "components": {
    "fng": 74.0,
-   "momentum": 58.909451872225105,
+   "momentum": 58.34609079293136,
    "crowding": 63.6875,
-   "ai_calm": 54.0
+   "ai_calm": 56.0
   },
   "weights": {
    "fng": 0.35,
@@ -55,21 +55,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3165845978.05476,
-   "premium": -0.0004511266
+   "oi_usd": 3176521587.51522,
+   "premium": -0.0003801378
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2944388959.1925797,
-   "premium": -0.0001230517
+   "oi_usd": 2944707436.475618,
+   "premium": -0.0001414017
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 677839234.8722,
-   "premium": -0.0003943398
+   "oi_usd": 683238086.5924003,
+   "premium": -8.29119e-05
   }
  },
- "items_24h": 66,
+ "items_24h": 67,
  "top_items": [
   {
    "id": "737bdd247a9483d1",
@@ -86,6 +86,103 @@
    ],
    "author": "Donald Trump",
    "score": 17511
+  },
+  {
+   "id": "b584429317ba3007",
+   "ts": 1790418606,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Fantastic news for America!SCOTUS reinstates Trump's voter citizenship verification rules: https://justthenews.com/government/courts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules",
+   "url": "https://truthsocial.com/@realDonaldTrump/117336873800272630",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1049
+  },
+  {
+   "id": "31f50241d9642edc",
+   "ts": 1790418472,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "A big WIN for Republicans!!!Trump stacks wins: SCOTUS unleashes voter citizenship checks while feds put machines on leash: https://justthenews.com/government/white-house/supreme-court-cisa",
+   "url": "https://truthsocial.com/@realDonaldTrump/117336865039856065",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 969
+  },
+  {
+   "id": "f37c8c60c17e0778",
+   "ts": 1790418682,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Trump's U.N. speech reveals a world realigned by his policy and pressure, with China in the wings: https://justthenews.com/government/white-house/trump-0",
+   "url": "https://truthsocial.com/@realDonaldTrump/117336878808999802",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 847
+  },
+  {
+   "id": "0bf82168ea6646d6",
+   "ts": 1790418635,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "White House press monopoly exposes risks of news blackout, as RAV steps in with new pool feed: https://justthenews.com/government/white-house/real-first-amendment-issue-press-monopoly-creates-gaps-coverage-limits-news",
+   "url": "https://truthsocial.com/@realDonaldTrump/117336875720742753",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 814
+  },
+  {
+   "id": "36808da37ec08a8b",
+   "ts": 1790418706,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: https://justthenews.com/accountability/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data",
+   "url": "https://truthsocial.com/@realDonaldTrump/117336880365536098",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 767
+  },
+  {
+   "id": "3f6afc4290a981d8",
+   "ts": 1790419895,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Why should perpetrators of FAKE NEWS, like CNN and MSDNC, be allowed access to a very sacred place, the White House? Despite my big Election Win, almost 100% of \"TRUMP\" coverage is negative, and has been for years!Defiant White House slaps down journalists: 'Access is a privilege",
+   "url": "https://truthsocial.com/@realDonaldTrump/117336958253518518",
+   "domain": "truthsocial.com",
+   "tags": [
+    "crypto",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 678
   },
   {
    "id": "2fbedf30d8000404",
@@ -150,91 +247,9 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
-  },
-  {
-   "id": "ee17d91dca6f556d",
-   "ts": 1790363441,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Public Service Announcements Are Nothing New",
-   "url": "https://www.whitehouse.gov/releases/2026/09/presidential-public-service-announcements-are-nothing-new/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "c25dfcf33e9b3607",
-   "ts": 1790353458,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "First Lady Melania Trump Highlights Art, Culture, and the Next Generation During State Visit of President Xi Jinping and Madame Peng Liyuan",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-highlights-art-culture-and-the-next-generation-during-state-visit-of-president-xi-jinping-and-madame-peng-liyuan/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "eccbdffda1fdbadc",
-   "ts": 1790337797,
-   "source": "institution",
-   "group": "institution",
-   "kind": "official",
-   "title": "8-K - Current report",
-   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526401636/0001193125-26-401636-index.htm",
-   "domain": "Strategy (MSTR) filings",
-   "org": "Strategy (MSTR) filings",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "93d43f8010410e8b",
-   "ts": 1790413342,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
-   "url": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "c2f6f6cd4b1e8f85",
-   "ts": 1790405969,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-   "url": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto",
-    "regulation"
-   ]
-  },
-  {
-   "id": "a097e148e069be78",
-   "ts": 1790405299,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "EU Quantum Warning: $504 Billion Of Bitcoin Sits Exposed",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wqjn3x/eu_quantum_warning_504_billion_of_bitcoin_sits/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto",
-    "BTC"
-   ],
-   "score": 0
   }
  ],
- "briefing_ts": 1790404254,
+ "briefing_ts": 1790419107,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
@@ -312,7 +327,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 22
+   "n": 28
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
