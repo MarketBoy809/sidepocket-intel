@@ -1,26 +1,26 @@
 {
- "headline": "BTC $83.6k at range lows into Bitget's 04:00 UTC withdrawal deadline; SOL +3.4%",
- "summary": "At 21:19 UTC on 25 September BTC is $83,619.70 against an $84,380.00 open (-0.90%), sitting only 22% up its $83,163.60-$85,247.40 band, ETH is $2,677.12 (-0.38%) and the weakest of the three at 13% of its $2,667.23-$2,742.42 range, while SOL is $121.05 (+3.44%), 74% up its range and still the week's leader at +7.1% against +3.4% for BTC and +2.0% for ETH. The drift lower is macro, not crypto: the US 10-year Treasury yield eased about 5bp to 5.16% after touching a 19-year high on Wednesday-Thursday, odds of a 25bp October Fed hike slipped to roughly 66% from 72% within 24 hours, and Japan's 10-year pushed toward 3.1%, its highest since 1996 - the bond complex, not spot selling, set this week's lows. The one acute story is still open: Bitget's breach estimate stands at $387.5m after Zcash and TRON transfers were added to the $351.6m first reported, withdrawals remain suspended while deposits and trading run, and the exchange has only promised to publish a resumption plan by 04:00 UTC on 26 September - hours away, into a weekend. Positioning keeps getting lighter rather than heavier, which is the setup in which dips have historically been shallow: Hyperliquid BTC open interest is down to $3.19bn from $3.29bn, BTC funding has collapsed to 0.00018%/h from 0.00125%/h, and the BTC futures premium is -0.063% with SOL at -0.006%, so spot is trading above futures. Fear & Greed is 71 and the composite reads 60.6, both Greed, on 243 items in 24 hours - a de-levered, range-bound tape pinned at the low end by real yields, with one custody question due to resolve overnight.",
+ "headline": "BTC $84.0k flat into Bitget's 04:00 UTC withdrawal decision; SOL +6.9% week",
+ "summary": "As of 01:55 UTC on 26 September BTC is $84,052.40 against an $84,090.50 open (-0.05%), sitting 43% up its $83,163.60-$85,247.40 daily band, ETH is $2,693.09 (+0.06%) and the laggard at 34% of a $2,667.23-$2,742.42 range, and SOL is $121.96 (-0.13%) but 87% up its $115.85-$122.91 range after bouncing 5.3% off the $115.85 low, leaving weekly changes at +2.8% BTC, +2.3% ETH and +6.9% SOL. There is no dip on the board right now: all three are flat on the session, Hyperliquid funding is mild at 0.00073%/h for BTC and 0.00125%/h for ETH and SOL, BTC open interest is $3.20bn with the futures premium at -0.045%, so futures are still trading under spot and nobody is paying up to be long. The tape is being set by bonds rather than crypto - the US 10-year is around 5.16-5.21% near 19-year highs after a 58.4 flash PMI, and October Fed hike odds sit near 66-75% - offset by the first real de-escalation headline in months, with US and Iranian negotiators exploring a phased Strait of Hormuz reopening that knocked WTI over $2 lower to $91.74 and let BTC reclaim $84,000. The one open crypto wound is Bitget: $387.5m taken, withdrawals still suspended, and a resumption plan promised by 04:00 UTC today, roughly two hours from this snapshot and into a weekend. Fear & Greed is 74 and the composite reads 61.8, both Greed, on 151 items in 24 hours - a de-levered, range-bound market with one custody question due to resolve overnight.",
  "mood": "greed",
- "news_risk": 60,
+ "news_risk": 58,
  "assets": {
   "BTC": {
    "read": "chop",
-   "note": "$83,619.70, down 0.90% and 1.9% off the $85,247.40 high, pinned at 22% of an $83,163.60-$85,247.40 band with open interest down to $3.19bn and the futures premium at -0.063%, deeper below spot than the -0.022% four hours ago - the marginal seller is leverage leaving, not spot distribution, and this is drift within the range rather than a dip."
+   "note": "$84,052.40, unchanged on the session and 43% up an $83,163.60-$85,247.40 band, with open interest at $3.20bn, funding at 0.00073%/h and the futures premium at -0.045% - this is range consolidation after Friday's $15.6bn options expiry cleared, not a dip."
   },
   "ETH": {
    "read": "chop",
-   "note": "$2,677.12, down 0.38% and the weakest of the three at 13% of a $2,667.23-$2,742.42 range after failing at $2,742; the premium has ticked back to +0.007% from -0.011% with open interest flat at $2.96bn and funding at 0.00125%/h, so there is neither a crowded long nor a bid here."
+   "note": "$2,693.09, up 0.06% but the weakest of the three at 34% of a $2,667.23-$2,742.42 range and only +2.3% on the week, on $2.98bn of open interest and a -0.006% premium, so there is neither a crowded long nor an obvious bid here."
   },
   "SOL": {
    "read": "rally",
-   "note": "$121.05, up 3.44% and 74% up its $115.85-$122.91 range, +7.1% on the week and part of a broad large-alt rotation, on the thinnest book of the three at $742m of open interest - most reflexive in both directions, and it carries the 28 September Alpenglow activation two days out."
+   "note": "$121.96, 87% up its $115.85-$122.91 range after recovering 5.3% off the low, +6.9% on the week and the clear leader, on the thinnest book of the three at $753m of open interest with the Alpenglow mainnet activation two days out."
   }
  },
  "drivers": [
   {
-   "title": "Bitget still frozen at $387.5m: resumption plan due 04:00 UTC 26 September",
-   "detail": "Bitget's loss estimate stands at $387.5m, revised up from the $351.6m first confirmed on 24 September after the investigation added affected Zcash and TRON transfers; CEO Gracy Chen says private keys were not compromised - attackers breached a wallet backend and spoofed transfer data so Bitget's own authorization process approved the payouts - and cites IP and on-chain patterns matching North Korean state-linked activity. Withdrawals remain suspended pending a security review while deposits and trading continue, Circle and Tether have frozen attacker wallets, and a 5% recovery bounty is live for anyone who helps freeze or recover funds. The exchange has committed only to publishing a resumption plan by 1 p.m. KST on 26 September, which is 04:00 UTC, after that timetable already slipped once - the deadline lands overnight into thin weekend books.",
+   "title": "Bitget still frozen at $387.5m with a plan due 04:00 UTC today",
+   "detail": "CEO Gracy Chen put the loss at $387.5m, revised up from $351.6m after Zcash and TRON transfers were traced, and committed to publishing a withdrawal resumption plan by 1 p.m. KST / 04:00 UTC on 26 September; deposits and trading run, withdrawals do not. Circle and Tether froze stablecoins in attacker wallets but most of the funds had already moved, and North Korea is a named suspect.",
    "impact": "bearish",
    "assets": [
     "BTC",
@@ -30,15 +30,14 @@
    "category": "crypto",
    "links": [
     "https://en.bloomingbit.io/feed/news/121059",
-    "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
     "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach",
-    "https://www.cryptotimes.io/2026/09/25/bitget-updates-hack-impact-to-387-5m-offers-5-recovery-bounty/",
-    "https://coinedition.com/crypto-live-news/bitget-traces-387-5m-crypto-incident-plans-withdrawal-update-by-sept-26/"
+    "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+    "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect"
    ]
   },
   {
-   "title": "Real yields remain the price-setter: 10-year 5.16% off a 19-year high, October hike odds 66%",
-   "detail": "The US 10-year Treasury yield eased roughly 5bp to 5.16% on Friday after a two-session surge to its highest level since 2007, the move that pulled BTC from about $87,265 on Wednesday to under $84,000 on Thursday. The cause has not gone away: the preliminary September S&P Global composite PMI printed 58.4, the fastest US business expansion since 2021, which pushed market-implied odds of a 25bp Fed hike in October to about 70% before drifting back to 66% from 72% over the last 24 hours, with 50bp odds at nil. Bond volatility is elevated while bitcoin and equities stay calm, so a resumption of the yield rise is the single most likely cause of a break of $83,163.",
+   "title": "10-year near 19-year highs, October hike priced around 70%",
+   "detail": "The US 10-year Treasury yield is around 5.16-5.21% after touching its highest level since 2007 this week, and the 58.4 September flash PMI - the fastest expansion since 2021 - pushed CME-implied odds of a 25bp October Fed hike into the 66-75% band. Bond volatility is surging while bitcoin and equities stay comparatively calm, which is what has pinned BTC at the low end of its range all week.",
    "impact": "bearish",
    "assets": [
     "BTC",
@@ -47,15 +46,14 @@
    ],
    "category": "macro",
    "links": [
-    "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-falls-below-84k-as-10-year-treasury-yield-hits-19-year-high-202609241203",
-    "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
     "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
-    "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-friday-september-25-2026/"
+    "https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high",
+    "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses"
    ]
   },
   {
-   "title": "Iran names its price for reopening Hormuz in seven days",
-   "detail": "Iranian Foreign Minister Abbas Araghchi, in a private gathering on the sidelines of the UN General Assembly on 24 September, set out a plan to reopen the Strait of Hormuz and resume nuclear talks within seven days if Washington lifts its naval blockade, waives sanctions on Iranian oil sales and observes a ceasefire extending to Lebanon; US and Iranian negotiators are separately exploring a phased version with Qatari mediation. Markets priced relief immediately - WTI fell about 3% to $91.74, Brent about 1% to roughly $105, gold rose nearly 1% above $4,300 and the dollar index slipped below 101 - but the conditions attached are large, and a June 17 memorandum on the same trade already collapsed into renewed fighting. This is the biggest single source of potential relief for yields and therefore for crypto, and also the biggest single source of reversal risk.",
+   "title": "US-Iran explore phased Hormuz reopening; WTI drops to $91.74",
+   "detail": "Iranian foreign minister Abbas Araghchi handed the US a seven-day proposal to reopen the Strait of Hormuz and restart nuclear talks, with Qatari mediation on the UN General Assembly sidelines and both sides exploring a phased swap of passage for blockade relief. WTI fell more than $2 to $91.74 on the reports and BTC reclaimed $84,000 in the same window - the single cleanest path to lower oil, lower yields and a friendlier tape.",
    "impact": "bullish",
    "assets": [
     "BTC",
@@ -64,91 +62,83 @@
    ],
    "category": "geopolitics",
    "links": [
-    "https://www.bnnbloomberg.ca/markets/oil/2026/09/25/iran-has-suggested-a-deal-to-reopen-the-strait-of-hormuz-in-7-days/",
-    "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz",
-    "https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html"
+    "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+    "https://finance.yahoo.com/energy/articles/us-iran-said-exploring-phased-182507090.html",
+    "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/"
    ]
   },
   {
-   "title": "Leverage keeps draining: BTC funding near zero, premium at -0.063%",
-   "detail": "Hyperliquid BTC open interest has fallen again to $3.19bn from $3.29bn four hours earlier and $4.02bn on 22 September, ETH is flat at $2.96bn and SOL is $742m. The clearer signal is in the cost of carry: BTC funding has collapsed to 0.00018%/h from a flat 0.00125%/h, the BTC futures premium has gone further negative to -0.063% and SOL sits at -0.006%, so spot trades above futures on two of the three. That follows Friday's 08:00 UTC expiry of roughly $15.6bn of Deribit options, the largest of the year, which cleared without a break, and a 24 September hour in which about $237m of longs were liquidated. Crowding is 59.8 on the composite and the ai_calm component is the weakest at 40.0 - a tape with the leverage already flushed out, which is historically the condition in which dips have been shallow rather than structural.",
+   "title": "$15.6bn BTC options expired Friday, removing the gamma pin",
+   "detail": "About 182,000 BTC of Deribit options - 106,200 calls against 75,900 puts, a 0.71 put/call ratio - expired on 25 September with max pain far below spot near $75,000-$76,000. Dealer hedging around that strike stack had helped hold BTC in its tight band; with more than a third of open contracts settled, that mechanical support is gone and the range can widen in either direction.",
    "impact": "mixed",
    "assets": [
-    "BTC",
-    "ETH",
-    "SOL"
+    "BTC"
    ],
    "category": "crypto",
    "links": [
     "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
-    "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound",
-    "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops"
+    "https://decrypt.co/379093/15-6-billion-bitcoin-options-expire-friday-what-means"
    ]
   },
   {
-   "title": "Trump-Xi state visit ends with a truce extension to 10 January and little else",
-   "detail": "The White House confirmed at 20:10 UTC that the three-day Xi state visit had concluded; the deliverable is an extension of the expiring US-China trade truce to 10 January, a two-month rollover of the Busan agreement that lowered US tariffs and suspended Beijing's rare-earth and critical-mineral export controls. There were no purchase commitments, no AI-risk agreement and no movement on Iran. For crypto this removes a near-term tariff shock but only for two months, and it puts a hard date on the calendar rather than settling anything.",
-   "impact": "mixed",
+   "title": "Spot BTC ETFs still taking money: ~$191m on 24 September",
+   "detail": "US spot bitcoin ETFs drew roughly $191m of net inflows on 24 September, with IBIT at +$162.6m and FBTC at +$12.9m, extending a six-session streak worth about $2.8bn even as BTC sat at the low end of its range. IBIT options pricing has also calmed since the rebound, so the institutional bid has not flinched at the Bitget headlines.",
+   "impact": "bullish",
+   "assets": [
+    "BTC"
+   ],
+   "category": "institutional",
+   "links": [
+    "https://hedgeco.net/news/09/2026/spot-bitcoin-etfs-drew-about-191-million-on-september-24.html",
+    "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound",
+    "https://farside.co.uk/btc/"
+   ]
+  },
+  {
+   "title": "SEC loses its crypto advocate on 2 October, down to two commissioners",
+   "detail": "Hester Peirce, who led the SEC's Crypto Task Force, posted a resignation letter on 25 September setting her last day at 2 October, leaving the agency with only Chair Atkins and Mark Uyeda - a bare quorum - to carry the token classification and registration rulemaking. It lands two weeks after the Senate's CLARITY Act cloture vote failed and as the Blockchain Association changes leadership, so the US regulatory calendar has slipped further out.",
+   "impact": "bearish",
    "assets": [
     "BTC",
     "ETH",
     "SOL"
    ],
-   "category": "politics",
+   "category": "regulation",
    "links": [
-    "https://www.whitehouse.gov/releases/2026/09/president-trump-first-lady-conclude-historic-china-state-visit/",
-    "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
-    "https://www.cbsnews.com/live-updates/trump-china-xi-jinping-state-visit-dinner-tariffs-ai/",
-    "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip"
-   ]
-  },
-  {
-   "title": "Regulated money still adding while Washington stalls and money rotates into alts",
-   "detail": "US spot bitcoin ETFs ran six consecutive inflow sessions worth about $2.8bn through Thursday - $999m Monday, $714.75m Tuesday, $347m Wednesday, $191m Thursday with IBIT at roughly $163m of that and about $1.35bn across the streak - flipping 2026 year-to-date net flows positive to about $787m. The pace decayed 81% from Monday's peak, so the bid is fading at the margin, but regulated money kept adding on the exact sessions when the 10-year hit 19-year highs. Inside crypto the bid has rotated to large alts rather than out: 93 of the 100 CoinDesk 100 constituents rose, with QNT +38%, ONDO +28% and LINK +11%. On the corporate side Strategy filed an 8-K at 15:23 UTC seeking shareholder approval to accrue preferred dividends 365 days a year to pull STRC back toward $100, while the legislative channel stays shut after the CLARITY Act's 49-50 cloture failure on 15 September pushed market-structure work to the regulators.",
-   "impact": "mixed",
-   "assets": [
-    "BTC",
-    "SOL",
-    "ETH"
-   ],
-   "category": "institutional",
-   "links": [
-    "https://en.cryptonomist.ch/2026/09/25/bitcoin-etf-inflows-six-day/",
-    "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
-    "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends",
-    "https://www.sec.gov/Archives/edgar/data/1050446/000119312526401636/0001193125-26-401636-index.htm",
-    "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote"
+    "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
+    "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
+    "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html"
    ]
   }
  ],
  "watch": [
   {
    "when": "2026-09-26 04:00 UTC",
-   "what": "Bitget's committed deadline to publish a withdrawal resumption plan (1 p.m. KST). This timetable already slipped once and the loss estimate rose 10% with it. A clean reopening closes the only acute crypto story on the board; a second delay, over a weekend with thin books, is the item most capable of turning a covered exchange loss into a broader confidence event about exchange balances."
-  },
-  {
-   "when": "this week",
-   "what": "US-Iran technical talks on a phased Hormuz reopening, against Tehran's seven-day proposal conditioned on lifting the naval blockade, waiving oil sanctions and a ceasefire including Lebanon. Progress is the cleanest path to lower oil and lower yields; a collapse puts the 10-year back at 19-year highs and BTC back under $83,163."
+   "what": "Bitget's committed deadline (1 p.m. KST) to publish its withdrawal resumption plan. Note the wording: the promise is a plan, not necessarily an immediate reopening. A clean, dated reopening closes the only acute crypto story on the board; a second slip - the timetable already moved once while the loss estimate rose 10% - into a thin weekend book is the item most able to turn a contained exchange loss into a broader question about exchange balances."
   },
   {
    "when": "2026-09-28",
-   "what": "Solana's Alpenglow mainnet activation (Agave 4.3), the largest protocol change of the quarter, landing on the thinnest book of the three at $742m of open interest and after a +7.1% week - SOL carries the most positioning risk into it."
+   "what": "Solana's Alpenglow mainnet activation via the Agave 4.3 feature gate: Votor replaces TowerBFT, finality targets ~150ms versus ~12.8s, and fault tolerance rises from 33% to 40%. Validators that failed to register a BLS key on-chain are excluded from the consensus set. It lands on the thinnest book of the three ($753m open interest) after a +6.9% week, so SOL carries the most positioning risk into it."
   },
   {
-   "when": "2026-09-30 12:30 UTC",
-   "what": "BEA Personal Income and Outlays with the August PCE deflator (08:30 ET), plus ADP at 12:15 UTC and Consumer Confidence at 14:00 UTC, all on quarter-end when flows get pulled around. With October hike odds at 66% after a 58.4 flash PMI, a hot core print prices the hike close to certain and is the most direct scheduled risk to dip-buying."
+   "when": "2026-09-30",
+   "what": "JOLTS job openings, Chicago PMI, FHFA House Price Index and CB Consumer Confidence, all on quarter-end when flows get pushed around. With October hike odds already near 70%, a hot labour-demand print firms the hike and is the most direct scheduled pressure on dip-buying next week."
+  },
+  {
+   "when": "2026-10-01",
+   "what": "ADP Employment Change and ISM Manufacturing PMI. The read-through to Friday's payrolls, against a flash composite PMI that already printed 58.4."
   },
   {
    "when": "2026-10-02 12:30 UTC",
-   "what": "September Employment Situation (nonfarm payrolls, 08:30 ET). First-Friday payrolls into a Fed that markets already expect to hike in October; September CPI follows on 14 October."
-  },
-  {
-   "when": "2027-01-10",
-   "what": "Expiry of the extended US-China trade truce agreed during this week's state visit. Not a near-term risk, but it is the new hard date on the tariff calendar and no broader deal was struck."
+   "what": "September Employment Situation - nonfarm payrolls and unemployment (08:30 ET). Same day, Hester Peirce's last day at the SEC. First-Friday payrolls into a Fed markets already expect to hike on 28 October."
   },
   {
    "when": "this week",
-   "what": "Context for any pullback, from the stored history only: BTC has had 28 sharp dips, with +1.5% recovered within 14 days in 92.9% of cases (median 5.0 h, 78.6% within 24 h) and a typical extra drop after the trigger of -0.5%; ETH 91 dips at 92.3% (median 5.0 h) and SOL 132 dips at 93.9% (median 3.5 h, typical extra drop -0.3%). Dips during greed recovered 7 of 7 for BTC, 92.9% of 28 for ETH and 93.8% of 48 for SOL. Today's market state most resembles 2025-07-11, 2025-10-04 and 2024-07-21, after which BTC's median 30-day move was 8.0% (up in 60.0% of them). The one precursor to respect: 'Donald Trump (Truth Social) + inflation/CPI' preceded a BTC dip within 6h 2.6% of the time versus 1.0% by chance (2.72x lift, n=115, held in both halves of the data)."
+   "what": "US-Iran technical talks on the phased Hormuz reopening, against Tehran's seven-day proposal tied to lifting the naval blockade. Progress is the cleanest route to lower oil and lower yields; a collapse puts the 10-year back at 19-year highs and BTC back toward $83,163."
+  },
+  {
+   "when": "2026-10-28 18:00 UTC",
+   "what": "FOMC rate decision (2:00 p.m. ET). The meeting everything above is pricing into; the current market-implied probability of a 25bp hike is roughly 66-75%."
   }
  ],
  "sources": [
@@ -157,100 +147,108 @@
    "url": "https://en.bloomingbit.io/feed/news/121059"
   },
   {
-   "title": "Bitget's $351 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says - CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says"
-  },
-  {
    "title": "Bitget clarifies $388M in assets affected by security breach - Cointelegraph",
    "url": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach"
   },
   {
-   "title": "Bitget Updates Hack Impact to $387.5M, Offers 5% Recovery Bounty - Crypto Times",
-   "url": "https://www.cryptotimes.io/2026/09/25/bitget-updates-hack-impact-to-387-5m-offers-5-recovery-bounty/"
+   "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack - But Most Funds Slip Away - Decrypt",
+   "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack"
+  },
+  {
+   "title": "Bitget Hack Losses Climb to $387M: Here's What Happened, and Why North Korea Is a Suspect - Decrypt",
+   "url": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect"
+  },
+  {
+   "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist - CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist"
   },
   {
    "title": "Bitget Traces $387.5M Crypto Incident, Plans Withdrawal Update by Sept. 26 - Coin Edition",
    "url": "https://coinedition.com/crypto-live-news/bitget-traces-387-5m-crypto-incident-plans-withdrawal-update-by-sept-26/"
   },
   {
-   "title": "Bitget Raises Amount Involved in Security Incident to $387.5 Million and Launches Asset Recovery Bounty Program - TechFlow",
-   "url": "https://www.techflowpost.com/en-US/newsletter/137809"
-  },
-  {
-   "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress - CoinDesk",
+   "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses - CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses"
-  },
-  {
-   "title": "Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high - FXStreet",
-   "url": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-falls-below-84k-as-10-year-treasury-yield-hits-19-year-high-202609241203"
-  },
-  {
-   "title": "Bitcoin Slips Below $84K as 10-year Treasurys Hit 19-year High - Cointelegraph",
-   "url": "https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high"
   },
   {
    "title": "Bond volatility surges while bitcoin and Wall Street stay calm - CoinDesk",
    "url": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm"
   },
   {
+   "title": "Bitcoin Slips Below $84K as 10-year Treasurys Hit 19-year High - Cointelegraph",
+   "url": "https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high"
+  },
+  {
    "title": "Bitcoin Steadies at $84,379 as Fed Rate Bets Pressure Crypto - Rio Times",
    "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-friday-september-25-2026/"
   },
   {
-   "title": "Japan 10-Year Yields Climb on Hawkish BOJ View - Trading Economics",
-   "url": "https://tradingeconomics.com/japan/government-bond-yield/news/528532"
+   "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks - CNBC",
+   "url": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html"
   },
   {
-   "title": "Japan bond yields rise on faster BOJ rate hike bets, inflation concerns - The Standard",
-   "url": "https://www.thestandard.com.hk/finance/article/339720/Japan-bond-yields-rise-on-faster-BOJ-rate-hike-bets-inflation-concerns"
+   "title": "US, Iran Said to Be Exploring Phased Deal to Open Hormuz - Bloomberg via Yahoo Finance",
+   "url": "https://finance.yahoo.com/energy/articles/us-iran-said-exploring-phased-182507090.html"
   },
   {
-   "title": "Iran has suggested a deal to reopen the Strait of Hormuz in 7 days - BNN Bloomberg",
-   "url": "https://www.bnnbloomberg.ca/markets/oil/2026/09/25/iran-has-suggested-a-deal-to-reopen-the-strait-of-hormuz-in-7-days/"
-  },
-  {
-   "title": "What's in Iran's seven-day plan to reopen the Strait of Hormuz? - Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz"
-  },
-  {
-   "title": "Oil prices pull back from session highs after report of talks for phased reopening of Strait of Hormuz - CNBC",
-   "url": "https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html"
-  },
-  {
-   "title": "President Trump, First Lady Conclude Historic China State Visit - White House",
-   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-first-lady-conclude-historic-china-state-visit/"
-  },
-  {
-   "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways - CNBC",
-   "url": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html"
-  },
-  {
-   "title": "Trump-Xi visit wraps up with few achievements announced - CBS News",
-   "url": "https://www.cbsnews.com/live-updates/trump-china-xi-jinping-state-visit-dinner-tariffs-ai/"
-  },
-  {
-   "title": "Trump welcomes Xi to Washington as US, China agree to extend trade truce - Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip"
-  },
-  {
-   "title": "Bitcoin ETF inflows drop 81% from peak despite $2.8B six-day streak - Cryptonomist",
-   "url": "https://en.cryptonomist.ch/2026/09/25/bitcoin-etf-inflows-six-day/"
+   "title": "Iran War Updates: Tehran proposes 7-day plan to reopen Strait of Hormuz - CBS News",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/"
   },
   {
    "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits - XRP and Solana Keep Climbing - Decrypt",
    "url": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana"
   },
   {
+   "title": "$15.6 Billion in Bitcoin Options Expire Friday - Here's What It Means - Decrypt",
+   "url": "https://decrypt.co/379093/15-6-billion-bitcoin-options-expire-friday-what-means"
+  },
+  {
+   "title": "Spot Bitcoin ETFs Drew About $191 Million on September 24 - HedgeCo Insights",
+   "url": "https://hedgeco.net/news/09/2026/spot-bitcoin-etfs-drew-about-191-million-on-september-24.html"
+  },
+  {
+   "title": "Bitcoin ETF Flow (US$m) - Farside Investors",
+   "url": "https://farside.co.uk/btc/"
+  },
+  {
    "title": "IBIT options price trading more calmly after Bitcoin rebound - Cointelegraph",
    "url": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound"
   },
   {
-   "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops - CoinDesk",
-   "url": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops"
+   "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week - CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week"
   },
   {
-   "title": "Altcoins rally across the board as bitcoin consolidates near $84,000 - CoinDesk",
-   "url": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000"
+   "title": "Hester Peirce Exits SEC October 2, Leaving a Two-Commissioner Agency - TFTC",
+   "url": "https://www.tftc.io/hester-peirce-sec-resignation-october-2026"
+  },
+  {
+   "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles - CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles"
+  },
+  {
+   "title": "Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry - CNBC",
+   "url": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html"
+  },
+  {
+   "title": "Agave 4.3 Release Schedule: Alpenglow Mainnet Activation September 28, 2026 - Solana Compass",
+   "url": "https://solanacompass.com/news/anza-publishes-agave-43-release-schedule-alpenglow-consensus-targets-september-28-mainnet-activation"
+  },
+  {
+   "title": "Solana Alpenglow Mainnet Activation Sep 28: Votor, 150ms Finality - Solana Compass",
+   "url": "https://solanacompass.com/news/solanas-alpenglow-consensus-upgrade-hits-general-adoption-day-seven-days-from-mainnet-feature-gate"
+  },
+  {
+   "title": "Forecasting the upcoming week: US payrolls and flash CPIs in Europe in the limelight - FXStreet",
+   "url": "https://www.fxstreet.com/amp/analysis/forecasting-the-upcoming-week-us-payrolls-and-flash-cpis-in-europe-will-be-in-the-limelight-202509261730"
+  },
+  {
+   "title": "The Fed - Meeting calendars and information",
+   "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+  },
+  {
+   "title": "Tether says it had 'limited' exposure to bank linked to $84M US seizure - Cointelegraph",
+   "url": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex"
   },
   {
    "title": "Strategy seeks shareholder approval for daily preferred stock dividends - Cointelegraph",
@@ -261,22 +259,14 @@
    "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526401636/0001193125-26-401636-index.htm"
   },
   {
-   "title": "Crypto's biggest Senate push falls flat as the Clarity Act fails to clear a crucial procedural vote - CoinDesk",
-   "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote"
+   "title": "Altcoins rally across the board as bitcoin consolidates near $84,000 - CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000"
   },
   {
-   "title": "Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry - CNBC",
-   "url": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html"
-  },
-  {
-   "title": "Weekly Economic Calendar for 28.09.2026-04.10.2026",
-   "url": "https://wp.madrestravels.com/2026/09/23/weekly-economic-calendar-for-28-09-2026-04-10-2026/"
-  },
-  {
-   "title": "Economic Indicators Calendar - Federal Reserve Bank of New York",
-   "url": "https://www.newyorkfed.org/research/calendars/nationalecon_cal"
+   "title": "President Trump, First Lady Conclude Historic China State Visit - White House",
+   "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-first-lady-conclude-historic-china-state-visit/"
   }
  ],
- "generated_ts": 1790374578,
- "generated_at": "2026-09-25T22:16:18Z"
+ "generated_ts": 1790389323,
+ "generated_at": "2026-09-26T02:22:03Z"
 }
