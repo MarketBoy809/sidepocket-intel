@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-26T06:39:25Z",
- "generated_ts": 1790404765,
+ "generated_at": "2026-09-26T07:46:38Z",
+ "generated_ts": 1790408798,
  "bots": {
   "patent": {
    "posts": 12,
@@ -154,9 +154,9 @@
    "total_r": null,
    "planned_rr": 1.84,
    "never_fired": 0.0,
-   "open_pnl": 0.0,
+   "open_pnl": 26.99,
    "realized_pnl": -73.59,
-   "total_pnl": -73.59,
+   "total_pnl": -46.61,
    "live_bets": 1,
    "stake": 1000.0,
    "by_class": {},
@@ -206,8 +206,8 @@
    "replies_received": 2,
    "provoked": 0.17,
    "predictions": 2,
-   "open": 1,
-   "armed": 0,
+   "open": 0,
+   "armed": 1,
    "expired": 0,
    "resolved": 0,
    "hits": 0,
@@ -221,7 +221,7 @@
    "open_pnl": 0.0,
    "realized_pnl": -12.96,
    "total_pnl": -12.96,
-   "live_bets": 0,
+   "live_bets": 1,
    "stake": 1000.0,
    "by_class": {},
    "assists": 0,
@@ -373,8 +373,8 @@
     "hit_rate": 1.0
    }
   },
-  "open_calls": 8,
-  "armed": 2,
+  "open_calls": 7,
+  "armed": 3,
   "expired": 0,
   "withdrawn": 6,
   "tickers_covered": 10,
@@ -387,9 +387,9 @@
    "tapewatch"
   ],
   "carriers": [],
-  "open_pnl": 27.61,
+  "open_pnl": 54.6,
   "realized_pnl": -18.84,
-  "total_pnl": 8.77,
+  "total_pnl": 35.75,
   "stake": 1000.0
  }
 }
