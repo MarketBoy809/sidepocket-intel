@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-09-26T07:39:34Z",
- "generated_ts": 1790408374,
+ "generated_at": "2026-09-26T08:46:45Z",
+ "generated_ts": 1790412405,
  "prices": {
   "BTC": {
-   "p": 84022.6,
+   "p": 84233.4,
    "o": 84090.5,
    "h": 85247.4,
    "l": 83163.6,
-   "v": 2664.29537341
+   "v": 2609.19339458
   },
   "ETH": {
-   "p": 2690.45,
+   "p": 2692.32,
    "o": 2691.35,
    "h": 2742.42,
-   "l": 2667.23,
-   "v": 24477.3067884
+   "l": 2668.33,
+   "v": 23988.14417187
   },
   "SOL": {
-   "p": 120.59,
+   "p": 120.94,
    "o": 122.12,
    "h": 122.91,
-   "l": 115.9,
-   "v": 553347.9470056
+   "l": 116.93,
+   "v": 543263.18117293
   }
  },
  "change_7d": {
-  "BTC": 0.03529250590726243,
-  "ETH": 0.02243460381525325,
-  "SOL": 0.07531979604615786
+  "BTC": 0.03738315336211809,
+  "ETH": 0.02454840380163285,
+  "SOL": 0.0822875582646109
  },
  "sentiment": {
-  "score": 62.7,
+  "score": 64.7,
   "label": "Greed",
   "components": {
    "fng": 74.0,
-   "momentum": 58.8231264768156,
-   "news_tone": 50.55,
-   "crowding": 62.1698665,
+   "momentum": 59.34578834052952,
+   "crowding": 61.074538000000004,
    "ai_calm": 54.0
   },
   "weights": {
@@ -52,25 +51,25 @@
   "label": "Greed",
   "ts": 1790380800
  },
- "news_tone_24h": 0.033,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 8.3421e-06,
-   "oi_usd": 3159431316.7200003,
-   "premium": -0.0004878571
+   "funding_h": 5.6789e-06,
+   "oi_usd": 3178899597.88168,
+   "premium": -0.0003264037
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2965359903.366939,
-   "premium": -0.0001858114
+   "oi_usd": 2954178258.21972,
+   "premium": -0.0001485277
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 684268839.71304,
-   "premium": -0.0003731189
+   "funding_h": 1.21623e-05,
+   "oi_usd": 684533405.385,
+   "premium": -0.0004961548
   }
  },
- "items_24h": 124,
+ "items_24h": 114,
  "top_items": [
   {
    "id": "737bdd247a9483d1",
@@ -191,34 +190,6 @@
    ]
   },
   {
-   "id": "d8875c2c2a1333ee",
-   "ts": 1790323200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Conduct of Funds-Supplying Operations against Pooled Collateral",
-   "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260925a.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "27e46c18d56c7b2b",
-   "ts": 1790323200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Japanese Government Bonds Held by the Bank of Japan",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260918.xlsx",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
    "id": "c2f6f6cd4b1e8f85",
    "ts": 1790405969,
    "source": "news",
@@ -231,6 +202,36 @@
    "tags": [
     "crypto",
     "regulation"
+   ]
+  },
+  {
+   "id": "a097e148e069be78",
+   "ts": 1790405299,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "EU Quantum Warning: $504 Billion Of Bitcoin Sits Exposed",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wqjn3x/eu_quantum_warning_504_billion_of_bitcoin_sits/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto",
+    "BTC"
+   ],
+   "score": 0
+  },
+  {
+   "id": "a7fdacb57d61f776",
+   "ts": 1790398800,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+   "url": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto",
+    "SOL"
    ]
   }
  ],
