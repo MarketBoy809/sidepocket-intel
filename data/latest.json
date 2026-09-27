@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-09-27T00:09:19Z",
- "generated_ts": 1790467759,
+ "generated_at": "2026-09-27T01:18:59Z",
+ "generated_ts": 1790471939,
  "prices": {
   "BTC": {
-   "p": 84340.0,
+   "p": 84345.3,
    "o": 84426.8,
    "h": 84451.3,
-   "l": 83777.0,
-   "v": 954.89775573
+   "l": 83816.2,
+   "v": 1009.20176899
   },
   "ETH": {
-   "p": 2692.91,
+   "p": 2693.77,
    "o": 2695.38,
    "h": 2697.17,
    "l": 2663.17,
-   "v": 11879.31125495
+   "v": 11594.97683098
   },
   "SOL": {
-   "p": 121.22,
+   "p": 120.88,
    "o": 121.37,
-   "h": 122.39,
+   "h": 122.28,
    "l": 119.84,
-   "v": 271387.17545527
+   "v": 261571.91432229
   }
  },
  "change_7d": {
-  "BTC": 0.03917994344972427,
-  "ETH": 0.024254284302922213,
-  "SOL": 0.09312798342790239
+  "BTC": 0.03725601791206785,
+  "ETH": 0.025497012782776583,
+  "SOL": 0.08944188982057526
  },
  "sentiment": {
-  "score": 62.1,
+  "score": 62.0,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 59.79498586243107,
+   "momentum": 59.31400447801696,
    "crowding": 63.6875,
    "ai_calm": 45.0
   },
@@ -55,21 +55,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3101622171.7209997,
-   "premium": -0.0003746002
+   "oi_usd": 3108902013.85772,
+   "premium": -0.0002892249
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2956681554.5155845,
-   "premium": 0.0001522132
+   "oi_usd": 2977733267.5869355,
+   "premium": 3.71168e-05
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 684577083.7092009,
-   "premium": -8.2481e-05
+   "oi_usd": 681567033.1842,
+   "premium": -0.0004135307
   }
  },
- "items_24h": 53,
+ "items_24h": 61,
  "top_items": [
   {
    "id": "4cb8506ff9940cd4",
@@ -249,23 +249,25 @@
    "score": 678
   },
   {
-   "id": "b15b8bb362bc144b",
-   "ts": 1790439980,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on National Hunting and Fishing Day",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-hunting-and-fishing-day/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
+   "id": "bf4a386a4d1cf01b",
+   "ts": 1790470800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Grayscale Sui Staking ETF ( NYSEARCA : GSUI ) Shares Shorted : Short Interest Up 369 . 1 % in September",
+   "url": "https://www.tickerreport.com/banking-finance/13598145/grayscale-sui-staking-etf-nysearcagsui-shares-shorted-short-interest-up-369-1-in-september.html",
+   "domain": "tickerreport.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 5
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -277,7 +279,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 4
   },
   "White House": {
    "ok": true,
@@ -293,9 +295,8 @@
    "n": 3
   },
   "CFTC": {
-   "ok": false,
-   "n": 0,
-   "err": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
+   "ok": true,
+   "n": 3
   },
   "Federal Reserve": {
    "ok": true,
