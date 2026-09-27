@@ -1,43 +1,41 @@
 {
- "generated_at": "2026-09-27T08:01:00Z",
- "generated_ts": 1790496060,
+ "generated_at": "2026-09-27T13:50:26Z",
+ "generated_ts": 1790517026,
  "prices": {
   "BTC": {
-   "p": 84710.0,
+   "p": 84926.1,
    "o": 84426.8,
-   "h": 84778.6,
+   "h": 85142.8,
    "l": 83816.2,
-   "v": 1019.73477708
+   "v": 1114.88930142
   },
   "ETH": {
-   "p": 2715.36,
+   "p": 2706.77,
    "o": 2695.38,
-   "h": 2718.27,
+   "h": 2722.39,
    "l": 2663.17,
-   "v": 14274.44886428
+   "v": 14288.37841164
   },
   "SOL": {
-   "p": 123.98,
+   "p": 123.01,
    "o": 121.37,
-   "h": 124.55,
-   "l": 119.84,
-   "v": 253543.6428674
+   "h": 124.91,
+   "l": 120.05,
+   "v": 296668.28734597
   }
  },
  "change_7d": {
-  "BTC": 0.05590987856195509,
-  "ETH": 0.054995264048694925,
-  "SOL": 0.14442497463801526
+  "BTC": 0.053855669416244444,
+  "ETH": 0.04942603153434322,
+  "SOL": 0.13816335948315644
  },
  "sentiment": {
-  "score": 60.7,
+  "score": 66.8,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 63.97746964048877,
-   "news_tone": 47.41666666666667,
-   "crowding": 63.6875,
-   "ai_calm": 45.0
+   "momentum": 63.46391735406111,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -52,25 +50,25 @@
   "label": "Greed",
   "ts": 1790467200
  },
- "news_tone_24h": -0.155,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3162088297.25964,
-   "premium": -0.0003198429
+   "oi_usd": 3258532446.0696797,
+   "premium": -0.0002943323
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2996975127.7737603,
-   "premium": -1.84118e-05
+   "oi_usd": 2996334881.893879,
+   "premium": 0.0
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 698764161.9644002,
+   "oi_usd": 698146913.9735999,
    "premium": 0.0
   }
  },
- "items_24h": 97,
+ "items_24h": 89,
  "top_items": [
   {
    "id": "4cb8506ff9940cd4",
@@ -105,38 +103,6 @@
    "score": 3101
   },
   {
-   "id": "fbe4b2610c77b0d6",
-   "ts": 1790425373,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "FAKE NEWS SHOULD NOT BE ALLOWED IN THE WHITE HOUSE!!! IT HAS GONE ON FAR TOO LONG, AT A TREMENDOUS COST TO OUR COUNTRY. President DJT",
-   "url": "https://truthsocial.com/@realDonaldTrump/117337317276437965",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2844
-  },
-  {
-   "id": "93d6b27bd9111855",
-   "ts": 1790425084,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "IRAN CAN NOT HAVE A NUCLEAR WEAPON!!! President DJT",
-   "url": "https://truthsocial.com/@realDonaldTrump/117337298336162712",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 2656
-  },
-  {
    "id": "9ac5e03ac7f72fff",
    "ts": 1790461639,
    "source": "truth",
@@ -153,103 +119,6 @@
    "score": 1790
   },
   {
-   "id": "b584429317ba3007",
-   "ts": 1790418606,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Fantastic news for America!SCOTUS reinstates Trump's voter citizenship verification rules: https://justthenews.com/government/courts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules",
-   "url": "https://truthsocial.com/@realDonaldTrump/117336873800272630",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1049
-  },
-  {
-   "id": "31f50241d9642edc",
-   "ts": 1790418472,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "A big WIN for Republicans!!!Trump stacks wins: SCOTUS unleashes voter citizenship checks while feds put machines on leash: https://justthenews.com/government/white-house/supreme-court-cisa",
-   "url": "https://truthsocial.com/@realDonaldTrump/117336865039856065",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 969
-  },
-  {
-   "id": "f37c8c60c17e0778",
-   "ts": 1790418682,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Trump's U.N. speech reveals a world realigned by his policy and pressure, with China in the wings: https://justthenews.com/government/white-house/trump-0",
-   "url": "https://truthsocial.com/@realDonaldTrump/117336878808999802",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 847
-  },
-  {
-   "id": "0bf82168ea6646d6",
-   "ts": 1790418635,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "White House press monopoly exposes risks of news blackout, as RAV steps in with new pool feed: https://justthenews.com/government/white-house/real-first-amendment-issue-press-monopoly-creates-gaps-coverage-limits-news",
-   "url": "https://truthsocial.com/@realDonaldTrump/117336875720742753",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 814
-  },
-  {
-   "id": "36808da37ec08a8b",
-   "ts": 1790418706,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Agent in Jack Smith case says he was kept in dark that subpoenaed phone data belonged to Congress: https://justthenews.com/accountability/political-ethics/agent-jack-smith-case-says-he-was-kept-dark-subpoenaed-phone-data",
-   "url": "https://truthsocial.com/@realDonaldTrump/117336880365536098",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 767
-  },
-  {
-   "id": "3f6afc4290a981d8",
-   "ts": 1790419895,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Why should perpetrators of FAKE NEWS, like CNN and MSDNC, be allowed access to a very sacred place, the White House? Despite my big Election Win, almost 100% of \"TRUMP\" coverage is negative, and has been for years!Defiant White House slaps down journalists: 'Access is a privilege",
-   "url": "https://truthsocial.com/@realDonaldTrump/117336958253518518",
-   "domain": "truthsocial.com",
-   "tags": [
-    "crypto",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 678
-  },
-  {
    "id": "bf4a386a4d1cf01b",
    "ts": 1790470800,
    "source": "news",
@@ -262,17 +131,125 @@
     "crypto",
     "institution"
    ]
+  },
+  {
+   "id": "18b06bb198f30ec9",
+   "ts": 1790469000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Id Put $10 , 000 Into These 3 Vanguard Funds and Not Touch It for 20 Years",
+   "url": "https://www.fool.com/investing/2026/09/26/i-d-put-usd10-000-into-these-3-vanguard-funds-and-not-touch-it-for-20-years/",
+   "domain": "fool.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "9211384911780930",
+   "ts": 1790469000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "BNY Mellon US Mid Cap Core Equity ETF ( NYSEARCA : BKMC ) Sees Large Decline in Short Interest",
+   "url": "https://www.themarketsdaily.com/2026/09/26/bny-mellon-us-mid-cap-core-equity-etf-nysearcabkmc-sees-large-decline-in-short-interest.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "137456444a436088",
+   "ts": 1790468100,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Id Put $10 , 000 Into These 3 Vanguard Funds and Not Touch It for 20 Years",
+   "url": "https://www.aol.com/articles/id-put-10-000-3-224301000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "b15b8bb362bc144b",
+   "ts": 1790439980,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on National Hunting and Fishing Day",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-hunting-and-fishing-day/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "5dbc2ffe5acda85c",
+   "ts": 1790515800,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Fast Payout Online Casinos 2026 : JACKBIT Highlights New Fast Payout Online Casino Real Money With Instant Withdrawal No Verification Required in united states",
+   "url": "https://www.manilatimes.net/2026/09/27/tmt-newswire/globenewswire/fast-payout-online-casinos-2026-jackbit-highlights-new-fast-payout-online-casino-real-money-with-instant-withdrawal-no-verification-required-in-usa/2433652",
+   "domain": "manilatimes.net",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "f078fe9155bc4e26",
+   "ts": 1790514900,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "In 5 Years , One of These Cryptocurrencies Could Be Worth More Than Bitcoin",
+   "url": "https://www.fool.com/investing/2026/09/27/in-5-years-one-of-these-cryptocurrencies-could-be/?source=iedfolrf0000001",
+   "domain": "fool.com",
+   "tags": [
+    "crypto",
+    "BTC"
+   ]
+  },
+  {
+   "id": "b76cad729a88691a",
+   "ts": 1790514063,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
+   "url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": [
+    "crypto",
+    "regulation"
+   ]
+  },
+  {
+   "id": "5c8c8a346727acce",
+   "ts": 1790513188,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
+   "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": [
+    "regulation"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 7
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -337,15 +314,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 34
+   "n": 35
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 31
+   "n": 30
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 14
+   "n": 12
   },
   "Reddit r/Bitcoin": {
    "ok": false,
