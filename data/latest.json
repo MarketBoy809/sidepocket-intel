@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-27T18:16:09Z",
- "generated_ts": 1790532969,
+ "generated_at": "2026-09-27T22:00:40Z",
+ "generated_ts": 1790546440,
  "prices": {
   "BTC": {
-   "p": 84595.2,
+   "p": 84688.0,
    "o": 84426.8,
    "h": 85142.8,
-   "l": 83816.2,
-   "v": 1258.45931123
+   "l": 84146.0,
+   "v": 1294.7266233
   },
   "ETH": {
-   "p": 2692.96,
+   "p": 2685.16,
    "o": 2695.38,
    "h": 2722.39,
-   "l": 2663.17,
-   "v": 16993.37527404
+   "l": 2674.64,
+   "v": 14260.21235629
   },
   "SOL": {
-   "p": 122.48,
+   "p": 122.87,
    "o": 121.37,
    "h": 124.91,
-   "l": 120.05,
-   "v": 301711.29361537
+   "l": 120.09,
+   "v": 327544.53043854
   }
  },
  "change_7d": {
-  "BTC": 0.04228335177919007,
-  "ETH": 0.024494909110293697,
-  "SOL": 0.11065611065611063
+  "BTC": 0.04641012117110821,
+  "ETH": 0.02033004002904292,
+  "SOL": 0.11803785948307244
  },
  "sentiment": {
-  "score": 63.4,
+  "score": 63.9,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 60.57083794479752,
-   "news_tone": 51.28333333333334,
+   "momentum": 61.602530292777054,
+   "news_tone": 52.783333333333324,
    "crowding": 63.6875
   },
   "weights": {
@@ -51,42 +51,26 @@
   "label": "Greed",
   "ts": 1790467200
  },
- "news_tone_24h": 0.077,
+ "news_tone_24h": 0.167,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3203796717.20472,
-   "premium": -0.0003202738
+   "oi_usd": 3161760205.3763037,
+   "premium": -0.0005051948
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2960230355.06028,
-   "premium": -7.42501e-05
+   "oi_usd": 2957259680.450159,
+   "premium": -0.0001415386
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 696485022.4500003,
-   "premium": 0.0
+   "oi_usd": 693570849.4259999,
+   "premium": -0.0001627604
   }
  },
- "items_24h": 101,
+ "items_24h": 121,
  "top_items": [
-  {
-   "id": "5d8878f428ab736c",
-   "ts": 1790449116,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The American People elected me to deliver HISTORIC Economic Results, and now, I have a new responsibility, reporting our incredible results because the Fake News refuses to do it. S&P Global reported this week that U.S. Business Growth is at its HIGHEST LEVEL IN MORE THAN FIVE YE",
-   "url": "https://truthsocial.com/@realDonaldTrump/117338873310369293",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro"
-   ],
-   "author": "Donald Trump",
-   "score": 3101
-  },
   {
    "id": "9ac5e03ac7f72fff",
    "ts": 1790461639,
@@ -102,6 +86,88 @@
    ],
    "author": "Donald Trump",
    "score": 1790
+  },
+  {
+   "id": "8863e9861fe8efd2",
+   "ts": 1790543700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "BND 0 . 04 % Fee Hides $254 , 720 in Taxes Over 20 Years for $500 , 000 Investors",
+   "url": "https://www.aol.com/articles/bnd-0-04-fee-hides-205214000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "2995c6fe3ce41192",
+   "ts": 1790543700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Which Pays More for Life : A $640 , 000 Annuity or a $640 , 000 Dividend Portfolio ?",
+   "url": "https://www.aol.com/articles/pays-more-life-640-000-202413000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "1a11b4b75e4f3310",
+   "ts": 1790539200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "iShares U . S . Industry Rotation Active ETF ( NASDAQ : INRO ) Shares Shorted : Short Interest Up 185 . 3 % in September",
+   "url": "https://www.tickerreport.com/banking-finance/13598606/ishares-u-s-industry-rotation-active-etf-nasdaqinro-shares-shorted-short-interest-up-185-3-in-september.html",
+   "domain": "tickerreport.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "a433bc98a92c571b",
+   "ts": 1790539200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "iShares Long - Term National Muni Bond ETF ( NYSEARCA : LMUB ) Stock Short Interest Rises 247 . 3 %",
+   "url": "https://www.themarketsdaily.com/2026/09/27/ishares-long-term-national-muni-bond-etf-nysearcalmub-stock-short-interest-rises-247-3.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "630a01e11523b20d",
+   "ts": 1790539200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Tortoise AI Infrastructure ETF ( NYSE : TCAI ) Shares Shorted : Short Interest Up 256 . 9 % in September",
+   "url": "https://www.tickerreport.com/banking-finance/13598598/tortoise-ai-infrastructure-etf-nysetcai-shares-shorted-short-interest-up-256-9-in-september.html",
+   "domain": "tickerreport.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "5811a38708404fb5",
+   "ts": 1790539200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "iShares Core 1 - 5 Year USD Bond ETF ( NASDAQ : ISTB ) Shares Shorted : Short Interest Down 76 . 7 % in September",
+   "url": "https://www.themarketsdaily.com/2026/09/27/ishares-core-1-5-year-usd-bond-etf-nasdaqistb-shares-shorted-short-interest-down-76-7-in-september.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
   },
   {
    "id": "bf4a386a4d1cf01b",
@@ -158,84 +224,14 @@
    ]
   },
   {
-   "id": "d78c284752cf9299",
-   "ts": 1790531306,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Solana Ecosystem News - September 27-2026",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wrqm74/solana_ecosystem_news_september_272026/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto",
-    "SOL"
-   ],
-   "score": 0
-  },
-  {
-   "id": "4da344c50afa76f4",
-   "ts": 1790531100,
+   "id": "60d37fb60c9c89b8",
+   "ts": 1790545500,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "SUI and BCH Outpace Bitcoin and Ethereum in Crypto Rally",
-   "url": "https://www.dailyforex.com/forex-technical-analysis/2026/09/crypto-market-overview-27-september-2026/250085",
-   "domain": "dailyforex.com",
-   "tags": [
-    "crypto",
-    "BTC",
-    "ETH"
-   ]
-  },
-  {
-   "id": "ec1c62680a6f5d4a",
-   "ts": 1790531100,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "How Much Money Does Pete Hegseth Have ?",
-   "url": "https://attackofthefanboy.com/news/hegseths-2024-filing-listed-one-bank-account-under-50000-then-his-new-disclosure-shows-it-holds-more-than-1-million/",
-   "domain": "attackofthefanboy.com",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "9121bee4c1fd3b88",
-   "ts": 1790529300,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Is It Too Late to Buy XRP After a 42 % Rally in Two Months ?",
-   "url": "https://247wallst.com/investing/cryptocurrency/2026/09/27/is-it-too-late-to-buy-xrp-after-a-42-rally-in-two-months/",
-   "domain": "247wallst.com",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "68aac9bdc31cb812",
-   "ts": 1790529300,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Is It Too Late to Buy Bitcoin After a 32 % Rally in Two Months ?",
-   "url": "https://247wallst.com/investing/cryptocurrency/2026/09/27/is-it-too-late-to-buy-bitcoin-after-a-32-rally-in-two-months/",
-   "domain": "247wallst.com",
-   "tags": [
-    "crypto",
-    "BTC"
-   ]
-  },
-  {
-   "id": "b43fb8cff08d3fc9",
-   "ts": 1790529300,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "LBank Exchange Listed HMTT ( Hype Meme Token )",
-   "url": "https://www.recorder.ca/press-releases/newsfile/lbank-exchange-listed-hmtt-hype-meme-token/",
-   "domain": "recorder.ca",
+   "title": "cVault . finance ( CORE ) Price Up 3 . 8 % This Week",
+   "url": "https://www.themarketsdaily.com/2026/09/27/cvault-finance-core-price-up-3-8-this-week.html",
+   "domain": "themarketsdaily.com",
    "tags": [
     "crypto"
    ]
@@ -257,12 +253,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 6
   },
   "White House": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 403: Forbidden"
+   "ok": true,
+   "n": 20
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -323,7 +318,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 16
+   "n": 14
   },
   "Reddit r/Bitcoin": {
    "ok": false,
