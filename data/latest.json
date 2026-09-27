@@ -1,40 +1,41 @@
 {
- "generated_at": "2026-09-27T13:50:26Z",
- "generated_ts": 1790517026,
+ "generated_at": "2026-09-27T18:16:09Z",
+ "generated_ts": 1790532969,
  "prices": {
   "BTC": {
-   "p": 84926.1,
+   "p": 84595.2,
    "o": 84426.8,
    "h": 85142.8,
    "l": 83816.2,
-   "v": 1114.88930142
+   "v": 1258.45931123
   },
   "ETH": {
-   "p": 2706.77,
+   "p": 2692.96,
    "o": 2695.38,
    "h": 2722.39,
    "l": 2663.17,
-   "v": 14288.37841164
+   "v": 16993.37527404
   },
   "SOL": {
-   "p": 123.01,
+   "p": 122.48,
    "o": 121.37,
    "h": 124.91,
    "l": 120.05,
-   "v": 296668.28734597
+   "v": 301711.29361537
   }
  },
  "change_7d": {
-  "BTC": 0.053855669416244444,
-  "ETH": 0.04942603153434322,
-  "SOL": 0.13816335948315644
+  "BTC": 0.04228335177919007,
+  "ETH": 0.024494909110293697,
+  "SOL": 0.11065611065611063
  },
  "sentiment": {
-  "score": 66.8,
+  "score": 63.4,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 63.46391735406111,
+   "momentum": 60.57083794479752,
+   "news_tone": 51.28333333333334,
    "crowding": 63.6875
   },
   "weights": {
@@ -50,42 +51,26 @@
   "label": "Greed",
   "ts": 1790467200
  },
- "news_tone_24h": null,
+ "news_tone_24h": 0.077,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3258532446.0696797,
-   "premium": -0.0002943323
+   "oi_usd": 3203796717.20472,
+   "premium": -0.0003202738
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2996334881.893879,
-   "premium": 0.0
+   "oi_usd": 2960230355.06028,
+   "premium": -7.42501e-05
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 698146913.9735999,
+   "oi_usd": 696485022.4500003,
    "premium": 0.0
   }
  },
- "items_24h": 89,
+ "items_24h": 101,
  "top_items": [
-  {
-   "id": "4cb8506ff9940cd4",
-   "ts": 1790438339,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Another Fake Story is that a very close friend of mine, a man I endorsed very early, Byron Donalds, is taking me off his website and Campaign materials. I won Florida by Millions of Votes, getting the Highest Vote Tally in History — Three times! My numbers are better now than the",
-   "url": "https://truthsocial.com/@realDonaldTrump/117338166998410817",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4812
-  },
   {
    "id": "5d8878f428ab736c",
    "ts": 1790449116,
@@ -173,71 +158,86 @@
    ]
   },
   {
-   "id": "b15b8bb362bc144b",
-   "ts": 1790439980,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on National Hunting and Fishing Day",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-hunting-and-fishing-day/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
+   "id": "d78c284752cf9299",
+   "ts": 1790531306,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Solana Ecosystem News - September 27-2026",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wrqm74/solana_ecosystem_news_september_272026/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto",
+    "SOL"
+   ],
+   "score": 0
   },
   {
-   "id": "5dbc2ffe5acda85c",
-   "ts": 1790515800,
+   "id": "4da344c50afa76f4",
+   "ts": 1790531100,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Fast Payout Online Casinos 2026 : JACKBIT Highlights New Fast Payout Online Casino Real Money With Instant Withdrawal No Verification Required in united states",
-   "url": "https://www.manilatimes.net/2026/09/27/tmt-newswire/globenewswire/fast-payout-online-casinos-2026-jackbit-highlights-new-fast-payout-online-casino-real-money-with-instant-withdrawal-no-verification-required-in-usa/2433652",
-   "domain": "manilatimes.net",
+   "title": "SUI and BCH Outpace Bitcoin and Ethereum in Crypto Rally",
+   "url": "https://www.dailyforex.com/forex-technical-analysis/2026/09/crypto-market-overview-27-september-2026/250085",
+   "domain": "dailyforex.com",
+   "tags": [
+    "crypto",
+    "BTC",
+    "ETH"
+   ]
+  },
+  {
+   "id": "ec1c62680a6f5d4a",
+   "ts": 1790531100,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "How Much Money Does Pete Hegseth Have ?",
+   "url": "https://attackofthefanboy.com/news/hegseths-2024-filing-listed-one-bank-account-under-50000-then-his-new-disclosure-shows-it-holds-more-than-1-million/",
+   "domain": "attackofthefanboy.com",
    "tags": [
     "crypto"
    ]
   },
   {
-   "id": "f078fe9155bc4e26",
-   "ts": 1790514900,
+   "id": "9121bee4c1fd3b88",
+   "ts": 1790529300,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "In 5 Years , One of These Cryptocurrencies Could Be Worth More Than Bitcoin",
-   "url": "https://www.fool.com/investing/2026/09/27/in-5-years-one-of-these-cryptocurrencies-could-be/?source=iedfolrf0000001",
-   "domain": "fool.com",
+   "title": "Is It Too Late to Buy XRP After a 42 % Rally in Two Months ?",
+   "url": "https://247wallst.com/investing/cryptocurrency/2026/09/27/is-it-too-late-to-buy-xrp-after-a-42-rally-in-two-months/",
+   "domain": "247wallst.com",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "68aac9bdc31cb812",
+   "ts": 1790529300,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Is It Too Late to Buy Bitcoin After a 32 % Rally in Two Months ?",
+   "url": "https://247wallst.com/investing/cryptocurrency/2026/09/27/is-it-too-late-to-buy-bitcoin-after-a-32-rally-in-two-months/",
+   "domain": "247wallst.com",
    "tags": [
     "crypto",
     "BTC"
    ]
   },
   {
-   "id": "b76cad729a88691a",
-   "ts": 1790514063,
+   "id": "b43fb8cff08d3fc9",
+   "ts": 1790529300,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
-   "url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
-   "domain": "Decrypt",
-   "org": "Decrypt",
+   "title": "LBank Exchange Listed HMTT ( Hype Meme Token )",
+   "url": "https://www.recorder.ca/press-releases/newsfile/lbank-exchange-listed-hmtt-hype-meme-token/",
+   "domain": "recorder.ca",
    "tags": [
-    "crypto",
-    "regulation"
-   ]
-  },
-  {
-   "id": "5c8c8a346727acce",
-   "ts": 1790513188,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
-   "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "regulation"
+    "crypto"
    ]
   }
  ],
@@ -245,7 +245,7 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 7
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -260,8 +260,9 @@
    "n": 0
   },
   "White House": {
-   "ok": true,
-   "n": 21
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 403: Forbidden"
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -314,7 +315,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 35
+   "n": 36
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
@@ -322,7 +323,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 12
+   "n": 16
   },
   "Reddit r/Bitcoin": {
    "ok": false,
