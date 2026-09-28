@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-28T00:32:19Z",
- "generated_ts": 1790555539,
+ "generated_at": "2026-09-28T06:39:32Z",
+ "generated_ts": 1790577572,
  "prices": {
   "BTC": {
-   "p": 84558.3,
+   "p": 83082.9,
    "o": 84444.2,
    "h": 85142.8,
-   "l": 84122.8,
-   "v": 1410.73418106
+   "l": 82688.5,
+   "v": 1998.20889607
   },
   "ETH": {
-   "p": 2682.87,
+   "p": 2646.67,
    "o": 2688.02,
    "h": 2722.39,
-   "l": 2669.07,
-   "v": 15698.27012731
+   "l": 2635.57,
+   "v": 19419.66787536
   },
   "SOL": {
-   "p": 122.35,
+   "p": 118.57,
    "o": 121.98,
    "h": 124.91,
-   "l": 120.09,
-   "v": 353584.43565954
+   "l": 118.1,
+   "v": 450882.68448739
   }
  },
  "change_7d": {
-  "BTC": 0.04069140769968915,
-  "ETH": 0.016609247781084698,
-  "SOL": 0.09734592892487623
+  "BTC": 0.019847087278031344,
+  "ETH": -0.0051226432088387515,
+  "SOL": 0.06586719169500627
  },
  "sentiment": {
-  "score": 67.8,
+  "score": 65.4,
   "label": "Greed",
   "components": {
    "fng": 74.0,
-   "momentum": 60.172851924922284,
-   "crowding": 63.6875
+   "momentum": 54.96177181950784,
+   "crowding": 59.1976715
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3101140686.5712004,
-   "premium": -0.0004186159
+   "funding_h": 1.991e-07,
+   "oi_usd": 3048551027.141364,
+   "premium": -0.0005234059
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2937433596.30336,
-   "premium": -0.0002236219
+   "oi_usd": 2879895190.22432,
+   "premium": -0.0003624611
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 690528914.0544002,
-   "premium": -0.0001667888
+   "oi_usd": 667820853.3259997,
+   "premium": -0.0003802538
   }
  },
- "items_24h": 115,
+ "items_24h": 141,
  "top_items": [
   {
    "id": "7b5cd63c28947826",
@@ -181,58 +181,59 @@
    ]
   },
   {
-   "id": "bf4a386a4d1cf01b",
-   "ts": 1790470800,
+   "id": "9823d787b8bc744e",
+   "ts": 1790577805,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "How months of work on the Clarity Act all fell apart.",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1ws7ax0/how_months_of_work_on_the_clarity_act_all_fell/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "regulation"
+   ],
+   "score": 0
+  },
+  {
+   "id": "6846efac0ef9d6d7",
+   "ts": 1790576512,
    "source": "news",
-   "group": "institution",
+   "group": "news",
    "kind": "news",
-   "title": "Grayscale Sui Staking ETF ( NYSEARCA : GSUI ) Shares Shorted : Short Interest Up 369 . 1 % in September",
-   "url": "https://www.tickerreport.com/banking-finance/13598145/grayscale-sui-staking-etf-nysearcagsui-shares-shorted-short-interest-up-369-1-in-september.html",
-   "domain": "tickerreport.com",
+   "title": "California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'",
+   "url": "https://www.coindesk.com/markets/2026/09/28/california-s-newsom-signs-memecoin-ban-and-calls-it-the-opposite-of-trump",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "f1bdb401f072b845",
+   "ts": 1790576466,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
+   "url": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
    "tags": [
     "crypto",
-    "institution"
+    "SOL"
    ]
   },
   {
-   "id": "1b291f9501c459bc",
-   "ts": 1790552598,
+   "id": "21c638f76ba7a247",
+   "ts": 1790576100,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
-   "url": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "title": "UK May Raise Tariffs on Chinese EVs While Opening Door to Chinese Carmakers Amid Buy European Talks",
+   "url": "https://www.ibtimes.co.uk/uk-tariffs-chinese-electric-vehicles-under-review-1822265",
+   "domain": "ibtimes.co.uk",
    "tags": [
-    "crypto",
-    "ETH"
-   ]
-  },
-  {
-   "id": "60d37fb60c9c89b8",
-   "ts": 1790545500,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "cVault . finance ( CORE ) Price Up 3 . 8 % This Week",
-   "url": "https://www.themarketsdaily.com/2026/09/27/cvault-finance-core-price-up-3-8-this-week.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "f91af84e37f5874a",
-   "ts": 1790543700,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Is XRP a Good Investment Right Now at $1 . 54 ?",
-   "url": "https://www.aol.com/articles/xrp-good-investment-now-1-204253000.html",
-   "domain": "aol.com",
-   "tags": [
-    "crypto"
+    "geo"
    ]
   }
  ],
@@ -244,7 +245,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -255,8 +256,9 @@
    "n": 0
   },
   "White House": {
-   "ok": true,
-   "n": 20
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 403: Forbidden"
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -313,11 +315,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 30
+   "n": 28
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 14
+   "n": 16
   },
   "Reddit r/Bitcoin": {
    "ok": false,
