@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-28T06:39:32Z",
- "generated_ts": 1790577572,
+ "generated_at": "2026-09-28T15:17:54Z",
+ "generated_ts": 1790608674,
  "prices": {
   "BTC": {
-   "p": 83082.9,
+   "p": 82851.1,
    "o": 84444.2,
-   "h": 85142.8,
-   "l": 82688.5,
-   "v": 1998.20889607
+   "h": 85060.8,
+   "l": 82566.4,
+   "v": 2522.1811135
   },
   "ETH": {
-   "p": 2646.67,
+   "p": 2658.12,
    "o": 2688.02,
-   "h": 2722.39,
+   "h": 2702.45,
    "l": 2635.57,
-   "v": 19419.66787536
+   "v": 26028.06844731
   },
   "SOL": {
-   "p": 118.57,
+   "p": 117.52,
    "o": 121.98,
-   "h": 124.91,
-   "l": 118.1,
-   "v": 450882.68448739
+   "h": 123.4,
+   "l": 117.35,
+   "v": 405138.51652755
   }
  },
  "change_7d": {
-  "BTC": 0.019847087278031344,
-  "ETH": -0.0051226432088387515,
-  "SOL": 0.06586719169500627
+  "BTC": -0.03300524939734523,
+  "ETH": -0.02543026413411739,
+  "SOL": 0.0
  },
  "sentiment": {
-  "score": 65.4,
+  "score": 62.6,
   "label": "Greed",
   "components": {
    "fng": 74.0,
-   "momentum": 54.96177181950784,
-   "crowding": 59.1976715
+   "momentum": 41.7486876506637,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -53,23 +53,101 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.991e-07,
-   "oi_usd": 3048551027.141364,
-   "premium": -0.0005234059
+   "funding_h": 1.25e-05,
+   "oi_usd": 3039766540.668,
+   "premium": -0.0003186235
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2879895190.22432,
-   "premium": -0.0003624611
+   "oi_usd": 2934249243.660994,
+   "premium": -0.0001955902
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 667820853.3259997,
-   "premium": -0.0003802538
+   "oi_usd": 678040431.4519998,
+   "premium": -8.67567e-05
   }
  },
- "items_24h": 141,
+ "items_24h": 134,
  "top_items": [
+  {
+   "id": "9342319f886e8d3e",
+   "ts": 1790596648,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Bill Maher's ratings are so low that it is hard to believe his show can continue. In many ways it's SAD because, in actuality, I like him. Republicans should stop using him as a sounding board, however. It makes them look sooo weak and foolish!",
+   "url": "https://truthsocial.com/@realDonaldTrump/117348541943680165",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 9028
+  },
+  {
+   "id": "91642b23a99c3b5e",
+   "ts": 1790595189,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "SCOTUS reinstates Trump's voter citizenship verification rules: https://justthenews.com/government/courts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules",
+   "url": "https://truthsocial.com/@realDonaldTrump/117348446365820888",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 8336
+  },
+  {
+   "id": "79f7195bd367eb9d",
+   "ts": 1790595169,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Trump stacks wins: SCOTUS unleashes voter citizenship checks while feds put machines on leash: https://justthenews.com/government/white-house/supreme-court-cisa",
+   "url": "https://truthsocial.com/@realDonaldTrump/117348445059479367",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 7569
+  },
+  {
+   "id": "c38f9f4d90f32a13",
+   "ts": 1790595146,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Fauci diary reveals alarm that U.S. had aerosolized Ebola virus: 'Never should have been done': https://justthenews.com/government/congress/fauci-alarmed-over-us-army-ebola-tests-funded-his-own-agency-diary-entries-and",
+   "url": "https://truthsocial.com/@realDonaldTrump/117348443536619757",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6724
+  },
+  {
+   "id": "fa813bf32a649708",
+   "ts": 1790602200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
   {
    "id": "7b5cd63c28947826",
    "ts": 1790553000,
@@ -165,76 +243,6 @@
     "crypto",
     "institution"
    ]
-  },
-  {
-   "id": "5811a38708404fb5",
-   "ts": 1790539200,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "iShares Core 1 - 5 Year USD Bond ETF ( NASDAQ : ISTB ) Shares Shorted : Short Interest Down 76 . 7 % in September",
-   "url": "https://www.themarketsdaily.com/2026/09/27/ishares-core-1-5-year-usd-bond-etf-nasdaqistb-shares-shorted-short-interest-down-76-7-in-september.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "9823d787b8bc744e",
-   "ts": 1790577805,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "How months of work on the Clarity Act all fell apart.",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1ws7ax0/how_months_of_work_on_the_clarity_act_all_fell/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "regulation"
-   ],
-   "score": 0
-  },
-  {
-   "id": "6846efac0ef9d6d7",
-   "ts": 1790576512,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'",
-   "url": "https://www.coindesk.com/markets/2026/09/28/california-s-newsom-signs-memecoin-ban-and-calls-it-the-opposite-of-trump",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "f1bdb401f072b845",
-   "ts": 1790576466,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
-   "url": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto",
-    "SOL"
-   ]
-  },
-  {
-   "id": "21c638f76ba7a247",
-   "ts": 1790576100,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "UK May Raise Tariffs on Chinese EVs While Opening Door to Chinese Carmakers Amid Buy European Talks",
-   "url": "https://www.ibtimes.co.uk/uk-tariffs-chinese-electric-vehicles-under-review-1822265",
-   "domain": "ibtimes.co.uk",
-   "tags": [
-    "geo"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -245,7 +253,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -271,7 +279,7 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "Federal Reserve": {
    "ok": true,
@@ -279,11 +287,11 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "Bank of England": {
    "ok": true,
-   "n": 4
+   "n": 2
   },
   "Bank of Japan": {
    "ok": true,
@@ -294,12 +302,14 @@
    "n": 1
   },
   "Strategy (MSTR) filings": {
-   "ok": true,
-   "n": 2
+   "ok": false,
+   "n": 0,
+   "err": "The read operation timed out"
   },
   "Coinbase filings": {
-   "ok": true,
-   "n": 0
+   "ok": false,
+   "n": 0,
+   "err": "The read operation timed out"
   },
   "CoinDesk": {
    "ok": true,
@@ -315,11 +325,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 28
+   "n": 30
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 16
+   "n": 19
   },
   "Reddit r/Bitcoin": {
    "ok": false,
