@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-09-28T15:17:54Z",
- "generated_ts": 1790608674,
+ "generated_at": "2026-09-28T21:50:02Z",
+ "generated_ts": 1790632202,
  "prices": {
   "BTC": {
-   "p": 82851.1,
+   "p": 83362.9,
    "o": 84444.2,
    "h": 85060.8,
    "l": 82566.4,
-   "v": 2522.1811135
+   "v": 3227.77727498
   },
   "ETH": {
-   "p": 2658.12,
+   "p": 2677.23,
    "o": 2688.02,
-   "h": 2702.45,
+   "h": 2719.04,
    "l": 2635.57,
-   "v": 26028.06844731
+   "v": 36645.15102212
   },
   "SOL": {
-   "p": 117.52,
+   "p": 117.95,
    "o": 121.98,
-   "h": 123.4,
+   "h": 123.0,
    "l": 117.35,
-   "v": 405138.51652755
+   "v": 402450.63937476
   }
  },
  "change_7d": {
-  "BTC": -0.03300524939734523,
-  "ETH": -0.02543026413411739,
-  "SOL": 0.0
+  "BTC": -0.03999240285297713,
+  "ETH": -0.036798379362736215,
+  "SOL": -0.0035231943628889146
  },
  "sentiment": {
-  "score": 62.6,
+  "score": 58.0,
   "label": "Greed",
   "components": {
    "fng": 74.0,
-   "momentum": 41.7486876506637,
-   "crowding": 63.6875
+   "momentum": 40.001899286755716,
+   "news_tone": 44.0,
+   "crowding": 58.712477
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Greed",
   "ts": 1790553600
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.36,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3039766540.668,
-   "premium": -0.0003186235
+   "funding_h": -1.1302e-06,
+   "oi_usd": 2908524549.7320004,
+   "premium": -0.0004436079
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2934249243.660994,
-   "premium": -0.0001955902
+   "oi_usd": 3017111338.878616,
+   "premium": -0.0001567855
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 678040431.4519998,
-   "premium": -8.67567e-05
+   "oi_usd": 665774399.5978,
+   "premium": -0.0005931198
   }
  },
- "items_24h": 134,
+ "items_24h": 185,
  "top_items": [
   {
    "id": "9342319f886e8d3e",
@@ -135,95 +136,102 @@
    "score": 6724
   },
   {
-   "id": "fa813bf32a649708",
-   "ts": 1790602200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
+   "id": "01dbaeffd80296e1",
+   "ts": 1790631267,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Axios just released a story that \"Trump\" offered Sanctions Relief and Frozen Funds to Iran. This is untrue. I offered them NOTHING! Axios' story, like most others, is a HOAX, used only for purposes of satisfying their Trump Derangement Syndrome. They should withdraw this fake sto",
+   "url": "https://truthsocial.com/@realDonaldTrump/117350810719202305",
+   "domain": "truthsocial.com",
    "tags": [
-    "macro"
-   ]
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 2463
   },
   {
-   "id": "7b5cd63c28947826",
-   "ts": 1790553000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Minutes of the Monetary Policy Meeting on July 30 and 31, 2026",
-   "url": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260731.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "10190fc089714291",
-   "ts": 1790553000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Services Producer Price Index (Aug.)",
-   "url": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2608.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "8863e9861fe8efd2",
-   "ts": 1790543700,
+   "id": "8c0c737889a5a4f5",
+   "ts": 1790630100,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "BND 0 . 04 % Fee Hides $254 , 720 in Taxes Over 20 Years for $500 , 000 Investors",
-   "url": "https://www.aol.com/articles/bnd-0-04-fee-hides-205214000.html",
+   "title": "Bitcoin ETFs Are Seeing Their Biggest Inflows Since October 2025 . Is Bitcoin Finally Back ?",
+   "url": "https://www.aol.com/articles/bitcoin-etfs-seeing-biggest-inflows-203500000.html",
    "domain": "aol.com",
    "tags": [
+    "crypto",
+    "BTC",
     "institution"
    ]
   },
   {
-   "id": "2995c6fe3ce41192",
-   "ts": 1790543700,
+   "id": "cb6a5a1e97601089",
+   "ts": 1790630100,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Which Pays More for Life : A $640 , 000 Annuity or a $640 , 000 Dividend Portfolio ?",
-   "url": "https://www.aol.com/articles/pays-more-life-640-000-202413000.html",
+   "title": "The Best ETF to Own in Your 30s , 40s , 50s , and 60s , According to the Math",
+   "url": "https://www.aol.com/articles/best-etf-own-30s-40s-204031000.html",
    "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "1a11b4b75e4f3310",
-   "ts": 1790539200,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "iShares U . S . Industry Rotation Active ETF ( NASDAQ : INRO ) Shares Shorted : Short Interest Up 185 . 3 % in September",
-   "url": "https://www.tickerreport.com/banking-finance/13598606/ishares-u-s-industry-rotation-active-etf-nasdaqinro-shares-shorted-short-interest-up-185-3-in-september.html",
-   "domain": "tickerreport.com",
    "tags": [
     "crypto",
     "institution"
    ]
   },
   {
-   "id": "a433bc98a92c571b",
-   "ts": 1790539200,
+   "id": "0a2a8d9aa5465511",
+   "ts": 1790630100,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "iShares Long - Term National Muni Bond ETF ( NYSEARCA : LMUB ) Stock Short Interest Rises 247 . 3 %",
-   "url": "https://www.themarketsdaily.com/2026/09/27/ishares-long-term-national-muni-bond-etf-nysearcalmub-stock-short-interest-rises-247-3.html",
+   "title": "Forget VYM : International Dividend ETF IDV Has Gained 26 . 86 % vs 15 . 53 % This Year",
+   "url": "https://www.aol.com/articles/forget-vym-international-dividend-etf-205005000.html",
+   "domain": "aol.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "e347926a1a14652c",
+   "ts": 1790629200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "AI Predicts BTC Path as Strategy Buys 1 , 665 More Coins",
+   "url": "https://www.coinspeaker.com/ai-predicts-btc-path-as-strategy-buys-1665-more-bitcoins/",
+   "domain": "coinspeaker.com",
+   "tags": [
+    "crypto",
+    "BTC",
+    "institution"
+   ]
+  },
+  {
+   "id": "38c89358451394ba",
+   "ts": 1790629200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Strategy Buys 1 , 665 Bitcoin ; Same Stock Sale Also Retired $151M Preferred Shares",
+   "url": "https://www.techtimes.com/articles/328136/20260928/strategy-buys-1665-bitcoin-same-stock-sale-also-retired-151m-preferred-shares.htm",
+   "domain": "techtimes.com",
+   "tags": [
+    "crypto",
+    "BTC",
+    "institution"
+   ]
+  },
+  {
+   "id": "294d248173b0865b",
+   "ts": 1790629200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Pacer BlueStar Digital Entertainment ETF ( NASDAQ : ODDS ) Short Interest Update",
+   "url": "https://www.themarketsdaily.com/2026/09/28/pacer-bluestar-digital-entertainment-etf-nasdaqodds-short-interest-update.html",
    "domain": "themarketsdaily.com",
    "tags": [
     "crypto",
@@ -231,16 +239,15 @@
    ]
   },
   {
-   "id": "630a01e11523b20d",
-   "ts": 1790539200,
+   "id": "f90960ccbfe7bdfd",
+   "ts": 1790625600,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Tortoise AI Infrastructure ETF ( NYSE : TCAI ) Shares Shorted : Short Interest Up 256 . 9 % in September",
-   "url": "https://www.tickerreport.com/banking-finance/13598598/tortoise-ai-infrastructure-etf-nysetcai-shares-shorted-short-interest-up-256-9-in-september.html",
-   "domain": "tickerreport.com",
+   "title": "Where Will the S & P 500 Be in 30 Years ? History Offers a Clear Answer for Investors .",
+   "url": "https://www.fool.com/investing/2026/09/28/sp-500-30-years-history-offers-answer/",
+   "domain": "fool.com",
    "tags": [
-    "crypto",
     "institution"
    ]
   }
@@ -253,7 +260,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -261,7 +268,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 8
   },
   "White House": {
    "ok": false,
@@ -275,7 +282,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "CFTC": {
    "ok": true,
@@ -302,14 +309,12 @@
    "n": 1
   },
   "Strategy (MSTR) filings": {
-   "ok": false,
-   "n": 0,
-   "err": "The read operation timed out"
+   "ok": true,
+   "n": 2
   },
   "Coinbase filings": {
-   "ok": false,
-   "n": 0,
-   "err": "The read operation timed out"
+   "ok": true,
+   "n": 0
   },
   "CoinDesk": {
    "ok": true,
@@ -325,11 +330,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 30
+   "n": 24
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 21
   },
   "Reddit r/Bitcoin": {
    "ok": false,
