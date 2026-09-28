@@ -1,41 +1,40 @@
 {
- "generated_at": "2026-09-27T22:00:40Z",
- "generated_ts": 1790546440,
+ "generated_at": "2026-09-28T00:32:19Z",
+ "generated_ts": 1790555539,
  "prices": {
   "BTC": {
-   "p": 84688.0,
-   "o": 84426.8,
+   "p": 84558.3,
+   "o": 84444.2,
    "h": 85142.8,
-   "l": 84146.0,
-   "v": 1294.7266233
+   "l": 84122.8,
+   "v": 1410.73418106
   },
   "ETH": {
-   "p": 2685.16,
-   "o": 2695.38,
+   "p": 2682.87,
+   "o": 2688.02,
    "h": 2722.39,
-   "l": 2674.64,
-   "v": 14260.21235629
+   "l": 2669.07,
+   "v": 15698.27012731
   },
   "SOL": {
-   "p": 122.87,
-   "o": 121.37,
+   "p": 122.35,
+   "o": 121.98,
    "h": 124.91,
    "l": 120.09,
-   "v": 327544.53043854
+   "v": 353584.43565954
   }
  },
  "change_7d": {
-  "BTC": 0.04641012117110821,
-  "ETH": 0.02033004002904292,
-  "SOL": 0.11803785948307244
+  "BTC": 0.04069140769968915,
+  "ETH": 0.016609247781084698,
+  "SOL": 0.09734592892487623
  },
  "sentiment": {
-  "score": 63.9,
+  "score": 67.8,
   "label": "Greed",
   "components": {
-   "fng": 70.0,
-   "momentum": 61.602530292777054,
-   "news_tone": 52.783333333333324,
+   "fng": 74.0,
+   "momentum": 60.172851924922284,
    "crowding": 63.6875
   },
   "weights": {
@@ -47,45 +46,57 @@
   }
  },
  "fear_greed": {
-  "value": 70,
+  "value": 74,
   "label": "Greed",
-  "ts": 1790467200
+  "ts": 1790553600
  },
- "news_tone_24h": 0.167,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3161760205.3763037,
-   "premium": -0.0005051948
+   "oi_usd": 3101140686.5712004,
+   "premium": -0.0004186159
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2957259680.450159,
-   "premium": -0.0001415386
+   "oi_usd": 2937433596.30336,
+   "premium": -0.0002236219
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 693570849.4259999,
-   "premium": -0.0001627604
+   "oi_usd": 690528914.0544002,
+   "premium": -0.0001667888
   }
  },
- "items_24h": 121,
+ "items_24h": 115,
  "top_items": [
   {
-   "id": "9ac5e03ac7f72fff",
-   "ts": 1790461639,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "A 5000 Dollar Dividend to all adults if Republicans WIN! Dumocrats can't do this!",
-   "url": "https://truthsocial.com/@realDonaldTrump/117339693977416746",
-   "domain": "truthsocial.com",
+   "id": "7b5cd63c28947826",
+   "ts": 1790553000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Minutes of the Monetary Policy Meeting on July 30 and 31, 2026",
+   "url": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260731.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
    "tags": [
     "macro"
-   ],
-   "author": "Donald Trump",
-   "score": 1790
+   ]
+  },
+  {
+   "id": "10190fc089714291",
+   "ts": 1790553000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Services Producer Price Index (Aug.)",
+   "url": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2608.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "8863e9861fe8efd2",
@@ -184,43 +195,18 @@
    ]
   },
   {
-   "id": "18b06bb198f30ec9",
-   "ts": 1790469000,
+   "id": "1b291f9501c459bc",
+   "ts": 1790552598,
    "source": "news",
-   "group": "institution",
+   "group": "news",
    "kind": "news",
-   "title": "Id Put $10 , 000 Into These 3 Vanguard Funds and Not Touch It for 20 Years",
-   "url": "https://www.fool.com/investing/2026/09/26/i-d-put-usd10-000-into-these-3-vanguard-funds-and-not-touch-it-for-20-years/",
-   "domain": "fool.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "9211384911780930",
-   "ts": 1790469000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "BNY Mellon US Mid Cap Core Equity ETF ( NYSEARCA : BKMC ) Sees Large Decline in Short Interest",
-   "url": "https://www.themarketsdaily.com/2026/09/26/bny-mellon-us-mid-cap-core-equity-etf-nysearcabkmc-sees-large-decline-in-short-interest.html",
-   "domain": "themarketsdaily.com",
+   "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
+   "url": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": [
     "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "137456444a436088",
-   "ts": 1790468100,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Id Put $10 , 000 Into These 3 Vanguard Funds and Not Touch It for 20 Years",
-   "url": "https://www.aol.com/articles/id-put-10-000-3-224301000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
+    "ETH"
    ]
   },
   {
@@ -232,6 +218,19 @@
    "title": "cVault . finance ( CORE ) Price Up 3 . 8 % This Week",
    "url": "https://www.themarketsdaily.com/2026/09/27/cvault-finance-core-price-up-3-8-this-week.html",
    "domain": "themarketsdaily.com",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "f91af84e37f5874a",
+   "ts": 1790543700,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Is XRP a Good Investment Right Now at $1 . 54 ?",
+   "url": "https://www.aol.com/articles/xrp-good-investment-now-1-204253000.html",
+   "domain": "aol.com",
    "tags": [
     "crypto"
    ]
@@ -253,7 +252,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 6
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -286,7 +285,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 8
+   "n": 10
   },
   "BIS": {
    "ok": true,
