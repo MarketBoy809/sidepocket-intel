@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-29T01:46:19Z",
- "generated_ts": 1790646379,
+ "generated_at": "2026-09-29T08:19:34Z",
+ "generated_ts": 1790669974,
  "prices": {
   "BTC": {
-   "p": 83039.8,
+   "p": 84071.1,
    "o": 83462.7,
    "h": 84338.1,
    "l": 82566.4,
-   "v": 2949.68250241
+   "v": 2614.9116309
   },
   "ETH": {
-   "p": 2667.11,
+   "p": 2716.6,
    "o": 2687.48,
    "h": 2719.04,
-   "l": 2635.57,
-   "v": 36900.02261036
+   "l": 2636.03,
+   "v": 38162.74953817
   },
   "SOL": {
-   "p": 117.24,
+   "p": 119.48,
    "o": 118.83,
-   "h": 121.4,
+   "h": 120.72,
    "l": 116.33,
-   "v": 406295.64815601
+   "v": 332061.52293631
   }
  },
  "change_7d": {
-  "BTC": -0.03178510984318565,
-  "ETH": -0.028442265795206947,
-  "SOL": -0.002366463826909964
+  "BTC": -0.016209426194210702,
+  "ETH": -0.005513310076922303,
+  "SOL": 0.027517413363143766
  },
  "sentiment": {
-  "score": 60.1,
+  "score": 62.8,
   "label": "Greed",
   "components": {
    "fng": 73.0,
-   "momentum": 42.05372253920359,
-   "crowding": 54.1435895
+   "momentum": 45.94764345144733,
+   "crowding": 61.5214805
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": -2.7752e-06,
-   "oi_usd": 2821472207.33952,
-   "premium": -0.0004574455
+   "funding_h": 6.5657e-06,
+   "oi_usd": 2787905438.0051203,
+   "premium": -0.0004399472
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3009035289.4329967,
-   "premium": -0.0003746581
+   "oi_usd": 3105361982.9254065,
+   "premium": 0.0001766056
   },
   "SOL": {
-   "funding_h": 1.6275e-06,
-   "oi_usd": 658530960.0720001,
-   "premium": -0.0008337042
+   "funding_h": 1.25e-05,
+   "oi_usd": 666742009.1518004,
+   "premium": -0.000250941
   }
  },
- "items_24h": 216,
+ "items_24h": 277,
  "top_items": [
   {
    "id": "9342319f886e8d3e",
@@ -135,6 +135,22 @@
    "score": 6724
   },
   {
+   "id": "1047e02c87e146a0",
+   "ts": 1790649186,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The Protect College Sport Act just passed in the U.S. Senate by a vote of 77-22. This is a really big deal. It will not only save college sports, it will save the colleges themselves. Congratulations to Randy Levine, President of the New York Yankees, and all of those who worked ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117351985093810875",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 5807
+  },
+  {
    "id": "01dbaeffd80296e1",
    "ts": 1790631267,
    "source": "truth",
@@ -149,6 +165,60 @@
    ],
    "author": "Donald Trump",
    "score": 2463
+  },
+  {
+   "id": "2dc2346464915d1a",
+   "ts": 1790668800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "ECB amends monetary policy implementation guidelines as part of regular review",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "028fc74d0585aa8f",
+   "ts": 1790665200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Want a $1 Million Investment Portfolio ? History Says This Strategy Could Get You There .",
+   "url": "https://www.aol.com/articles/want-1-million-investment-portfolio-063500000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "ef90e74d4e20939d",
+   "ts": 1790665200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Want a $1 Million Investment Portfolio ? History Says This Strategy Could Get You There .",
+   "url": "https://www.fool.com/investing/2026/09/29/want-a-1-million-investment-portfolio-history-says/?source=iedfolrf0000001",
+   "domain": "fool.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "1acec63faf14b7b4",
+   "ts": 1790661600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "IRS Warns Crypto ETFs Over Tax Loophole Risks",
+   "url": "http://www.econotimes.com/IRS-Warns-Crypto-ETFs-Over-Tax-Loophole-Risks-1753333",
+   "domain": "econotimes.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
   },
   {
    "id": "e81f4915ee5b9b6f",
@@ -178,86 +248,17 @@
     "macro",
     "institution"
    ]
-  },
-  {
-   "id": "069e23222f9bcc24",
-   "ts": 1790640000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Fidelity MSCI Industrials Index ETF ( NYSEARCA : FIDU ) Short Interest Update",
-   "url": "https://www.dailypolitical.com/2026/09/28/fidelity-msci-industrials-index-etf-nysearcafidu-short-interest-update.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "480f4a5dcc756d7f",
-   "ts": 1790640000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "John Hancock Multifactor Emerging Markets ETF ( NYSEARCA : JHEM ) Stock Short Interest Climbs 168 . 0 %",
-   "url": "https://www.themarketsdaily.com/2026/09/28/john-hancock-multifactor-emerging-markets-etf-nysearcajhem-stock-short-interest-climbs-168-0.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "435dc6857ca629ad",
-   "ts": 1790640000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Harbor Dividend Growth Leaders ETF ( NYSE : GDIV ) Stock Short Interest Falls 68 . 7 %",
-   "url": "https://www.tickerreport.com/banking-finance/13599898/harbor-dividend-growth-leaders-etf-nysegdiv-stock-short-interest-falls-68-7.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "83b12d95a9438ba4",
-   "ts": 1790640000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "iShares Core 5 - 10 Year USD Bond ETF ( NYSEARCA : IMTB ) Stock Short Interest Climbs 157 . 7 %",
-   "url": "https://www.tickerreport.com/banking-finance/13599918/ishares-core-5-10-year-usd-bond-etf-nysearcaimtb-stock-short-interest-climbs-157-7.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "f6d68faee1973b5a",
-   "ts": 1790640000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Hut 8 ( NASDAQ : HUT ) Director Mayo Shattuck III Sells 20 , 000 Shares of Stock",
-   "url": "https://www.themarketsdaily.com/2026/09/28/hut-8-nasdaqhut-director-mayo-shattuck-iii-sells-20000-shares-of-stock.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 29
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -265,12 +266,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 11
+   "n": 3
   },
   "White House": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 403: Forbidden"
+   "ok": true,
+   "n": 20
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -327,11 +327,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 24
+   "n": 25
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
