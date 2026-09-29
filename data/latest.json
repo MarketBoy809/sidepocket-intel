@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-09-29T08:19:34Z",
- "generated_ts": 1790669974,
+ "generated_at": "2026-09-29T15:40:17Z",
+ "generated_ts": 1790696417,
  "prices": {
   "BTC": {
-   "p": 84071.1,
+   "p": 83188.4,
    "o": 83462.7,
-   "h": 84338.1,
-   "l": 82566.4,
-   "v": 2614.9116309
+   "h": 84527.1,
+   "l": 82735.1,
+   "v": 2425.04186893
   },
   "ETH": {
-   "p": 2716.6,
+   "p": 2682.88,
    "o": 2687.48,
-   "h": 2719.04,
-   "l": 2636.03,
-   "v": 38162.74953817
+   "h": 2747.95,
+   "l": 2651.1,
+   "v": 38266.82448323
   },
   "SOL": {
-   "p": 119.48,
+   "p": 118.53,
    "o": 118.83,
-   "h": 120.72,
+   "h": 121.67,
    "l": 116.33,
-   "v": 332061.52293631
+   "v": 362804.17770576
   }
  },
  "change_7d": {
-  "BTC": -0.016209426194210702,
-  "ETH": -0.005513310076922303,
-  "SOL": 0.027517413363143766
+  "BTC": -0.029283225550535252,
+  "ETH": -0.011630239351711667,
+  "SOL": 0.028231670801608325
  },
  "sentiment": {
-  "score": 62.8,
+  "score": 62.3,
   "label": "Greed",
   "components": {
    "fng": 73.0,
-   "momentum": 45.94764345144733,
-   "crowding": 61.5214805
+   "momentum": 42.679193612366184,
+   "crowding": 63.3423195
   },
   "weights": {
    "fng": 0.35,
@@ -53,87 +53,23 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 6.5657e-06,
-   "oi_usd": 2787905438.0051203,
-   "premium": -0.0004399472
+   "funding_h": 1.25e-05,
+   "oi_usd": 2931846186.73986,
+   "premium": -0.0003604989
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3105361982.9254065,
-   "premium": 0.0001766056
+   "oi_usd": 3131424893.8232994,
+   "premium": 0.0
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 666742009.1518004,
-   "premium": -0.000250941
+   "funding_h": 1.15543e-05,
+   "oi_usd": 664778690.2638001,
+   "premium": -0.0006747069
   }
  },
- "items_24h": 277,
+ "items_24h": 432,
  "top_items": [
-  {
-   "id": "9342319f886e8d3e",
-   "ts": 1790596648,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Bill Maher's ratings are so low that it is hard to believe his show can continue. In many ways it's SAD because, in actuality, I like him. Republicans should stop using him as a sounding board, however. It makes them look sooo weak and foolish!",
-   "url": "https://truthsocial.com/@realDonaldTrump/117348541943680165",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 9028
-  },
-  {
-   "id": "91642b23a99c3b5e",
-   "ts": 1790595189,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "SCOTUS reinstates Trump's voter citizenship verification rules: https://justthenews.com/government/courts-law/scotus-reinstates-trumps-voter-citizenship-verification-rules",
-   "url": "https://truthsocial.com/@realDonaldTrump/117348446365820888",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 8336
-  },
-  {
-   "id": "79f7195bd367eb9d",
-   "ts": 1790595169,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Trump stacks wins: SCOTUS unleashes voter citizenship checks while feds put machines on leash: https://justthenews.com/government/white-house/supreme-court-cisa",
-   "url": "https://truthsocial.com/@realDonaldTrump/117348445059479367",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 7569
-  },
-  {
-   "id": "c38f9f4d90f32a13",
-   "ts": 1790595146,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Fauci diary reveals alarm that U.S. had aerosolized Ebola virus: 'Never should have been done': https://justthenews.com/government/congress/fauci-alarmed-over-us-army-ebola-tests-funded-his-own-agency-diary-entries-and",
-   "url": "https://truthsocial.com/@realDonaldTrump/117348443536619757",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6724
-  },
   {
    "id": "1047e02c87e146a0",
    "ts": 1790649186,
@@ -165,6 +101,87 @@
    ],
    "author": "Donald Trump",
    "score": 2463
+  },
+  {
+   "id": "26042794f158586f",
+   "ts": 1790693100,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "The Price of Gold Today , Sept . 29 , 2026 and the Best Places to Buy",
+   "url": "https://www.cnbc.com/select/the-price-of-gold-today-sept-29-2026/",
+   "domain": "cnbc.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "479d4c9dfc789ef3",
+   "ts": 1790693100,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Futures Rise As Oil Drops , Dragging Rates Lower",
+   "url": "https://www.zerohedge.com/markets/futures-rise-oil-drops-dragging-rates-lower",
+   "domain": "zerohedge.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "14e9d090cf5fa932",
+   "ts": 1790689500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "The High - Yielding Vanguard ETF That Belongs in Every Investor Portfolio Right Now",
+   "url": "https://www.fool.com/investing/2026/09/29/the-high-yielding-vanguard-etf-that-belongs-in-every-investor-s-portfolio-right-now/",
+   "domain": "fool.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "d2ae2d859a5278d6",
+   "ts": 1790688600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "The High - Yielding Vanguard ETF That Belongs in Every Investor Portfolio Right Now",
+   "url": "https://www.fool.com/investing/2026/09/29/the-high-yielding-vanguard-etf-that-belongs-in-every-investor-s-portfolio-right-now/?source=iedfolrf0000001",
+   "domain": "fool.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "3ed0ddba6de366c4",
+   "ts": 1790686800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "5 Things to Know Before the Stock Market Opens on Tuesday",
+   "url": "https://www.aol.com/articles/5-things-know-stock-market-120647000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "755db23172d74361",
+   "ts": 1790685900,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "iShares Morningstar Value ETF ( NYSEARCA : ILCV ) Short Interest Update",
+   "url": "https://www.dailypolitical.com/2026/09/29/ishares-morningstar-value-etf-nysearcailcv-short-interest-update-2.html",
+   "domain": "dailypolitical.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
   },
   {
    "id": "2dc2346464915d1a",
@@ -219,42 +236,13 @@
     "crypto",
     "institution"
    ]
-  },
-  {
-   "id": "e81f4915ee5b9b6f",
-   "ts": 1790640000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "JPMorgan Active Bond ETF ( NYSE : JBND ) Sees Significant Increase in Short Interest",
-   "url": "https://www.themarketsdaily.com/2026/09/28/jpmorgan-active-bond-etf-nysejbnd-sees-significant-increase-in-short-interest.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "cc661b65e7e1e1f4",
-   "ts": 1790640000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Fidelity High Yield Factor ETF ( NYSEARCA : FDHY ) Stock Short Interest Drops 65 . 3 %",
-   "url": "https://www.tickerreport.com/banking-finance/13599939/fidelity-high-yield-factor-etf-nysearcafdhy-stock-short-interest-drops-65-3.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "crypto",
-    "macro",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 29
+   "n": 60
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -266,7 +254,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 3
+   "n": 6
   },
   "White House": {
    "ok": true,
@@ -295,7 +283,7 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "Bank of Japan": {
    "ok": true,
@@ -323,7 +311,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 36
+   "n": 35
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
@@ -331,7 +319,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 24
   },
   "Reddit r/Bitcoin": {
    "ok": false,
