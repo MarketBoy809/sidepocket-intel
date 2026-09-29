@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-09-28T21:50:02Z",
- "generated_ts": 1790632202,
+ "generated_at": "2026-09-29T01:46:19Z",
+ "generated_ts": 1790646379,
  "prices": {
   "BTC": {
-   "p": 83362.9,
-   "o": 84444.2,
-   "h": 85060.8,
+   "p": 83039.8,
+   "o": 83462.7,
+   "h": 84338.1,
    "l": 82566.4,
-   "v": 3227.77727498
+   "v": 2949.68250241
   },
   "ETH": {
-   "p": 2677.23,
-   "o": 2688.02,
+   "p": 2667.11,
+   "o": 2687.48,
    "h": 2719.04,
    "l": 2635.57,
-   "v": 36645.15102212
+   "v": 36900.02261036
   },
   "SOL": {
-   "p": 117.95,
-   "o": 121.98,
-   "h": 123.0,
-   "l": 117.35,
-   "v": 402450.63937476
+   "p": 117.24,
+   "o": 118.83,
+   "h": 121.4,
+   "l": 116.33,
+   "v": 406295.64815601
   }
  },
  "change_7d": {
-  "BTC": -0.03999240285297713,
-  "ETH": -0.036798379362736215,
-  "SOL": -0.0035231943628889146
+  "BTC": -0.03178510984318565,
+  "ETH": -0.028442265795206947,
+  "SOL": -0.002366463826909964
  },
  "sentiment": {
-  "score": 58.0,
+  "score": 60.1,
   "label": "Greed",
   "components": {
-   "fng": 74.0,
-   "momentum": 40.001899286755716,
-   "news_tone": 44.0,
-   "crowding": 58.712477
+   "fng": 73.0,
+   "momentum": 42.05372253920359,
+   "crowding": 54.1435895
   },
   "weights": {
    "fng": 0.35,
@@ -47,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 74,
+  "value": 73,
   "label": "Greed",
-  "ts": 1790553600
+  "ts": 1790640000
  },
- "news_tone_24h": -0.36,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": -1.1302e-06,
-   "oi_usd": 2908524549.7320004,
-   "premium": -0.0004436079
+   "funding_h": -2.7752e-06,
+   "oi_usd": 2821472207.33952,
+   "premium": -0.0004574455
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3017111338.878616,
-   "premium": -0.0001567855
+   "oi_usd": 3009035289.4329967,
+   "premium": -0.0003746581
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 665774399.5978,
-   "premium": -0.0005931198
+   "funding_h": 1.6275e-06,
+   "oi_usd": 658530960.0720001,
+   "premium": -0.0008337042
   }
  },
- "items_24h": 185,
+ "items_24h": 216,
  "top_items": [
   {
    "id": "9342319f886e8d3e",
@@ -152,86 +151,13 @@
    "score": 2463
   },
   {
-   "id": "8c0c737889a5a4f5",
-   "ts": 1790630100,
+   "id": "e81f4915ee5b9b6f",
+   "ts": 1790640000,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Bitcoin ETFs Are Seeing Their Biggest Inflows Since October 2025 . Is Bitcoin Finally Back ?",
-   "url": "https://www.aol.com/articles/bitcoin-etfs-seeing-biggest-inflows-203500000.html",
-   "domain": "aol.com",
-   "tags": [
-    "crypto",
-    "BTC",
-    "institution"
-   ]
-  },
-  {
-   "id": "cb6a5a1e97601089",
-   "ts": 1790630100,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "The Best ETF to Own in Your 30s , 40s , 50s , and 60s , According to the Math",
-   "url": "https://www.aol.com/articles/best-etf-own-30s-40s-204031000.html",
-   "domain": "aol.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "0a2a8d9aa5465511",
-   "ts": 1790630100,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Forget VYM : International Dividend ETF IDV Has Gained 26 . 86 % vs 15 . 53 % This Year",
-   "url": "https://www.aol.com/articles/forget-vym-international-dividend-etf-205005000.html",
-   "domain": "aol.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "e347926a1a14652c",
-   "ts": 1790629200,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "AI Predicts BTC Path as Strategy Buys 1 , 665 More Coins",
-   "url": "https://www.coinspeaker.com/ai-predicts-btc-path-as-strategy-buys-1665-more-bitcoins/",
-   "domain": "coinspeaker.com",
-   "tags": [
-    "crypto",
-    "BTC",
-    "institution"
-   ]
-  },
-  {
-   "id": "38c89358451394ba",
-   "ts": 1790629200,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Strategy Buys 1 , 665 Bitcoin ; Same Stock Sale Also Retired $151M Preferred Shares",
-   "url": "https://www.techtimes.com/articles/328136/20260928/strategy-buys-1665-bitcoin-same-stock-sale-also-retired-151m-preferred-shares.htm",
-   "domain": "techtimes.com",
-   "tags": [
-    "crypto",
-    "BTC",
-    "institution"
-   ]
-  },
-  {
-   "id": "294d248173b0865b",
-   "ts": 1790629200,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Pacer BlueStar Digital Entertainment ETF ( NASDAQ : ODDS ) Short Interest Update",
-   "url": "https://www.themarketsdaily.com/2026/09/28/pacer-bluestar-digital-entertainment-etf-nasdaqodds-short-interest-update.html",
+   "title": "JPMorgan Active Bond ETF ( NYSE : JBND ) Sees Significant Increase in Short Interest",
+   "url": "https://www.themarketsdaily.com/2026/09/28/jpmorgan-active-bond-etf-nysejbnd-sees-significant-increase-in-short-interest.html",
    "domain": "themarketsdaily.com",
    "tags": [
     "crypto",
@@ -239,14 +165,85 @@
    ]
   },
   {
-   "id": "f90960ccbfe7bdfd",
-   "ts": 1790625600,
+   "id": "cc661b65e7e1e1f4",
+   "ts": 1790640000,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Where Will the S & P 500 Be in 30 Years ? History Offers a Clear Answer for Investors .",
-   "url": "https://www.fool.com/investing/2026/09/28/sp-500-30-years-history-offers-answer/",
-   "domain": "fool.com",
+   "title": "Fidelity High Yield Factor ETF ( NYSEARCA : FDHY ) Stock Short Interest Drops 65 . 3 %",
+   "url": "https://www.tickerreport.com/banking-finance/13599939/fidelity-high-yield-factor-etf-nysearcafdhy-stock-short-interest-drops-65-3.html",
+   "domain": "tickerreport.com",
+   "tags": [
+    "crypto",
+    "macro",
+    "institution"
+   ]
+  },
+  {
+   "id": "069e23222f9bcc24",
+   "ts": 1790640000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Fidelity MSCI Industrials Index ETF ( NYSEARCA : FIDU ) Short Interest Update",
+   "url": "https://www.dailypolitical.com/2026/09/28/fidelity-msci-industrials-index-etf-nysearcafidu-short-interest-update.html",
+   "domain": "dailypolitical.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "480f4a5dcc756d7f",
+   "ts": 1790640000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "John Hancock Multifactor Emerging Markets ETF ( NYSEARCA : JHEM ) Stock Short Interest Climbs 168 . 0 %",
+   "url": "https://www.themarketsdaily.com/2026/09/28/john-hancock-multifactor-emerging-markets-etf-nysearcajhem-stock-short-interest-climbs-168-0.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "435dc6857ca629ad",
+   "ts": 1790640000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Harbor Dividend Growth Leaders ETF ( NYSE : GDIV ) Stock Short Interest Falls 68 . 7 %",
+   "url": "https://www.tickerreport.com/banking-finance/13599898/harbor-dividend-growth-leaders-etf-nysegdiv-stock-short-interest-falls-68-7.html",
+   "domain": "tickerreport.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "83b12d95a9438ba4",
+   "ts": 1790640000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "iShares Core 5 - 10 Year USD Bond ETF ( NYSEARCA : IMTB ) Stock Short Interest Climbs 157 . 7 %",
+   "url": "https://www.tickerreport.com/banking-finance/13599918/ishares-core-5-10-year-usd-bond-etf-nysearcaimtb-stock-short-interest-climbs-157-7.html",
+   "domain": "tickerreport.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "f6d68faee1973b5a",
+   "ts": 1790640000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Hut 8 ( NASDAQ : HUT ) Director Mayo Shattuck III Sells 20 , 000 Shares of Stock",
+   "url": "https://www.themarketsdaily.com/2026/09/28/hut-8-nasdaqhut-director-mayo-shattuck-iii-sells-20000-shares-of-stock.html",
+   "domain": "themarketsdaily.com",
    "tags": [
     "institution"
    ]
@@ -260,7 +257,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -268,7 +265,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 8
+   "n": 11
   },
   "White House": {
    "ok": false,
