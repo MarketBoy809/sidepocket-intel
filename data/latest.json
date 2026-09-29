@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-09-29T15:40:17Z",
- "generated_ts": 1790696417,
+ "generated_at": "2026-09-29T20:40:13Z",
+ "generated_ts": 1790714413,
  "prices": {
   "BTC": {
-   "p": 83188.4,
+   "p": 83595.0,
    "o": 83462.7,
    "h": 84527.1,
    "l": 82735.1,
-   "v": 2425.04186893
+   "v": 2007.35428779
   },
   "ETH": {
-   "p": 2682.88,
+   "p": 2691.6,
    "o": 2687.48,
    "h": 2747.95,
    "l": 2651.1,
-   "v": 38266.82448323
+   "v": 32569.92229124
   },
   "SOL": {
-   "p": 118.53,
+   "p": 119.0,
    "o": 118.83,
    "h": 121.67,
    "l": 116.33,
-   "v": 362804.17770576
+   "v": 437026.39512574
   }
  },
  "change_7d": {
-  "BTC": -0.029283225550535252,
-  "ETH": -0.011630239351711667,
-  "SOL": 0.028231670801608325
+  "BTC": -0.030615880963875353,
+  "ETH": -0.022736275917210443,
+  "SOL": 0.004227257355427798
  },
  "sentiment": {
-  "score": 62.3,
-  "label": "Greed",
+  "score": 53.8,
+  "label": "Neutral",
   "components": {
    "fng": 73.0,
-   "momentum": 42.679193612366184,
-   "crowding": 63.3423195
+   "momentum": 42.34602975903116,
+   "news_tone": 16.016666666666666,
+   "crowding": 61.9637875
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Greed",
   "ts": 1790640000
  },
- "news_tone_24h": null,
+ "news_tone_24h": -2.039,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2931846186.73986,
-   "premium": -0.0003604989
+   "oi_usd": 2967738356.96828,
+   "premium": -0.0003109267
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3131424893.8232994,
-   "premium": 0.0
+   "oi_usd": 3250431602.8367996,
+   "premium": 0.0004642267
   },
   "SOL": {
-   "funding_h": 1.15543e-05,
-   "oi_usd": 664778690.2638001,
-   "premium": -0.0006747069
+   "funding_h": 7.7775e-06,
+   "oi_usd": 665731510.874,
+   "premium": -0.0004989525
   }
  },
- "items_24h": 432,
+ "items_24h": 416,
  "top_items": [
   {
    "id": "1047e02c87e146a0",
@@ -103,6 +104,44 @@
    "score": 2463
   },
   {
+   "id": "1478a16716375972",
+   "ts": 1790712000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "df372e153121decb",
+   "ts": 1790693454,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Streamlining Access to Government Services Through America.gov",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/streamlining-access-to-government-services-through-america-gov/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "fd169207b95c3dec",
+   "ts": 1790693135,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Fact Sheet: President Donald J. Trump Streamlines Access to Government Services Through America.gov",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-streamlines-access-to-government-services-through-america-gov/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
    "id": "26042794f158586f",
    "ts": 1790693100,
    "source": "news",
@@ -126,6 +165,20 @@
    "domain": "zerohedge.com",
    "tags": [
     "institution"
+   ]
+  },
+  {
+   "id": "5ded3c9f80aef40f",
+   "ts": 1790690153,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms",
+   "domain": "SEC",
+   "org": "SEC",
+   "tags": [
+    "regulation"
    ]
   },
   {
@@ -182,71 +235,17 @@
     "crypto",
     "institution"
    ]
-  },
-  {
-   "id": "2dc2346464915d1a",
-   "ts": 1790668800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "ECB amends monetary policy implementation guidelines as part of regular review",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "028fc74d0585aa8f",
-   "ts": 1790665200,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Want a $1 Million Investment Portfolio ? History Says This Strategy Could Get You There .",
-   "url": "https://www.aol.com/articles/want-1-million-investment-portfolio-063500000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "ef90e74d4e20939d",
-   "ts": 1790665200,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Want a $1 Million Investment Portfolio ? History Says This Strategy Could Get You There .",
-   "url": "https://www.fool.com/investing/2026/09/29/want-a-1-million-investment-portfolio-history-says/?source=iedfolrf0000001",
-   "domain": "fool.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "1acec63faf14b7b4",
-   "ts": 1790661600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "IRS Warns Crypto ETFs Over Tax Loophole Risks",
-   "url": "http://www.econotimes.com/IRS-Warns-Crypto-ETFs-Over-Tax-Loophole-Risks-1753333",
-   "domain": "econotimes.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 60
+   "n": 8
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -254,11 +253,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 6
+   "n": 0
   },
   "White House": {
    "ok": true,
-   "n": 20
+   "n": 19
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -271,7 +270,7 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "Federal Reserve": {
    "ok": true,
@@ -311,7 +310,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 35
+   "n": 36
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
