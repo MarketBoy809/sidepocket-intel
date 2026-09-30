@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-09-30T19:05:55Z",
- "generated_ts": 1790795155,
+ "generated_at": "2026-09-30T22:58:26Z",
+ "generated_ts": 1790809106,
  "prices": {
   "BTC": {
-   "p": 83857.4,
+   "p": 83649.6,
    "o": 83633.5,
    "h": 85604.0,
    "l": 82920.1,
-   "v": 2637.18163096
+   "v": 2723.60357453
   },
   "ETH": {
-   "p": 2678.04,
+   "p": 2686.61,
    "o": 2676.7,
    "h": 2737.61,
    "l": 2656.5,
-   "v": 37149.43139076
+   "v": 37495.36773452
   },
   "SOL": {
-   "p": 118.55,
+   "p": 118.14,
    "o": 119.11,
    "h": 122.79,
-   "l": 117.78,
-   "v": 558876.19644291
+   "l": 117.0,
+   "v": 541694.27263304
   }
  },
  "change_7d": {
-  "BTC": -0.004757154887146662,
-  "ETH": 0.0035563050402847222,
-  "SOL": 0.03832691634581725
+  "BTC": -0.008232763850341952,
+  "ETH": 0.002035762178153402,
+  "SOL": 0.028770706190061
  },
  "sentiment": {
-  "score": 62.5,
+  "score": 57.6,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 48.81071127821333,
-   "crowding": 60.7453445
+   "momentum": 47.941809037414515,
+   "news_tone": 37.46666666666667,
+   "crowding": 59.131278
   },
   "weights": {
    "fng": 0.35,
@@ -50,78 +51,160 @@
   "label": "Greed",
   "ts": 1790726400
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.752,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2989040788.25268,
-   "premium": -0.0001549667
+   "oi_usd": 2983683827.54376,
+   "premium": -5.61478e-05
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3183412967.013659,
-   "premium": 0.0002986189
+   "oi_usd": 3200588856.9930224,
+   "premium": 0.0003943247
   },
   "SOL": {
-   "funding_h": 4.4393e-06,
-   "oi_usd": 674620281.0048,
-   "premium": -0.000494863
+   "funding_h": 1.72e-08,
+   "oi_usd": 675895530.5362002,
+   "premium": -0.0004856283
   }
  },
- "items_24h": 327,
+ "items_24h": 401,
  "top_items": [
   {
-   "id": "a6fcb21bc6c14559",
-   "ts": 1790715634,
+   "id": "2309764e07d9b441",
+   "ts": 1790797683,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Iran Has Lost Control of the Strait: https://x.com/BurggrabenH/status/2104361288000221497",
-   "url": "https://truthsocial.com/@realDonaldTrump/117356339820644146",
+   "title": "The Inspector General's Report just came out on Jerome \"Too Late\" Powell's \"renovation\" of the Federal Reserve Headquarters in Washington, D.C. The IG's Report states that there were \"deficiencies in the management of the renovation project.\" The Building is over budget, at a Rec",
+   "url": "https://truthsocial.com/@realDonaldTrump/117361716972225267",
    "domain": "truthsocial.com",
    "tags": [
-    "geo"
+    "crypto",
+    "macro"
    ],
    "author": "Donald Trump",
-   "score": 6231
+   "score": 22082
   },
   {
-   "id": "ceb76c31dd8c72ca",
-   "ts": 1790793900,
+   "id": "2178e8fbaed64a6e",
+   "ts": 1790805600,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Fidelity MSCI Consumer Discretionary Index ETF ( NYSEARCA : FDIS ) Sees Unusually - High Trading Volume – What Next ?",
-   "url": "https://www.themarketsdaily.com/2026/09/30/fidelity-msci-consumer-discretionary-index-etf-nysearcafdis-sees-unusually-high-trading-volume-whats-next.html",
-   "domain": "themarketsdaily.com",
+   "title": "How to Start Investing in 2026 : The Growth Stock Im Buying Before Year - End",
+   "url": "https://www.fool.com/investing/2026/09/30/how-to-start-investing-in-2026-the-growth-stock-im/",
+   "domain": "fool.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "7138dded4c532afb",
+   "ts": 1790805600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "This Overlooked Vanguard ETF Could Be the Smartest Place to Park Your Money Right Now",
+   "url": "https://www.fool.com/investing/2026/09/30/this-overlooked-vanguard-etf-could-be-the-smartest/",
+   "domain": "fool.com",
    "tags": [
     "crypto",
     "institution"
    ]
   },
   {
-   "id": "70a02a7f00b65b42",
-   "ts": 1790793900,
+   "id": "e640b44058e9ad33",
+   "ts": 1790805600,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "iShares Large Cap Max Buffer Mar ETF ( BATS : MMAX ) Trading at $27 . 47",
-   "url": "https://www.themarketsdaily.com/2026/09/30/ishares-large-cap-max-buffer-mar-etf-batsmmax-trading-at-27-47.html",
-   "domain": "themarketsdaily.com",
+   "title": "ISHARES CORE GROWTH ALLOCATION ETF ( AOR ) Stock News & Articles",
+   "url": "https://247wallst.com/companies/aor/",
+   "domain": "247wallst.com",
    "tags": [
     "crypto",
     "institution"
    ]
   },
   {
-   "id": "5dcf3660d16a3c2c",
-   "ts": 1790793900,
+   "id": "280e352a3df2c3ff",
+   "ts": 1790805600,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "VictoryShares US Value Momentum ETF ( NASDAQ : ULVM ) Shares Shorted : Short Interest Down 50 . 4 % in September",
-   "url": "https://www.dailypolitical.com/2026/09/30/victoryshares-us-value-momentum-etf-nasdaqulvm-shares-shorted-short-interest-down-50-4-in-september.html",
+   "title": "The Best Dividend ETF to Buy and Hold Through Every Market Cycle for the Next 30 Years",
+   "url": "https://www.fool.com/investing/2026/09/30/best-dividend-etf-buy-hold-every-market-30-years/",
+   "domain": "fool.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "c16239d9859d145d",
+   "ts": 1790805600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "iShares Interest Rate Hedged Corporate Bond ETF ( NYSEARCA : LQDH ) Sees Large Decrease in Short Interest",
+   "url": "https://www.themarketsdaily.com/2026/09/30/ishares-interest-rate-hedged-corporate-bond-etf-nysearcalqdh-sees-large-decrease-in-short-interest.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "crypto",
+    "macro",
+    "institution"
+   ]
+  },
+  {
+   "id": "54f2bf01fc3213ea",
+   "ts": 1790805600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "5 Monthly Income ETFs Paying 6 . 39 % to 13 . 80 % to Start Q4",
+   "url": "https://247wallst.com/investing/etf/2026/09/30/5-monthly-income-etfs-paying-6-39-to-13-80-to-start-q4/",
+   "domain": "247wallst.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "10cc167a847df14f",
+   "ts": 1790804700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "How to Start Investing in 2026 : The Growth Stock Im Buying Before Year - End",
+   "url": "https://www.aol.com/articles/start-investing-2026-growth-stock-205000000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "273979b020a23cf9",
+   "ts": 1790804700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "JPMorgan Chase & Co . ( NYSE : JPM ) Stock Price Down 1 . 1 % – Here What Happened",
+   "url": "https://www.themarketsdaily.com/2026/09/30/jpmorgan-chase-co-nysejpm-stock-price-down-1-1-heres-what-happened.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "e0b7c69e9422036a",
+   "ts": 1790804700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Harbor Human Capital Factor US Large Cap ETF ( NYSEARCA : HAPI ) Stock Short Interest Climbs 96 . 5 %",
+   "url": "https://www.dailypolitical.com/2026/09/30/harbor-human-capital-factor-us-large-cap-etf-nysearcahapi-stock-short-interest-climbs-96-5.html",
    "domain": "dailypolitical.com",
    "tags": [
     "crypto",
@@ -129,113 +212,29 @@
    ]
   },
   {
-   "id": "c87914784817b146",
-   "ts": 1790791200,
+   "id": "56aed32ca2b941d7",
+   "ts": 1790804700,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Crypto Long & Short : What will the AI agents run on ?",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
-   "domain": "coindesk.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "85d90a964fbdbde5",
-   "ts": 1790789400,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Rise of Digital Credit : How Strategy and Strive Are Co - Building the Bitcoin Ecosystem",
-   "url": "http://www.econotimes.com/Rise-of-Digital-Credit-How-Strategy-and-Strive-Are-Co-Building-the-Bitcoin-Ecosystem-1753569",
-   "domain": "econotimes.com",
-   "tags": [
-    "crypto",
-    "BTC",
-    "institution"
-   ]
-  },
-  {
-   "id": "b69ca84a74104876",
-   "ts": 1790788500,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "AI Data Center Leases Stretch to 20 Years as Power Becomes the Asset",
-   "url": "https://www.thewhig.com/press-releases/pr-newswire/ai-data-center-leases-stretch-to-20-years-as-power-becomes-the-asset/",
-   "domain": "thewhig.com",
+   "title": "5 Monthly Income ETFs Paying 6 . 39 % to 13 . 80 % to Start Q4",
+   "url": "https://www.aol.com/articles/5-monthly-income-etfs-paying-210526000.html",
+   "domain": "aol.com",
    "tags": [
     "institution"
    ]
   },
   {
-   "id": "8a0a96ab357b237b",
-   "ts": 1790788217,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "ICYMI: President Trump Announces Largest-Ever Steel Plant Coming to Iowa",
-   "url": "https://www.whitehouse.gov/releases/2026/09/icymi-president-trump-announces-largest-ever-steel-plant-coming-to-iowa/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "1b0f79c60aff782d",
-   "ts": 1790787600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Christine Lagarde: Interview with La Croix",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "6a0cd3d317ee69ae",
-   "ts": 1790786700,
+   "id": "bb3fa79d400ff8d7",
+   "ts": 1790804700,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Vanguard Long - Term Corporate Bond ETF ( NASDAQ : VCLT ) Sees Unusually - High Trading Volume – Here What Happened",
-   "url": "https://www.dailypolitical.com/2026/09/30/vanguard-long-term-corporate-bond-etf-nasdaqvclt-sees-unusually-high-trading-volume-heres-what-happened.html",
-   "domain": "dailypolitical.com",
+   "title": "Who Keeps The Money When AI Rewrites Bank Code ?",
+   "url": "http://www.zerohedge.com/ai/who-keeps-money-when-ai-rewrites-bank-code",
+   "domain": "zerohedge.com",
    "tags": [
-    "crypto",
     "institution"
-   ]
-  },
-  {
-   "id": "dc67e39ba3cdf220",
-   "ts": 1790786535,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans",
-   "domain": "SEC",
-   "org": "SEC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "7d6869a86016972e",
-   "ts": 1790785046,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Congressional Bill S. 2398 Signed into Law",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-s-2398-signed-into-law/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": [
-    "regulation"
    ]
   }
  ],
@@ -243,11 +242,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 38
+   "n": 36
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -255,11 +254,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 7
+   "n": 18
   },
   "White House": {
    "ok": true,
-   "n": 25
+   "n": 24
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -268,7 +267,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "CFTC": {
    "ok": true,
@@ -312,19 +311,20 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 36
+   "n": 38
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 23
+   "n": 24
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 17
+   "n": 18
   },
   "Reddit r/Bitcoin": {
-   "ok": true,
-   "n": 23
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
