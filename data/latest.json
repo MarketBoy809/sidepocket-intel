@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-09-29T20:40:13Z",
- "generated_ts": 1790714413,
+ "generated_at": "2026-09-30T00:18:33Z",
+ "generated_ts": 1790727513,
  "prices": {
   "BTC": {
-   "p": 83595.0,
-   "o": 83462.7,
+   "p": 83438.3,
+   "o": 83633.5,
    "h": 84527.1,
    "l": 82735.1,
-   "v": 2007.35428779
+   "v": 2169.63543632
   },
   "ETH": {
-   "p": 2691.6,
-   "o": 2687.48,
+   "p": 2669.74,
+   "o": 2676.7,
    "h": 2747.95,
    "l": 2651.1,
-   "v": 32569.92229124
+   "v": 35864.86571075
   },
   "SOL": {
-   "p": 119.0,
-   "o": 118.83,
+   "p": 118.66,
+   "o": 119.11,
    "h": 121.67,
    "l": 116.33,
-   "v": 437026.39512574
+   "v": 468093.03791842
   }
  },
  "change_7d": {
-  "BTC": -0.030615880963875353,
-  "ETH": -0.022736275917210443,
-  "SOL": 0.004227257355427798
+  "BTC": -0.029694755275786456,
+  "ETH": -0.02771865852152633,
+  "SOL": 0.004723346828610006
  },
  "sentiment": {
-  "score": 53.8,
+  "score": 51.0,
   "label": "Neutral",
   "components": {
-   "fng": 73.0,
-   "momentum": 42.34602975903116,
-   "news_tone": 16.016666666666666,
-   "crowding": 61.9637875
+   "fng": 71.0,
+   "momentum": 42.576311181053384,
+   "news_tone": 8.866666666666667,
+   "crowding": 57.9541165
   },
   "weights": {
    "fng": 0.35,
@@ -47,30 +47,46 @@
   }
  },
  "fear_greed": {
-  "value": 73,
+  "value": 71,
   "label": "Greed",
-  "ts": 1790640000
+  "ts": 1790726400
  },
- "news_tone_24h": -2.039,
+ "news_tone_24h": -2.468,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2967738356.96828,
-   "premium": -0.0003109267
+   "funding_h": 1.8517e-06,
+   "oi_usd": 2967225972.5218,
+   "premium": -0.0005414866
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3250431602.8367996,
-   "premium": 0.0004642267
+   "oi_usd": 3176178271.9363985,
+   "premium": 7.48839e-05
   },
   "SOL": {
-   "funding_h": 7.7775e-06,
-   "oi_usd": 665731510.874,
-   "premium": -0.0004989525
+   "funding_h": 7.4404e-06,
+   "oi_usd": 667308489.47412,
+   "premium": -0.0004632554
   }
  },
- "items_24h": 416,
+ "items_24h": 403,
  "top_items": [
+  {
+   "id": "a6fcb21bc6c14559",
+   "ts": 1790715634,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Iran Has Lost Control of the Strait: https://x.com/BurggrabenH/status/2104361288000221497",
+   "url": "https://truthsocial.com/@realDonaldTrump/117356339820644146",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 6231
+  },
   {
    "id": "1047e02c87e146a0",
    "ts": 1790649186,
@@ -88,20 +104,65 @@
    "score": 5807
   },
   {
-   "id": "01dbaeffd80296e1",
-   "ts": 1790631267,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Axios just released a story that \"Trump\" offered Sanctions Relief and Frozen Funds to Iran. This is untrue. I offered them NOTHING! Axios' story, like most others, is a HOAX, used only for purposes of satisfying their Trump Derangement Syndrome. They should withdraw this fake sto",
-   "url": "https://truthsocial.com/@realDonaldTrump/117350810719202305",
-   "domain": "truthsocial.com",
+   "id": "9f278deb4271fdfa",
+   "ts": 1790719200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "JPMorgan Runs 2 Income ETFs Built for Monthly Cash Flow in 2026",
+   "url": "https://247wallst.com/investing/etf/2026/09/29/jpmorgan-runs-2-income-etfs-built-for-monthly-cash-flow-in-2026/",
+   "domain": "247wallst.com",
    "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 2463
+    "institution"
+   ]
+  },
+  {
+   "id": "3e03d85b0c1dc482",
+   "ts": 1790717064,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Fact Sheet: President Donald J. Trump Eliminates Disease-Carrying Pests and Restores Enjoyment of The Great Outdoors",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-eliminates-disease-carrying-pests-and-restores-enjoyment-of-the-great-outdoors/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "b61e881a900deee0",
+   "ts": 1790717028,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Eliminating Disease-Carrying Pests And Restoring Enjoyment Of The Great Outdoors",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/eliminating-disease-carrying-pests-and-restoring-enjoyment-of-the-great-outdoors/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "a5c0117397acc165",
+   "ts": 1790716866,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Fact Sheet: President Donald J. Trump Inaugurates The Era of Super Intelligence",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "08cae3f0392a37ed",
+   "ts": 1790716645,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Inaugurating The Era Of Super Intelligence",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "1478a16716375972",
@@ -116,6 +177,18 @@
    "tags": [
     "macro"
    ]
+  },
+  {
+   "id": "4a96927a5a504f29",
+   "ts": 1790708856,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "First Lady Melania Trump Announces 2026 Fall Garden Tours",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-announces-2026-fall-garden-tours/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "df372e153121decb",
@@ -153,99 +226,17 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "479d4c9dfc789ef3",
-   "ts": 1790693100,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Futures Rise As Oil Drops , Dragging Rates Lower",
-   "url": "https://www.zerohedge.com/markets/futures-rise-oil-drops-dragging-rates-lower",
-   "domain": "zerohedge.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "5ded3c9f80aef40f",
-   "ts": 1790690153,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms",
-   "domain": "SEC",
-   "org": "SEC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "14e9d090cf5fa932",
-   "ts": 1790689500,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "The High - Yielding Vanguard ETF That Belongs in Every Investor Portfolio Right Now",
-   "url": "https://www.fool.com/investing/2026/09/29/the-high-yielding-vanguard-etf-that-belongs-in-every-investor-s-portfolio-right-now/",
-   "domain": "fool.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "d2ae2d859a5278d6",
-   "ts": 1790688600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "The High - Yielding Vanguard ETF That Belongs in Every Investor Portfolio Right Now",
-   "url": "https://www.fool.com/investing/2026/09/29/the-high-yielding-vanguard-etf-that-belongs-in-every-investor-s-portfolio-right-now/?source=iedfolrf0000001",
-   "domain": "fool.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "3ed0ddba6de366c4",
-   "ts": 1790686800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "5 Things to Know Before the Stock Market Opens on Tuesday",
-   "url": "https://www.aol.com/articles/5-things-know-stock-market-120647000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "755db23172d74361",
-   "ts": 1790685900,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "iShares Morningstar Value ETF ( NYSEARCA : ILCV ) Short Interest Update",
-   "url": "https://www.dailypolitical.com/2026/09/29/ishares-morningstar-value-etf-nysearcailcv-short-interest-update-2.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 8
+   "n": 3
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -253,11 +244,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "White House": {
    "ok": true,
-   "n": 19
+   "n": 23
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -290,7 +281,7 @@
   },
   "BIS": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "Strategy (MSTR) filings": {
    "ok": true,
