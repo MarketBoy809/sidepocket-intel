@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-09-30T00:18:33Z",
- "generated_ts": 1790727513,
+ "generated_at": "2026-09-30T06:35:31Z",
+ "generated_ts": 1790750131,
  "prices": {
   "BTC": {
-   "p": 83438.3,
+   "p": 83076.2,
    "o": 83633.5,
    "h": 84527.1,
-   "l": 82735.1,
-   "v": 2169.63543632
+   "l": 82879.2,
+   "v": 2013.45574404
   },
   "ETH": {
-   "p": 2669.74,
+   "p": 2663.54,
    "o": 2676.7,
    "h": 2747.95,
-   "l": 2651.1,
-   "v": 35864.86571075
+   "l": 2661.74,
+   "v": 28808.55771924
   },
   "SOL": {
-   "p": 118.66,
+   "p": 118.51,
    "o": 119.11,
    "h": 121.67,
-   "l": 116.33,
-   "v": 468093.03791842
+   "l": 117.35,
+   "v": 461976.3475386
   }
  },
  "change_7d": {
-  "BTC": -0.029694755275786456,
-  "ETH": -0.02771865852152633,
-  "SOL": 0.004723346828610006
+  "BTC": -0.03625808874488868,
+  "ETH": -0.03023280273603968,
+  "SOL": 0.005404948906342375
  },
  "sentiment": {
-  "score": 51.0,
-  "label": "Neutral",
+  "score": 60.2,
+  "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 42.576311181053384,
-   "news_tone": 8.866666666666667,
-   "crowding": 57.9541165
+   "momentum": 40.93547781377783,
+   "crowding": 60.798415500000004
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +50,25 @@
   "label": "Greed",
   "ts": 1790726400
  },
- "news_tone_24h": -2.468,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.8517e-06,
-   "oi_usd": 2967225972.5218,
-   "premium": -0.0005414866
+   "funding_h": 4.5847e-06,
+   "oi_usd": 2934313433.37132,
+   "premium": -0.0004114523
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3176178271.9363985,
-   "premium": 7.48839e-05
+   "oi_usd": 3116568758.67108,
+   "premium": 0.0
   },
   "SOL": {
-   "funding_h": 7.4404e-06,
-   "oi_usd": 667308489.47412,
-   "premium": -0.0004632554
+   "funding_h": 1.25e-05,
+   "oi_usd": 663870843.6822001,
+   "premium": -0.0004218341
   }
  },
- "items_24h": 403,
+ "items_24h": 418,
  "top_items": [
   {
    "id": "a6fcb21bc6c14559",
@@ -88,20 +87,32 @@
    "score": 6231
   },
   {
-   "id": "1047e02c87e146a0",
-   "ts": 1790649186,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The Protect College Sport Act just passed in the U.S. Senate by a vote of 77-22. This is a really big deal. It will not only save college sports, it will save the colleges themselves. Congratulations to Randy Levine, President of the New York Yankees, and all of those who worked ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117351985093810875",
-   "domain": "truthsocial.com",
+   "id": "03ee9f9a0a428a8a",
+   "ts": 1790734800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
    "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 5807
+    "macro"
+   ]
+  },
+  {
+   "id": "38119ffa5e4abb0a",
+   "ts": 1790733600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Payment and Settlement Statistics (Aug.)",
+   "url": "http://www.boj.or.jp/en/statistics/set/kess/release/2026/kess2608.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "9f278deb4271fdfa",
@@ -213,26 +224,13 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
-  },
-  {
-   "id": "26042794f158586f",
-   "ts": 1790693100,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "The Price of Gold Today , Sept . 29 , 2026 and the Best Places to Buy",
-   "url": "https://www.cnbc.com/select/the-price-of-gold-today-sept-29-2026/",
-   "domain": "cnbc.com",
-   "tags": [
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 3
+   "n": 5
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -244,7 +242,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -269,7 +267,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "Bank of England": {
    "ok": true,
@@ -277,7 +275,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 10
+   "n": 11
   },
   "BIS": {
    "ok": true,
@@ -305,16 +303,15 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 25
+   "n": 23
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 24
+   "n": 22
   },
   "Reddit r/Bitcoin": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 24
   }
  }
 }
