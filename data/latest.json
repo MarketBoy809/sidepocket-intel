@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-09-30T06:35:31Z",
- "generated_ts": 1790750131,
+ "generated_at": "2026-09-30T13:34:46Z",
+ "generated_ts": 1790775286,
  "prices": {
   "BTC": {
-   "p": 83076.2,
+   "p": 85261.8,
    "o": 83633.5,
-   "h": 84527.1,
+   "h": 85604.0,
    "l": 82879.2,
-   "v": 2013.45574404
+   "v": 2432.24959128
   },
   "ETH": {
-   "p": 2663.54,
+   "p": 2724.5,
    "o": 2676.7,
-   "h": 2747.95,
-   "l": 2661.74,
-   "v": 28808.55771924
+   "h": 2737.61,
+   "l": 2656.5,
+   "v": 32395.49753219
   },
   "SOL": {
-   "p": 118.51,
+   "p": 122.1,
    "o": 119.11,
-   "h": 121.67,
+   "h": 122.79,
    "l": 117.35,
-   "v": 461976.3475386
+   "v": 554377.92902922
   }
  },
  "change_7d": {
-  "BTC": -0.03625808874488868,
-  "ETH": -0.03023280273603968,
-  "SOL": 0.005404948906342375
+  "BTC": -0.0026182089583668654,
+  "ETH": 0.0032412290211268464,
+  "SOL": 0.04251860723757378
  },
  "sentiment": {
-  "score": 60.2,
-  "label": "Greed",
+  "score": 55.9,
+  "label": "Neutral",
   "components": {
    "fng": 71.0,
-   "momentum": 40.93547781377783,
-   "crowding": 60.798415500000004
+   "momentum": 49.345447760408284,
+   "news_tone": 21.4,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Greed",
   "ts": 1790726400
  },
- "news_tone_24h": null,
+ "news_tone_24h": -1.716,
  "derivatives": {
   "BTC": {
-   "funding_h": 4.5847e-06,
-   "oi_usd": 2934313433.37132,
-   "premium": -0.0004114523
+   "funding_h": 1.25e-05,
+   "oi_usd": 2894232023.5884805,
+   "premium": -0.0003634275
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3116568758.67108,
-   "premium": 0.0
+   "oi_usd": 3156259357.3943996,
+   "premium": 8.07257e-05
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 663870843.6822001,
-   "premium": -0.0004218341
+   "oi_usd": 691355787.2760003,
+   "premium": -0.0003864506
   }
  },
- "items_24h": 418,
+ "items_24h": 362,
  "top_items": [
   {
    "id": "a6fcb21bc6c14559",
@@ -87,6 +88,144 @@
    "score": 6231
   },
   {
+   "id": "4c6a550f99bb5dd0",
+   "ts": 1790774100,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Meet the Low - Cost Vanguard ETF With 51 . 8 % Invested in Nvidia , Apple , Alphabet , Microsoft , and Amazon While VOO Has Just 30 %",
+   "url": "https://www.fool.com/investing/2026/09/30/mega-cap-growth-stocks-mgk-voo-nvidia-apple/?source=iedfolrf0000001",
+   "domain": "fool.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "64756001103a54dc",
+   "ts": 1790774100,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Stock Market Today Highlights : Stock markets fall for 3rd day ; Nifty down 96 points , Sensex slips to 72 , 480",
+   "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-30-september-2026/article71523523.ece",
+   "domain": "thehindubusinessline.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "975ec4f2519a9848",
+   "ts": 1790773200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "e973d9cf9393a8de",
+   "ts": 1790772300,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Iran receives US feedback on the seven - point proposal ; AUD lags post - CPI while DXY eyes PCE - Newsquawk US Market Open",
+   "url": "http://www.zerohedge.com/markets/iran-receives-us-feedback-seven-point-proposal-aud-lags-post-cpi-while-dxy-eyes-pce",
+   "domain": "zerohedge.com",
+   "tags": [
+    "macro",
+    "geo",
+    "institution"
+   ]
+  },
+  {
+   "id": "db9b68506b77bf78",
+   "ts": 1790770500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Reinvesting T . Rowe Price Dividend for 20 Years Changes the Math Completely . Here How .",
+   "url": "https://www.aol.com/articles/reinvesting-t-rowe-prices-dividend-113600000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "cbf6579daefd537f",
+   "ts": 1790769600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "LifeX 2050 Longevity Income ETF ( BATS : LFAI ) Sees Large Growth in Short Interest",
+   "url": "https://www.themarketsdaily.com/2026/09/30/lifex-2050-longevity-income-etf-batslfai-sees-large-growth-in-short-interest.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "011bb87a40f5d46c",
+   "ts": 1790766900,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Single - country ETFs surge as investors target AI , reform plays",
+   "url": "https://www.investmentnews.com/etfs/single-country-etfs-surge-as-investors-target-ai-reform-plays/268410",
+   "domain": "investmentnews.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "22ded81bd152aa88",
+   "ts": 1790760600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Financial Policy Committee Record – September 2026",
+   "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "a1daf7d913aa40be",
+   "ts": 1790755200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (October-December 2026)",
+   "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260930a.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "5888bc85c35713ae",
+   "ts": 1790751600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Liquidity Indicators in the JGB Markets (August)",
+   "url": "http://www.boj.or.jp/en/paym/bond/ryudo.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
    "id": "03ee9f9a0a428a8a",
    "ts": 1790734800,
    "source": "central_bank",
@@ -99,138 +238,13 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "38119ffa5e4abb0a",
-   "ts": 1790733600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Payment and Settlement Statistics (Aug.)",
-   "url": "http://www.boj.or.jp/en/statistics/set/kess/release/2026/kess2608.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "9f278deb4271fdfa",
-   "ts": 1790719200,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "JPMorgan Runs 2 Income ETFs Built for Monthly Cash Flow in 2026",
-   "url": "https://247wallst.com/investing/etf/2026/09/29/jpmorgan-runs-2-income-etfs-built-for-monthly-cash-flow-in-2026/",
-   "domain": "247wallst.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "3e03d85b0c1dc482",
-   "ts": 1790717064,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Fact Sheet: President Donald J. Trump Eliminates Disease-Carrying Pests and Restores Enjoyment of The Great Outdoors",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-eliminates-disease-carrying-pests-and-restores-enjoyment-of-the-great-outdoors/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "b61e881a900deee0",
-   "ts": 1790717028,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Eliminating Disease-Carrying Pests And Restoring Enjoyment Of The Great Outdoors",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/eliminating-disease-carrying-pests-and-restoring-enjoyment-of-the-great-outdoors/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "a5c0117397acc165",
-   "ts": 1790716866,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Fact Sheet: President Donald J. Trump Inaugurates The Era of Super Intelligence",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "08cae3f0392a37ed",
-   "ts": 1790716645,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Inaugurating The Era Of Super Intelligence",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "1478a16716375972",
-   "ts": 1790712000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "4a96927a5a504f29",
-   "ts": 1790708856,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "First Lady Melania Trump Announces 2026 Fall Garden Tours",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-announces-2026-fall-garden-tours/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "df372e153121decb",
-   "ts": 1790693454,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Streamlining Access to Government Services Through America.gov",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/streamlining-access-to-government-services-through-america-gov/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "fd169207b95c3dec",
-   "ts": 1790693135,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Fact Sheet: President Donald J. Trump Streamlines Access to Government Services Through America.gov",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-streamlines-access-to-government-services-through-america-gov/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 5
+   "n": 21
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -242,7 +256,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 6
   },
   "White House": {
    "ok": true,
@@ -263,19 +277,19 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "European Central Bank": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "Bank of England": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 11
+   "n": 13
   },
   "BIS": {
    "ok": true,
@@ -307,11 +321,12 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 19
   },
   "Reddit r/Bitcoin": {
-   "ok": true,
-   "n": 24
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
