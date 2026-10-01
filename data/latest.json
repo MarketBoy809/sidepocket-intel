@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-09-30T22:58:26Z",
- "generated_ts": 1790809106,
+ "generated_at": "2026-10-01T02:01:17Z",
+ "generated_ts": 1790820077,
  "prices": {
   "BTC": {
-   "p": 83649.6,
-   "o": 83633.5,
+   "p": 83504.8,
+   "o": 83564.7,
    "h": 85604.0,
    "l": 82920.1,
-   "v": 2723.60357453
+   "v": 2722.33628507
   },
   "ETH": {
-   "p": 2686.61,
-   "o": 2676.7,
+   "p": 2689.94,
+   "o": 2684.11,
    "h": 2737.61,
    "l": 2656.5,
-   "v": 37495.36773452
+   "v": 38073.87162656
   },
   "SOL": {
-   "p": 118.14,
-   "o": 119.11,
+   "p": 118.17,
+   "o": 118.06,
    "h": 122.79,
    "l": 117.0,
-   "v": 541694.27263304
+   "v": 538718.06347156
   }
  },
  "change_7d": {
-  "BTC": -0.008232763850341952,
-  "ETH": 0.002035762178153402,
-  "SOL": 0.028770706190061
+  "BTC": -0.007619108543967561,
+  "ETH": 0.005028808153773033,
+  "SOL": 0.028857890148212748
  },
  "sentiment": {
-  "score": 57.6,
+  "score": 64.4,
   "label": "Greed",
   "components": {
-   "fng": 71.0,
-   "momentum": 47.941809037414515,
-   "news_tone": 37.46666666666667,
-   "crowding": 59.131278
+   "fng": 74.0,
+   "momentum": 48.09522286400811,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -47,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 71,
+  "value": 74,
   "label": "Greed",
-  "ts": 1790726400
+  "ts": 1790812800
  },
- "news_tone_24h": -0.752,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2983683827.54376,
-   "premium": -5.61478e-05
+   "oi_usd": 2927301592.80528,
+   "premium": -9.69329e-05
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3200588856.9930224,
-   "premium": 0.0003943247
+   "oi_usd": 3218230700.4015217,
+   "premium": 0.0004458315
   },
   "SOL": {
-   "funding_h": 1.72e-08,
-   "oi_usd": 675895530.5362002,
-   "premium": -0.0004856283
+   "funding_h": 1.25e-05,
+   "oi_usd": 671942383.4930003,
+   "premium": -0.0002114612
   }
  },
- "items_24h": 401,
+ "items_24h": 446,
  "top_items": [
   {
    "id": "2309764e07d9b441",
@@ -87,6 +86,51 @@
    ],
    "author": "Donald Trump",
    "score": 22082
+  },
+  {
+   "id": "d510f4e9f11ee7c1",
+   "ts": 1790815288,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "In New York, I met with Lee Jae Myung, the President of the Republic of Korea, and we agreed to launch 200 Billion Dollars of new Investments in AMERICA! We will build American Energy and American Power across the United States under my 350 BILLION DOLLAR Korea Strategic Trade an",
+   "url": "https://truthsocial.com/@realDonaldTrump/117362870737690439",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro",
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 5222
+  },
+  {
+   "id": "fe1f52d0bd10f677",
+   "ts": 1790812200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026",
+   "url": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "e6de72b52ee6548d",
+   "ts": 1790812200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Tankan (Sept.): Summary and Outline",
+   "url": "http://www.boj.or.jp/en/statistics/tk/tankan09a.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "2178e8fbaed64a6e",
@@ -196,57 +240,17 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "e0b7c69e9422036a",
-   "ts": 1790804700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Harbor Human Capital Factor US Large Cap ETF ( NYSEARCA : HAPI ) Stock Short Interest Climbs 96 . 5 %",
-   "url": "https://www.dailypolitical.com/2026/09/30/harbor-human-capital-factor-us-large-cap-etf-nysearcahapi-stock-short-interest-climbs-96-5.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "56aed32ca2b941d7",
-   "ts": 1790804700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "5 Monthly Income ETFs Paying 6 . 39 % to 13 . 80 % to Start Q4",
-   "url": "https://www.aol.com/articles/5-monthly-income-etfs-paying-210526000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "bb3fa79d400ff8d7",
-   "ts": 1790804700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Who Keeps The Money When AI Rewrites Bank Code ?",
-   "url": "http://www.zerohedge.com/ai/who-keeps-money-when-ai-rewrites-bank-code",
-   "domain": "zerohedge.com",
-   "tags": [
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 36
+   "n": 22
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -254,11 +258,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 18
+   "n": 0
   },
   "White House": {
    "ok": true,
-   "n": 24
+   "n": 22
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -287,7 +291,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 13
+   "n": 14
   },
   "BIS": {
    "ok": true,
@@ -315,7 +319,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 24
+   "n": 23
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
