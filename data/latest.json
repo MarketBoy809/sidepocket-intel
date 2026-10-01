@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-10-01T02:01:17Z",
- "generated_ts": 1790820077,
+ "generated_at": "2026-10-01T08:44:07Z",
+ "generated_ts": 1790844247,
  "prices": {
   "BTC": {
-   "p": 83504.8,
+   "p": 83464.6,
    "o": 83564.7,
    "h": 85604.0,
-   "l": 82920.1,
-   "v": 2722.33628507
+   "l": 82981.3,
+   "v": 3004.20267041
   },
   "ETH": {
-   "p": 2689.94,
+   "p": 2682.23,
    "o": 2684.11,
    "h": 2737.61,
-   "l": 2656.5,
-   "v": 38073.87162656
+   "l": 2666.63,
+   "v": 42971.31763635
   },
   "SOL": {
-   "p": 118.17,
+   "p": 117.74,
    "o": 118.06,
    "h": 122.79,
    "l": 117.0,
-   "v": 538718.06347156
+   "v": 520940.82041028
   }
  },
  "change_7d": {
-  "BTC": -0.007619108543967561,
-  "ETH": 0.005028808153773033,
-  "SOL": 0.028857890148212748
+  "BTC": -0.013391287574649326,
+  "ETH": -0.006360983000245122,
+  "SOL": 0.016621937494589227
  },
  "sentiment": {
-  "score": 64.4,
+  "score": 56.9,
   "label": "Greed",
   "components": {
    "fng": 74.0,
-   "momentum": 48.09522286400811,
-   "crowding": 63.6875
+   "momentum": 46.65217810633767,
+   "news_tone": 31.083333333333336,
+   "crowding": 56.504884
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Greed",
   "ts": 1790812800
  },
- "news_tone_24h": null,
+ "news_tone_24h": -1.135,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2927301592.80528,
-   "premium": -9.69329e-05
+   "funding_h": 1.13786e-05,
+   "oi_usd": 2859390378.86908,
+   "premium": -0.0003616333
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3218230700.4015217,
-   "premium": 0.0004458315
+   "oi_usd": 3200591971.61138,
+   "premium": 7.45156e-05
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 671942383.4930003,
-   "premium": -0.0002114612
+   "funding_h": -6.057e-06,
+   "oi_usd": 662447154.5136006,
+   "premium": -0.0008063489
   }
  },
- "items_24h": 446,
+ "items_24h": 398,
  "top_items": [
   {
    "id": "2309764e07d9b441",
@@ -103,6 +104,99 @@
    ],
    "author": "Donald Trump",
    "score": 5222
+  },
+  {
+   "id": "9ac331227783398b",
+   "ts": 1790821145,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Iran's economy will have 'nothing' left 'within two weeks,' Scott Bessent warns: https://nypost.com/2026/09/27/us-news/irans-economy-will-have-nothing-left-within-two-weeks-scott-bessent-warns/",
+   "url": "https://truthsocial.com/@realDonaldTrump/117363254598194638",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 3295
+  },
+  {
+   "id": "f6024b9675a9d208",
+   "ts": 1790825322,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Senator who sued Jack Smith says she thinks he should be criminally prosecuted too: https://justthenews.com/accountability/political-ethics/th-us-senator-who-sued-jack-smith-says-she-thinks-he-should-be",
+   "url": "https://truthsocial.com/@realDonaldTrump/117363528339371665",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 2778
+  },
+  {
+   "id": "0a77574784a6b71e",
+   "ts": 1790825362,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard: https://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when",
+   "url": "https://truthsocial.com/@realDonaldTrump/117363530938149737",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2573
+  },
+  {
+   "id": "4acc0589d48537c0",
+   "ts": 1790821519,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT @realDonaldTrumpIn New York, I met with Lee Jae Myung, the President of the Republic of Korea, and we agreed to launch 200 Billion Dollars of new Investments in AMERICA! We will build American Energy and American Power across the United States under my 350 BILLION DOLLAR Korea",
+   "url": "https://truthsocial.com/@realDonaldTrump/117363279107343576",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro",
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 1
+  },
+  {
+   "id": "794d8f4d45ce7740",
+   "ts": 1790834400,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Invesco S & P SmallCap Quality ETF ( BATS : XSHQ ) Stock Short Interest Rises 92 . 5 %",
+   "url": "https://www.themarketsdaily.com/2026/10/01/invesco-sp-smallcap-quality-etf-batsxshq-stock-short-interest-rises-92-5.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "c82ec1302d5dffd6",
+   "ts": 1790827200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Sources of Changes in Current Account Balances and Market Operations (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf09.xlsx",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "fe1f52d0bd10f677",
@@ -158,95 +252,13 @@
     "crypto",
     "institution"
    ]
-  },
-  {
-   "id": "e640b44058e9ad33",
-   "ts": 1790805600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "ISHARES CORE GROWTH ALLOCATION ETF ( AOR ) Stock News & Articles",
-   "url": "https://247wallst.com/companies/aor/",
-   "domain": "247wallst.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "280e352a3df2c3ff",
-   "ts": 1790805600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "The Best Dividend ETF to Buy and Hold Through Every Market Cycle for the Next 30 Years",
-   "url": "https://www.fool.com/investing/2026/09/30/best-dividend-etf-buy-hold-every-market-30-years/",
-   "domain": "fool.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "c16239d9859d145d",
-   "ts": 1790805600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "iShares Interest Rate Hedged Corporate Bond ETF ( NYSEARCA : LQDH ) Sees Large Decrease in Short Interest",
-   "url": "https://www.themarketsdaily.com/2026/09/30/ishares-interest-rate-hedged-corporate-bond-etf-nysearcalqdh-sees-large-decrease-in-short-interest.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "crypto",
-    "macro",
-    "institution"
-   ]
-  },
-  {
-   "id": "54f2bf01fc3213ea",
-   "ts": 1790805600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "5 Monthly Income ETFs Paying 6 . 39 % to 13 . 80 % to Start Q4",
-   "url": "https://247wallst.com/investing/etf/2026/09/30/5-monthly-income-etfs-paying-6-39-to-13-80-to-start-q4/",
-   "domain": "247wallst.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "10cc167a847df14f",
-   "ts": 1790804700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "How to Start Investing in 2026 : The Growth Stock Im Buying Before Year - End",
-   "url": "https://www.aol.com/articles/start-investing-2026-growth-stock-205000000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "273979b020a23cf9",
-   "ts": 1790804700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "JPMorgan Chase & Co . ( NYSE : JPM ) Stock Price Down 1 . 1 % – Here What Happened",
-   "url": "https://www.themarketsdaily.com/2026/09/30/jpmorgan-chase-co-nysejpm-stock-price-down-1-1-heres-what-happened.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 22
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -258,11 +270,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "White House": {
    "ok": true,
-   "n": 22
+   "n": 24
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -291,7 +303,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "BIS": {
    "ok": true,
@@ -319,11 +331,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 23
+   "n": 27
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 18
+   "n": 17
   },
   "Reddit r/Bitcoin": {
    "ok": false,
