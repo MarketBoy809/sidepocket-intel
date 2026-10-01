@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-01T08:44:07Z",
- "generated_ts": 1790844247,
+ "generated_at": "2026-10-01T16:18:14Z",
+ "generated_ts": 1790871494,
  "prices": {
   "BTC": {
-   "p": 83464.6,
+   "p": 84302.5,
    "o": 83564.7,
-   "h": 85604.0,
-   "l": 82981.3,
-   "v": 3004.20267041
+   "h": 84436.3,
+   "l": 83124.8,
+   "v": 2972.60472918
   },
   "ETH": {
-   "p": 2682.23,
+   "p": 2684.5,
    "o": 2684.11,
-   "h": 2737.61,
-   "l": 2666.63,
-   "v": 42971.31763635
+   "h": 2719.98,
+   "l": 2666.66,
+   "v": 38660.43676671
   },
   "SOL": {
-   "p": 117.74,
+   "p": 117.43,
    "o": 118.06,
-   "h": 122.79,
-   "l": 117.0,
-   "v": 520940.82041028
+   "h": 120.5,
+   "l": 116.7,
+   "v": 347809.49057535
   }
  },
  "change_7d": {
-  "BTC": -0.013391287574649326,
-  "ETH": -0.006360983000245122,
-  "SOL": 0.016621937494589227
+  "BTC": -0.0032144031802331494,
+  "ETH": -0.0005329616267628121,
+  "SOL": 0.008770421324161616
  },
  "sentiment": {
-  "score": 56.9,
+  "score": 59.1,
   "label": "Greed",
   "components": {
    "fng": 74.0,
-   "momentum": 46.65217810633767,
-   "news_tone": 31.083333333333336,
-   "crowding": 56.504884
+   "momentum": 49.19639920494171,
+   "news_tone": 33.76666666666666,
+   "crowding": 62.609144
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +51,25 @@
   "label": "Greed",
   "ts": 1790812800
  },
- "news_tone_24h": -1.135,
+ "news_tone_24h": -0.974,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.13786e-05,
-   "oi_usd": 2859390378.86908,
-   "premium": -0.0003616333
+   "funding_h": 1.25e-05,
+   "oi_usd": 2853582357.53016,
+   "premium": -0.0003331907
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3200591971.61138,
-   "premium": 7.45156e-05
+   "oi_usd": 3214645712.2783985,
+   "premium": 0.0
   },
   "SOL": {
-   "funding_h": -6.057e-06,
-   "oi_usd": 662447154.5136006,
-   "premium": -0.0008063489
+   "funding_h": 9.5456e-06,
+   "oi_usd": 678907981.4382004,
+   "premium": -0.0004008951
   }
  },
- "items_24h": 398,
+ "items_24h": 359,
  "top_items": [
   {
    "id": "2309764e07d9b441",
@@ -138,6 +138,23 @@
    "score": 2778
   },
   {
+   "id": "c87f2ce418f7685e",
+   "ts": 1790869089,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I am pleased to announce the nomination of Todd Butler to the United States Court of Appeals for the Fifth Circuit! A proud graduate of Mississippi State University and Mississippi College of Law (Graduating summa cum laude from both!), Todd is currently a Partner at Phelps Dunba",
+   "url": "https://truthsocial.com/@realDonaldTrump/117366396669364721",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2626
+  },
+  {
    "id": "0a77574784a6b71e",
    "ts": 1790825362,
    "source": "truth",
@@ -152,6 +169,23 @@
    ],
    "author": "Donald Trump",
    "score": 2573
+  },
+  {
+   "id": "6094efa80a3f303b",
+   "ts": 1790870278,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I am pleased to announce the nomination of Philip Aubart to the United States District Court for the Middle District of North Carolina! Phil is currently the First Assistant U.S. Attorney in the Eastern District of North Carolina, where he once served in the Office's Violent Crim",
+   "url": "https://truthsocial.com/@realDonaldTrump/117366474576378383",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1509
   },
   {
    "id": "4acc0589d48537c0",
@@ -171,82 +205,54 @@
    "score": 1
   },
   {
-   "id": "794d8f4d45ce7740",
-   "ts": 1790834400,
+   "id": "e4e17ec1fd34f77c",
+   "ts": 1790869500,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Invesco S & P SmallCap Quality ETF ( BATS : XSHQ ) Stock Short Interest Rises 92 . 5 %",
-   "url": "https://www.themarketsdaily.com/2026/10/01/invesco-sp-smallcap-quality-etf-batsxshq-stock-short-interest-rises-92-5.html",
-   "domain": "themarketsdaily.com",
+   "title": "Had You Bought This Vanguard ETF at the Start of January , Youd be Obliterating the S & P 500 in 2026",
+   "url": "https://www.fool.com/investing/2026/10/01/had-you-bought-vanguard-etf-january-sp-500-2026/?source=iedfolrf0000001",
+   "domain": "fool.com",
    "tags": [
     "crypto",
     "institution"
    ]
   },
   {
-   "id": "c82ec1302d5dffd6",
-   "ts": 1790827200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Sources of Changes in Current Account Balances and Market Operations (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf09.xlsx",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "fe1f52d0bd10f677",
-   "ts": 1790812200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026",
-   "url": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "e6de72b52ee6548d",
-   "ts": 1790812200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Tankan (Sept.): Summary and Outline",
-   "url": "http://www.boj.or.jp/en/statistics/tk/tankan09a.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "2178e8fbaed64a6e",
-   "ts": 1790805600,
+   "id": "dd81f36a998dadcc",
+   "ts": 1790869500,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "How to Start Investing in 2026 : The Growth Stock Im Buying Before Year - End",
-   "url": "https://www.fool.com/investing/2026/09/30/how-to-start-investing-in-2026-the-growth-stock-im/",
+   "title": "Better Energy Sector ETF : Vanguard Energy ETF or First Trust Infrastructure Fund ?",
+   "url": "https://www.fool.com/coverage/etfs/2026/10/01/better-energy-sector-etf-vanguard-energy-etf-or-first-trust-infrastructure-fund/?source=iedfolrf0000001",
+   "domain": "fool.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "770f2562dc36f241",
+   "ts": 1790869500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Prediction : Here What a $5 , 000 Investment in VUG Could Be Worth in 20 Years",
+   "url": "https://www.fool.com/investing/2026/10/01/prediction-5000-investment-vug-turns-into-20-years/?source=iedfolrf0000001",
    "domain": "fool.com",
    "tags": [
     "institution"
    ]
   },
   {
-   "id": "7138dded4c532afb",
-   "ts": 1790805600,
+   "id": "bcb40b02ffe2abcb",
+   "ts": 1790868600,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "This Overlooked Vanguard ETF Could Be the Smartest Place to Park Your Money Right Now",
-   "url": "https://www.fool.com/investing/2026/09/30/this-overlooked-vanguard-etf-could-be-the-smartest/",
+   "title": "Had You Bought This Vanguard ETF at the Start of January , Youd be Obliterating the S & P 500 in 2026",
+   "url": "https://www.fool.com/investing/2026/10/01/had-you-bought-vanguard-etf-january-sp-500-2026/",
    "domain": "fool.com",
    "tags": [
     "crypto",
@@ -262,7 +268,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -270,11 +276,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 1
+   "n": 11
   },
   "White House": {
    "ok": true,
-   "n": 24
+   "n": 22
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -283,15 +289,15 @@
   },
   "SEC": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "CFTC": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 5
+   "n": 4
   },
   "European Central Bank": {
    "ok": true,
@@ -299,7 +305,7 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "Bank of Japan": {
    "ok": true,
@@ -307,11 +313,11 @@
   },
   "BIS": {
    "ok": true,
-   "n": 0
+   "n": 2
   },
   "Strategy (MSTR) filings": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "Coinbase filings": {
    "ok": true,
@@ -331,11 +337,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 27
+   "n": 28
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 17
+   "n": 18
   },
   "Reddit r/Bitcoin": {
    "ok": false,
