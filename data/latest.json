@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-01T16:18:14Z",
- "generated_ts": 1790871494,
+ "generated_at": "2026-10-01T21:45:20Z",
+ "generated_ts": 1790891120,
  "prices": {
   "BTC": {
-   "p": 84302.5,
+   "p": 84465.5,
    "o": 83564.7,
-   "h": 84436.3,
+   "h": 85238.6,
    "l": 83124.8,
-   "v": 2972.60472918
+   "v": 3370.94217009
   },
   "ETH": {
-   "p": 2684.5,
+   "p": 2688.86,
    "o": 2684.11,
    "h": 2719.98,
-   "l": 2666.66,
-   "v": 38660.43676671
+   "l": 2672.35,
+   "v": 35411.63979411
   },
   "SOL": {
-   "p": 117.43,
+   "p": 117.39,
    "o": 118.06,
-   "h": 120.5,
+   "h": 119.55,
    "l": 116.7,
-   "v": 347809.49057535
+   "v": 296289.7485101
   }
  },
  "change_7d": {
-  "BTC": -0.0032144031802331494,
-  "ETH": -0.0005329616267628121,
-  "SOL": 0.008770421324161616
+  "BTC": 0.002960852634513882,
+  "ETH": 0.0037731074926323463,
+  "SOL": 0.010957027906180458
  },
  "sentiment": {
-  "score": 59.1,
+  "score": 58.7,
   "label": "Greed",
   "components": {
    "fng": 74.0,
-   "momentum": 49.19639920494171,
-   "news_tone": 33.76666666666666,
-   "crowding": 62.609144
+   "momentum": 50.74021315862847,
+   "news_tone": 35.016666666666666,
+   "crowding": 57.0370175
   },
   "weights": {
    "fng": 0.35,
@@ -51,42 +51,58 @@
   "label": "Greed",
   "ts": 1790812800
  },
- "news_tone_24h": -0.974,
+ "news_tone_24h": -0.899,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2853582357.53016,
-   "premium": -0.0003331907
+   "funding_h": -5.7205e-06,
+   "oi_usd": 2927270167.66912,
+   "premium": -0.0005444109
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3214645712.2783985,
-   "premium": 0.0
+   "oi_usd": 3175081614.309226,
+   "premium": -7.80666e-05
   },
   "SOL": {
-   "funding_h": 9.5456e-06,
-   "oi_usd": 678907981.4382004,
-   "premium": -0.0004008951
+   "funding_h": 1.25e-05,
+   "oi_usd": 664764910.3367999,
+   "premium": -0.0003108063
   }
  },
- "items_24h": 359,
+ "items_24h": 281,
  "top_items": [
   {
-   "id": "2309764e07d9b441",
-   "ts": 1790797683,
+   "id": "ff716d11ef9f1d3f",
+   "ts": 1790877287,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "The Inspector General's Report just came out on Jerome \"Too Late\" Powell's \"renovation\" of the Federal Reserve Headquarters in Washington, D.C. The IG's Report states that there were \"deficiencies in the management of the renovation project.\" The Building is over budget, at a Rec",
-   "url": "https://truthsocial.com/@realDonaldTrump/117361716972225267",
+   "title": "I stated, numerous times, that it would take 4-6 weeks to get rid of THE IRAN NUCLEAR THREAT, and I did it in one night! The rest of the time is just to make sure it stays that way. President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117366933918841897",
    "domain": "truthsocial.com",
    "tags": [
-    "crypto",
-    "macro"
+    "geo"
    ],
    "author": "Donald Trump",
-   "score": 22082
+   "score": 10247
+  },
+  {
+   "id": "74ffddd0685f9f25",
+   "ts": 1790872020,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I am pleased to announce the nomination of Brian Meyers to the United States District Court for the Eastern District of North Carolina! Currently a Magistrate Judge on that same Court, Brian previously served as an Assistant U.S. Attorney for more than a decade in the Eastern Dis",
+   "url": "https://truthsocial.com/@realDonaldTrump/117366588767807179",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 7483
   },
   {
    "id": "d510f4e9f11ee7c1",
@@ -205,13 +221,13 @@
    "score": 1
   },
   {
-   "id": "e4e17ec1fd34f77c",
-   "ts": 1790869500,
+   "id": "7c707f0e6f10b326",
+   "ts": 1790885700,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Had You Bought This Vanguard ETF at the Start of January , Youd be Obliterating the S & P 500 in 2026",
-   "url": "https://www.fool.com/investing/2026/10/01/had-you-bought-vanguard-etf-january-sp-500-2026/?source=iedfolrf0000001",
+   "title": "Is the Schwab International Equity ETF or Vanguard Total World Stock ETF Better for Long - Term Diversification ?",
+   "url": "https://www.fool.com/coverage/etfs/2026/10/01/is-the-schwab-international-equity-etf-or-vanguard-total-world-stock-etf-better-for-long-term-diversification/?source=iedfolrf0000001",
    "domain": "fool.com",
    "tags": [
     "crypto",
@@ -219,43 +235,30 @@
    ]
   },
   {
-   "id": "dd81f36a998dadcc",
-   "ts": 1790869500,
+   "id": "27dec445fdc0b6d1",
+   "ts": 1790885700,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Better Energy Sector ETF : Vanguard Energy ETF or First Trust Infrastructure Fund ?",
-   "url": "https://www.fool.com/coverage/etfs/2026/10/01/better-energy-sector-etf-vanguard-energy-etf-or-first-trust-infrastructure-fund/?source=iedfolrf0000001",
-   "domain": "fool.com",
+   "title": "SEC sues fake crypto AI platform , alleges $12 . 5M taken from 300 investors",
+   "url": "https://www.investmentnews.com/regulation-legal-compliance/fake-signals-frozen-accounts-sec-sues-crypto-ai-platform-over-125m/268436",
+   "domain": "investmentnews.com",
    "tags": [
     "crypto",
+    "regulation",
     "institution"
    ]
   },
   {
-   "id": "770f2562dc36f241",
-   "ts": 1790869500,
+   "id": "3a6cf5a2823a852c",
+   "ts": 1790885700,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Prediction : Here What a $5 , 000 Investment in VUG Could Be Worth in 20 Years",
-   "url": "https://www.fool.com/investing/2026/10/01/prediction-5000-investment-vug-turns-into-20-years/?source=iedfolrf0000001",
-   "domain": "fool.com",
+   "title": "AI financial advice lifts demand for human advisors , says Vanguard",
+   "url": "https://www.investmentnews.com/fintech/ai-financial-advice-lifts-demand-for-human-advisors-says-vanguard/268433",
+   "domain": "investmentnews.com",
    "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "bcb40b02ffe2abcb",
-   "ts": 1790868600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Had You Bought This Vanguard ETF at the Start of January , Youd be Obliterating the S & P 500 in 2026",
-   "url": "https://www.fool.com/investing/2026/10/01/had-you-bought-vanguard-etf-january-sp-500-2026/",
-   "domain": "fool.com",
-   "tags": [
-    "crypto",
     "institution"
    ]
   }
@@ -268,7 +271,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -276,7 +279,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 11
+   "n": 14
   },
   "White House": {
    "ok": true,
@@ -289,15 +292,15 @@
   },
   "SEC": {
    "ok": true,
-   "n": 6
+   "n": 7
   },
   "CFTC": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "European Central Bank": {
    "ok": true,
@@ -333,15 +336,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 38
+   "n": 39
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 28
+   "n": 29
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 18
+   "n": 19
   },
   "Reddit r/Bitcoin": {
    "ok": false,
