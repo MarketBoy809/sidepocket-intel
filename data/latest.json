@@ -1,41 +1,40 @@
 {
- "generated_at": "2026-10-02T08:23:08Z",
- "generated_ts": 1790929388,
+ "generated_at": "2026-10-02T15:42:27Z",
+ "generated_ts": 1790955747,
  "prices": {
   "BTC": {
-   "p": 86390.8,
+   "p": 85417.4,
    "o": 84849.2,
-   "h": 86865.8,
-   "l": 83124.8,
-   "v": 4204.18045733
+   "h": 87229.0,
+   "l": 83795.5,
+   "v": 4642.28147303
   },
   "ETH": {
-   "p": 2759.8,
+   "p": 2695.7,
    "o": 2705.62,
    "h": 2776.46,
-   "l": 2672.35,
-   "v": 37719.57630018
+   "l": 2672.76,
+   "v": 43752.33528612
   },
   "SOL": {
-   "p": 122.51,
+   "p": 119.92,
    "o": 118.39,
    "h": 123.74,
-   "l": 116.7,
-   "v": 400233.32090395
+   "l": 116.86,
+   "v": 443139.85118725
   }
  },
  "change_7d": {
-  "BTC": 0.024576576791016738,
-  "ETH": 0.024163339233524123,
-  "SOL": 0.04572017875558618
+  "BTC": 0.019930913689491656,
+  "ETH": 0.005023317244372869,
+  "SOL": 0.001660853678790922
  },
  "sentiment": {
-  "score": 60.5,
+  "score": 65.4,
   "label": "Greed",
   "components": {
    "fng": 72.0,
-   "momentum": 56.14414419775419,
-   "news_tone": 36.56666666666666,
+   "momentum": 54.982728422372915,
    "crowding": 63.6875
   },
   "weights": {
@@ -51,26 +50,42 @@
   "label": "Greed",
   "ts": 1790899200
  },
- "news_tone_24h": -0.806,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3047879223.59976,
-   "premium": -0.0003194127
+   "oi_usd": 3237937276.32896,
+   "premium": -2.34132e-05
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3315043237.793702,
-   "premium": 0.0001449013
+   "oi_usd": 3281418567.625117,
+   "premium": 4.07862e-05
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 653132704.2534004,
-   "premium": -3.67273e-05
+   "oi_usd": 644604846.7031997,
+   "premium": -6.25378e-05
   }
  },
- "items_24h": 258,
+ "items_24h": 220,
  "top_items": [
+  {
+   "id": "9e1302afa0177a2b",
+   "ts": 1790944729,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I am thrilled to announce the Republic of Korea Deal keeps getting BETTER! 8.4 Billion Dollars for an enhanced Oil Recovery Project. Producing more Oil and Gas means American Energy Dominance and Energy Security in the World for the Future! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117371353802794328",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro"
+   ],
+   "author": "Donald Trump",
+   "score": 10691
+  },
   {
    "id": "ff716d11ef9f1d3f",
    "ts": 1790877287,
@@ -103,23 +118,6 @@
    ],
    "author": "Donald Trump",
    "score": 7483
-  },
-  {
-   "id": "c87f2ce418f7685e",
-   "ts": 1790869089,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I am pleased to announce the nomination of Todd Butler to the United States Court of Appeals for the Fifth Circuit! A proud graduate of Mississippi State University and Mississippi College of Law (Graduating summa cum laude from both!), Todd is currently a Partner at Phelps Dunba",
-   "url": "https://truthsocial.com/@realDonaldTrump/117366396669364721",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2626
   },
   {
    "id": "a5b4cf6559e7ed10",
@@ -155,6 +153,48 @@
    ],
    "author": "Donald Trump",
    "score": 1509
+  },
+  {
+   "id": "59322cafa4d9f76d",
+   "ts": 1790953200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "cb6784f470aac7a0",
+   "ts": 1790946000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "8e0117d0169f1676",
+   "ts": 1790940600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "ec8f2871a4e8e539",
@@ -212,52 +252,13 @@
     "BTC",
     "institution"
    ]
-  },
-  {
-   "id": "bd0eadc97e24ee78",
-   "ts": 1790903700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "3 Growth ETFs to Buy Before 2027 : One Charges Just 0 . 03 %",
-   "url": "https://www.aol.com/articles/3-growth-etfs-buy-2027-000301000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "b95c3976f27c8831",
-   "ts": 1790903700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Friday big stock stories : What likely to move the market",
-   "url": "https://www.cnbc.com/2026/10/01/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
-   "domain": "cnbc.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "b22c8a2c87719b27",
-   "ts": 1790903700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "The Hidden Cost of Owning Every Stock : $167 , 050 of a $500 , 000 VTI Position Sits in Its Top Ten Names",
-   "url": "https://www.aol.com/articles/hidden-cost-owning-every-stock-003342000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 14
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -273,7 +274,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 23
+   "n": 24
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -290,11 +291,11 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "European Central Bank": {
    "ok": true,
-   "n": 7
+   "n": 9
   },
   "Bank of England": {
    "ok": true,
@@ -310,7 +311,7 @@
   },
   "Strategy (MSTR) filings": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "Coinbase filings": {
    "ok": true,
@@ -330,11 +331,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 30
+   "n": 31
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
