@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-10-02T01:34:03Z",
- "generated_ts": 1790904843,
+ "generated_at": "2026-10-02T08:23:08Z",
+ "generated_ts": 1790929388,
  "prices": {
   "BTC": {
-   "p": 84604.4,
+   "p": 86390.8,
    "o": 84849.2,
-   "h": 85238.6,
+   "h": 86865.8,
    "l": 83124.8,
-   "v": 3352.44548801
+   "v": 4204.18045733
   },
   "ETH": {
-   "p": 2701.9,
+   "p": 2759.8,
    "o": 2705.62,
-   "h": 2719.98,
+   "h": 2776.46,
    "l": 2672.35,
-   "v": 34044.91364617
+   "v": 37719.57630018
   },
   "SOL": {
-   "p": 118.82,
+   "p": 122.51,
    "o": 118.39,
-   "h": 119.55,
+   "h": 123.74,
    "l": 116.7,
-   "v": 295647.90884738
+   "v": 400233.32090395
   }
  },
  "change_7d": {
-  "BTC": 0.002188758422291986,
-  "ETH": 0.0065954575366299895,
-  "SOL": 0.012436115843270815
+  "BTC": 0.024576576791016738,
+  "ETH": 0.024163339233524123,
+  "SOL": 0.04572017875558618
  },
  "sentiment": {
-  "score": 63.6,
+  "score": 60.5,
   "label": "Greed",
   "components": {
    "fng": 72.0,
-   "momentum": 50.547189605572996,
-   "crowding": 61.3208765
+   "momentum": 56.14414419775419,
+   "news_tone": 36.56666666666666,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Greed",
   "ts": 1790899200
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.806,
  "derivatives": {
   "BTC": {
-   "funding_h": 6.0161e-06,
-   "oi_usd": 2931310756.35108,
-   "premium": -0.0004726127
+   "funding_h": 1.25e-05,
+   "oi_usd": 3047879223.59976,
+   "premium": -0.0003194127
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3193120841.333639,
-   "premium": 3.69905e-05
+   "oi_usd": 3315043237.793702,
+   "premium": 0.0001449013
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 671041256.8020003,
-   "premium": -0.0002523765
+   "oi_usd": 653132704.2534004,
+   "premium": -3.67273e-05
   }
  },
- "items_24h": 245,
+ "items_24h": 258,
  "top_items": [
   {
    "id": "ff716d11ef9f1d3f",
@@ -104,38 +105,6 @@
    "score": 7483
   },
   {
-   "id": "9ac331227783398b",
-   "ts": 1790821145,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Iran's economy will have 'nothing' left 'within two weeks,' Scott Bessent warns: https://nypost.com/2026/09/27/us-news/irans-economy-will-have-nothing-left-within-two-weeks-scott-bessent-warns/",
-   "url": "https://truthsocial.com/@realDonaldTrump/117363254598194638",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 3295
-  },
-  {
-   "id": "f6024b9675a9d208",
-   "ts": 1790825322,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Senator who sued Jack Smith says she thinks he should be criminally prosecuted too: https://justthenews.com/accountability/political-ethics/th-us-senator-who-sued-jack-smith-says-she-thinks-he-should-be",
-   "url": "https://truthsocial.com/@realDonaldTrump/117363528339371665",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 2778
-  },
-  {
    "id": "c87f2ce418f7685e",
    "ts": 1790869089,
    "source": "truth",
@@ -153,20 +122,22 @@
    "score": 2626
   },
   {
-   "id": "0a77574784a6b71e",
-   "ts": 1790825362,
+   "id": "a5b4cf6559e7ed10",
+   "ts": 1790914362,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Media coverage of Trump's CNN ouster, Jack Smith spying on news outlets exposes double standard: https://justthenews.com/government/white-house/first-amendment-emergency-only-when-trump-bans-legacy-media-not-when",
-   "url": "https://truthsocial.com/@realDonaldTrump/117363530938149737",
+   "title": "Republicans in the Senate have to get moving on what I call the \"No More Changing of Clocks Act,\" officially known as The Sunshine Protection Act, a ridiculous Clock changing process that takes place twice a year, costs our Country a fortune, is bad for Crime, stress on people, S",
+   "url": "https://truthsocial.com/@realDonaldTrump/117369363664701946",
    "domain": "truthsocial.com",
    "tags": [
+    "macro",
+    "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 2573
+   "score": 2366
   },
   {
    "id": "6094efa80a3f303b",
@@ -186,21 +157,46 @@
    "score": 1509
   },
   {
-   "id": "4acc0589d48537c0",
-   "ts": 1790821519,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT @realDonaldTrumpIn New York, I met with Lee Jae Myung, the President of the Republic of Korea, and we agreed to launch 200 Billion Dollars of new Investments in AMERICA! We will build American Energy and American Power across the United States under my 350 BILLION DOLLAR Korea",
-   "url": "https://truthsocial.com/@realDonaldTrump/117363279107343576",
-   "domain": "truthsocial.com",
+   "id": "ec8f2871a4e8e539",
+   "ts": 1790928000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
+   "url": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
+   "domain": "Bank of England",
+   "org": "Bank of England",
    "tags": [
-    "macro",
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 1
+    "macro"
+   ]
+  },
+  {
+   "id": "353bc482f506c721",
+   "ts": 1790928000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Japanese Government Bonds Held by the Bank of Japan",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260930.xlsx",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "fae2292097e098ae",
+   "ts": 1790928000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Collateral Accepted by the Bank of Japan (End of Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/col/col2609.xlsx",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "7229c57dd081279e",
@@ -261,7 +257,7 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 34
+   "n": 14
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -273,11 +269,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 29
+   "n": 0
   },
   "White House": {
    "ok": true,
-   "n": 25
+   "n": 23
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -306,7 +302,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 16
+   "n": 13
   },
   "BIS": {
    "ok": true,
@@ -334,11 +330,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 29
+   "n": 30
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
