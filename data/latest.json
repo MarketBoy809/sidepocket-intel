@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-10-02T15:42:27Z",
- "generated_ts": 1790955747,
+ "generated_at": "2026-10-02T20:38:14Z",
+ "generated_ts": 1790973494,
  "prices": {
   "BTC": {
-   "p": 85417.4,
+   "p": 84412.4,
    "o": 84849.2,
    "h": 87229.0,
-   "l": 83795.5,
-   "v": 4642.28147303
+   "l": 83860.7,
+   "v": 5220.59839297
   },
   "ETH": {
-   "p": 2695.7,
+   "p": 2668.06,
    "o": 2705.62,
    "h": 2776.46,
-   "l": 2672.76,
-   "v": 43752.33528612
+   "l": 2650.41,
+   "v": 50705.73912946
   },
   "SOL": {
-   "p": 119.92,
+   "p": 118.01,
    "o": 118.39,
    "h": 123.74,
-   "l": 116.86,
-   "v": 443139.85118725
+   "l": 117.12,
+   "v": 544939.53397671
   }
  },
  "change_7d": {
-  "BTC": 0.019930913689491656,
-  "ETH": 0.005023317244372869,
-  "SOL": 0.001660853678790922
+  "BTC": 0.003437592816017943,
+  "ETH": -0.0092472239759348,
+  "SOL": -0.032244830981293014
  },
  "sentiment": {
-  "score": 65.4,
+  "score": 58.0,
   "label": "Greed",
   "components": {
    "fng": 72.0,
-   "momentum": 54.982728422372915,
-   "crowding": 63.6875
+   "momentum": 50.859398204004485,
+   "news_tone": 32.36666666666667,
+   "crowding": 60.3134765
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Greed",
   "ts": 1790899200
  },
- "news_tone_24h": null,
+ "news_tone_24h": -1.058,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3237937276.32896,
-   "premium": -2.34132e-05
+   "oi_usd": 3156373437.1759996,
+   "premium": -0.0002487385
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3281418567.625117,
-   "premium": 4.07862e-05
+   "oi_usd": 3281794022.6639395,
+   "premium": 0.000161129
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 644604846.7031997,
-   "premium": -6.25378e-05
+   "funding_h": 3.2561e-06,
+   "oi_usd": 641875779.9672,
+   "premium": -0.0005083453
   }
  },
- "items_24h": 220,
+ "items_24h": 164,
  "top_items": [
   {
    "id": "9e1302afa0177a2b",
@@ -85,39 +86,6 @@
    ],
    "author": "Donald Trump",
    "score": 10691
-  },
-  {
-   "id": "ff716d11ef9f1d3f",
-   "ts": 1790877287,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I stated, numerous times, that it would take 4-6 weeks to get rid of THE IRAN NUCLEAR THREAT, and I did it in one night! The rest of the time is just to make sure it stays that way. President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117366933918841897",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 10247
-  },
-  {
-   "id": "74ffddd0685f9f25",
-   "ts": 1790872020,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I am pleased to announce the nomination of Brian Meyers to the United States District Court for the Eastern District of North Carolina! Currently a Magistrate Judge on that same Court, Brian previously served as an Assistant U.S. Attorney for more than a decade in the Eastern Dis",
-   "url": "https://truthsocial.com/@realDonaldTrump/117366588767807179",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 7483
   },
   {
    "id": "a5b4cf6559e7ed10",
@@ -138,21 +106,93 @@
    "score": 2366
   },
   {
-   "id": "6094efa80a3f303b",
-   "ts": 1790870278,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I am pleased to announce the nomination of Philip Aubart to the United States District Court for the Middle District of North Carolina! Phil is currently the First Assistant U.S. Attorney in the Eastern District of North Carolina, where he once served in the Office's Violent Crim",
-   "url": "https://truthsocial.com/@realDonaldTrump/117366474576378383",
-   "domain": "truthsocial.com",
+   "id": "caf5ead97eda484d",
+   "ts": 1790971464,
+   "source": "institution",
+   "group": "institution",
+   "kind": "official",
+   "title": "8-K - Current report",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000113/0001679788-26-000113-index.htm",
+   "domain": "Coinbase filings",
+   "org": "Coinbase filings",
    "tags": [
-    "geo",
+    "institution"
+   ]
+  },
+  {
+   "id": "fe551cc7e923e4e8",
+   "ts": 1790971200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro",
     "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1509
+   ]
+  },
+  {
+   "id": "6ff10422c1f95681",
+   "ts": 1790969398,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "National Manufacturing Day, 2026",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "afa97951d7de0551",
+   "ts": 1790965692,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on National Cybersecurity Awareness Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-cybersecurity-awareness-month/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "085309dc1d4d8b57",
+   "ts": 1790965508,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on National Domestic Violence Awareness Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-domestic-violence-awareness-month/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "e0dbec0679d0bb7e",
+   "ts": 1790965313,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on Down Syndrome Awareness Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-down-syndrome-awareness-month-b663/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "2a41479abcbcbddc",
+   "ts": 1790965221,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on National Breast Cancer Awareness Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-breast-cancer-awareness-month-a680/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "59322cafa4d9f76d",
@@ -194,63 +234,6 @@
    "org": "European Central Bank",
    "tags": [
     "macro"
-   ]
-  },
-  {
-   "id": "ec8f2871a4e8e539",
-   "ts": 1790928000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
-   "url": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "353bc482f506c721",
-   "ts": 1790928000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Japanese Government Bonds Held by the Bank of Japan",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260930.xlsx",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "fae2292097e098ae",
-   "ts": 1790928000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Collateral Accepted by the Bank of Japan (End of Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/col/col2609.xlsx",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "7229c57dd081279e",
-   "ts": 1790903700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "AI Predicts BTC as Bitcoin Beats Gold and Stocks Again",
-   "url": "https://www.coinspeaker.com/ai-predicts-btc-as-bitcoin-beats-gold-and-stocks-again/",
-   "domain": "coinspeaker.com",
-   "tags": [
-    "crypto",
-    "BTC",
-    "institution"
    ]
   }
  ],
@@ -315,7 +298,7 @@
   },
   "Coinbase filings": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "CoinDesk": {
    "ok": true,
@@ -331,11 +314,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 31
+   "n": 30
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 21
   },
   "Reddit r/Bitcoin": {
    "ok": false,
