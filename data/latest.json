@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-03T12:26:14Z",
- "generated_ts": 1791030374,
+ "generated_at": "2026-10-03T17:10:50Z",
+ "generated_ts": 1791047450,
  "prices": {
   "BTC": {
-   "p": 84885.1,
+   "p": 84874.1,
    "o": 84503.7,
-   "h": 87229.0,
+   "h": 85078.3,
    "l": 83860.7,
-   "v": 3545.87970524
+   "v": 1709.79621775
   },
   "ETH": {
-   "p": 2685.01,
+   "p": 2683.56,
    "o": 2668.1,
-   "h": 2768.75,
+   "h": 2688.51,
    "l": 2650.41,
-   "v": 38140.91973201
+   "v": 20775.50239908
   },
   "SOL": {
-   "p": 119.58,
+   "p": 119.86,
    "o": 118.62,
-   "h": 123.48,
+   "h": 119.98,
    "l": 117.12,
-   "v": 341564.56196744
+   "v": 232820.30824394
   }
  },
  "change_7d": {
-  "BTC": 0.0060212609736328745,
-  "ETH": -0.001851996474512573,
-  "SOL": -0.016244743135152957
+  "BTC": 0.0089035875692444,
+  "ETH": -0.003704928632743934,
+  "SOL": -0.015786877158362123
  },
  "sentiment": {
-  "score": 60.9,
+  "score": 60.6,
   "label": "Greed",
   "components": {
    "fng": 67.0,
-   "momentum": 51.50531524340822,
-   "crowding": 59.2792855
+   "momentum": 52.2258968923111,
+   "crowding": 57.0562165
   },
   "weights": {
    "fng": 0.35,
@@ -53,38 +53,55 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3124005331.95372,
-   "premium": -0.0003651441
+   "funding_h": 9.7206e-06,
+   "oi_usd": 3114918164.2187557,
+   "premium": -0.0005419033
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3232868616.004321,
-   "premium": -0.0003649255
+   "oi_usd": 3224188903.203179,
+   "premium": -0.0004396292
   },
   "SOL": {
-   "funding_h": 4.227e-07,
-   "oi_usd": 654465171.7232,
-   "premium": -0.0004657358
+   "funding_h": -2.8885e-06,
+   "oi_usd": 653084629.921422,
+   "premium": -0.000542141
   }
  },
  "items_24h": 54,
  "top_items": [
   {
-   "id": "9e1302afa0177a2b",
-   "ts": 1790944729,
+   "id": "29844e4eddaa101b",
+   "ts": 1791032202,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "I am thrilled to announce the Republic of Korea Deal keeps getting BETTER! 8.4 Billion Dollars for an enhanced Oil Recovery Project. Producing more Oil and Gas means American Energy Dominance and Energy Security in the World for the Future! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117371353802794328",
+   "title": "If Republicans win the House of Representatives and the Senate in the 2026 Midterm Elections, I'm going to give all Adult Citizens in the United States of America, $5,000. Thank you for your attention to this matter, and I look forward to signing those checks! President DONALD J.",
+   "url": "https://truthsocial.com/@realDonaldTrump/117377086414457258",
    "domain": "truthsocial.com",
    "tags": [
-    "macro"
+    "regulation"
    ],
    "author": "Donald Trump",
-   "score": 10691
+   "score": 8648
+  },
+  {
+   "id": "591f7dfeaef3f8e8",
+   "ts": 1791037940,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Everybody in Arkansas, Tom Cotton, a friend of mine, is holding up a very important Bill. It's called, \"The Sunshine Protection Act\" or, \"We Don't Want to Change Our Clocks Twice a Year Act.\" For some reason, Tom is stopping the Bill and, in the Senate, it's very easy to do, it o",
+   "url": "https://truthsocial.com/@realDonaldTrump/117377462448761419",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 5456
   },
   {
    "id": "14fe003f4baa963a",
@@ -101,6 +118,38 @@
    ],
    "author": "Donald Trump",
    "score": 5216
+  },
+  {
+   "id": "cee04c51995fb2c8",
+   "ts": 1791036105,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117377342230461037",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 4721
+  },
+  {
+   "id": "18ad60349c3425a2",
+   "ts": 1791031987,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Greg Cunningham has my Complete and Total Endorsement to be the next U.S. Representative from New Mexico's 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117377072350009409",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4571
   },
   {
    "id": "034738d62e1edb6d",
@@ -183,6 +232,18 @@
    "score": 2576
   },
   {
+   "id": "6f70b946f18d8e9a",
+   "ts": 1790996503,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Fact Sheet: President Donald J. Trump Announces Medicare Improvement Fund Payments for Seniors",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-medicare-improvement-fund-payments-for-seniors/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
    "id": "cadde35138dce92c",
    "ts": 1790973900,
    "source": "central_bank",
@@ -195,59 +256,6 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "caf5ead97eda484d",
-   "ts": 1790971464,
-   "source": "institution",
-   "group": "institution",
-   "kind": "official",
-   "title": "8-K - Current report",
-   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000113/0001679788-26-000113-index.htm",
-   "domain": "Coinbase filings",
-   "org": "Coinbase filings",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "fe551cc7e923e4e8",
-   "ts": 1790971200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro",
-    "regulation"
-   ]
-  },
-  {
-   "id": "6ff10422c1f95681",
-   "ts": 1790969398,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "National Manufacturing Day, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "afa97951d7de0551",
-   "ts": 1790965692,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on National Cybersecurity Awareness Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-cybersecurity-awareness-month/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -327,11 +335,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 28
+   "n": 31
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 21
   },
   "Reddit r/Bitcoin": {
    "ok": false,
