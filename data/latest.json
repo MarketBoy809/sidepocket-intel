@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-03T21:06:34Z",
- "generated_ts": 1791061594,
+ "generated_at": "2026-10-03T23:44:50Z",
+ "generated_ts": 1791071090,
  "prices": {
   "BTC": {
-   "p": 84586.0,
+   "p": 84770.2,
    "o": 84503.7,
    "h": 85025.9,
-   "l": 84404.4,
-   "v": 774.86978587
+   "l": 84431.7,
+   "v": 773.11789451
   },
   "ETH": {
-   "p": 2684.72,
+   "p": 2687.75,
    "o": 2668.1,
    "h": 2689.77,
-   "l": 2656.86,
-   "v": 12146.51539741
+   "l": 2665.01,
+   "v": 11488.21973435
   },
   "SOL": {
-   "p": 119.65,
+   "p": 119.68,
    "o": 118.62,
    "h": 120.07,
-   "l": 117.64,
-   "v": 101507.97287803
+   "l": 118.5,
+   "v": 90430.86672214
   }
  },
  "change_7d": {
-  "BTC": 0.008584759653272106,
-  "ETH": 0.0038075523304909086,
-  "SOL": -0.0045703839122486056
+  "BTC": 0.005809910384167558,
+  "ETH": -0.0007402860703458648,
+  "SOL": -0.01164134742404236
  },
  "sentiment": {
-  "score": 60.5,
+  "score": 61.3,
   "label": "Greed",
   "components": {
    "fng": 67.0,
-   "momentum": 52.146189913318025,
-   "crowding": 56.4195105
+   "momentum": 51.45247759604189,
+   "crowding": 61.0994675
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 7.3904e-06,
-   "oi_usd": 3127777791.51264,
-   "premium": -0.000460982
+   "funding_h": 1.23777e-05,
+   "oi_usd": 3133902688.6717,
+   "premium": -0.0003538237
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3228248862.108579,
-   "premium": -0.0001824967
+   "oi_usd": 3227320852.2509775,
+   "premium": -0.0002045865
   },
   "SOL": {
-   "funding_h": -2.3027e-06,
-   "oi_usd": 650849969.8479998,
-   "premium": -0.0004596164
+   "funding_h": 5.5318e-06,
+   "oi_usd": 651209465.5780079,
+   "premium": -0.0002923854
   }
  },
- "items_24h": 33,
+ "items_24h": 34,
  "top_items": [
   {
    "id": "262d08ad870701a0",
@@ -135,6 +135,23 @@
    ],
    "author": "Donald Trump",
    "score": 5216
+  },
+  {
+   "id": "39a30f80973bc8e8",
+   "ts": 1791066059,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "HUGE NEWS FOR OHIO, where I am heading right now! Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columbus. It will generate thousands of Jobs for Ohioans in Advanced Manufacturing, Scientific Research, Construction, and more. This ma",
+   "url": "https://truthsocial.com/@realDonaldTrump/117379305275420977",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro",
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 5045
   },
   {
    "id": "cee04c51995fb2c8",
@@ -247,18 +264,6 @@
    ],
    "author": "Donald Trump",
    "score": 2576
-  },
-  {
-   "id": "6f70b946f18d8e9a",
-   "ts": 1790996503,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Fact Sheet: President Donald J. Trump Announces Medicare Improvement Fund Payments for Seniors",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-medicare-improvement-fund-payments-for-seniors/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -342,7 +347,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
