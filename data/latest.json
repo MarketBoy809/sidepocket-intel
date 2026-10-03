@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-10-02T20:38:14Z",
- "generated_ts": 1790973494,
+ "generated_at": "2026-10-03T00:23:25Z",
+ "generated_ts": 1790987005,
  "prices": {
   "BTC": {
-   "p": 84412.4,
-   "o": 84849.2,
+   "p": 84527.4,
+   "o": 84503.7,
    "h": 87229.0,
    "l": 83860.7,
-   "v": 5220.59839297
+   "v": 5164.3896962
   },
   "ETH": {
-   "p": 2668.06,
-   "o": 2705.62,
+   "p": 2669.95,
+   "o": 2668.1,
    "h": 2776.46,
    "l": 2650.41,
-   "v": 50705.73912946
+   "v": 50350.94257553
   },
   "SOL": {
-   "p": 118.01,
-   "o": 118.39,
+   "p": 118.8,
+   "o": 118.62,
    "h": 123.74,
    "l": 117.12,
-   "v": 544939.53397671
+   "v": 554165.78234322
   }
  },
  "change_7d": {
-  "BTC": 0.003437592816017943,
-  "ETH": -0.0092472239759348,
-  "SOL": -0.032244830981293014
+  "BTC": 0.004896357169723614,
+  "ETH": -0.00864605781377721,
+  "SOL": -0.02866033409760891
  },
  "sentiment": {
-  "score": 58.0,
+  "score": 59.8,
   "label": "Greed",
   "components": {
-   "fng": 72.0,
-   "momentum": 50.859398204004485,
-   "news_tone": 32.36666666666667,
-   "crowding": 60.3134765
+   "fng": 67.0,
+   "momentum": 51.224089292430904,
+   "crowding": 54.3107595
   },
   "weights": {
    "fng": 0.35,
@@ -47,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 72,
+  "value": 67,
   "label": "Greed",
-  "ts": 1790899200
+  "ts": 1790985600
  },
- "news_tone_24h": -1.058,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3156373437.1759996,
-   "premium": -0.0002487385
+   "funding_h": 2.2037e-06,
+   "oi_usd": 3133255070.2699995,
+   "premium": -0.0004920654
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3281794022.6639395,
-   "premium": 0.000161129
+   "oi_usd": 3241964236.1239014,
+   "premium": 3.74462e-05
   },
   "SOL": {
-   "funding_h": 3.2561e-06,
-   "oi_usd": 641875779.9672,
-   "premium": -0.0005083453
+   "funding_h": -2.8934e-06,
+   "oi_usd": 648893184.495,
+   "premium": -0.0004628266
   }
  },
- "items_24h": 164,
+ "items_24h": 100,
  "top_items": [
   {
    "id": "9e1302afa0177a2b",
@@ -104,6 +103,20 @@
    ],
    "author": "Donald Trump",
    "score": 2366
+  },
+  {
+   "id": "cadde35138dce92c",
+   "ts": 1790973900,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "caf5ead97eda484d",
@@ -221,20 +234,6 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "8e0117d0169f1676",
-   "ts": 1790940600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -257,7 +256,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 24
+   "n": 23
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -274,7 +273,7 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "European Central Bank": {
    "ok": true,
