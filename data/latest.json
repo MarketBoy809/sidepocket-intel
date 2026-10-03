@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-10-03T00:23:25Z",
- "generated_ts": 1790987005,
+ "generated_at": "2026-10-03T06:21:41Z",
+ "generated_ts": 1791008501,
  "prices": {
   "BTC": {
-   "p": 84527.4,
+   "p": 84641.1,
    "o": 84503.7,
    "h": 87229.0,
    "l": 83860.7,
-   "v": 5164.3896962
+   "v": 4275.46727407
   },
   "ETH": {
-   "p": 2669.95,
+   "p": 2676.41,
    "o": 2668.1,
    "h": 2776.46,
    "l": 2650.41,
-   "v": 50350.94257553
+   "v": 44227.41674199
   },
   "SOL": {
-   "p": 118.8,
+   "p": 119.57,
    "o": 118.62,
-   "h": 123.74,
+   "h": 123.48,
    "l": 117.12,
-   "v": 554165.78234322
+   "v": 395602.91016125
   }
  },
  "change_7d": {
-  "BTC": 0.004896357169723614,
-  "ETH": -0.00864605781377721,
-  "SOL": -0.02866033409760891
+  "BTC": 0.008470972081791352,
+  "ETH": -0.00327234145524262,
+  "SOL": -0.007385279229939428
  },
  "sentiment": {
-  "score": 59.8,
+  "score": 57.0,
   "label": "Greed",
   "components": {
    "fng": 67.0,
-   "momentum": 51.224089292430904,
-   "crowding": 54.3107595
+   "momentum": 52.11774302044784,
+   "news_tone": 35.11666666666667,
+   "crowding": 62.1408125
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Greed",
   "ts": 1790985600
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.893,
  "derivatives": {
   "BTC": {
-   "funding_h": 2.2037e-06,
-   "oi_usd": 3133255070.2699995,
-   "premium": -0.0004920654
+   "funding_h": 8.2625e-06,
+   "oi_usd": 3105201543.04722,
+   "premium": -0.0004512422
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3241964236.1239014,
-   "premium": 3.74462e-05
+   "oi_usd": 3224840026.342638,
+   "premium": -9.71273e-05
   },
   "SOL": {
-   "funding_h": -2.8934e-06,
-   "oi_usd": 648893184.495,
-   "premium": -0.0004628266
+   "funding_h": 1.25e-05,
+   "oi_usd": 655274641.3344,
+   "premium": -5.6867e-05
   }
  },
- "items_24h": 100,
+ "items_24h": 79,
  "top_items": [
   {
    "id": "9e1302afa0177a2b",
@@ -87,22 +88,100 @@
    "score": 10691
   },
   {
-   "id": "a5b4cf6559e7ed10",
-   "ts": 1790914362,
+   "id": "14fe003f4baa963a",
+   "ts": 1790996211,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Republicans in the Senate have to get moving on what I call the \"No More Changing of Clocks Act,\" officially known as The Sunshine Protection Act, a ridiculous Clock changing process that takes place twice a year, costs our Country a fortune, is bad for Crime, stress on people, S",
-   "url": "https://truthsocial.com/@realDonaldTrump/117369363664701946",
+   "title": "I am pleased to announce that my Administration will, immediately, begin sending \"Checks\" of nearly $100 to over 20 MILLION wonderful Seniors to help pay for their Medicare Part B premiums, which we have already reduced by significant amounts. This money will come from the Medica",
+   "url": "https://truthsocial.com/@realDonaldTrump/117374727722154598",
    "domain": "truthsocial.com",
    "tags": [
-    "macro",
-    "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 2366
+   "score": 5216
+  },
+  {
+   "id": "034738d62e1edb6d",
+   "ts": 1790996529,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The Great Ballroom and Military Complex being built at the White House. Very exciting! When completed, it will be the finest of its kind, anywhere in the World! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117374748527788857",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4545
+  },
+  {
+   "id": "18983e6a1b2d8abd",
+   "ts": 1790996814,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The Democrat Social Agenda would cost Americans TRILLIONS of Dollars if they were elected to Office. America as we know it would be completely destroyed, and make us a Third World Country. We can't let that happen. VOTE REPUBLICAN! Find out all the details in a new report by the ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117374767217423174",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro"
+   ],
+   "author": "Donald Trump",
+   "score": 3855
+  },
+  {
+   "id": "985cd98f93df9b56",
+   "ts": 1790998630,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The Fake News reports regarding the ongoing investigation into the disastrous renovation of the Federal Reserve Building are total lies. The newly confirmed Fed Chairman, Kevin Warsh, has announced an in depth, independent audit, and Attorney General Todd Blanche clearly stated t",
+   "url": "https://truthsocial.com/@realDonaldTrump/117374886219696225",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro"
+   ],
+   "author": "Donald Trump",
+   "score": 3771
+  },
+  {
+   "id": "3795effa0166027a",
+   "ts": 1790996184,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Highly Respected and very popular Oklahoma State Auditor, Cindy Byrd, is running to be next State Treasurer of Oklahoma, a place I love and WON BIG, winning all 77 out of 77 Counties in 2016, 2020, and 2024!Cindy has honorably served the Fantastic People of Oklahoma as State Audi",
+   "url": "https://truthsocial.com/@realDonaldTrump/117374725939253690",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2897
+  },
+  {
+   "id": "0058ff046182166c",
+   "ts": 1790996166,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "It is my Great Honor to endorse Katherine Robertson, who is running to be the next Attorney General of the Great State of Alabama, a place I love and WON BIG, six times, including Primaries, in 2016, 2020, and 2024!As Chief Counsel to Alabama's Attorney General, Katherine has pro",
+   "url": "https://truthsocial.com/@realDonaldTrump/117374724750816439",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2576
   },
   {
    "id": "cadde35138dce92c",
@@ -170,70 +249,6 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
-  },
-  {
-   "id": "085309dc1d4d8b57",
-   "ts": 1790965508,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on National Domestic Violence Awareness Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-domestic-violence-awareness-month/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "e0dbec0679d0bb7e",
-   "ts": 1790965313,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on Down Syndrome Awareness Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-down-syndrome-awareness-month-b663/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "2a41479abcbcbddc",
-   "ts": 1790965221,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on National Breast Cancer Awareness Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-national-breast-cancer-awareness-month-a680/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "59322cafa4d9f76d",
-   "ts": 1790953200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "cb6784f470aac7a0",
-   "ts": 1790946000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-   "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -313,7 +328,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 30
+   "n": 36
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
