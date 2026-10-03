@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-03T17:10:50Z",
- "generated_ts": 1791047450,
+ "generated_at": "2026-10-03T21:06:34Z",
+ "generated_ts": 1791061594,
  "prices": {
   "BTC": {
-   "p": 84874.1,
+   "p": 84586.0,
    "o": 84503.7,
-   "h": 85078.3,
-   "l": 83860.7,
-   "v": 1709.79621775
+   "h": 85025.9,
+   "l": 84404.4,
+   "v": 774.86978587
   },
   "ETH": {
-   "p": 2683.56,
+   "p": 2684.72,
    "o": 2668.1,
-   "h": 2688.51,
-   "l": 2650.41,
-   "v": 20775.50239908
+   "h": 2689.77,
+   "l": 2656.86,
+   "v": 12146.51539741
   },
   "SOL": {
-   "p": 119.86,
+   "p": 119.65,
    "o": 118.62,
-   "h": 119.98,
-   "l": 117.12,
-   "v": 232820.30824394
+   "h": 120.07,
+   "l": 117.64,
+   "v": 101507.97287803
   }
  },
  "change_7d": {
-  "BTC": 0.0089035875692444,
-  "ETH": -0.003704928632743934,
-  "SOL": -0.015786877158362123
+  "BTC": 0.008584759653272106,
+  "ETH": 0.0038075523304909086,
+  "SOL": -0.0045703839122486056
  },
  "sentiment": {
-  "score": 60.6,
+  "score": 60.5,
   "label": "Greed",
   "components": {
    "fng": 67.0,
-   "momentum": 52.2258968923111,
-   "crowding": 57.0562165
+   "momentum": 52.146189913318025,
+   "crowding": 56.4195105
   },
   "weights": {
    "fng": 0.35,
@@ -53,23 +53,40 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 9.7206e-06,
-   "oi_usd": 3114918164.2187557,
-   "premium": -0.0005419033
+   "funding_h": 7.3904e-06,
+   "oi_usd": 3127777791.51264,
+   "premium": -0.000460982
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3224188903.203179,
-   "premium": -0.0004396292
+   "oi_usd": 3228248862.108579,
+   "premium": -0.0001824967
   },
   "SOL": {
-   "funding_h": -2.8885e-06,
-   "oi_usd": 653084629.921422,
-   "premium": -0.000542141
+   "funding_h": -2.3027e-06,
+   "oi_usd": 650849969.8479998,
+   "premium": -0.0004596164
   }
  },
- "items_24h": 54,
+ "items_24h": 33,
  "top_items": [
+  {
+   "id": "262d08ad870701a0",
+   "ts": 1791049601,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "If Tom Cotton were putting Arkansas first, he would give them an extra hour of daylight and, more importantly, they wouldn't have to run all over their houses, farms, work places, and everywhere else, twice a year, having to change their Clocks, and often forgetting to do so. Tha",
+   "url": "https://truthsocial.com/@realDonaldTrump/117378226674711107",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 15232
+  },
   {
    "id": "29844e4eddaa101b",
    "ts": 1791032202,
@@ -242,20 +259,6 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
-  },
-  {
-   "id": "cadde35138dce92c",
-   "ts": 1790973900,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
