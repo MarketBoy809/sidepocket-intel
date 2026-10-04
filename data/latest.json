@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-04T17:26:32Z",
- "generated_ts": 1791134792,
+ "generated_at": "2026-10-04T21:14:38Z",
+ "generated_ts": 1791148478,
  "prices": {
   "BTC": {
-   "p": 85358.9,
+   "p": 85995.4,
    "o": 84740.1,
-   "h": 85459.5,
-   "l": 84538.5,
-   "v": 780.05159959
+   "h": 86041.7,
+   "l": 84675.1,
+   "v": 748.83098441
   },
   "ETH": {
-   "p": 2703.7,
+   "p": 2707.43,
    "o": 2687.03,
-   "h": 2706.99,
-   "l": 2680.55,
-   "v": 13199.54350924
+   "h": 2709.59,
+   "l": 2683.78,
+   "v": 12525.39522798
   },
   "SOL": {
-   "p": 121.79,
+   "p": 121.51,
    "o": 119.59,
    "h": 122.04,
    "l": 119.47,
-   "v": 173098.22713267
+   "v": 193282.49419125
   }
  },
  "change_7d": {
-  "BTC": 0.011229298176860532,
-  "ETH": 0.006359134740682798,
-  "SOL": -0.0007388555947787817
+  "BTC": 0.015267909743269484,
+  "ETH": 0.007436148544235141,
+  "SOL": -0.01181840410791428
  },
  "sentiment": {
-  "score": 60.9,
+  "score": 61.3,
   "label": "Greed",
   "components": {
    "fng": 65.0,
-   "momentum": 52.807324544215135,
-   "crowding": 61.976088000000004
+   "momentum": 53.81697743581737,
+   "crowding": 62.47497
   },
   "weights": {
    "fng": 0.35,
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3236729626.2279,
-   "premium": -0.0001874173
+   "oi_usd": 3267177360.4411197,
+   "premium": -0.0002790341
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3289802703.3471184,
-   "premium": -0.0001146403
+   "oi_usd": 3292161351.3103156,
+   "premium": -3.69358e-05
   },
   "SOL": {
-   "funding_h": 7.8112e-06,
-   "oi_usd": 673782308.4495999,
-   "premium": -0.0006978367
+   "funding_h": 9.178e-06,
+   "oi_usd": 666809843.9140002,
+   "premium": -0.0004113534
   }
  },
- "items_24h": 27,
+ "items_24h": 28,
  "top_items": [
   {
    "id": "d7456ea48804d2c2",
@@ -86,23 +86,6 @@
    ],
    "author": "Donald Trump",
    "score": 20485
-  },
-  {
-   "id": "262d08ad870701a0",
-   "ts": 1791049601,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "If Tom Cotton were putting Arkansas first, he would give them an extra hour of daylight and, more importantly, they wouldn't have to run all over their houses, farms, work places, and everywhere else, twice a year, having to change their Clocks, and often forgetting to do so. Tha",
-   "url": "https://truthsocial.com/@realDonaldTrump/117378226674711107",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 15232
   },
   {
    "id": "ef5a584f93c7577d",
@@ -138,6 +121,23 @@
    "score": 7281
   },
   {
+   "id": "e729f8b0c6b3f9b2",
+   "ts": 1791136164,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio: https://justthenews.com/government/white-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio",
+   "url": "https://truthsocial.com/@realDonaldTrump/117383899651030960",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6833
+  },
+  {
    "id": "39a30f80973bc8e8",
    "ts": 1791066059,
    "source": "truth",
@@ -165,6 +165,34 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
+  },
+  {
+   "id": "0f7ce8db938e683e",
+   "ts": 1791144767,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "What are your expectations for the next alt season? Are we gonna make up for the lack of one last cycle? Is it gonna be a specific niche? Or is it gonna get even more disappointing?",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wxpc4m/what_are_your_expectations_for_the_next_alt/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "a31307f9803d1e05",
+   "ts": 1791138600,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "There's an election next month: State of Crypto",
+   "url": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto"
+   ]
   },
   {
    "id": "b75fc0815af0cdd2",
@@ -219,36 +247,6 @@
    "domain": "r/CryptoCurrency",
    "tags": [
     "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "2067f3463902d894",
-   "ts": 1791126063,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
-   "url": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": [
-    "crypto",
-    "BTC"
-   ]
-  },
-  {
-   "id": "15e46043d7efd313",
-   "ts": 1791125101,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Blast, a crypto Ethereum L2 network that held $2.24 billion in June 2024, is shutting down. In the past day, it earned $110 in chain revenue.",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wxhel1/blast_a_crypto_ethereum_l2_network_that_held_224/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto",
-    "ETH"
    ],
    "score": 0
   }
@@ -330,11 +328,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 34
+   "n": 35
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 18
   },
   "Reddit r/Bitcoin": {
    "ok": false,
