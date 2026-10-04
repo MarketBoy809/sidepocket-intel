@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-04T05:40:12Z",
- "generated_ts": 1791092412,
+ "generated_at": "2026-10-04T12:13:46Z",
+ "generated_ts": 1791116026,
  "prices": {
   "BTC": {
-   "p": 84895.6,
+   "p": 85292.1,
    "o": 84740.1,
-   "h": 85025.9,
+   "h": 85406.8,
    "l": 84538.5,
-   "v": 726.49180452
+   "v": 786.1548714
   },
   "ETH": {
-   "p": 2694.35,
+   "p": 2700.31,
    "o": 2687.03,
-   "h": 2696.5,
-   "l": 2675.22,
-   "v": 11979.9113166
+   "h": 2706.99,
+   "l": 2677.19,
+   "v": 11636.83624297
   },
   "SOL": {
-   "p": 120.88,
+   "p": 121.58,
    "o": 119.59,
-   "h": 121.27,
-   "l": 119.03,
-   "v": 94546.00735654
+   "h": 121.74,
+   "l": 119.13,
+   "v": 117616.47531431
   }
  },
  "change_7d": {
-  "BTC": 0.0057901865345932465,
-  "ETH": 0.00014490007467922192,
-  "SOL": 0.003995338771433361
+  "BTC": 0.005032575366100202,
+  "ETH": -0.003421762706108596,
+  "SOL": -0.021630347054075922
  },
  "sentiment": {
-  "score": 60.8,
+  "score": 59.2,
   "label": "Greed",
   "components": {
    "fng": 65.0,
-   "momentum": 51.447546633648315,
-   "crowding": 63.6875
+   "momentum": 51.25814384152505,
+   "crowding": 56.2135775
   },
   "weights": {
    "fng": 0.35,
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3147956865.8011,
-   "premium": -0.0002991741
+   "oi_usd": 3235328178.1991997,
+   "premium": -0.0002696145
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3232302597.7779202,
-   "premium": -3.711e-06
+   "oi_usd": 3278532716.599732,
+   "premium": -0.0001629364
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 662075559.0716,
-   "premium": -0.0002894835
+   "funding_h": -7.9765e-06,
+   "oi_usd": 664598953.4307998,
+   "premium": -0.0005756106
   }
  },
- "items_24h": 27,
+ "items_24h": 23,
  "top_items": [
   {
    "id": "262d08ad870701a0",
@@ -170,6 +170,35 @@
    "score": 4571
   },
   {
+   "id": "a67c51cc83b19bfe",
+   "ts": 1791106791,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+   "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": [
+    "crypto",
+    "BTC"
+   ]
+  },
+  {
+   "id": "d689510cce275901",
+   "ts": 1791098213,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+   "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
    "id": "92399df0045a8b64",
    "ts": 1791086574,
    "source": "reddit",
@@ -224,34 +253,6 @@
     "SOL"
    ],
    "score": 0
-  },
-  {
-   "id": "b71d5b90e4674016",
-   "ts": 1791059267,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Here’s Why the Elites are Rushing CBDCs",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wwx501/heres_why_the_elites_are_rushing_cbdcs/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "ad41da929530bf2b",
-   "ts": 1791046863,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
-   "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": [
-    "geo"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -335,7 +336,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 18
+   "n": 16
   },
   "Reddit r/Bitcoin": {
    "ok": false,
