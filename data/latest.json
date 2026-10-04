@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-04T12:13:46Z",
- "generated_ts": 1791116026,
+ "generated_at": "2026-10-04T17:26:32Z",
+ "generated_ts": 1791134792,
  "prices": {
   "BTC": {
-   "p": 85292.1,
+   "p": 85358.9,
    "o": 84740.1,
-   "h": 85406.8,
+   "h": 85459.5,
    "l": 84538.5,
-   "v": 786.1548714
+   "v": 780.05159959
   },
   "ETH": {
-   "p": 2700.31,
+   "p": 2703.7,
    "o": 2687.03,
    "h": 2706.99,
-   "l": 2677.19,
-   "v": 11636.83624297
+   "l": 2680.55,
+   "v": 13199.54350924
   },
   "SOL": {
-   "p": 121.58,
+   "p": 121.79,
    "o": 119.59,
-   "h": 121.74,
-   "l": 119.13,
-   "v": 117616.47531431
+   "h": 122.04,
+   "l": 119.47,
+   "v": 173098.22713267
   }
  },
  "change_7d": {
-  "BTC": 0.005032575366100202,
-  "ETH": -0.003421762706108596,
-  "SOL": -0.021630347054075922
+  "BTC": 0.011229298176860532,
+  "ETH": 0.006359134740682798,
+  "SOL": -0.0007388555947787817
  },
  "sentiment": {
-  "score": 59.2,
+  "score": 60.9,
   "label": "Greed",
   "components": {
    "fng": 65.0,
-   "momentum": 51.25814384152505,
-   "crowding": 56.2135775
+   "momentum": 52.807324544215135,
+   "crowding": 61.976088000000004
   },
   "weights": {
    "fng": 0.35,
@@ -54,22 +54,39 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3235328178.1991997,
-   "premium": -0.0002696145
+   "oi_usd": 3236729626.2279,
+   "premium": -0.0001874173
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3278532716.599732,
-   "premium": -0.0001629364
+   "oi_usd": 3289802703.3471184,
+   "premium": -0.0001146403
   },
   "SOL": {
-   "funding_h": -7.9765e-06,
-   "oi_usd": 664598953.4307998,
-   "premium": -0.0005756106
+   "funding_h": 7.8112e-06,
+   "oi_usd": 673782308.4495999,
+   "premium": -0.0006978367
   }
  },
- "items_24h": 23,
+ "items_24h": 27,
  "top_items": [
+  {
+   "id": "d7456ea48804d2c2",
+   "ts": 1791116589,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Following the Historic White House Accord on Super Intelligence, where the World's most important Technology Companies came together, and confirmed their responsibilities to the American People, I am announcing the formation of the Super Intelligence Force (SIF). The Super Intell",
+   "url": "https://truthsocial.com/@realDonaldTrump/117382616783706638",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 20485
+  },
   {
    "id": "262d08ad870701a0",
    "ts": 1791049601,
@@ -88,37 +105,37 @@
    "score": 15232
   },
   {
-   "id": "29844e4eddaa101b",
-   "ts": 1791032202,
+   "id": "ef5a584f93c7577d",
+   "ts": 1791119474,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "If Republicans win the House of Representatives and the Senate in the 2026 Midterm Elections, I'm going to give all Adult Citizens in the United States of America, $5,000. Thank you for your attention to this matter, and I look forward to signing those checks! President DONALD J.",
-   "url": "https://truthsocial.com/@realDonaldTrump/117377086414457258",
+   "title": "Sad to see that Fox & Friends (Sunday) is not covering our packed house and incredibly enthusiastic (beyond!) Rally that took place in Ohio last night, or the ones in Alabama, Texas, or Oklahoma over the past two days. These Election Rallies were representative of what is really ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117382805901356540",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 8648
+   "score": 11100
   },
   {
-   "id": "591f7dfeaef3f8e8",
-   "ts": 1791037940,
+   "id": "99b8576554031b0c",
+   "ts": 1791123104,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Everybody in Arkansas, Tom Cotton, a friend of mine, is holding up a very important Bill. It's called, \"The Sunshine Protection Act\" or, \"We Don't Want to Change Our Clocks Twice a Year Act.\" For some reason, Tom is stopping the Bill and, in the Senate, it's very easy to do, it o",
-   "url": "https://truthsocial.com/@realDonaldTrump/117377462448761419",
+   "title": "The Polls have ALWAYS underestimated MAGA. They try to suppress the Vote, but I won all 7 Swing States, the Popular Vote, 86% of Counties, and 99% of Primaries this year. I AM ON THE BALLOT! President DONALD J. TRUMPFrom Dick Morris: \"Since November of 2025 in monthly polls by Mc",
+   "url": "https://truthsocial.com/@realDonaldTrump/117383043797111826",
    "domain": "truthsocial.com",
    "tags": [
     "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 5456
+   "score": 7281
   },
   {
    "id": "39a30f80973bc8e8",
@@ -138,119 +155,100 @@
    "score": 5045
   },
   {
-   "id": "cee04c51995fb2c8",
-   "ts": 1791036105,
-   "source": "truth",
+   "id": "b678bc12b90eeadf",
+   "ts": 1791105282,
+   "source": "government",
    "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Dan S. Sullivan has my Complete and Total Endorsement for Re-Election as U.S. Senator from Alaska — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117377342230461037",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 4721
+   "kind": "official",
+   "title": "U.S. Leads International Coalition to Endorse Kyoto Vision for a Golden Age of Science",
+   "url": "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
-   "id": "18ad60349c3425a2",
-   "ts": 1791031987,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Greg Cunningham has my Complete and Total Endorsement to be the next U.S. Representative from New Mexico's 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117377072350009409",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4571
-  },
-  {
-   "id": "a67c51cc83b19bfe",
-   "ts": 1791106791,
+   "id": "b75fc0815af0cdd2",
+   "ts": 1791133263,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
-   "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+   "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "bee7577b9e3477ab",
+   "ts": 1791132911,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "(very) early GLMR/MOVR investor in trouble with summer migration",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wxki5g/very_early_glmrmovr_investor_in_trouble_with/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "eb582c67c27972f5",
+   "ts": 1791129663,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
+   "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "24fd64e3ed634e9b",
+   "ts": 1791127167,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "If there is no claim, the thread is pricing a story",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wxi7ex/if_there_is_no_claim_the_thread_is_pricing_a_story/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "2067f3463902d894",
+   "ts": 1791126063,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+   "url": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+   "domain": "Decrypt",
+   "org": "Decrypt",
    "tags": [
     "crypto",
     "BTC"
    ]
   },
   {
-   "id": "d689510cce275901",
-   "ts": 1791098213,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
-   "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "92399df0045a8b64",
-   "ts": 1791086574,
+   "id": "15e46043d7efd313",
+   "ts": 1791125101,
    "source": "reddit",
    "group": "social",
    "kind": "post",
-   "title": "Daily Crypto Discussion",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wx66lw/daily_crypto_discussion/",
+   "title": "Blast, a crypto Ethereum L2 network that held $2.24 billion in June 2024, is shutting down. In the past day, it earned $110 in chain revenue.",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wxhel1/blast_a_crypto_ethereum_l2_network_that_held_224/",
    "domain": "r/CryptoCurrency",
    "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "87f5b02be504b9ec",
-   "ts": 1791073327,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Coinbase closed my account with $900,000+ still inside",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wx22x1/coinbase_closed_my_account_with_900000_still/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "6b931023f08ba978",
-   "ts": 1791070575,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "\"If\" by some crazy chance that Trump actually gives out $5000 to every citizen, what effect would this have on the crypto market?",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wx161b/if_by_some_crazy_chance_that_trump_actually_gives/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "bf1f4035db4e1597",
-   "ts": 1791062105,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "How do you personally track your SOL holdings if you use multiple wallets?",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wwy7te/how_do_you_personally_track_your_sol_holdings_if/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "SOL"
+    "crypto",
+    "ETH"
    ],
    "score": 0
   }
@@ -275,7 +273,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 22
+   "n": 23
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -332,11 +330,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 31
+   "n": 34
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 16
+   "n": 19
   },
   "Reddit r/Bitcoin": {
    "ok": false,
