@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-05T15:52:32Z",
- "generated_ts": 1791215552,
+ "generated_at": "2026-10-05T22:31:48Z",
+ "generated_ts": 1791239508,
  "prices": {
   "BTC": {
-   "p": 85298.9,
+   "p": 85936.9,
    "o": 86506.6,
    "h": 86973.6,
-   "l": 85166.0,
-   "v": 2302.86029091
+   "l": 84965.7,
+   "v": 2540.48263692
   },
   "ETH": {
-   "p": 2696.68,
+   "p": 2715.23,
    "o": 2726.03,
    "h": 2738.82,
-   "l": 2693.67,
-   "v": 30830.61458989
+   "l": 2678.88,
+   "v": 32166.05304018
   },
   "SOL": {
-   "p": 119.29,
+   "p": 121.31,
    "o": 121.57,
-   "h": 122.25,
-   "l": 119.21,
-   "v": 270969.41101862
+   "h": 122.06,
+   "l": 118.93,
+   "v": 239592.25220062
   }
  },
  "change_7d": {
-  "BTC": 0.03157201139569287,
-  "ETH": 0.013928213820958275,
-  "SOL": 0.01228397153507276
+  "BTC": 0.03318340732255895,
+  "ETH": 0.01661703751365428,
+  "SOL": 0.02659981303645785
  },
  "sentiment": {
-  "score": 64.2,
+  "score": 65.3,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 57.89300284892322,
-   "crowding": 59.296476999999996
+   "momentum": 58.295851830639734,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -54,38 +54,109 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3239415655.40688,
-   "premium": -0.0002743311
+   "oi_usd": 3370144735.0984,
+   "premium": -0.0002326961
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3208432708.9483175,
-   "premium": -0.0002854421
+   "oi_usd": 3217882794.5971184,
+   "premium": -3.68202e-05
   },
   "SOL": {
-   "funding_h": 4.698e-07,
-   "oi_usd": 650241074.0999997,
-   "premium": -0.0005096361
+   "funding_h": 1.25e-05,
+   "oi_usd": 684772439.6188002,
+   "premium": 6.51159e-05
   }
  },
- "items_24h": 62,
+ "items_24h": 83,
  "top_items": [
   {
-   "id": "e729f8b0c6b3f9b2",
-   "ts": 1791136164,
+   "id": "18fe874975fdc140",
+   "ts": 1791217956,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio: https://justthenews.com/government/white-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio",
-   "url": "https://truthsocial.com/@realDonaldTrump/117383899651030960",
+   "title": "What's driving up Gasoline is no longer the Strait of Hormuz, because Record Numbers of Barrels are coming out now on an almost daily basis, but the word, \"Refineries,\" where Russia's are being blown up by Ukraine, and where ours are being closed up, in Blue States, like Californ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117389259991976695",
    "domain": "truthsocial.com",
    "tags": [
-    "geo",
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 14982
+  },
+  {
+   "id": "815b0d9fe1369549",
+   "ts": 1791235417,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Annie \"Trannie\" Andrews is running against our wonderful Darline Graham for the Senate in South Carolina. For years my dear friend Lindsey would say that, \"Darline is the finest, most reliable, and one of the smartest people I have ever known.\" He would then always add, \"Also, th",
+   "url": "https://truthsocial.com/@realDonaldTrump/117390404347091382",
+   "domain": "truthsocial.com",
+   "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 6833
+   "score": 4535
+  },
+  {
+   "id": "5f3840ad305849a3",
+   "ts": 1791237651,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "If Republicans win the House of Representatives and the Senate in the 2026 Midterm Elections, I'm going to give all Adult Citizens in the United States of America, $5,000. Thank you for your attention to this matter, and I look forward to signing those checks! President DONALD J.",
+   "url": "https://truthsocial.com/@realDonaldTrump/117390550758872714",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3659
+  },
+  {
+   "id": "a284ee3bb75500d9",
+   "ts": 1791232200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "c101eb8a25d6a746",
+   "ts": 1791219749,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump and Republicans Are Delivering Real Results for Nebraska",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-and-republicans-are-delivering-real-results-for-nebraska/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "835a1d97e9168700",
+   "ts": 1791219600,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "CFTC Issues No-Action Letter for DCMs Regarding Converting Existing Perpetual-Style Broad-Based Security Index Futures into True Perpetual Futures",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9308-26",
+   "domain": "CFTC",
+   "org": "CFTC",
+   "tags": [
+    "regulation"
+   ]
   },
   {
    "id": "391e85dff3d495af",
@@ -171,78 +242,6 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "f0d8958c050d42cb",
-   "ts": 1791159600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "8th Conference on Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics (ECONDAT 2026 Fall Meeting)",
-   "url": "http://www.boj.or.jp/en/research/conf/conf2610a.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "aba687069a0445a3",
-   "ts": 1791158400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Basel III applicable in almost all member jurisdictions by 2027",
-   "url": "https://www.bis.org/media-releases/20261005-basel-iii-applicable-almost-all-member-jurisdictions-2027",
-   "domain": "BIS",
-   "org": "BIS",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "c068f92560dea44c",
-   "ts": 1791157800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Sources of Changes in Current Account Balances (Projections for Oct.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2610.xlsx",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "5726f5658473bbcd",
-   "ts": 1791215663,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
-   "url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto",
-    "regulation"
-   ]
-  },
-  {
-   "id": "a9c4078022a2aa4f",
-   "ts": 1791212997,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bitcoin price fails to break higher after best weekly close in eight months",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto",
-    "BTC"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -265,7 +264,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 23
+   "n": 21
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -274,15 +273,15 @@
   },
   "SEC": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "CFTC": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "European Central Bank": {
    "ok": true,
@@ -318,11 +317,11 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 38
+   "n": 39
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 31
+   "n": 33
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
