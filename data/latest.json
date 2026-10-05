@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-05T06:51:46Z",
- "generated_ts": 1791183106,
+ "generated_at": "2026-10-05T15:52:32Z",
+ "generated_ts": 1791215552,
  "prices": {
   "BTC": {
-   "p": 86041.9,
+   "p": 85298.9,
    "o": 86506.6,
    "h": 86973.6,
-   "l": 84912.5,
-   "v": 1510.10401913
+   "l": 85166.0,
+   "v": 2302.86029091
   },
   "ETH": {
-   "p": 2716.42,
+   "p": 2696.68,
    "o": 2726.03,
    "h": 2738.82,
-   "l": 2691.62,
-   "v": 23205.52773032
+   "l": 2693.67,
+   "v": 30830.61458989
   },
   "SOL": {
-   "p": 121.14,
+   "p": 119.29,
    "o": 121.57,
    "h": 122.25,
-   "l": 120.0,
-   "v": 250805.16826846
+   "l": 119.21,
+   "v": 270969.41101862
   }
  },
  "change_7d": {
-  "BTC": 0.031015035898735843,
-  "ETH": 0.020596079200600668,
-  "SOL": 0.011083123425692757
+  "BTC": 0.03157201139569287,
+  "ETH": 0.013928213820958275,
+  "SOL": 0.01228397153507276
  },
  "sentiment": {
-  "score": 65.1,
+  "score": 64.2,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 57.75375897468396,
-   "crowding": 63.6875
+   "momentum": 57.89300284892322,
+   "crowding": 59.296476999999996
   },
   "weights": {
    "fng": 0.35,
@@ -54,72 +54,22 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3281324892.37436,
-   "premium": -0.0002451519
+   "oi_usd": 3239415655.40688,
+   "premium": -0.0002743311
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3327779372.17446,
-   "premium": -7.36025e-05
+   "oi_usd": 3208432708.9483175,
+   "premium": -0.0002854421
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 661698660.9600002,
-   "premium": -0.0003300602
+   "funding_h": 4.698e-07,
+   "oi_usd": 650241074.0999997,
+   "premium": -0.0005096361
   }
  },
- "items_24h": 44,
+ "items_24h": 62,
  "top_items": [
-  {
-   "id": "d7456ea48804d2c2",
-   "ts": 1791116589,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Following the Historic White House Accord on Super Intelligence, where the World's most important Technology Companies came together, and confirmed their responsibilities to the American People, I am announcing the formation of the Super Intelligence Force (SIF). The Super Intell",
-   "url": "https://truthsocial.com/@realDonaldTrump/117382616783706638",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 20485
-  },
-  {
-   "id": "ef5a584f93c7577d",
-   "ts": 1791119474,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Sad to see that Fox & Friends (Sunday) is not covering our packed house and incredibly enthusiastic (beyond!) Rally that took place in Ohio last night, or the ones in Alabama, Texas, or Oklahoma over the past two days. These Election Rallies were representative of what is really ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117382805901356540",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 11100
-  },
-  {
-   "id": "99b8576554031b0c",
-   "ts": 1791123104,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The Polls have ALWAYS underestimated MAGA. They try to suppress the Vote, but I won all 7 Swing States, the Popular Vote, 86% of Counties, and 99% of Primaries this year. I AM ON THE BALLOT! President DONALD J. TRUMPFrom Dick Morris: \"Since November of 2025 in monthly polls by Mc",
-   "url": "https://truthsocial.com/@realDonaldTrump/117383043797111826",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 7281
-  },
   {
    "id": "e729f8b0c6b3f9b2",
    "ts": 1791136164,
@@ -136,6 +86,63 @@
    ],
    "author": "Donald Trump",
    "score": 6833
+  },
+  {
+   "id": "391e85dff3d495af",
+   "ts": 1791214800,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "CFTC Seeks Public Comment on Advanced Notice of Proposed Rulemaking Relating to Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9307-26",
+   "domain": "CFTC",
+   "org": "CFTC",
+   "tags": [
+    "crypto",
+    "regulation"
+   ]
+  },
+  {
+   "id": "535f8b037613e65b",
+   "ts": 1791204456,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-101-sec-coordinates-global-financial-regulators-raise-fraud-awareness-during-world-investor-week",
+   "domain": "SEC",
+   "org": "SEC",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "7da2a355cb1a5924",
+   "ts": 1791201615,
+   "source": "institution",
+   "group": "institution",
+   "kind": "official",
+   "title": "8-K - Current report",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526413164/0001193125-26-413164-index.htm",
+   "domain": "Strategy (MSTR) filings",
+   "org": "Strategy (MSTR) filings",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "517b42d1a3c002af",
+   "ts": 1791187200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "5b49adc708e0583b",
@@ -180,6 +187,20 @@
    ]
   },
   {
+   "id": "aba687069a0445a3",
+   "ts": 1791158400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Basel III applicable in almost all member jurisdictions by 2027",
+   "url": "https://www.bis.org/media-releases/20261005-basel-iii-applicable-almost-all-member-jurisdictions-2027",
+   "domain": "BIS",
+   "org": "BIS",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
    "id": "c068f92560dea44c",
    "ts": 1791157800,
    "source": "central_bank",
@@ -194,60 +215,34 @@
    ]
   },
   {
-   "id": "b678bc12b90eeadf",
-   "ts": 1791105282,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "U.S. Leads International Coalition to Endorse Kyoto Vision for a Golden Age of Science",
-   "url": "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "63b147d876e10929",
-   "ts": 1791182429,
+   "id": "5726f5658473bbcd",
+   "ts": 1791215663,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line",
-   "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+   "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
+   "url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
    "domain": "CoinDesk",
    "org": "CoinDesk",
    "tags": [
     "crypto",
-    "ETH"
+    "regulation"
    ]
   },
   {
-   "id": "c35e086efef0e0a5",
-   "ts": 1791177928,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "XMR CakeWallet Question",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wy0f3e/xmr_cakewallet_question/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "2c4270a3e471e9d1",
-   "ts": 1791177169,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "AI Is Coming for Wall Street’s Lazy Money. Bitcoin Could Be the Biggest Winner.",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wy07j2/ai_is_coming_for_wall_streets_lazy_money_bitcoin/",
-   "domain": "r/CryptoCurrency",
+   "id": "a9c4078022a2aa4f",
+   "ts": 1791212997,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bitcoin price fails to break higher after best weekly close in eight months",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": [
     "crypto",
     "BTC"
-   ],
-   "score": 0
+   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -270,7 +265,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 22
+   "n": 23
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -279,11 +274,11 @@
   },
   "SEC": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "CFTC": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "Federal Reserve": {
    "ok": true,
@@ -303,7 +298,7 @@
   },
   "BIS": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "Strategy (MSTR) filings": {
    "ok": true,
@@ -323,15 +318,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 39
+   "n": 38
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 35
+   "n": 31
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 19
   },
   "Reddit r/Bitcoin": {
    "ok": false,
