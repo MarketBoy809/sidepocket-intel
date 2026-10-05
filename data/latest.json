@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-05T00:45:15Z",
- "generated_ts": 1791161115,
+ "generated_at": "2026-10-05T06:51:46Z",
+ "generated_ts": 1791183106,
  "prices": {
   "BTC": {
-   "p": 86604.8,
+   "p": 86041.9,
    "o": 86506.6,
-   "h": 86778.1,
-   "l": 84706.5,
-   "v": 1034.60437018
+   "h": 86973.6,
+   "l": 84912.5,
+   "v": 1510.10401913
   },
   "ETH": {
-   "p": 2726.71,
+   "p": 2716.42,
    "o": 2726.03,
    "h": 2738.82,
-   "l": 2689.47,
-   "v": 21243.92971365
+   "l": 2691.62,
+   "v": 23205.52773032
   },
   "SOL": {
-   "p": 121.32,
+   "p": 121.14,
    "o": 121.57,
    "h": 122.25,
-   "l": 119.93,
-   "v": 233932.82703974
+   "l": 120.0,
+   "v": 250805.16826846
   }
  },
  "change_7d": {
-  "BTC": 0.024211676379499752,
-  "ETH": 0.014295651785747439,
-  "SOL": -0.003279494957776549
+  "BTC": 0.031015035898735843,
+  "ETH": 0.020596079200600668,
+  "SOL": 0.011083123425692757
  },
  "sentiment": {
-  "score": 64.6,
+  "score": 65.1,
   "label": "Greed",
   "components": {
    "fng": 70.0,
-   "momentum": 56.05291909487494,
-   "crowding": 63.548435
+   "momentum": 57.75375897468396,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3257784642.9098997,
-   "premium": -0.0004040824
+   "oi_usd": 3281324892.37436,
+   "premium": -0.0002451519
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3227756950.8831,
-   "premium": 0.0
+   "oi_usd": 3327779372.17446,
+   "premium": -7.36025e-05
   },
   "SOL": {
-   "funding_h": 1.2119e-05,
-   "oi_usd": 662602631.8704001,
-   "premium": -0.0003527197
+   "funding_h": 1.25e-05,
+   "oi_usd": 661698660.9600002,
+   "premium": -0.0003300602
   }
  },
- "items_24h": 29,
+ "items_24h": 44,
  "top_items": [
   {
    "id": "d7456ea48804d2c2",
@@ -138,6 +138,20 @@
    "score": 6833
   },
   {
+   "id": "5b49adc708e0583b",
+   "ts": 1791176400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Output Gap, Potential Growth Rate, and Labor Market Indicators",
+   "url": "http://www.boj.or.jp/en/research/research_data/gap/index.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
    "id": "01683bc47e31a3a1",
    "ts": 1791159600,
    "source": "central_bank",
@@ -192,43 +206,28 @@
    "tags": []
   },
   {
-   "id": "7c9aeeddb235f7fb",
-   "ts": 1791160534,
+   "id": "63b147d876e10929",
+   "ts": 1791182429,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Zcash gets a Washington lobbyist to push crypto policy",
-   "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "4c2f6ed9e101591d",
-   "ts": 1791153072,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
-   "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "title": "Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line",
+   "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
    "tags": [
     "crypto",
-    "regulation",
-    "BTC"
+    "ETH"
    ]
   },
   {
-   "id": "0f7ce8db938e683e",
-   "ts": 1791144767,
+   "id": "c35e086efef0e0a5",
+   "ts": 1791177928,
    "source": "reddit",
    "group": "social",
    "kind": "post",
-   "title": "What are your expectations for the next alt season? Are we gonna make up for the lack of one last cycle? Is it gonna be a specific niche? Or is it gonna get even more disappointing?",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wxpc4m/what_are_your_expectations_for_the_next_alt/",
+   "title": "XMR CakeWallet Question",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wy0f3e/xmr_cakewallet_question/",
    "domain": "r/CryptoCurrency",
    "tags": [
     "crypto"
@@ -236,18 +235,19 @@
    "score": 0
   },
   {
-   "id": "a31307f9803d1e05",
-   "ts": 1791138600,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "There's an election next month: State of Crypto",
-   "url": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
+   "id": "2c4270a3e471e9d1",
+   "ts": 1791177169,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "AI Is Coming for Wall Street’s Lazy Money. Bitcoin Could Be the Biggest Winner.",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wy07j2/ai_is_coming_for_wall_streets_lazy_money_bitcoin/",
+   "domain": "r/CryptoCurrency",
    "tags": [
-    "crypto"
-   ]
+    "crypto",
+    "BTC"
+   ],
+   "score": 0
   }
  ],
  "briefing_ts": 1790465772,
@@ -270,7 +270,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 23
+   "n": 22
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -299,7 +299,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "BIS": {
    "ok": true,
@@ -331,7 +331,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 17
+   "n": 21
   },
   "Reddit r/Bitcoin": {
    "ok": false,
