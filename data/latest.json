@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-04T21:14:38Z",
- "generated_ts": 1791148478,
+ "generated_at": "2026-10-05T00:45:15Z",
+ "generated_ts": 1791161115,
  "prices": {
   "BTC": {
-   "p": 85995.4,
-   "o": 84740.1,
-   "h": 86041.7,
-   "l": 84675.1,
-   "v": 748.83098441
+   "p": 86604.8,
+   "o": 86506.6,
+   "h": 86778.1,
+   "l": 84706.5,
+   "v": 1034.60437018
   },
   "ETH": {
-   "p": 2707.43,
-   "o": 2687.03,
-   "h": 2709.59,
-   "l": 2683.78,
-   "v": 12525.39522798
+   "p": 2726.71,
+   "o": 2726.03,
+   "h": 2738.82,
+   "l": 2689.47,
+   "v": 21243.92971365
   },
   "SOL": {
-   "p": 121.51,
-   "o": 119.59,
-   "h": 122.04,
-   "l": 119.47,
-   "v": 193282.49419125
+   "p": 121.32,
+   "o": 121.57,
+   "h": 122.25,
+   "l": 119.93,
+   "v": 233932.82703974
   }
  },
  "change_7d": {
-  "BTC": 0.015267909743269484,
-  "ETH": 0.007436148544235141,
-  "SOL": -0.01181840410791428
+  "BTC": 0.024211676379499752,
+  "ETH": 0.014295651785747439,
+  "SOL": -0.003279494957776549
  },
  "sentiment": {
-  "score": 61.3,
+  "score": 64.6,
   "label": "Greed",
   "components": {
-   "fng": 65.0,
-   "momentum": 53.81697743581737,
-   "crowding": 62.47497
+   "fng": 70.0,
+   "momentum": 56.05291909487494,
+   "crowding": 63.548435
   },
   "weights": {
    "fng": 0.35,
@@ -46,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 65,
+  "value": 70,
   "label": "Greed",
-  "ts": 1791072000
+  "ts": 1791158400
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3267177360.4411197,
-   "premium": -0.0002790341
+   "oi_usd": 3257784642.9098997,
+   "premium": -0.0004040824
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3292161351.3103156,
-   "premium": -3.69358e-05
+   "oi_usd": 3227756950.8831,
+   "premium": 0.0
   },
   "SOL": {
-   "funding_h": 9.178e-06,
-   "oi_usd": 666809843.9140002,
-   "premium": -0.0004113534
+   "funding_h": 1.2119e-05,
+   "oi_usd": 662602631.8704001,
+   "premium": -0.0003527197
   }
  },
- "items_24h": 28,
+ "items_24h": 29,
  "top_items": [
   {
    "id": "d7456ea48804d2c2",
@@ -138,21 +138,46 @@
    "score": 6833
   },
   {
-   "id": "39a30f80973bc8e8",
-   "ts": 1791066059,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "HUGE NEWS FOR OHIO, where I am heading right now! Bayer just announced a brand new, 2.2 Billion Dollar Pharmaceutical Manufacturing Campus near Columbus. It will generate thousands of Jobs for Ohioans in Advanced Manufacturing, Scientific Research, Construction, and more. This ma",
-   "url": "https://truthsocial.com/@realDonaldTrump/117379305275420977",
-   "domain": "truthsocial.com",
+   "id": "01683bc47e31a3a1",
+   "ts": 1791159600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)",
+   "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261005a.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
    "tags": [
-    "macro",
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 5045
+    "macro"
+   ]
+  },
+  {
+   "id": "f0d8958c050d42cb",
+   "ts": 1791159600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "8th Conference on Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics (ECONDAT 2026 Fall Meeting)",
+   "url": "http://www.boj.or.jp/en/research/conf/conf2610a.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "c068f92560dea44c",
+   "ts": 1791157800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Sources of Changes in Current Account Balances (Projections for Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2610.xlsx",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "b678bc12b90eeadf",
@@ -165,6 +190,36 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
+  },
+  {
+   "id": "7c9aeeddb235f7fb",
+   "ts": 1791160534,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Zcash gets a Washington lobbyist to push crypto policy",
+   "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "4c2f6ed9e101591d",
+   "ts": 1791153072,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+   "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": [
+    "crypto",
+    "regulation",
+    "BTC"
+   ]
   },
   {
    "id": "0f7ce8db938e683e",
@@ -193,62 +248,6 @@
    "tags": [
     "crypto"
    ]
-  },
-  {
-   "id": "b75fc0815af0cdd2",
-   "ts": 1791133263,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
-   "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "bee7577b9e3477ab",
-   "ts": 1791132911,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "(very) early GLMR/MOVR investor in trouble with summer migration",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wxki5g/very_early_glmrmovr_investor_in_trouble_with/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "eb582c67c27972f5",
-   "ts": 1791129663,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
-   "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "24fd64e3ed634e9b",
-   "ts": 1791127167,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "If there is no claim, the thread is pricing a story",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1wxi7ex/if_there_is_no_claim_the_thread_is_pricing_a_story/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
   }
  ],
  "briefing_ts": 1790465772,
@@ -300,7 +299,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 13
+   "n": 14
   },
   "BIS": {
    "ok": true,
@@ -332,7 +331,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 18
+   "n": 17
   },
   "Reddit r/Bitcoin": {
    "ok": false,
