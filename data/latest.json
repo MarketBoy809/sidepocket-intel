@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-10-06T02:52:56Z",
- "generated_ts": 1791255176,
+ "generated_at": "2026-10-06T10:04:59Z",
+ "generated_ts": 1791281099,
  "prices": {
   "BTC": {
-   "p": 85549.0,
+   "p": 85935.7,
    "o": 85751.5,
    "h": 86701.8,
    "l": 84965.7,
-   "v": 2448.15644688
+   "v": 2115.75089384
   },
   "ETH": {
-   "p": 2702.7,
+   "p": 2708.42,
    "o": 2709.72,
-   "h": 2733.72,
+   "h": 2729.29,
    "l": 2678.88,
-   "v": 27114.58069527
+   "v": 27156.26657564
   },
   "SOL": {
-   "p": 120.29,
+   "p": 119.52,
    "o": 120.77,
-   "h": 122.04,
-   "l": 118.93,
-   "v": 233619.24737328
+   "h": 121.56,
+   "l": 118.89,
+   "v": 285490.66545581
   }
  },
  "change_7d": {
-  "BTC": 0.03174086819997273,
-  "ETH": 0.016395780939154045,
-  "SOL": 0.030489367153471628
+  "BTC": 0.02077086647764873,
+  "ETH": -0.0025141536173627255,
+  "SOL": -0.003003003003002998
  },
  "sentiment": {
-  "score": 66.7,
+  "score": 65.9,
   "label": "Greed",
   "components": {
    "fng": 73.0,
-   "momentum": 57.935217049993184,
+   "momentum": 55.19271661941218,
    "crowding": 63.6875
   },
   "weights": {
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3322927733.14632,
-   "premium": -0.0001776361
+   "oi_usd": 3479796031.7956,
+   "premium": -0.0002210279
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3211516875.85096,
-   "premium": -0.0002552068
+   "oi_usd": 3195162512.047376,
+   "premium": -0.0003359161
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 679028539.5491998,
-   "premium": -0.0002078052
+   "oi_usd": 677046893.41,
+   "premium": -0.000250962
   }
  },
- "items_24h": 82,
+ "items_24h": 126,
  "top_items": [
   {
    "id": "18fe874975fdc140",
@@ -85,6 +85,55 @@
    ],
    "author": "Donald Trump",
    "score": 14982
+  },
+  {
+   "id": "531742ec1efbc571",
+   "ts": 1791256730,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "HUGE INVESTMENT WIN for NEBRASKA AND THE U.S.!Beckton Dickenson (BD), one of the largest Medical Device Manufacturers, has agreed to an Investment of 3 BILLION DOLLARS to Onshore Manufacturing of Essential Medical Products (syringes, needles, lab kits, and more) that American Pat",
+   "url": "https://truthsocial.com/@realDonaldTrump/117391801119298224",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro",
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 7860
+  },
+  {
+   "id": "4913b46385f31847",
+   "ts": 1791255320,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "It is my Great Honor to endorse Highly Respected State Representative Johnny Garrett, who is running to represent the Wonderful People of Tennessee's 6th Congressional District! A Seventh-Generation Goodlettsvillian and Proven Conservative Leader, Johnny has served as a State Rep",
+   "url": "https://truthsocial.com/@realDonaldTrump/117391708694755293",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 5103
+  },
+  {
+   "id": "e276cfe8adea1fed",
+   "ts": 1791255254,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Chuck Gray has been a tremendous Secretary of State for the Great State of Wyoming, a place I love and WON BIG in 2016, 2020, and 2024!An America First Patriot, and true friend of MAGA, Chuck is now running for Congress, where I know he will continue to do a fantastic job! As you",
+   "url": "https://truthsocial.com/@realDonaldTrump/117391704369917911",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4879
   },
   {
    "id": "815b0d9fe1369549",
@@ -119,96 +168,13 @@
    "score": 3659
   },
   {
-   "id": "a284ee3bb75500d9",
-   "ts": 1791232200,
+   "id": "985fd00dec50f302",
+   "ts": 1791270000,
    "source": "central_bank",
    "group": "central_bank",
    "kind": "official",
-   "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "c101eb8a25d6a746",
-   "ts": 1791219749,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "President Trump and Republicans Are Delivering Real Results for Nebraska",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-and-republicans-are-delivering-real-results-for-nebraska/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "835a1d97e9168700",
-   "ts": 1791219600,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "CFTC Issues No-Action Letter for DCMs Regarding Converting Existing Perpetual-Style Broad-Based Security Index Futures into True Perpetual Futures",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9308-26",
-   "domain": "CFTC",
-   "org": "CFTC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "391e85dff3d495af",
-   "ts": 1791214800,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "CFTC Seeks Public Comment on Advanced Notice of Proposed Rulemaking Relating to Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9307-26",
-   "domain": "CFTC",
-   "org": "CFTC",
-   "tags": [
-    "crypto",
-    "regulation"
-   ]
-  },
-  {
-   "id": "535f8b037613e65b",
-   "ts": 1791204456,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-101-sec-coordinates-global-financial-regulators-raise-fraud-awareness-during-world-investor-week",
-   "domain": "SEC",
-   "org": "SEC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "7da2a355cb1a5924",
-   "ts": 1791201615,
-   "source": "institution",
-   "group": "institution",
-   "kind": "official",
-   "title": "8-K - Current report",
-   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526413164/0001193125-26-413164-index.htm",
-   "domain": "Strategy (MSTR) filings",
-   "org": "Strategy (MSTR) filings",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "517b42d1a3c002af",
-   "ts": 1791187200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
+   "title": "Philip R. Lane: Interview with Ansa",
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
    "domain": "European Central Bank",
    "org": "European Central Bank",
    "tags": [
@@ -216,33 +182,64 @@
    ]
   },
   {
-   "id": "5b49adc708e0583b",
-   "ts": 1791176400,
-   "source": "central_bank",
-   "group": "central_bank",
+   "id": "dee7a5735ca38a79",
+   "ts": 1791249233,
+   "source": "government",
+   "group": "government",
    "kind": "official",
-   "title": "Output Gap, Potential Growth Rate, and Labor Market Indicators",
-   "url": "http://www.boj.or.jp/en/research/research_data/gap/index.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
+   "title": "Emergency Tax Relief on Diesel Fuel",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
-   "id": "a888bbfc45192f5a",
-   "ts": 1791252063,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
-   "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": [
-    "crypto",
-    "SOL"
-   ]
+   "id": "b6fe8d82e74d03ba",
+   "ts": 1791248649,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on Child Health Day",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-child-health-day-c67c/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "0cd9bc550a0565c4",
+   "ts": 1791248555,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on Fire Prevention Week",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-fire-prevention-week/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "01b76f4f79adcd34",
+   "ts": 1791246007,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Takes Decisive Action to Lower Diesel Costs for American Truckers, Farmers",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-takes-decisive-action-to-lower-diesel-costs-for-american-truckers-farmers/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "428f7bca71bd9c8e",
+   "ts": 1791245258,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Fact Sheet: President Donald J. Trump Promotes Diesel Affordability",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-promotes-diesel-affordability/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -253,7 +250,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -265,7 +262,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 21
+   "n": 26
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -318,15 +315,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 39
+   "n": 38
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 32
+   "n": 35
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
