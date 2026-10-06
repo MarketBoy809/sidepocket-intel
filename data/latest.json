@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-10-06T16:43:05Z",
- "generated_ts": 1791304985,
+ "generated_at": "2026-10-06T21:34:32Z",
+ "generated_ts": 1791322472,
  "prices": {
   "BTC": {
-   "p": 85629.8,
+   "p": 85602.0,
    "o": 85751.5,
    "h": 86683.4,
    "l": 85110.1,
-   "v": 2093.98947083
+   "v": 2202.16278883
   },
   "ETH": {
-   "p": 2698.98,
+   "p": 2697.58,
    "o": 2709.72,
    "h": 2724.02,
-   "l": 2688.98,
-   "v": 21942.88826225
+   "l": 2683.07,
+   "v": 25497.65637727
   },
   "SOL": {
-   "p": 120.31,
+   "p": 121.09,
    "o": 120.77,
    "h": 121.97,
    "l": 118.89,
-   "v": 347128.56642416
+   "v": 346338.0678033
   }
  },
  "change_7d": {
-  "BTC": 0.03190368212674512,
-  "ETH": 0.010420134122760149,
-  "SOL": 0.01928770831570934
+  "BTC": 0.024226191359262638,
+  "ETH": 0.003656395530493493,
+  "SOL": 0.016551840026886228
  },
  "sentiment": {
-  "score": 66.7,
+  "score": 66.2,
   "label": "Greed",
   "components": {
    "fng": 73.0,
-   "momentum": 57.97592053168628,
+   "momentum": 56.05654783981566,
    "crowding": 63.6875
   },
   "weights": {
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3485251193.09376,
-   "premium": -0.0002452097
+   "oi_usd": 3550507262.9668684,
+   "premium": 1.98572e-05
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3179238772.0769205,
-   "premium": -0.0004186115
+   "oi_usd": 3164273576.9124775,
+   "premium": -0.0003706587
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 679780277.4100002,
-   "premium": -0.0003166951
+   "oi_usd": 688431350.4047643,
+   "premium": -4.12865e-05
   }
  },
- "items_24h": 126,
+ "items_24h": 124,
  "top_items": [
   {
    "id": "3e1dc7725dccb87c",
@@ -136,22 +136,6 @@
    "score": 4879
   },
   {
-   "id": "815b0d9fe1369549",
-   "ts": 1791235417,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Annie \"Trannie\" Andrews is running against our wonderful Darline Graham for the Senate in South Carolina. For years my dear friend Lindsey would say that, \"Darline is the finest, most reliable, and one of the smartest people I have ever known.\" He would then always add, \"Also, th",
-   "url": "https://truthsocial.com/@realDonaldTrump/117390404347091382",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4535
-  },
-  {
    "id": "5f3840ad305849a3",
    "ts": 1791237651,
    "source": "truth",
@@ -166,6 +150,18 @@
    ],
    "author": "Donald Trump",
    "score": 3659
+  },
+  {
+   "id": "6390afe2c89d3cd2",
+   "ts": 1791319430,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on German American Day",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-german-american-day/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "102fe9d3c1196616",
@@ -270,7 +266,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 25
+   "n": 21
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -287,7 +283,7 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 6
+   "n": 5
   },
   "European Central Bank": {
    "ok": true,
@@ -327,7 +323,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 36
+   "n": 35
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
