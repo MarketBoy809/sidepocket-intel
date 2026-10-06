@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-10-05T22:31:48Z",
- "generated_ts": 1791239508,
+ "generated_at": "2026-10-06T02:52:56Z",
+ "generated_ts": 1791255176,
  "prices": {
   "BTC": {
-   "p": 85936.9,
-   "o": 86506.6,
-   "h": 86973.6,
+   "p": 85549.0,
+   "o": 85751.5,
+   "h": 86701.8,
    "l": 84965.7,
-   "v": 2540.48263692
+   "v": 2448.15644688
   },
   "ETH": {
-   "p": 2715.23,
-   "o": 2726.03,
-   "h": 2738.82,
+   "p": 2702.7,
+   "o": 2709.72,
+   "h": 2733.72,
    "l": 2678.88,
-   "v": 32166.05304018
+   "v": 27114.58069527
   },
   "SOL": {
-   "p": 121.31,
-   "o": 121.57,
-   "h": 122.06,
+   "p": 120.29,
+   "o": 120.77,
+   "h": 122.04,
    "l": 118.93,
-   "v": 239592.25220062
+   "v": 233619.24737328
   }
  },
  "change_7d": {
-  "BTC": 0.03318340732255895,
-  "ETH": 0.01661703751365428,
-  "SOL": 0.02659981303645785
+  "BTC": 0.03174086819997273,
+  "ETH": 0.016395780939154045,
+  "SOL": 0.030489367153471628
  },
  "sentiment": {
-  "score": 65.3,
+  "score": 66.7,
   "label": "Greed",
   "components": {
-   "fng": 70.0,
-   "momentum": 58.295851830639734,
+   "fng": 73.0,
+   "momentum": 57.935217049993184,
    "crowding": 63.6875
   },
   "weights": {
@@ -46,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 70,
+  "value": 73,
   "label": "Greed",
-  "ts": 1791158400
+  "ts": 1791244800
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3370144735.0984,
-   "premium": -0.0002326961
+   "oi_usd": 3322927733.14632,
+   "premium": -0.0001776361
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3217882794.5971184,
-   "premium": -3.68202e-05
+   "oi_usd": 3211516875.85096,
+   "premium": -0.0002552068
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 684772439.6188002,
-   "premium": 6.51159e-05
+   "oi_usd": 679028539.5491998,
+   "premium": -0.0002078052
   }
  },
- "items_24h": 83,
+ "items_24h": 82,
  "top_items": [
   {
    "id": "18fe874975fdc140",
@@ -230,17 +230,18 @@
    ]
   },
   {
-   "id": "01683bc47e31a3a1",
-   "ts": 1791159600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)",
-   "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261005a.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
+   "id": "a888bbfc45192f5a",
+   "ts": 1791252063,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
+   "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
+   "domain": "Decrypt",
+   "org": "Decrypt",
    "tags": [
-    "macro"
+    "crypto",
+    "SOL"
    ]
   }
  ],
@@ -321,11 +322,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 33
+   "n": 32
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
