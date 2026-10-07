@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-10-06T21:34:32Z",
- "generated_ts": 1791322472,
+ "generated_at": "2026-10-07T01:25:03Z",
+ "generated_ts": 1791336303,
  "prices": {
   "BTC": {
-   "p": 85602.0,
-   "o": 85751.5,
+   "p": 85321.5,
+   "o": 85542.0,
    "h": 86683.4,
    "l": 85110.1,
-   "v": 2202.16278883
+   "v": 2136.56586701
   },
   "ETH": {
-   "p": 2697.58,
-   "o": 2709.72,
+   "p": 2686.72,
+   "o": 2697.15,
    "h": 2724.02,
    "l": 2683.07,
-   "v": 25497.65637727
+   "v": 24629.24325383
   },
   "SOL": {
-   "p": 121.09,
-   "o": 120.77,
+   "p": 120.03,
+   "o": 120.69,
    "h": 121.97,
    "l": 118.89,
-   "v": 346338.0678033
+   "v": 323457.95717216
   }
  },
  "change_7d": {
-  "BTC": 0.024226191359262638,
-  "ETH": 0.003656395530493493,
-  "SOL": 0.016551840026886228
+  "BTC": 0.02535067853233136,
+  "ETH": 0.009305529041410604,
+  "SOL": 0.013960137919434838
  },
  "sentiment": {
-  "score": 66.2,
+  "score": 65.2,
   "label": "Greed",
   "components": {
-   "fng": 73.0,
-   "momentum": 56.05654783981566,
+   "fng": 71.0,
+   "momentum": 56.33766963308284,
    "crowding": 63.6875
   },
   "weights": {
@@ -46,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 73,
+  "value": 71,
   "label": "Greed",
-  "ts": 1791244800
+  "ts": 1791331200
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3550507262.9668684,
-   "premium": 1.98572e-05
+   "oi_usd": 3560520760.0978403,
+   "premium": 3.5158e-05
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3164273576.9124775,
-   "premium": -0.0003706587
+   "oi_usd": 3145878492.7978806,
+   "premium": -3.72121e-05
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 688431350.4047643,
-   "premium": -4.12865e-05
+   "oi_usd": 671790567.2368,
+   "premium": 0.0
   }
  },
- "items_24h": 124,
+ "items_24h": 123,
  "top_items": [
   {
    "id": "3e1dc7725dccb87c",
@@ -136,20 +136,60 @@
    "score": 4879
   },
   {
-   "id": "5f3840ad305849a3",
-   "ts": 1791237651,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "If Republicans win the House of Representatives and the Senate in the 2026 Midterm Elections, I'm going to give all Adult Citizens in the United States of America, $5,000. Thank you for your attention to this matter, and I look forward to signing those checks! President DONALD J.",
-   "url": "https://truthsocial.com/@realDonaldTrump/117390550758872714",
-   "domain": "truthsocial.com",
+   "id": "c0042ebfddf9745e",
+   "ts": 1791334800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Bank of Japan Accounts (September 30)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260930.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
    "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3659
+    "macro"
+   ]
+  },
+  {
+   "id": "7aee76005a9c329f",
+   "ts": 1791330600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Monetary Base and the Bank of Japan's Transactions (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2609.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "f5d9cc3a8791a48c",
+   "ts": 1791330600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Bank of Japan's Transactions with the Government (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2609.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "5848afbd4cc15d77",
+   "ts": 1791330600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Market Operations by the Bank of Japan (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2609.xlsx",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "6390afe2c89d3cd2",
@@ -162,6 +202,20 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
+  },
+  {
+   "id": "9f4b4633fbb9aa46",
+   "ts": 1791318624,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
+   "domain": "SEC",
+   "org": "SEC",
+   "tags": [
+    "regulation"
+   ]
   },
   {
    "id": "102fe9d3c1196616",
@@ -187,62 +241,6 @@
    "org": "SEC",
    "tags": [
     "regulation"
-   ]
-  },
-  {
-   "id": "f1394d3fb3efab17",
-   "ts": 1791292023,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
-   "url": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "cc53352957af0033",
-   "ts": 1791291600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Frank Elderson: Effective supervision through timely remediation",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006_1~0df91e4e44.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "5dae0e8c1ef8bd3b",
-   "ts": 1791291600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "985fd00dec50f302",
-   "ts": 1791270000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Philip R. Lane: Interview with Ansa",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261006~bc94400297.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
    ]
   }
  ],
@@ -275,7 +273,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "CFTC": {
    "ok": true,
@@ -295,7 +293,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 15
+   "n": 19
   },
   "BIS": {
    "ok": true,
