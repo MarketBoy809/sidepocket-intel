@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-10-07T16:20:07Z",
- "generated_ts": 1791390007,
+ "generated_at": "2026-10-07T21:55:33Z",
+ "generated_ts": 1791410133,
  "prices": {
   "BTC": {
-   "p": 83569.6,
+   "p": 83094.1,
    "o": 85542.0,
-   "h": 85797.0,
+   "h": 85655.4,
    "l": 82720.3,
-   "v": 3449.81116189
+   "v": 3333.72598681
   },
   "ETH": {
-   "p": 2574.57,
+   "p": 2565.54,
    "o": 2697.15,
-   "h": 2706.81,
-   "l": 2552.0,
-   "v": 49261.78846556
+   "h": 2700.0,
+   "l": 2533.1,
+   "v": 51050.45050253
   },
   "SOL": {
-   "p": 117.04,
+   "p": 115.29,
    "o": 120.69,
    "h": 121.46,
-   "l": 115.44,
-   "v": 332389.35781367
+   "l": 115.2,
+   "v": 400744.42447527
   }
  },
  "change_7d": {
-  "BTC": -0.007935573504132732,
-  "ETH": -0.041905003393268685,
-  "SOL": -0.021298004360221418
+  "BTC": -0.0028554826570506356,
+  "ETH": -0.04027276254140663,
+  "SOL": -0.015511103576877423
  },
  "sentiment": {
-  "score": 62.9,
+  "score": 63.2,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 48.01610662396682,
+   "momentum": 49.28612933573734,
    "crowding": 63.6875
   },
   "weights": {
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3323104262.5591598,
-   "premium": -0.00024757
+   "oi_usd": 3301744946.03964,
+   "premium": -0.0004209716
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3042811101.565,
-   "premium": -0.0002717708
+   "oi_usd": 3043338792.585999,
+   "premium": -0.0003077654
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 669858735.55,
-   "premium": -8.54044e-05
+   "oi_usd": 665616913.0494001,
+   "premium": -0.0003900663
   }
  },
- "items_24h": 81,
+ "items_24h": 85,
  "top_items": [
   {
    "id": "d462db91d5a3f30e",
@@ -85,6 +85,102 @@
    ],
    "author": "Donald Trump",
    "score": 7989
+  },
+  {
+   "id": "39c830b4d8774eaf",
+   "ts": 1791397763,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Steve Witkoff keeps the light on: https://www.washingtonexaminer.com/opinion/columnists/4755159/steve-witkoff-marc-fogel-reunion-russia-prisoner-exchange/",
+   "url": "https://truthsocial.com/@realDonaldTrump/117401043822124853",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 5308
+  },
+  {
+   "id": "192f6ecc9e58f044",
+   "ts": 1791408268,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Three years ago today, on October 7th, the World witnessed one of the darkest and most evil days in the history of Israel. Innocent men, women, and children were murdered, kidnapped, and subjected to unimaginable horrors at the hands of Hamas TERRORISTS.Today, we remember every i",
+   "url": "https://truthsocial.com/@realDonaldTrump/117401732253982693",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 3638
+  },
+  {
+   "id": "481c500a8d04485c",
+   "ts": 1791403521,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "National Energy Dominance Month, 2026",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-energy-dominance-month-2026/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "94fca8f5fa3aa432",
+   "ts": 1791403044,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Congressional Bills H.R. 5345 and S. 766 Signed into Law",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-5345-and-s-766-signed-into-law/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "717f24698a8b41f8",
+   "ts": 1791402468,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Columbus Day, 2026",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/columbus-day-2026/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "eeb8f6b78f019079",
+   "ts": 1791396000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "e6ee4959f250982f",
+   "ts": 1791391098,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Lower Taxes, Safer Streets, Stronger Border: President Trump’s Texas Record",
+   "url": "https://www.whitehouse.gov/releases/2026/10/lower-taxes-safer-streets-stronger-border-president-trumps-texas-record/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "1c198387a9dc4702",
@@ -142,104 +238,6 @@
     "regulation",
     "macro"
    ]
-  },
-  {
-   "id": "a487a879854db8c7",
-   "ts": 1791360000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "8a3d3e93de4336f3",
-   "ts": 1791352800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Amounts Outstanding in the Call Money Market (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "93f8de4196e944c3",
-   "ts": 1791349200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Consumption Activity Index",
-   "url": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "c0042ebfddf9745e",
-   "ts": 1791334800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Bank of Japan Accounts (September 30)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260930.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "7aee76005a9c329f",
-   "ts": 1791330600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Monetary Base and the Bank of Japan's Transactions (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2609.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "f5d9cc3a8791a48c",
-   "ts": 1791330600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Bank of Japan's Transactions with the Government (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2609.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "5848afbd4cc15d77",
-   "ts": 1791330600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Market Operations by the Bank of Japan (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2609.xlsx",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -262,7 +260,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 19
+   "n": 22
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -271,7 +269,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 7
+   "n": 5
   },
   "CFTC": {
    "ok": true,
@@ -279,11 +277,11 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "European Central Bank": {
    "ok": true,
-   "n": 10
+   "n": 9
   },
   "Bank of England": {
    "ok": true,
@@ -319,11 +317,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 36
+   "n": 37
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "Reddit r/Bitcoin": {
    "ok": false,
