@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-07T08:32:23Z",
- "generated_ts": 1791361943,
+ "generated_at": "2026-10-07T16:20:07Z",
+ "generated_ts": 1791390007,
  "prices": {
   "BTC": {
-   "p": 84016.5,
+   "p": 83569.6,
    "o": 85542.0,
-   "h": 86683.4,
-   "l": 83555.0,
-   "v": 3062.90928028
+   "h": 85797.0,
+   "l": 82720.3,
+   "v": 3449.81116189
   },
   "ETH": {
-   "p": 2614.87,
+   "p": 2574.57,
    "o": 2697.15,
-   "h": 2724.02,
-   "l": 2590.0,
-   "v": 41673.07808465
+   "h": 2706.81,
+   "l": 2552.0,
+   "v": 49261.78846556
   },
   "SOL": {
-   "p": 118.46,
+   "p": 117.04,
    "o": 120.69,
-   "h": 121.97,
-   "l": 117.01,
-   "v": 347327.25827734
+   "h": 121.46,
+   "l": 115.44,
+   "v": 332389.35781367
   }
  },
  "change_7d": {
-  "BTC": 0.010091658824751616,
-  "ETH": -0.0218451686267469,
-  "SOL": 0.001266570970193291
+  "BTC": -0.007935573504132732,
+  "ETH": -0.041905003393268685,
+  "SOL": -0.021298004360221418
  },
  "sentiment": {
-  "score": 63.1,
+  "score": 62.9,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 52.522914706187905,
-   "crowding": 58.9569905
+   "momentum": 48.01610662396682,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -54,37 +54,94 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3468597996.08,
-   "premium": -0.0003926048
+   "oi_usd": 3323104262.5591598,
+   "premium": -0.00024757
   },
   "ETH": {
-   "funding_h": 5.5447e-06,
-   "oi_usd": 3073840285.850938,
-   "premium": -0.0004893939
+   "funding_h": 1.25e-05,
+   "oi_usd": 3042811101.565,
+   "premium": -0.0002717708
   },
   "SOL": {
-   "funding_h": 6.495e-06,
-   "oi_usd": 664892329.5657082,
-   "premium": -0.0004641154
+   "funding_h": 1.25e-05,
+   "oi_usd": 669858735.55,
+   "premium": -8.54044e-05
   }
  },
- "items_24h": 76,
+ "items_24h": 81,
  "top_items": [
   {
-   "id": "3e1dc7725dccb87c",
-   "ts": 1791295442,
+   "id": "d462db91d5a3f30e",
+   "ts": 1791386108,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "FoxNews is long form interviewing the sleazebag, Dan Osborn, right now, who is running against our GREAT Republican Senator, Pete Ricketts, from Nebraska. Why are they doing this??? The \"other side\" doesn't give our people any positive exposure or airtime. It is a miracle that I ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117394338110958110",
+   "title": "I just spoke with Tom Tiffany, who has my Complete and Total Endorsement to be the next Governor of the Great State of Wisconsin. I told Tom that I will be approving 17.9 Million Dollars for the Severe Storms and Tornadoes that Wisconsin has experienced. The people are tough and ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117400280030146024",
    "domain": "truthsocial.com",
    "tags": [
-    "geo"
+    "macro"
    ],
    "author": "Donald Trump",
-   "score": 9988
+   "score": 7989
+  },
+  {
+   "id": "1c198387a9dc4702",
+   "ts": 1791380185,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
+   "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "3e5fef1d009664a6",
+   "ts": 1791366565,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 16 June 2026",
+   "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-operations-sub-committee-meeting-16-june-2026",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "4efcbcc9c35cb2bd",
+   "ts": 1791364120,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Minutes of the London FXJSC Main Committee Meeting – 24 June 2026",
+   "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-main-committee-meeting-24-june-2026",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "e7f7eae6591be264",
+   "ts": 1791363600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Regulatory thresholds set to shift to automatic increases",
+   "url": "https://www.bankofengland.co.uk/news/2026/october/regulatory-thresholds-set-to-shift-to-automatic-increases",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "regulation",
+    "macro"
+   ]
   },
   {
    "id": "a487a879854db8c7",
@@ -183,58 +240,6 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "6390afe2c89d3cd2",
-   "ts": 1791319430,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on German American Day",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-german-american-day/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "9f4b4633fbb9aa46",
-   "ts": 1791318624,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
-   "domain": "SEC",
-   "org": "SEC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "102fe9d3c1196616",
-   "ts": 1791303752,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "WHAT THEY ARE SAYING: President Trump Delivers Immediate Diesel Relief, Saving Americans Up to $100 Per Fill",
-   "url": "https://www.whitehouse.gov/releases/2026/10/what-they-are-saying-president-trump-delivers-immediate-diesel-relief-saving-americans-up-to-100-per-fill/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "694b408b0e82f5f6",
-   "ts": 1791297475,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "SEC to Host Virtual National Compliance Outreach Seminar for Investment Companies and Investment Advisers",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-102-sec-host-virtual-national-compliance-outreach-seminar-investment-companies-investment-advisers",
-   "domain": "SEC",
-   "org": "SEC",
-   "tags": [
-    "regulation"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -257,7 +262,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 21
+   "n": 19
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -266,7 +271,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "CFTC": {
    "ok": true,
@@ -274,15 +279,15 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 5
+   "n": 4
   },
   "European Central Bank": {
    "ok": true,
-   "n": 11
+   "n": 10
   },
   "Bank of England": {
    "ok": true,
-   "n": 4
+   "n": 7
   },
   "Bank of Japan": {
    "ok": true,
@@ -314,11 +319,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 35
+   "n": 36
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 13
+   "n": 14
   },
   "Reddit r/Bitcoin": {
    "ok": false,
