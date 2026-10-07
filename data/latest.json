@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-07T01:25:03Z",
- "generated_ts": 1791336303,
+ "generated_at": "2026-10-07T08:32:23Z",
+ "generated_ts": 1791361943,
  "prices": {
   "BTC": {
-   "p": 85321.5,
+   "p": 84016.5,
    "o": 85542.0,
    "h": 86683.4,
-   "l": 85110.1,
-   "v": 2136.56586701
+   "l": 83555.0,
+   "v": 3062.90928028
   },
   "ETH": {
-   "p": 2686.72,
+   "p": 2614.87,
    "o": 2697.15,
    "h": 2724.02,
-   "l": 2683.07,
-   "v": 24629.24325383
+   "l": 2590.0,
+   "v": 41673.07808465
   },
   "SOL": {
-   "p": 120.03,
+   "p": 118.46,
    "o": 120.69,
    "h": 121.97,
-   "l": 118.89,
-   "v": 323457.95717216
+   "l": 117.01,
+   "v": 347327.25827734
   }
  },
  "change_7d": {
-  "BTC": 0.02535067853233136,
-  "ETH": 0.009305529041410604,
-  "SOL": 0.013960137919434838
+  "BTC": 0.010091658824751616,
+  "ETH": -0.0218451686267469,
+  "SOL": 0.001266570970193291
  },
  "sentiment": {
-  "score": 65.2,
+  "score": 63.1,
   "label": "Greed",
   "components": {
    "fng": 71.0,
-   "momentum": 56.33766963308284,
-   "crowding": 63.6875
+   "momentum": 52.522914706187905,
+   "crowding": 58.9569905
   },
   "weights": {
    "fng": 0.35,
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3560520760.0978403,
-   "premium": 3.5158e-05
+   "oi_usd": 3468597996.08,
+   "premium": -0.0003926048
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3145878492.7978806,
-   "premium": -3.72121e-05
+   "funding_h": 5.5447e-06,
+   "oi_usd": 3073840285.850938,
+   "premium": -0.0004893939
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 671790567.2368,
-   "premium": 0.0
+   "funding_h": 6.495e-06,
+   "oi_usd": 664892329.5657082,
+   "premium": -0.0004641154
   }
  },
- "items_24h": 123,
+ "items_24h": 76,
  "top_items": [
   {
    "id": "3e1dc7725dccb87c",
@@ -87,53 +87,46 @@
    "score": 9988
   },
   {
-   "id": "531742ec1efbc571",
-   "ts": 1791256730,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "HUGE INVESTMENT WIN for NEBRASKA AND THE U.S.!Beckton Dickenson (BD), one of the largest Medical Device Manufacturers, has agreed to an Investment of 3 BILLION DOLLARS to Onshore Manufacturing of Essential Medical Products (syringes, needles, lab kits, and more) that American Pat",
-   "url": "https://truthsocial.com/@realDonaldTrump/117391801119298224",
-   "domain": "truthsocial.com",
+   "id": "a487a879854db8c7",
+   "ts": 1791360000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
    "tags": [
-    "macro",
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 7860
+    "macro"
+   ]
   },
   {
-   "id": "4913b46385f31847",
-   "ts": 1791255320,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse Highly Respected State Representative Johnny Garrett, who is running to represent the Wonderful People of Tennessee's 6th Congressional District! A Seventh-Generation Goodlettsvillian and Proven Conservative Leader, Johnny has served as a State Rep",
-   "url": "https://truthsocial.com/@realDonaldTrump/117391708694755293",
-   "domain": "truthsocial.com",
+   "id": "8a3d3e93de4336f3",
+   "ts": 1791352800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Amounts Outstanding in the Call Money Market (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
    "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 5103
+    "macro"
+   ]
   },
   {
-   "id": "e276cfe8adea1fed",
-   "ts": 1791255254,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Chuck Gray has been a tremendous Secretary of State for the Great State of Wyoming, a place I love and WON BIG in 2016, 2020, and 2024!An America First Patriot, and true friend of MAGA, Chuck is now running for Congress, where I know he will continue to do a fantastic job! As you",
-   "url": "https://truthsocial.com/@realDonaldTrump/117391704369917911",
-   "domain": "truthsocial.com",
+   "id": "93f8de4196e944c3",
+   "ts": 1791349200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Consumption Activity Index",
+   "url": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
    "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4879
+    "macro"
+   ]
   },
   {
    "id": "c0042ebfddf9745e",
@@ -293,7 +286,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 19
+   "n": 17
   },
   "BIS": {
    "ok": true,
@@ -325,7 +318,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 17
+   "n": 13
   },
   "Reddit r/Bitcoin": {
    "ok": false,
