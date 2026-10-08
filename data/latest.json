@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-08T01:47:27Z",
- "generated_ts": 1791424047,
+ "generated_at": "2026-10-08T08:48:54Z",
+ "generated_ts": 1791449334,
  "prices": {
   "BTC": {
-   "p": 83177.0,
+   "p": 82841.8,
    "o": 83276.1,
-   "h": 85305.1,
-   "l": 82720.3,
-   "v": 3262.21438912
+   "h": 84006.5,
+   "l": 82191.8,
+   "v": 2706.17769085
   },
   "ETH": {
-   "p": 2579.68,
+   "p": 2560.13,
    "o": 2572.82,
-   "h": 2687.67,
+   "h": 2612.44,
    "l": 2533.1,
-   "v": 51979.5554647
+   "v": 39618.85936206
   },
   "SOL": {
-   "p": 116.22,
+   "p": 114.91,
    "o": 116.24,
-   "h": 119.97,
-   "l": 115.2,
-   "v": 385894.10883881
+   "h": 118.48,
+   "l": 114.09,
+   "v": 364687.53931953
   }
  },
  "change_7d": {
-  "BTC": -0.0015306472754323351,
-  "ETH": -0.04054149754186654,
-  "SOL": -0.013145619540327344
+  "BTC": -0.005195639199038887,
+  "ETH": -0.040846833716389086,
+  "SOL": -0.021800221408498698
  },
  "sentiment": {
-  "score": 59.8,
+  "score": 58.2,
   "label": "Greed",
   "components": {
    "fng": 64.0,
-   "momentum": 49.61733818114192,
-   "crowding": 63.6875
+   "momentum": 48.70109020024028,
+   "crowding": 57.185828
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3299455940.7924085,
-   "premium": -0.0002967573
+   "funding_h": 9.8189e-06,
+   "oi_usd": 3333776365.432372,
+   "premium": -0.0002677916
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3064396499.173981,
-   "premium": -0.0003641435
+   "funding_h": -2.6317e-06,
+   "oi_usd": 3007511070.014878,
+   "premium": -0.0004293353
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 671849249.1749996,
-   "premium": -0.0003869137
+   "oi_usd": 660891444.7647996,
+   "premium": -0.0002269248
   }
  },
- "items_24h": 101,
+ "items_24h": 103,
  "top_items": [
   {
    "id": "c3c14e3855c810bc",
@@ -119,6 +119,23 @@
    "score": 5308
   },
   {
+   "id": "6ee1fbbc87b830d0",
+   "ts": 1791429757,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Ladies and Gentlemen, upon information and belief, James TalaFREAKo, who is running for the United States Senate in Texas, is MISSING IN ACTION! No one has seen him for an extended period of time. Where is he? What is wrong with him? Bad rumors are coming out. He should immediate",
+   "url": "https://truthsocial.com/@realDonaldTrump/117403140590234301",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4876
+  },
+  {
    "id": "192f6ecc9e58f044",
    "ts": 1791408268,
    "source": "truth",
@@ -133,6 +150,46 @@
    ],
    "author": "Donald Trump",
    "score": 3638
+  },
+  {
+   "id": "aa8623d070d6696c",
+   "ts": 1791439200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Piero Cipollone: Interview with Corriere della Sera",
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "4188a7fb34684175",
+   "ts": 1791435600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Regional Economic Report (Summary) (Oct. 2026)",
+   "url": "http://www.boj.or.jp/en/research/brp/rer/rer261008.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "8df8da213cf51bb6",
+   "ts": 1791419292,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Trump Accounts Put 70 Million Kids on the Path to Financial Freedom",
+   "url": "https://www.whitehouse.gov/releases/2026/10/a-financial-stake-in-the-future-for-nearly-70-million-american-children-trump-accounts-made-it-possible/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "e50d48bbc8ab48cf",
@@ -187,58 +244,6 @@
    "tags": [
     "regulation"
    ]
-  },
-  {
-   "id": "717f24698a8b41f8",
-   "ts": 1791402468,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Columbus Day, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/columbus-day-2026/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "eeb8f6b78f019079",
-   "ts": 1791396000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "e6ee4959f250982f",
-   "ts": 1791391098,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Lower Taxes, Safer Streets, Stronger Border: President Trump’s Texas Record",
-   "url": "https://www.whitehouse.gov/releases/2026/10/lower-taxes-safer-streets-stronger-border-president-trumps-texas-record/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "1c198387a9dc4702",
-   "ts": 1791380185,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
-   "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -282,7 +287,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 9
+   "n": 10
   },
   "Bank of England": {
    "ok": true,
@@ -314,19 +319,20 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 37
+   "n": 36
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 37
+   "n": 34
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 15
+   "n": 13
   },
   "Reddit r/Bitcoin": {
-   "ok": true,
-   "n": 24
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
