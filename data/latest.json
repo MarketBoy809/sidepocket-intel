@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-10-07T21:55:33Z",
- "generated_ts": 1791410133,
+ "generated_at": "2026-10-08T01:47:27Z",
+ "generated_ts": 1791424047,
  "prices": {
   "BTC": {
-   "p": 83094.1,
-   "o": 85542.0,
-   "h": 85655.4,
+   "p": 83177.0,
+   "o": 83276.1,
+   "h": 85305.1,
    "l": 82720.3,
-   "v": 3333.72598681
+   "v": 3262.21438912
   },
   "ETH": {
-   "p": 2565.54,
-   "o": 2697.15,
-   "h": 2700.0,
+   "p": 2579.68,
+   "o": 2572.82,
+   "h": 2687.67,
    "l": 2533.1,
-   "v": 51050.45050253
+   "v": 51979.5554647
   },
   "SOL": {
-   "p": 115.29,
-   "o": 120.69,
-   "h": 121.46,
+   "p": 116.22,
+   "o": 116.24,
+   "h": 119.97,
    "l": 115.2,
-   "v": 400744.42447527
+   "v": 385894.10883881
   }
  },
  "change_7d": {
-  "BTC": -0.0028554826570506356,
-  "ETH": -0.04027276254140663,
-  "SOL": -0.015511103576877423
+  "BTC": -0.0015306472754323351,
+  "ETH": -0.04054149754186654,
+  "SOL": -0.013145619540327344
  },
  "sentiment": {
-  "score": 63.2,
+  "score": 59.8,
   "label": "Greed",
   "components": {
-   "fng": 71.0,
-   "momentum": 49.28612933573734,
+   "fng": 64.0,
+   "momentum": 49.61733818114192,
    "crowding": 63.6875
   },
   "weights": {
@@ -46,30 +46,46 @@
   }
  },
  "fear_greed": {
-  "value": 71,
+  "value": 64,
   "label": "Greed",
-  "ts": 1791331200
+  "ts": 1791417600
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3301744946.03964,
-   "premium": -0.0004209716
+   "oi_usd": 3299455940.7924085,
+   "premium": -0.0002967573
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3043338792.585999,
-   "premium": -0.0003077654
+   "oi_usd": 3064396499.173981,
+   "premium": -0.0003641435
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 665616913.0494001,
-   "premium": -0.0003900663
+   "oi_usd": 671849249.1749996,
+   "premium": -0.0003869137
   }
  },
- "items_24h": 85,
+ "items_24h": 101,
  "top_items": [
+  {
+   "id": "c3c14e3855c810bc",
+   "ts": 1791410547,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "To the people of Texas, I am headed your way, and one of the people that I am going to pay respect to today is Tano Tijerina. Out of love and passion, he is running against a Dumocrat, Henry Cuellar, who, along with his wife, I pardoned, at the request of his daughters, because t",
+   "url": "https://truthsocial.com/@realDonaldTrump/117401881670410504",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 10371
+  },
   {
    "id": "d462db91d5a3f30e",
    "ts": 1791386108,
@@ -117,6 +133,34 @@
    ],
    "author": "Donald Trump",
    "score": 3638
+  },
+  {
+   "id": "e50d48bbc8ab48cf",
+   "ts": 1791417000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Direct Investment by Region and Industry (2nd quarter 2026)",
+   "url": "http://www.boj.or.jp/en/statistics/br/bop_06/bpdata/diiqcy.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "120fd06007cb3026",
+   "ts": 1791414060,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
+   "url": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "481c500a8d04485c",
@@ -195,49 +239,6 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "3e5fef1d009664a6",
-   "ts": 1791366565,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 16 June 2026",
-   "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-operations-sub-committee-meeting-16-june-2026",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "4efcbcc9c35cb2bd",
-   "ts": 1791364120,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Minutes of the London FXJSC Main Committee Meeting – 24 June 2026",
-   "url": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-main-committee-meeting-24-june-2026",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "e7f7eae6591be264",
-   "ts": 1791363600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Regulatory thresholds set to shift to automatic increases",
-   "url": "https://www.bankofengland.co.uk/news/2026/october/regulatory-thresholds-set-to-shift-to-automatic-increases",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "regulation",
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -285,15 +286,15 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 17
+   "n": 16
   },
   "BIS": {
    "ok": true,
-   "n": 3
+   "n": 1
   },
   "Strategy (MSTR) filings": {
    "ok": true,
@@ -324,9 +325,8 @@
    "n": 15
   },
   "Reddit r/Bitcoin": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 24
   }
  }
 }
