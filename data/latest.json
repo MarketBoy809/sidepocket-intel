@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-08T08:48:54Z",
- "generated_ts": 1791449334,
+ "generated_at": "2026-10-08T16:22:08Z",
+ "generated_ts": 1791476528,
  "prices": {
   "BTC": {
-   "p": 82841.8,
+   "p": 81282.4,
    "o": 83276.1,
-   "h": 84006.5,
-   "l": 82191.8,
-   "v": 2706.17769085
+   "h": 83641.9,
+   "l": 80732.8,
+   "v": 3380.97520052
   },
   "ETH": {
-   "p": 2560.13,
+   "p": 2432.07,
    "o": 2572.82,
-   "h": 2612.44,
-   "l": 2533.1,
-   "v": 39618.85936206
+   "h": 2585.31,
+   "l": 2415.16,
+   "v": 54115.86627629
   },
   "SOL": {
-   "p": 114.91,
+   "p": 108.74,
    "o": 116.24,
-   "h": 118.48,
-   "l": 114.09,
-   "v": 364687.53931953
+   "h": 117.17,
+   "l": 107.89,
+   "v": 504879.55126208
   }
  },
  "change_7d": {
-  "BTC": -0.005195639199038887,
-  "ETH": -0.040846833716389086,
-  "SOL": -0.021800221408498698
+  "BTC": -0.03766358897164699,
+  "ETH": -0.09260205318288092,
+  "SOL": -0.07543470848960104
  },
  "sentiment": {
-  "score": 58.2,
-  "label": "Greed",
+  "score": 53.6,
+  "label": "Neutral",
   "components": {
    "fng": 64.0,
-   "momentum": 48.70109020024028,
-   "crowding": 57.185828
+   "momentum": 40.58410275708825,
+   "crowding": 46.743908
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 9.8189e-06,
-   "oi_usd": 3333776365.432372,
-   "premium": -0.0002677916
+   "funding_h": 6.2919e-06,
+   "oi_usd": 3270278810.74662,
+   "premium": -0.0005408595
   },
   "ETH": {
-   "funding_h": -2.6317e-06,
-   "oi_usd": 3007511070.014878,
-   "premium": -0.0004293353
+   "funding_h": -2.18741e-05,
+   "oi_usd": 2741619415.6729183,
+   "premium": -0.0007148022
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 660891444.7647996,
-   "premium": -0.0002269248
+   "funding_h": 6.6614e-06,
+   "oi_usd": 606088203.2352002,
+   "premium": -0.000643205
   }
  },
- "items_24h": 103,
+ "items_24h": 99,
  "top_items": [
   {
    "id": "c3c14e3855c810bc",
@@ -85,22 +85,6 @@
    ],
    "author": "Donald Trump",
    "score": 10371
-  },
-  {
-   "id": "d462db91d5a3f30e",
-   "ts": 1791386108,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I just spoke with Tom Tiffany, who has my Complete and Total Endorsement to be the next Governor of the Great State of Wisconsin. I told Tom that I will be approving 17.9 Million Dollars for the Severe Storms and Tornadoes that Wisconsin has experienced. The people are tough and ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117400280030146024",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro"
-   ],
-   "author": "Donald Trump",
-   "score": 7989
   },
   {
    "id": "39c830b4d8774eaf",
@@ -150,6 +134,52 @@
    ],
    "author": "Donald Trump",
    "score": 3638
+  },
+  {
+   "id": "cb0cbc82aa1f8384",
+   "ts": 1791476231,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "We are having productive discussions with the Islamic Republic of Iran. I want to make it clear to everybody that, while Iran is in very bad condition, both Economically and Militarily, and while the Blockade will remain in full force and effect, with Oil flowing in Record Number",
+   "url": "https://truthsocial.com/@realDonaldTrump/117406186276133332",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 1436
+  },
+  {
+   "id": "5df4c27d29f7ca4d",
+   "ts": 1791476083,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The White House considers anyone that uses the term, \"Artificial Intelligence,\" as opposed to the highly accepted new and more accurate term, \"Super Intelligence,\" THE ENEMY! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117406176604364910",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1304
+  },
+  {
+   "id": "115092f33ede014c",
+   "ts": 1791459000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Meeting of 9-10 September 2026",
+   "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "aa8623d070d6696c",
@@ -218,32 +248,6 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "481c500a8d04485c",
-   "ts": 1791403521,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "National Energy Dominance Month, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-energy-dominance-month-2026/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "94fca8f5fa3aa432",
-   "ts": 1791403044,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Congressional Bills H.R. 5345 and S. 766 Signed into Law",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-5345-and-s-766-signed-into-law/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": [
-    "regulation"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -275,11 +279,11 @@
   },
   "SEC": {
    "ok": true,
-   "n": 5
+   "n": 3
   },
   "CFTC": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "Federal Reserve": {
    "ok": true,
@@ -287,11 +291,11 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 10
+   "n": 9
   },
   "Bank of England": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "Bank of Japan": {
    "ok": true,
@@ -303,7 +307,7 @@
   },
   "Strategy (MSTR) filings": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "Coinbase filings": {
    "ok": true,
@@ -327,7 +331,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 13
+   "n": 14
   },
   "Reddit r/Bitcoin": {
    "ok": false,
