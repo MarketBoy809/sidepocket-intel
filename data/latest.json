@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-08T16:22:08Z",
- "generated_ts": 1791476528,
+ "generated_at": "2026-10-08T21:58:54Z",
+ "generated_ts": 1791496734,
  "prices": {
   "BTC": {
-   "p": 81282.4,
+   "p": 81628.0,
    "o": 83276.1,
-   "h": 83641.9,
-   "l": 80732.8,
-   "v": 3380.97520052
+   "h": 83467.7,
+   "l": 80328.6,
+   "v": 4002.57490366
   },
   "ETH": {
-   "p": 2432.07,
+   "p": 2477.87,
    "o": 2572.82,
    "h": 2585.31,
-   "l": 2415.16,
-   "v": 54115.86627629
+   "l": 2405.35,
+   "v": 57633.05470164
   },
   "SOL": {
-   "p": 108.74,
+   "p": 110.53,
    "o": 116.24,
-   "h": 117.17,
-   "l": 107.89,
-   "v": 504879.55126208
+   "h": 116.74,
+   "l": 105.57,
+   "v": 640406.79368166
   }
  },
  "change_7d": {
-  "BTC": -0.03766358897164699,
-  "ETH": -0.09260205318288092,
-  "SOL": -0.07543470848960104
+  "BTC": -0.03389467901220554,
+  "ETH": -0.08322274038212027,
+  "SOL": -0.0700254022015241
  },
  "sentiment": {
-  "score": 53.6,
-  "label": "Neutral",
+  "score": 57.0,
+  "label": "Greed",
   "components": {
    "fng": 64.0,
-   "momentum": 40.58410275708825,
-   "crowding": 46.743908
+   "momentum": 41.52633024694862,
+   "crowding": 61.107169
   },
   "weights": {
    "fng": 0.35,
@@ -53,23 +53,55 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 6.2919e-06,
-   "oi_usd": 3270278810.74662,
-   "premium": -0.0005408595
+   "funding_h": 7.7836e-06,
+   "oi_usd": 3262985476.926,
+   "premium": -0.0004320934
   },
   "ETH": {
-   "funding_h": -2.18741e-05,
-   "oi_usd": 2741619415.6729183,
-   "premium": -0.0007148022
+   "funding_h": 1.25e-05,
+   "oi_usd": 2782435516.20672,
+   "premium": -0.0005646072
   },
   "SOL": {
-   "funding_h": 6.6614e-06,
-   "oi_usd": 606088203.2352002,
-   "premium": -0.000643205
+   "funding_h": 1.0147e-05,
+   "oi_usd": 635039869.1340002,
+   "premium": -0.0005876237
   }
  },
- "items_24h": 99,
+ "items_24h": 92,
  "top_items": [
+  {
+   "id": "a587cf99af6356e1",
+   "ts": 1791478869,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "TalaFREAKo has been missing for 12 days! Now, after looking for him throughout all of Texas, and beyond, probably even weirder places than anyone would think possible, he put out a statement that he has the \"flu.\" 12 days is a long time to rid yourself of the so-called flu bug. W",
+   "url": "https://truthsocial.com/@realDonaldTrump/117406359223020085",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 26249
+  },
+  {
+   "id": "84738d86637f6afc",
+   "ts": 1791485950,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The Fake and Artificial News is out there trying to say that I'm inviting the enemy to bomb San Diego and Los Angeles when, in actuality, what I was talking about was that a temporary increase in the price of Gasoline is a small price to pay for Iran not having a Nuclear Weapon a",
+   "url": "https://truthsocial.com/@realDonaldTrump/117406823254412991",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 10617
+  },
   {
    "id": "c3c14e3855c810bc",
    "ts": 1791410547,
@@ -87,22 +119,6 @@
    "score": 10371
   },
   {
-   "id": "39c830b4d8774eaf",
-   "ts": 1791397763,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Steve Witkoff keeps the light on: https://www.washingtonexaminer.com/opinion/columnists/4755159/steve-witkoff-marc-fogel-reunion-russia-prisoner-exchange/",
-   "url": "https://truthsocial.com/@realDonaldTrump/117401043822124853",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 5308
-  },
-  {
    "id": "6ee1fbbc87b830d0",
    "ts": 1791429757,
    "source": "truth",
@@ -118,22 +134,6 @@
    ],
    "author": "Donald Trump",
    "score": 4876
-  },
-  {
-   "id": "192f6ecc9e58f044",
-   "ts": 1791408268,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Three years ago today, on October 7th, the World witnessed one of the darkest and most evil days in the history of Israel. Innocent men, women, and children were murdered, kidnapped, and subjected to unimaginable horrors at the hands of Hamas TERRORISTS.Today, we remember every i",
-   "url": "https://truthsocial.com/@realDonaldTrump/117401732253982693",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 3638
   },
   {
    "id": "cb0cbc82aa1f8384",
@@ -168,6 +168,56 @@
    "score": 1304
   },
   {
+   "id": "e95750d1b74189d7",
+   "ts": 1791491400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "152ceb4ec3c92f40",
+   "ts": 1791488676,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Is Putting American Industry, Jobs, and Paychecks Back on the Map",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-is-putting-american-industry-jobs-and-paychecks-back-on-the-map/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "9d415c40a6c397bc",
+   "ts": 1791484371,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Presents National Medals of Science and National Medals of Technology and Innovation",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-presents-national-medals-of-science-and-national-medals-of-technology-and-innovation/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "0baf84920a6d3bc5",
+   "ts": 1791471906,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Fact Sheet: Trump Administration Announces the Most Ambitious Set of Science Initiatives This Century",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
    "id": "115092f33ede014c",
    "ts": 1791459000,
    "source": "central_bank",
@@ -194,60 +244,6 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "4188a7fb34684175",
-   "ts": 1791435600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Regional Economic Report (Summary) (Oct. 2026)",
-   "url": "http://www.boj.or.jp/en/research/brp/rer/rer261008.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "8df8da213cf51bb6",
-   "ts": 1791419292,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Trump Accounts Put 70 Million Kids on the Path to Financial Freedom",
-   "url": "https://www.whitehouse.gov/releases/2026/10/a-financial-stake-in-the-future-for-nearly-70-million-american-children-trump-accounts-made-it-possible/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "e50d48bbc8ab48cf",
-   "ts": 1791417000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Direct Investment by Region and Industry (2nd quarter 2026)",
-   "url": "http://www.boj.or.jp/en/statistics/br/bop_06/bpdata/diiqcy.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "120fd06007cb3026",
-   "ts": 1791414060,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
-   "url": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -270,7 +266,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 22
+   "n": 24
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -287,7 +283,7 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "European Central Bank": {
    "ok": true,
@@ -323,7 +319,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 36
+   "n": 37
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
@@ -331,7 +327,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "Reddit r/Bitcoin": {
    "ok": false,
