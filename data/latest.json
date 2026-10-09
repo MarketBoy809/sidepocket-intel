@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-08T21:58:54Z",
- "generated_ts": 1791496734,
+ "generated_at": "2026-10-09T01:59:01Z",
+ "generated_ts": 1791511141,
  "prices": {
   "BTC": {
-   "p": 81628.0,
-   "o": 83276.1,
-   "h": 83467.7,
+   "p": 81893.4,
+   "o": 81683.8,
+   "h": 83234.8,
    "l": 80328.6,
-   "v": 4002.57490366
+   "v": 4042.89556633
   },
   "ETH": {
-   "p": 2477.87,
-   "o": 2572.82,
-   "h": 2585.31,
+   "p": 2480.22,
+   "o": 2472.9,
+   "h": 2583.88,
    "l": 2405.35,
-   "v": 57633.05470164
+   "v": 57800.46431832
   },
   "SOL": {
-   "p": 110.53,
-   "o": 116.24,
-   "h": 116.74,
+   "p": 109.37,
+   "o": 109.52,
+   "h": 116.67,
    "l": 105.57,
-   "v": 640406.79368166
+   "v": 691823.26173688
   }
  },
  "change_7d": {
-  "BTC": -0.03389467901220554,
-  "ETH": -0.08322274038212027,
-  "SOL": -0.0700254022015241
+  "BTC": -0.03582682251342717,
+  "ETH": -0.08549309872316214,
+  "SOL": -0.08068315665488814
  },
  "sentiment": {
-  "score": 57.0,
-  "label": "Greed",
+  "score": 53.5,
+  "label": "Neutral",
   "components": {
-   "fng": 64.0,
-   "momentum": 41.52633024694862,
-   "crowding": 61.107169
+   "fng": 59.0,
+   "momentum": 41.043294371643206,
+   "crowding": 57.103775999999996
   },
   "weights": {
    "fng": 0.35,
@@ -46,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 64,
+  "value": 59,
   "label": "Greed",
-  "ts": 1791417600
+  "ts": 1791504000
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 7.7836e-06,
-   "oi_usd": 3262985476.926,
-   "premium": -0.0004320934
+   "funding_h": 1.5069e-06,
+   "oi_usd": 3284342509.43808,
+   "premium": -0.0004062844
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2782435516.20672,
-   "premium": -0.0005646072
+   "funding_h": 5.4555e-06,
+   "oi_usd": 2748270048.766032,
+   "premium": -0.0003746933
   },
   "SOL": {
-   "funding_h": 1.0147e-05,
-   "oi_usd": 635039869.1340002,
-   "premium": -0.0005876237
+   "funding_h": 1.25e-05,
+   "oi_usd": 616706704.3199998,
+   "premium": -9.13826e-05
   }
  },
- "items_24h": 92,
+ "items_24h": 89,
  "top_items": [
   {
    "id": "a587cf99af6356e1",
@@ -103,20 +103,21 @@
    "score": 10617
   },
   {
-   "id": "c3c14e3855c810bc",
-   "ts": 1791410547,
+   "id": "ca248aaeb1310412",
+   "ts": 1791500222,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "To the people of Texas, I am headed your way, and one of the people that I am going to pay respect to today is Tano Tijerina. Out of love and passion, he is running against a Dumocrat, Henry Cuellar, who, along with his wife, I pardoned, at the request of his daughters, because t",
-   "url": "https://truthsocial.com/@realDonaldTrump/117401881670410504",
+   "title": "Can you believe that Alaska, a State I love, and won BIG, all three times, has three Republicans running against one Dumocrat for Governor? What is that all about? How stupid are we to do this? On top of it all, we have the Corrupt Ranked Choice System of Voting, which shouldn't ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117407758597840565",
    "domain": "truthsocial.com",
    "tags": [
+    "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 10371
+   "score": 9652
   },
   {
    "id": "6ee1fbbc87b830d0",
@@ -134,6 +135,38 @@
    ],
    "author": "Donald Trump",
    "score": 4876
+  },
+  {
+   "id": "f63420bc517c0233",
+   "ts": 1791507392,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Melania Trump makes history presiding over UN Security Council — remarking on Iran war deaths: https://nypost.com/2026/03/02/us-news/melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/",
+   "url": "https://truthsocial.com/@realDonaldTrump/117408228489272278",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 3959
+  },
+  {
+   "id": "5b6ea5cde7c373f4",
+   "ts": 1791507104,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "How Trump defied the 'experts' — and pushed the UN toward post-Oct. 7 peace: https://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/",
+   "url": "https://truthsocial.com/@realDonaldTrump/117408209620927226",
+   "domain": "truthsocial.com",
+   "tags": [
+    "crypto"
+   ],
+   "author": "Donald Trump",
+   "score": 3005
   },
   {
    "id": "cb0cbc82aa1f8384",
@@ -166,6 +199,20 @@
    ],
    "author": "Donald Trump",
    "score": 1304
+  },
+  {
+   "id": "559b4014ef2996f8",
+   "ts": 1791511200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "IMES Discussion Paper Series (2026)",
+   "url": "http://www.boj.or.jp/en/research/imes/dps/dps26.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "e95750d1b74189d7",
@@ -204,46 +251,6 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
-  },
-  {
-   "id": "0baf84920a6d3bc5",
-   "ts": 1791471906,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Fact Sheet: Trump Administration Announces the Most Ambitious Set of Science Initiatives This Century",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "115092f33ede014c",
-   "ts": 1791459000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Meeting of 9-10 September 2026",
-   "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "aa8623d070d6696c",
-   "ts": 1791439200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Piero Cipollone: Interview with Corriere della Sera",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -266,7 +273,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 24
+   "n": 23
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -295,7 +302,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 16
+   "n": 14
   },
   "BIS": {
    "ok": true,
@@ -323,11 +330,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 34
+   "n": 37
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 15
+   "n": 14
   },
   "Reddit r/Bitcoin": {
    "ok": false,
