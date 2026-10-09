@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-09T08:52:09Z",
- "generated_ts": 1791535929,
+ "generated_at": "2026-10-09T16:05:20Z",
+ "generated_ts": 1791561920,
  "prices": {
   "BTC": {
-   "p": 82556.1,
+   "p": 82794.3,
    "o": 81683.8,
-   "h": 83114.7,
+   "h": 83462.9,
    "l": 80328.6,
-   "v": 3732.87470082
+   "v": 2694.03629061
   },
   "ETH": {
-   "p": 2500.4,
+   "p": 2489.36,
    "o": 2472.9,
-   "h": 2568.28,
+   "h": 2518.11,
    "l": 2405.35,
-   "v": 53010.20483974
+   "v": 34214.24172305
   },
   "SOL": {
-   "p": 110.31,
+   "p": 109.65,
    "o": 109.52,
-   "h": 115.26,
+   "h": 111.92,
    "l": 105.57,
-   "v": 672422.66030833
+   "v": 517919.16121491
   }
  },
  "change_7d": {
-  "BTC": -0.04071135625416213,
-  "ETH": -0.08565843320666482,
-  "SOL": -0.0911406969099277
+  "BTC": -0.029468215376710453,
+  "ETH": -0.07784035922326492,
+  "SOL": -0.08620258441017094
  },
  "sentiment": {
-  "score": 51.5,
+  "score": 54.0,
   "label": "Neutral",
   "components": {
    "fng": 59.0,
-   "momentum": 39.82216093645947,
-   "crowding": 49.641497
+   "momentum": 42.63294615582239,
+   "crowding": 57.712815
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.5281e-06,
-   "oi_usd": 3237902265.96956,
-   "premium": -0.0004853188
+   "funding_h": -3.869e-06,
+   "oi_usd": 3201378866.84408,
+   "premium": -0.0005152916
   },
   "ETH": {
-   "funding_h": -5.6478e-06,
-   "oi_usd": 2768991241.5774765,
-   "premium": -0.0005593959
+   "funding_h": 1.25e-05,
+   "oi_usd": 2805948905.2027006,
+   "premium": -0.0004414834
   },
   "SOL": {
-   "funding_h": 3.1375e-06,
-   "oi_usd": 630236430.5292,
-   "premium": -0.0006114269
+   "funding_h": 1.25e-05,
+   "oi_usd": 626631866.4708,
+   "premium": -0.0003644315
   }
  },
- "items_24h": 86,
+ "items_24h": 83,
  "top_items": [
   {
    "id": "a587cf99af6356e1",
@@ -200,41 +200,43 @@
    "score": 1304
   },
   {
-   "id": "7984f6d03a89b10e",
-   "ts": 1791529200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Amendment to \"Prices of Eligible Collateral\"",
-   "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261009a.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
+   "id": "cf172c3501d34431",
+   "ts": 1791552316,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT @SchoenlawToday the Nobel Committee shamed itself beyond repair and demeaned the once great Nobel Peace Prize by giving it to the UN's Navi Pillay. Pillay is an unabashed hater of America and Israel. In her position she celebrated terrorists and rewarded Hamas. She conducted a",
+   "url": "https://truthsocial.com/@realDonaldTrump/117411172629254329",
+   "domain": "truthsocial.com",
    "tags": [
-    "macro"
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 2
+  },
+  {
+   "id": "215622ff975df9d1",
+   "ts": 1791557940,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
+   "domain": "SEC",
+   "org": "SEC",
+   "tags": [
+    "regulation"
    ]
   },
   {
-   "id": "559b4014ef2996f8",
-   "ts": 1791511200,
+   "id": "15b4b4b5fa4c87a3",
+   "ts": 1791554400,
    "source": "central_bank",
    "group": "central_bank",
    "kind": "official",
-   "title": "IMES Discussion Paper Series (2026)",
-   "url": "http://www.boj.or.jp/en/research/imes/dps/dps26.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "e95750d1b74189d7",
-   "ts": 1791491400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+   "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
    "domain": "Federal Reserve",
    "org": "Federal Reserve",
    "tags": [
@@ -242,16 +244,18 @@
    ]
   },
   {
-   "id": "152ceb4ec3c92f40",
-   "ts": 1791488676,
-   "source": "government",
-   "group": "government",
+   "id": "fbe78e7c0242d398",
+   "ts": 1791536400,
+   "source": "central_bank",
+   "group": "central_bank",
    "kind": "official",
-   "title": "President Trump Is Putting American Industry, Jobs, and Paychecks Back on the Map",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-is-putting-american-industry-jobs-and-paychecks-back-on-the-map/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
+   "title": "CMORG holds sector-wide cloud outage simulation exercise",
+   "url": "https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -274,7 +278,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 23
+   "n": 24
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -283,7 +287,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "CFTC": {
    "ok": true,
@@ -295,15 +299,15 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 9
+   "n": 7
   },
   "Bank of England": {
    "ok": true,
-   "n": 6
+   "n": 7
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 13
+   "n": 14
   },
   "BIS": {
    "ok": true,
@@ -327,7 +331,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 37
+   "n": 38
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
