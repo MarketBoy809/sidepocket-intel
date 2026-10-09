@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-09T01:59:01Z",
- "generated_ts": 1791511141,
+ "generated_at": "2026-10-09T08:52:09Z",
+ "generated_ts": 1791535929,
  "prices": {
   "BTC": {
-   "p": 81893.4,
+   "p": 82556.1,
    "o": 81683.8,
-   "h": 83234.8,
+   "h": 83114.7,
    "l": 80328.6,
-   "v": 4042.89556633
+   "v": 3732.87470082
   },
   "ETH": {
-   "p": 2480.22,
+   "p": 2500.4,
    "o": 2472.9,
-   "h": 2583.88,
+   "h": 2568.28,
    "l": 2405.35,
-   "v": 57800.46431832
+   "v": 53010.20483974
   },
   "SOL": {
-   "p": 109.37,
+   "p": 110.31,
    "o": 109.52,
-   "h": 116.67,
+   "h": 115.26,
    "l": 105.57,
-   "v": 691823.26173688
+   "v": 672422.66030833
   }
  },
  "change_7d": {
-  "BTC": -0.03582682251342717,
-  "ETH": -0.08549309872316214,
-  "SOL": -0.08068315665488814
+  "BTC": -0.04071135625416213,
+  "ETH": -0.08565843320666482,
+  "SOL": -0.0911406969099277
  },
  "sentiment": {
-  "score": 53.5,
+  "score": 51.5,
   "label": "Neutral",
   "components": {
    "fng": 59.0,
-   "momentum": 41.043294371643206,
-   "crowding": 57.103775999999996
+   "momentum": 39.82216093645947,
+   "crowding": 49.641497
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.5069e-06,
-   "oi_usd": 3284342509.43808,
-   "premium": -0.0004062844
+   "funding_h": 1.5281e-06,
+   "oi_usd": 3237902265.96956,
+   "premium": -0.0004853188
   },
   "ETH": {
-   "funding_h": 5.4555e-06,
-   "oi_usd": 2748270048.766032,
-   "premium": -0.0003746933
+   "funding_h": -5.6478e-06,
+   "oi_usd": 2768991241.5774765,
+   "premium": -0.0005593959
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 616706704.3199998,
-   "premium": -9.13826e-05
+   "funding_h": 3.1375e-06,
+   "oi_usd": 630236430.5292,
+   "premium": -0.0006114269
   }
  },
- "items_24h": 89,
+ "items_24h": 86,
  "top_items": [
   {
    "id": "a587cf99af6356e1",
@@ -120,23 +120,6 @@
    "score": 9652
   },
   {
-   "id": "6ee1fbbc87b830d0",
-   "ts": 1791429757,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Ladies and Gentlemen, upon information and belief, James TalaFREAKo, who is running for the United States Senate in Texas, is MISSING IN ACTION! No one has seen him for an extended period of time. Where is he? What is wrong with him? Bad rumors are coming out. He should immediate",
-   "url": "https://truthsocial.com/@realDonaldTrump/117403140590234301",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4876
-  },
-  {
    "id": "f63420bc517c0233",
    "ts": 1791507392,
    "source": "truth",
@@ -151,6 +134,22 @@
    ],
    "author": "Donald Trump",
    "score": 3959
+  },
+  {
+   "id": "37662a7f353a2079",
+   "ts": 1791518541,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Mike Rogers, the great American Patriot and Republican Candidate for the U.S.Senate from Michigan, completely obliterated Mohammad El-Sayed in the big debate tonight. If this was a fight they would have stopped it. Mohammad is a Jihadist lunatic who hates our Country, the Black P",
+   "url": "https://truthsocial.com/@realDonaldTrump/117408959105269388",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3067
   },
   {
    "id": "5b6ea5cde7c373f4",
@@ -201,6 +200,20 @@
    "score": 1304
   },
   {
+   "id": "7984f6d03a89b10e",
+   "ts": 1791529200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Amendment to \"Prices of Eligible Collateral\"",
+   "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261009a.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
    "id": "559b4014ef2996f8",
    "ts": 1791511200,
    "source": "central_bank",
@@ -236,18 +249,6 @@
    "kind": "official",
    "title": "President Trump Is Putting American Industry, Jobs, and Paychecks Back on the Map",
    "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-is-putting-american-industry-jobs-and-paychecks-back-on-the-map/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "9d415c40a6c397bc",
-   "ts": 1791484371,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "President Trump Presents National Medals of Science and National Medals of Technology and Innovation",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-presents-national-medals-of-science-and-national-medals-of-technology-and-innovation/",
    "domain": "White House",
    "org": "White House",
    "tags": []
@@ -298,11 +299,11 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 7
+   "n": 6
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 14
+   "n": 13
   },
   "BIS": {
    "ok": true,
@@ -334,7 +335,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "Reddit r/Bitcoin": {
    "ok": false,
