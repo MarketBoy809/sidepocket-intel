@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-09T16:05:20Z",
- "generated_ts": 1791561920,
+ "generated_at": "2026-10-09T20:49:00Z",
+ "generated_ts": 1791578940,
  "prices": {
   "BTC": {
-   "p": 82794.3,
+   "p": 82417.6,
    "o": 81683.8,
    "h": 83462.9,
-   "l": 80328.6,
-   "v": 2694.03629061
+   "l": 81542.8,
+   "v": 1758.2896898
   },
   "ETH": {
-   "p": 2489.36,
+   "p": 2479.91,
    "o": 2472.9,
    "h": 2518.11,
-   "l": 2405.35,
-   "v": 34214.24172305
+   "l": 2466.84,
+   "v": 22368.4582461
   },
   "SOL": {
-   "p": 109.65,
+   "p": 108.91,
    "o": 109.52,
    "h": 111.92,
-   "l": 105.57,
-   "v": 517919.16121491
+   "l": 108.35,
+   "v": 316167.55539372
   }
  },
  "change_7d": {
-  "BTC": -0.029468215376710453,
-  "ETH": -0.07784035922326492,
-  "SOL": -0.08620258441017094
+  "BTC": -0.024198289950970744,
+  "ETH": -0.07231051802983743,
+  "SOL": -0.08113607460788476
  },
  "sentiment": {
-  "score": 54.0,
+  "score": 52.5,
   "label": "Neutral",
   "components": {
    "fng": 59.0,
-   "momentum": 42.63294615582239,
-   "crowding": 57.712815
+   "momentum": 43.95042751225731,
+   "crowding": 48.520655
   },
   "weights": {
    "fng": 0.35,
@@ -53,54 +53,54 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": -3.869e-06,
-   "oi_usd": 3201378866.84408,
-   "premium": -0.0005152916
+   "funding_h": -1.5752e-06,
+   "oi_usd": 3171969775.7262,
+   "premium": -0.0004242939
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2805948905.2027006,
-   "premium": -0.0004414834
+   "funding_h": -2.2005e-06,
+   "oi_usd": 2818816323.3968024,
+   "premium": -0.0004794154
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 626631866.4708,
-   "premium": -0.0003644315
+   "funding_h": -2.773e-07,
+   "oi_usd": 626554740.2576,
+   "premium": -0.0004128251
   }
  },
- "items_24h": 83,
+ "items_24h": 84,
  "top_items": [
   {
-   "id": "a587cf99af6356e1",
-   "ts": 1791478869,
+   "id": "3a78246be3a5c4ac",
+   "ts": 1791571583,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "TalaFREAKo has been missing for 12 days! Now, after looking for him throughout all of Texas, and beyond, probably even weirder places than anyone would think possible, he put out a statement that he has the \"flu.\" 12 days is a long time to rid yourself of the so-called flu bug. W",
-   "url": "https://truthsocial.com/@realDonaldTrump/117406359223020085",
+   "title": "I have just concluded a highly successful discussion with President Vladimir Putin, of Russia, wherein it was agreed that Russia will immediately supply over 300,000 Tons of Diesel Fuel to the American and Global Marketplace, another 500,000 Tons during the month of November, and",
+   "url": "https://truthsocial.com/@realDonaldTrump/117412435306815143",
    "domain": "truthsocial.com",
    "tags": [
     "geo"
    ],
    "author": "Donald Trump",
-   "score": 26249
+   "score": 25238
   },
   {
-   "id": "84738d86637f6afc",
-   "ts": 1791485950,
+   "id": "bacf3ec7e12109d4",
+   "ts": 1791575202,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "The Fake and Artificial News is out there trying to say that I'm inviting the enemy to bomb San Diego and Los Angeles when, in actuality, what I was talking about was that a temporary increase in the price of Gasoline is a small price to pay for Iran not having a Nuclear Weapon a",
-   "url": "https://truthsocial.com/@realDonaldTrump/117406823254412991",
+   "title": "It is my Great Honor to have just appointed, as Press Secretary, Katie Zacharia. Katie currently serves as Senior Communications Advisor to Truth Social (Trump Media & Technology Group), where she has been outstanding! A native of California, Katie previously served as Spokespers",
+   "url": "https://truthsocial.com/@realDonaldTrump/117412672479473994",
    "domain": "truthsocial.com",
    "tags": [
-    "geo"
+    "regulation"
    ],
    "author": "Donald Trump",
-   "score": 10617
+   "score": 16527
   },
   {
    "id": "ca248aaeb1310412",
@@ -118,6 +118,23 @@
    ],
    "author": "Donald Trump",
    "score": 9652
+  },
+  {
+   "id": "3b8e4417d649351d",
+   "ts": 1791574451,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Based on the fact that a huge Hurricane/Storm is coming, it is important to have our wonderful First Responders, Law Enforcement, and others, focused on that Storm, and in no way be thinking about the safety, or presence, of the President of the United States, ME! Therefore, I wi",
+   "url": "https://truthsocial.com/@realDonaldTrump/117412623263536077",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6586
   },
   {
    "id": "f63420bc517c0233",
@@ -168,38 +185,6 @@
    "score": 3005
   },
   {
-   "id": "cb0cbc82aa1f8384",
-   "ts": 1791476231,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "We are having productive discussions with the Islamic Republic of Iran. I want to make it clear to everybody that, while Iran is in very bad condition, both Economically and Militarily, and while the Blockade will remain in full force and effect, with Oil flowing in Record Number",
-   "url": "https://truthsocial.com/@realDonaldTrump/117406186276133332",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 1436
-  },
-  {
-   "id": "5df4c27d29f7ca4d",
-   "ts": 1791476083,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The White House considers anyone that uses the term, \"Artificial Intelligence,\" as opposed to the highly accepted new and more accurate term, \"Super Intelligence,\" THE ENEMY! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117406176604364910",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1304
-  },
-  {
    "id": "cf172c3501d34431",
    "ts": 1791552316,
    "source": "truth",
@@ -216,46 +201,60 @@
    "score": 2
   },
   {
-   "id": "215622ff975df9d1",
-   "ts": 1791557940,
-   "source": "regulator",
-   "group": "regulator",
+   "id": "2d90224fab0fc602",
+   "ts": 1791576582,
+   "source": "government",
+   "group": "government",
    "kind": "official",
-   "title": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
-   "domain": "SEC",
-   "org": "SEC",
+   "title": "Congressional Bills S. 195 Signed into Law",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-s-195-signed-into-law/",
+   "domain": "White House",
+   "org": "White House",
    "tags": [
     "regulation"
    ]
   },
   {
-   "id": "15b4b4b5fa4c87a3",
-   "ts": 1791554400,
-   "source": "central_bank",
-   "group": "central_bank",
+   "id": "04d5c3a3f59c3f71",
+   "ts": 1791576026,
+   "source": "regulator",
+   "group": "regulator",
    "kind": "official",
-   "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
+   "title": "CFTC Seeks Public Comment on Notice of Proposed Rulemaking Concerning the Inclusion of Certain Event Contracts in the Definition of Swap",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9310-26",
+   "domain": "CFTC",
+   "org": "CFTC",
    "tags": [
-    "macro"
+    "crypto",
+    "regulation"
    ]
   },
   {
-   "id": "fbe78e7c0242d398",
-   "ts": 1791536400,
-   "source": "central_bank",
-   "group": "central_bank",
+   "id": "66266a37867967e8",
+   "ts": 1791574251,
+   "source": "regulator",
+   "group": "regulator",
    "kind": "official",
-   "title": "CMORG holds sector-wide cloud outage simulation exercise",
-   "url": "https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise",
-   "domain": "Bank of England",
-   "org": "Bank of England",
+   "title": "CFTC Issues Interim Final Rule Excluding Certain Activity from the Definition of Swap",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9309-26",
+   "domain": "CFTC",
+   "org": "CFTC",
    "tags": [
-    "macro"
+    "crypto",
+    "regulation"
    ]
+  },
+  {
+   "id": "4f0e51d5b5842372",
+   "ts": 1791571568,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Remarks by Director Michael Kratsios at the Science: A New Golden Age Summit",
+   "url": "https://www.whitehouse.gov/remarks/2026/10/remarks-by-director-michael-kratsios-at-the-science-a-new-golden-age-summit/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -278,7 +277,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 24
+   "n": 21
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -291,11 +290,11 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 2
+   "n": 4
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 6
+   "n": 4
   },
   "European Central Bank": {
    "ok": true,
@@ -319,7 +318,7 @@
   },
   "Coinbase filings": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "CoinDesk": {
    "ok": true,
@@ -335,11 +334,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 37
+   "n": 40
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 15
+   "n": 17
   },
   "Reddit r/Bitcoin": {
    "ok": false,
