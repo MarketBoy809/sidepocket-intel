@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-09T16:09:56Z",
- "generated_ts": 1791562196,
- "items_analysed": 11735,
+ "generated_at": "2026-10-10T13:37:26Z",
+ "generated_ts": 1791639446,
+ "items_analysed": 11799,
  "insights": [
   "BTC: 28 sharp dips in the stored history; buying at the trigger got +1.5% back within 14 days in 92.9% of cases (median 5.0 h), 78.6% within 24 h. Typical extra drop after the trigger: -0.5%.",
   "BTC dips during fear: recovered 90.5% of the time (n=21).",
   "BTC dips during greed: recovered 100.0% of the time (n=7).",
-  "ETH: 92 sharp dips in the stored history; buying at the trigger got +1.5% back within 14 days in 92.4% of cases (median 5 h), 75.0% within 24 h. Typical extra drop after the trigger: -0.5%.",
+  "ETH: 91 sharp dips in the stored history; buying at the trigger got +1.5% back within 14 days in 92.3% of cases (median 5.0 h), 74.7% within 24 h. Typical extra drop after the trigger: -0.5%.",
   "ETH dips during fear: recovered 90.7% of the time (n=54).",
   "ETH dips during greed: recovered 93.1% of the time (n=29).",
   "SOL: 131 sharp dips in the stored history; buying at the trigger got +1.5% back within 14 days in 93.9% of cases (median 3 h), 83.2% within 24 h. Typical extra drop after the trigger: -0.3%.",
   "SOL dips during fear: recovered 93.9% of the time (n=66).",
   "SOL dips during greed: recovered 93.9% of the time (n=49).",
   "Precursor: combo 'Donald Trump (Truth Social) · inflation/CPI' was followed by a BTC dip within 6h 2.9% of the time vs 1.0% by chance (lift 2.98x, n=105, held in both halves of the data).",
-  "After Donald Trump (Truth Social) items (n=4181): BTC median move 0.0% in 4h, big (2%+) moves 5.2% of the time.",
-  "After Cointelegraph items (n=320): BTC median move 0.02% in 4h, big (2%+) moves 3.1% of the time.",
-  "After CoinDesk items (n=278): BTC median move 0.08% in 4h, big (2%+) moves 2.2% of the time.",
-  "After Decrypt items (n=250): BTC median move -0.03% in 4h, big (2%+) moves 1.6% of the time.",
-  "Today's market state most resembles 2025-08-01, 2025-06-16, 2024-07-31; 30 days after those days BTC's median move was -4.3% (up in 20.0% of them)."
+  "After Donald Trump (Truth Social) items (n=4187): BTC median move 0.0% in 4h, big (2%+) moves 5.2% of the time.",
+  "After Cointelegraph items (n=336): BTC median move 0.02% in 4h, big (2%+) moves 3.0% of the time.",
+  "After CoinDesk items (n=299): BTC median move 0.11% in 4h, big (2%+) moves 2.0% of the time.",
+  "After Decrypt items (n=265): BTC median move -0.02% in 4h, big (2%+) moves 1.5% of the time.",
+  "Today's market state most resembles 2025-08-05, 2025-06-16, 2023-07-06; 30 days after those days BTC's median move was -3.2% (up in 30.0% of them)."
  ]
 }

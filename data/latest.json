@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-10T06:56:39Z",
- "generated_ts": 1791615399,
+ "generated_at": "2026-10-10T13:32:19Z",
+ "generated_ts": 1791639139,
  "prices": {
   "BTC": {
-   "p": 82710.1,
+   "p": 82788.4,
    "o": 82557.1,
-   "h": 83462.9,
+   "h": 83229.2,
    "l": 82206.3,
-   "v": 1520.33551318
+   "v": 1115.74580131
   },
   "ETH": {
-   "p": 2492.33,
+   "p": 2496.73,
    "o": 2485.34,
-   "h": 2518.11,
+   "h": 2500.57,
    "l": 2471.35,
-   "v": 21529.92637451
+   "v": 15082.031191
   },
   "SOL": {
-   "p": 109.74,
+   "p": 109.8,
    "o": 109.06,
-   "h": 111.92,
+   "h": 110.67,
    "l": 108.35,
-   "v": 223287.2959028
+   "v": 167103.06737468
   }
  },
  "change_7d": {
-  "BTC": -0.02195163798035714,
-  "ETH": -0.06778318941046405,
-  "SOL": -0.07991974586189601
+  "BTC": -0.025070117426805236,
+  "ETH": -0.07012128058578558,
+  "SOL": -0.08211953792064279
  },
  "sentiment": {
-  "score": 58.3,
-  "label": "Greed",
+  "score": 55.8,
+  "label": "Neutral",
   "components": {
    "fng": 64.0,
-   "momentum": 44.51209050491072,
-   "crowding": 63.3640005
+   "momentum": 43.73247064329869,
+   "crowding": 52.620262
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.16137e-05,
-   "oi_usd": 3147852119.6243,
-   "premium": -0.0003539361
+   "funding_h": -8.5887e-06,
+   "oi_usd": 3178504032.87808,
+   "premium": -0.0005068913
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2791443151.8391614,
-   "premium": -0.000400898
+   "funding_h": 3.2675e-06,
+   "oi_usd": 2804583589.1125593,
+   "premium": -0.0004801921
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 621876773.4603999,
-   "premium": -0.0005007511
+   "oi_usd": 624184135.464,
+   "premium": -0.0001091902
   }
  },
- "items_24h": 76,
+ "items_24h": 60,
  "top_items": [
   {
    "id": "3a78246be3a5c4ac",
@@ -120,6 +120,22 @@
    "score": 6586
   },
   {
+   "id": "dca22c0870d2bfc2",
+   "ts": 1791633853,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I settled 8 WARS, am close to ending or settling 2 more, got all of the Israeli hostages back, including the final 28, both living and dead, had hundreds of hostages, from countries all over the World, released and sent back home, won a war in Venezuela, and captured the violent ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117416516229323591",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 5917
+  },
+  {
    "id": "6fffe7a17d54d4c3",
    "ts": 1791603598,
    "source": "truth",
@@ -135,22 +151,6 @@
    ],
    "author": "Donald Trump",
    "score": 3376
-  },
-  {
-   "id": "cf172c3501d34431",
-   "ts": 1791552316,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT @SchoenlawToday the Nobel Committee shamed itself beyond repair and demeaned the once great Nobel Peace Prize by giving it to the UN's Navi Pillay. Pillay is an unabashed hater of America and Israel. In her position she celebrated terrorists and rewarded Hamas. She conducted a",
-   "url": "https://truthsocial.com/@realDonaldTrump/117411172629254329",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 2
   },
   {
    "id": "e18b4535e3265276",
@@ -328,11 +328,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 36
+   "n": 35
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 21
   },
   "Reddit r/Bitcoin": {
    "ok": false,
