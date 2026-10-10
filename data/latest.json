@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-10T18:27:03Z",
- "generated_ts": 1791656823,
+ "generated_at": "2026-10-10T22:24:44Z",
+ "generated_ts": 1791671084,
  "prices": {
   "BTC": {
-   "p": 82926.7,
+   "p": 82923.8,
    "o": 82557.1,
    "h": 83089.7,
-   "l": 82206.3,
-   "v": 746.01354233
+   "l": 82433.2,
+   "v": 493.28191617
   },
   "ETH": {
-   "p": 2505.89,
+   "p": 2505.9,
    "o": 2485.34,
-   "h": 2514.8,
-   "l": 2471.35,
-   "v": 13696.60778858
+   "h": 2516.65,
+   "l": 2482.47,
+   "v": 12122.91015895
   },
   "SOL": {
-   "p": 109.91,
+   "p": 110.21,
    "o": 109.06,
    "h": 110.67,
-   "l": 108.35,
-   "v": 138324.07730722
+   "l": 108.84,
+   "v": 95485.03122195
   }
  },
  "change_7d": {
-  "BTC": -0.023121515144491178,
-  "ETH": -0.06796853205378565,
-  "SOL": -0.08434739123187202
+  "BTC": -0.020487065240270348,
+  "ETH": -0.06609237140739582,
+  "SOL": -0.07874279026999918
  },
  "sentiment": {
-  "score": 46.7,
+  "score": 46.4,
   "label": "Neutral",
   "components": {
    "fng": 64.0,
-   "momentum": 44.219621213877204,
+   "momentum": 44.878233689932415,
    "news_tone": 0.0,
-   "crowding": 56.224637
+   "crowding": 53.728037
   },
   "weights": {
    "fng": 0.35,
@@ -54,72 +54,23 @@
  "news_tone_24h": -4.379,
  "derivatives": {
   "BTC": {
-   "funding_h": -3.5722e-06,
-   "oi_usd": 3163777975.46712,
-   "premium": -0.0005530387
+   "funding_h": -4.673e-07,
+   "oi_usd": 3176432261.91486,
+   "premium": -0.0006024169
   },
   "ETH": {
-   "funding_h": 8.126e-06,
-   "oi_usd": 2840991942.377002,
-   "premium": -0.0003986287
+   "funding_h": -1.8189e-06,
+   "oi_usd": 2818533505.2116,
+   "premium": -0.0004385615
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 631525440.7766001,
-   "premium": -0.0002017775
+   "oi_usd": 630951309.5112005,
+   "premium": -0.0002547179
   }
  },
- "items_24h": 42,
+ "items_24h": 29,
  "top_items": [
-  {
-   "id": "3a78246be3a5c4ac",
-   "ts": 1791571583,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I have just concluded a highly successful discussion with President Vladimir Putin, of Russia, wherein it was agreed that Russia will immediately supply over 300,000 Tons of Diesel Fuel to the American and Global Marketplace, another 500,000 Tons during the month of November, and",
-   "url": "https://truthsocial.com/@realDonaldTrump/117412435306815143",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 25238
-  },
-  {
-   "id": "bacf3ec7e12109d4",
-   "ts": 1791575202,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to have just appointed, as Press Secretary, Katie Zacharia. Katie currently serves as Senior Communications Advisor to Truth Social (Trump Media & Technology Group), where she has been outstanding! A native of California, Katie previously served as Spokespers",
-   "url": "https://truthsocial.com/@realDonaldTrump/117412672479473994",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 16527
-  },
-  {
-   "id": "3b8e4417d649351d",
-   "ts": 1791574451,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Based on the fact that a huge Hurricane/Storm is coming, it is important to have our wonderful First Responders, Law Enforcement, and others, focused on that Storm, and in no way be thinking about the safety, or presence, of the President of the United States, ME! Therefore, I wi",
-   "url": "https://truthsocial.com/@realDonaldTrump/117412623263536077",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6586
-  },
   {
    "id": "dca22c0870d2bfc2",
    "ts": 1791633853,
@@ -154,22 +105,6 @@
    "score": 3376
   },
   {
-   "id": "e18b4535e3265276",
-   "ts": 1791583034,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT @katiezachariaThank you to President Trump for the distinguished privilege of serving as White House Press Secretary.Serving President Trump and the American people at this critical 250-year mark is the honor of a lifetime. President Trump has shown America that we can be grea",
-   "url": "https://truthsocial.com/@realDonaldTrump/117413185767843476",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1
-  },
-  {
    "id": "119448293e4fed32",
    "ts": 1791589739,
    "source": "government",
@@ -182,60 +117,18 @@
    "tags": []
   },
   {
-   "id": "2d90224fab0fc602",
-   "ts": 1791576582,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Congressional Bills S. 195 Signed into Law",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-s-195-signed-into-law/",
-   "domain": "White House",
-   "org": "White House",
+   "id": "def49a482942ce01",
+   "ts": 1791665409,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "These are the top 10 Hardware wallet incidents so far for just 2026. It's been more than a ColdCard issue. You can still keep funds safe with hardware wallets, but be extra careful out there.",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x2ppuy/these_are_the_top_10_hardware_wallet_incidents_so/",
+   "domain": "r/CryptoCurrency",
    "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "04d5c3a3f59c3f71",
-   "ts": 1791576026,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "CFTC Seeks Public Comment on Notice of Proposed Rulemaking Concerning the Inclusion of Certain Event Contracts in the Definition of Swap",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9310-26",
-   "domain": "CFTC",
-   "org": "CFTC",
-   "tags": [
-    "crypto",
-    "regulation"
-   ]
-  },
-  {
-   "id": "66266a37867967e8",
-   "ts": 1791574251,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "CFTC Issues Interim Final Rule Excluding Certain Activity from the Definition of Swap",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9309-26",
-   "domain": "CFTC",
-   "org": "CFTC",
-   "tags": [
-    "crypto",
-    "regulation"
-   ]
-  },
-  {
-   "id": "4f0e51d5b5842372",
-   "ts": 1791571568,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Remarks by Director Michael Kratsios at the Science: A New Golden Age Summit",
-   "url": "https://www.whitehouse.gov/remarks/2026/10/remarks-by-director-michael-kratsios-at-the-science-a-new-golden-age-summit/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
+    "crypto"
+   ],
+   "score": 0
   },
   {
    "id": "9ca535762a0b171f",
@@ -250,6 +143,106 @@
     "crypto"
    ],
    "score": 0
+  },
+  {
+   "id": "0bedfd83a4053917",
+   "ts": 1791653857,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "At this point, does “Not your keys, not your coins” still hold? It seems almost safer to leave your crypto on an exchange.",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x2l5yl/at_this_point_does_not_your_keys_not_your_coins/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "1bc95438f14ff131",
+   "ts": 1791651663,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+   "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "7aa28add94f13aa6",
+   "ts": 1791648064,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+   "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": [
+    "crypto",
+    "BTC"
+   ]
+  },
+  {
+   "id": "4ae4190d274def16",
+   "ts": 1791644463,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Here’s a Way to Predict When AI Chatbots Will Turn Bad",
+   "url": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": []
+  },
+  {
+   "id": "bb26bf71bccdf8d5",
+   "ts": 1791638709,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Samsung taps Solana and Sui to launch zero-fee USDC global remittances on 82 million phones",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x2f98b/samsung_taps_solana_and_sui_to_launch_zerofee/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto",
+    "SOL"
+   ],
+   "score": 0
+  },
+  {
+   "id": "a682e18a47df4d5e",
+   "ts": 1791637263,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+   "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "fcc2367bea59fa8d",
+   "ts": 1791633600,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+   "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto",
+    "BTC",
+    "ETH"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -329,11 +322,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 32
+   "n": 31
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
