@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-10T00:41:54Z",
- "generated_ts": 1791592914,
+ "generated_at": "2026-10-10T06:56:39Z",
+ "generated_ts": 1791615399,
  "prices": {
   "BTC": {
-   "p": 82507.2,
+   "p": 82710.1,
    "o": 82557.1,
    "h": 83462.9,
-   "l": 81542.8,
-   "v": 1761.05288535
+   "l": 82206.3,
+   "v": 1520.33551318
   },
   "ETH": {
-   "p": 2487.36,
+   "p": 2492.33,
    "o": 2485.34,
    "h": 2518.11,
-   "l": 2469.04,
-   "v": 20922.33293254
+   "l": 2471.35,
+   "v": 21529.92637451
   },
   "SOL": {
-   "p": 109.34,
+   "p": 109.74,
    "o": 109.06,
    "h": 111.92,
    "l": 108.35,
-   "v": 264361.0366988
+   "v": 223287.2959028
   }
  },
  "change_7d": {
-  "BTC": -0.02319593850674657,
-  "ETH": -0.06854988325156573,
-  "SOL": -0.08076209745405495
+  "BTC": -0.02195163798035714,
+  "ETH": -0.06778318941046405,
+  "SOL": -0.07991974586189601
  },
  "sentiment": {
-  "score": 57.0,
+  "score": 58.3,
   "label": "Greed",
   "components": {
    "fng": 64.0,
-   "momentum": 44.20101537331335,
-   "crowding": 57.745665
+   "momentum": 44.51209050491072,
+   "crowding": 63.3640005
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": -3.779e-06,
-   "oi_usd": 3170591915.0320797,
-   "premium": -0.0004977408
+   "funding_h": 1.16137e-05,
+   "oi_usd": 3147852119.6243,
+   "premium": -0.0003539361
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2790700642.2853813,
-   "premium": -0.0003494018
+   "oi_usd": 2791443151.8391614,
+   "premium": -0.000400898
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 624206877.3160001,
-   "premium": -0.0002850487
+   "oi_usd": 621876773.4603999,
+   "premium": -0.0005007511
   }
  },
- "items_24h": 82,
+ "items_24h": 76,
  "top_items": [
   {
    "id": "3a78246be3a5c4ac",
@@ -120,52 +120,21 @@
    "score": 6586
   },
   {
-   "id": "f63420bc517c0233",
-   "ts": 1791507392,
+   "id": "6fffe7a17d54d4c3",
+   "ts": 1791603598,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Melania Trump makes history presiding over UN Security Council — remarking on Iran war deaths: https://nypost.com/2026/03/02/us-news/melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/",
-   "url": "https://truthsocial.com/@realDonaldTrump/117408228489272278",
+   "title": "This is the woman who received the Nobel Peace Prize over the Great United States of America, whose Representative, ME, settled eight Wars, and many other things. I know nothing about this woman, and neither does anyone else! In fact, to the best of my knowledge, no one ever hear",
+   "url": "https://truthsocial.com/@realDonaldTrump/117414533410378018",
    "domain": "truthsocial.com",
    "tags": [
+    "macro",
     "geo"
    ],
    "author": "Donald Trump",
-   "score": 3959
-  },
-  {
-   "id": "37662a7f353a2079",
-   "ts": 1791518541,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Mike Rogers, the great American Patriot and Republican Candidate for the U.S.Senate from Michigan, completely obliterated Mohammad El-Sayed in the big debate tonight. If this was a fight they would have stopped it. Mohammad is a Jihadist lunatic who hates our Country, the Black P",
-   "url": "https://truthsocial.com/@realDonaldTrump/117408959105269388",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3067
-  },
-  {
-   "id": "5b6ea5cde7c373f4",
-   "ts": 1791507104,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "How Trump defied the 'experts' — and pushed the UN toward post-Oct. 7 peace: https://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/",
-   "url": "https://truthsocial.com/@realDonaldTrump/117408209620927226",
-   "domain": "truthsocial.com",
-   "tags": [
-    "crypto"
-   ],
-   "author": "Donald Trump",
-   "score": 3005
+   "score": 3376
   },
   {
    "id": "cf172c3501d34431",
@@ -254,6 +223,32 @@
     "crypto",
     "regulation"
    ]
+  },
+  {
+   "id": "4f0e51d5b5842372",
+   "ts": 1791571568,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Remarks by Director Michael Kratsios at the Science: A New Golden Age Summit",
+   "url": "https://www.whitehouse.gov/remarks/2026/10/remarks-by-director-michael-kratsios-at-the-science-a-new-golden-age-summit/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "215622ff975df9d1",
+   "ts": 1791557940,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
+   "domain": "SEC",
+   "org": "SEC",
+   "tags": [
+    "regulation"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -276,7 +271,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 22
+   "n": 21
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -333,11 +328,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 41
+   "n": 36
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 18
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
