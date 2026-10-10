@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-09T20:49:00Z",
- "generated_ts": 1791578940,
+ "generated_at": "2026-10-10T00:41:54Z",
+ "generated_ts": 1791592914,
  "prices": {
   "BTC": {
-   "p": 82417.6,
-   "o": 81683.8,
+   "p": 82507.2,
+   "o": 82557.1,
    "h": 83462.9,
    "l": 81542.8,
-   "v": 1758.2896898
+   "v": 1761.05288535
   },
   "ETH": {
-   "p": 2479.91,
-   "o": 2472.9,
+   "p": 2487.36,
+   "o": 2485.34,
    "h": 2518.11,
-   "l": 2466.84,
-   "v": 22368.4582461
+   "l": 2469.04,
+   "v": 20922.33293254
   },
   "SOL": {
-   "p": 108.91,
-   "o": 109.52,
+   "p": 109.34,
+   "o": 109.06,
    "h": 111.92,
    "l": 108.35,
-   "v": 316167.55539372
+   "v": 264361.0366988
   }
  },
  "change_7d": {
-  "BTC": -0.024198289950970744,
-  "ETH": -0.07231051802983743,
-  "SOL": -0.08113607460788476
+  "BTC": -0.02319593850674657,
+  "ETH": -0.06854988325156573,
+  "SOL": -0.08076209745405495
  },
  "sentiment": {
-  "score": 52.5,
-  "label": "Neutral",
+  "score": 57.0,
+  "label": "Greed",
   "components": {
-   "fng": 59.0,
-   "momentum": 43.95042751225731,
-   "crowding": 48.520655
+   "fng": 64.0,
+   "momentum": 44.20101537331335,
+   "crowding": 57.745665
   },
   "weights": {
    "fng": 0.35,
@@ -46,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 59,
+  "value": 64,
   "label": "Greed",
-  "ts": 1791504000
+  "ts": 1791590400
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": -1.5752e-06,
-   "oi_usd": 3171969775.7262,
-   "premium": -0.0004242939
+   "funding_h": -3.779e-06,
+   "oi_usd": 3170591915.0320797,
+   "premium": -0.0004977408
   },
   "ETH": {
-   "funding_h": -2.2005e-06,
-   "oi_usd": 2818816323.3968024,
-   "premium": -0.0004794154
+   "funding_h": 1.25e-05,
+   "oi_usd": 2790700642.2853813,
+   "premium": -0.0003494018
   },
   "SOL": {
-   "funding_h": -2.773e-07,
-   "oi_usd": 626554740.2576,
-   "premium": -0.0004128251
+   "funding_h": 1.25e-05,
+   "oi_usd": 624206877.3160001,
+   "premium": -0.0002850487
   }
  },
- "items_24h": 84,
+ "items_24h": 82,
  "top_items": [
   {
    "id": "3a78246be3a5c4ac",
@@ -101,23 +101,6 @@
    ],
    "author": "Donald Trump",
    "score": 16527
-  },
-  {
-   "id": "ca248aaeb1310412",
-   "ts": 1791500222,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Can you believe that Alaska, a State I love, and won BIG, all three times, has three Republicans running against one Dumocrat for Governor? What is that all about? How stupid are we to do this? On top of it all, we have the Corrupt Ranked Choice System of Voting, which shouldn't ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117407758597840565",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 9652
   },
   {
    "id": "3b8e4417d649351d",
@@ -201,6 +184,34 @@
    "score": 2
   },
   {
+   "id": "e18b4535e3265276",
+   "ts": 1791583034,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT @katiezachariaThank you to President Trump for the distinguished privilege of serving as White House Press Secretary.Serving President Trump and the American people at this critical 250-year mark is the honor of a lifetime. President Trump has shown America that we can be grea",
+   "url": "https://truthsocial.com/@realDonaldTrump/117413185767843476",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1
+  },
+  {
+   "id": "119448293e4fed32",
+   "ts": 1791589739,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on Leif Erikson Day",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-leif-erikson-day/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
    "id": "2d90224fab0fc602",
    "ts": 1791576582,
    "source": "government",
@@ -243,18 +254,6 @@
     "crypto",
     "regulation"
    ]
-  },
-  {
-   "id": "4f0e51d5b5842372",
-   "ts": 1791571568,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Remarks by Director Michael Kratsios at the Science: A New Golden Age Summit",
-   "url": "https://www.whitehouse.gov/remarks/2026/10/remarks-by-director-michael-kratsios-at-the-science-a-new-golden-age-summit/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -277,7 +276,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 21
+   "n": 22
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -334,11 +333,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 40
+   "n": 41
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 17
+   "n": 18
   },
   "Reddit r/Bitcoin": {
    "ok": false,
