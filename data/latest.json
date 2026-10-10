@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-10-10T13:32:19Z",
- "generated_ts": 1791639139,
+ "generated_at": "2026-10-10T18:27:03Z",
+ "generated_ts": 1791656823,
  "prices": {
   "BTC": {
-   "p": 82788.4,
+   "p": 82926.7,
    "o": 82557.1,
-   "h": 83229.2,
+   "h": 83089.7,
    "l": 82206.3,
-   "v": 1115.74580131
+   "v": 746.01354233
   },
   "ETH": {
-   "p": 2496.73,
+   "p": 2505.89,
    "o": 2485.34,
-   "h": 2500.57,
+   "h": 2514.8,
    "l": 2471.35,
-   "v": 15082.031191
+   "v": 13696.60778858
   },
   "SOL": {
-   "p": 109.8,
+   "p": 109.91,
    "o": 109.06,
    "h": 110.67,
    "l": 108.35,
-   "v": 167103.06737468
+   "v": 138324.07730722
   }
  },
  "change_7d": {
-  "BTC": -0.025070117426805236,
-  "ETH": -0.07012128058578558,
-  "SOL": -0.08211953792064279
+  "BTC": -0.023121515144491178,
+  "ETH": -0.06796853205378565,
+  "SOL": -0.08434739123187202
  },
  "sentiment": {
-  "score": 55.8,
+  "score": 46.7,
   "label": "Neutral",
   "components": {
    "fng": 64.0,
-   "momentum": 43.73247064329869,
-   "crowding": 52.620262
+   "momentum": 44.219621213877204,
+   "news_tone": 0.0,
+   "crowding": 56.224637
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Greed",
   "ts": 1791590400
  },
- "news_tone_24h": null,
+ "news_tone_24h": -4.379,
  "derivatives": {
   "BTC": {
-   "funding_h": -8.5887e-06,
-   "oi_usd": 3178504032.87808,
-   "premium": -0.0005068913
+   "funding_h": -3.5722e-06,
+   "oi_usd": 3163777975.46712,
+   "premium": -0.0005530387
   },
   "ETH": {
-   "funding_h": 3.2675e-06,
-   "oi_usd": 2804583589.1125593,
-   "premium": -0.0004801921
+   "funding_h": 8.126e-06,
+   "oi_usd": 2840991942.377002,
+   "premium": -0.0003986287
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 624184135.464,
-   "premium": -0.0001091902
+   "oi_usd": 631525440.7766001,
+   "premium": -0.0002017775
   }
  },
- "items_24h": 60,
+ "items_24h": 42,
  "top_items": [
   {
    "id": "3a78246be3a5c4ac",
@@ -237,18 +238,18 @@
    "tags": []
   },
   {
-   "id": "215622ff975df9d1",
-   "ts": 1791557940,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
-   "domain": "SEC",
-   "org": "SEC",
+   "id": "9ca535762a0b171f",
+   "ts": 1791655371,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Crypto has a problem we keep calling “user error” instead of actually fixing.",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x2lrqb/crypto_has_a_problem_we_keep_calling_user_error/",
+   "domain": "r/CryptoCurrency",
    "tags": [
-    "regulation"
-   ]
+    "crypto"
+   ],
+   "score": 0
   }
  ],
  "briefing_ts": 1790465772,
@@ -328,7 +329,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 35
+   "n": 32
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
