@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-11T15:33:51Z",
- "generated_ts": 1791732831,
+ "generated_at": "2026-10-11T20:10:22Z",
+ "generated_ts": 1791749422,
  "prices": {
   "BTC": {
-   "p": 83200.0,
+   "p": 83581.2,
    "o": 82912.7,
-   "h": 83200.0,
+   "h": 84125.5,
    "l": 82716.1,
-   "v": 516.03872497
+   "v": 814.58753656
   },
   "ETH": {
-   "p": 2513.05,
+   "p": 2532.48,
    "o": 2504.1,
-   "h": 2516.65,
+   "h": 2551.99,
    "l": 2495.31,
-   "v": 10613.55458693
+   "v": 17486.73284228
   },
   "SOL": {
-   "p": 110.2,
+   "p": 111.0,
    "o": 109.99,
-   "h": 110.58,
+   "h": 112.63,
    "l": 108.86,
-   "v": 91519.89349483
+   "v": 138219.9872494
   }
  },
  "change_7d": {
-  "BTC": -0.026144877665979102,
-  "ETH": -0.0711860134053028,
-  "SOL": -0.10004924491135914
+  "BTC": -0.021566431316684915,
+  "ETH": -0.06190742392998495,
+  "SOL": -0.0812685827552032
  },
  "sentiment": {
-  "score": 54.6,
-  "label": "Neutral",
+  "score": 56.2,
+  "label": "Greed",
   "components": {
    "fng": 61.0,
-   "momentum": 43.463780583505226,
-   "crowding": 54.328608
+   "momentum": 44.60839217082877,
+   "crowding": 60.262741500000004
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 6.0728e-06,
-   "oi_usd": 3161836005.5067,
-   "premium": -0.0004106421
+   "funding_h": 1.05412e-05,
+   "oi_usd": 3148631111.81136,
+   "premium": -0.0004231089
   },
   "ETH": {
-   "funding_h": -5.2227e-06,
-   "oi_usd": 2806764078.3693404,
-   "premium": -0.0009220912
+   "funding_h": 5.0759e-06,
+   "oi_usd": 2811970513.5099196,
+   "premium": -0.000315557
   },
   "SOL": {
-   "funding_h": 1.10091e-05,
-   "oi_usd": 634627414.9168563,
-   "premium": -0.0004986175
+   "funding_h": 1.25e-05,
+   "oi_usd": 640070070.8602004,
+   "premium": -0.0002249921
   }
  },
- "items_24h": 17,
+ "items_24h": 20,
  "top_items": [
   {
    "id": "e860f261a151e2cb",
@@ -115,6 +115,107 @@
    "tags": []
   },
   {
+   "id": "1012fd3eee26e17b",
+   "ts": 1791743400,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+   "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "3bf45205c946d061",
+   "ts": 1791742042,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "ZKCBDC Patented by Microsoft",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x3f1xc/zkcbdc_patented_by_microsoft/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "c299be6cd89cf4e8",
+   "ts": 1791738663,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+   "url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": []
+  },
+  {
+   "id": "bb06ad7d28e26eb7",
+   "ts": 1791738660,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+   "url": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": [
+    "crypto",
+    "institution",
+    "BTC"
+   ]
+  },
+  {
+   "id": "d0a0603c90ef82cc",
+   "ts": 1791734463,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+   "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": [
+    "crypto",
+    "BTC",
+    "ETH",
+    "SOL"
+   ]
+  },
+  {
+   "id": "6a491dab12425339",
+   "ts": 1791734400,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+   "url": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "f2dd45955a7df84c",
+   "ts": 1791733247,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+   "url": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
    "id": "1baed6df82ff0169",
    "ts": 1791731722,
    "source": "reddit",
@@ -140,98 +241,6 @@
    "domain": "Decrypt",
    "org": "Decrypt",
    "tags": []
-  },
-  {
-   "id": "9b60eb3d1fde5a60",
-   "ts": 1791723600,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
-   "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": []
-  },
-  {
-   "id": "2ecfed652fcbea8b",
-   "ts": 1791723376,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Possible Banksy at Bank? It’s happening everywhere! 🤷‍♀️",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x37jdr/possible_banksy_at_bank_its_happening_everywhere/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "094fee8ea6700f9b",
-   "ts": 1791714720,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
-   "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": []
-  },
-  {
-   "id": "dda956e44f336060",
-   "ts": 1791709500,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
-   "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": []
-  },
-  {
-   "id": "854d10696fdd5074",
-   "ts": 1791704691,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
-   "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "84f4e20d7fb87cec",
-   "ts": 1791691370,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Daily Crypto Discussion",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x2yeyd/daily_crypto_discussion/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "c912772ee2fce3bc",
-   "ts": 1791677712,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Would you want a SaaS platform that predicted future price movement reliably?",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x2u3lg/would_you_want_a_saas_platform_that_predicted/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
   }
  ],
  "briefing_ts": 1790465772,
@@ -311,11 +320,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 30
+   "n": 29
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 15
   },
   "Reddit r/Bitcoin": {
    "ok": false,
