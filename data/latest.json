@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-10-11T01:47:14Z",
- "generated_ts": 1791683234,
+ "generated_at": "2026-10-11T08:40:09Z",
+ "generated_ts": 1791708009,
  "prices": {
   "BTC": {
-   "p": 82938.2,
+   "p": 83001.4,
    "o": 82912.7,
-   "h": 83089.7,
-   "l": 82486.4,
-   "v": 494.74168885
+   "h": 83141.0,
+   "l": 82698.1,
+   "v": 500.77601397
   },
   "ETH": {
-   "p": 2506.78,
+   "p": 2498.85,
    "o": 2504.1,
    "h": 2516.65,
-   "l": 2487.13,
-   "v": 14406.46423183
+   "l": 2490.86,
+   "v": 11593.47237736
   },
   "SOL": {
-   "p": 109.98,
+   "p": 109.32,
    "o": 109.99,
    "h": 110.67,
-   "l": 109.29,
-   "v": 89263.50352736
+   "l": 108.86,
+   "v": 97669.30182851
   }
  },
  "change_7d": {
-  "BTC": -0.022569173135139082,
-  "ETH": -0.07092511994771328,
-  "SOL": -0.08629441624365486
+  "BTC": -0.025353181527449392,
+  "ETH": -0.0763767971282917,
+  "SOL": -0.09751465609776239
  },
  "sentiment": {
-  "score": 42.9,
-  "label": "Fear",
+  "score": 53.9,
+  "label": "Neutral",
   "components": {
    "fng": 61.0,
-   "momentum": 44.35770671621523,
-   "news_tone": 0.0,
-   "crowding": 41.4548755
+   "momentum": 43.66170461813765,
+   "crowding": 50.787232
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +50,25 @@
   "label": "Greed",
   "ts": 1791676800
  },
- "news_tone_24h": -4.379,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": -1.30204e-05,
-   "oi_usd": 3161567022.20652,
-   "premium": -0.0005709715
+   "funding_h": -5.356e-06,
+   "oi_usd": 3164496291.9657803,
+   "premium": -0.0005536832
   },
   "ETH": {
-   "funding_h": -2.28909e-05,
-   "oi_usd": 2829910238.9409595,
-   "premium": -0.0006775068
+   "funding_h": -4.9872e-06,
+   "oi_usd": 2829145009.8096,
+   "premium": -0.0005198129
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 635006721.3984001,
-   "premium": -0.0003178495
+   "oi_usd": 628137269.236,
+   "premium": -0.000306122
   }
  },
- "items_24h": 29,
+ "items_24h": 19,
  "top_items": [
   {
    "id": "dca22c0870d2bfc2",
@@ -104,23 +103,6 @@
    "score": 5607
   },
   {
-   "id": "6fffe7a17d54d4c3",
-   "ts": 1791603598,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "This is the woman who received the Nobel Peace Prize over the Great United States of America, whose Representative, ME, settled eight Wars, and many other things. I know nothing about this woman, and neither does anyone else! In fact, to the best of my knowledge, no one ever hear",
-   "url": "https://truthsocial.com/@realDonaldTrump/117414533410378018",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro",
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 3376
-  },
-  {
    "id": "4a8b3a65ec233662",
    "ts": 1791665192,
    "source": "government",
@@ -131,6 +113,34 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
+  },
+  {
+   "id": "854d10696fdd5074",
+   "ts": 1791704691,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+   "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "84f4e20d7fb87cec",
+   "ts": 1791691370,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Daily Crypto Discussion",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x2yeyd/daily_crypto_discussion/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
   },
   {
    "id": "c912772ee2fce3bc",
@@ -228,21 +238,6 @@
    "domain": "Decrypt",
    "org": "Decrypt",
    "tags": []
-  },
-  {
-   "id": "bb26bf71bccdf8d5",
-   "ts": 1791638709,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Samsung taps Solana and Sui to launch zero-fee USDC global remittances on 82 million phones",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x2f98b/samsung_taps_solana_and_sui_to_launch_zerofee/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto",
-    "SOL"
-   ],
-   "score": 0
   }
  ],
  "briefing_ts": 1790465772,
@@ -326,7 +321,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
