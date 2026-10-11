@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-10T22:24:44Z",
- "generated_ts": 1791671084,
+ "generated_at": "2026-10-11T01:47:14Z",
+ "generated_ts": 1791683234,
  "prices": {
   "BTC": {
-   "p": 82923.8,
-   "o": 82557.1,
+   "p": 82938.2,
+   "o": 82912.7,
    "h": 83089.7,
-   "l": 82433.2,
-   "v": 493.28191617
+   "l": 82486.4,
+   "v": 494.74168885
   },
   "ETH": {
-   "p": 2505.9,
-   "o": 2485.34,
+   "p": 2506.78,
+   "o": 2504.1,
    "h": 2516.65,
-   "l": 2482.47,
-   "v": 12122.91015895
+   "l": 2487.13,
+   "v": 14406.46423183
   },
   "SOL": {
-   "p": 110.21,
-   "o": 109.06,
+   "p": 109.98,
+   "o": 109.99,
    "h": 110.67,
-   "l": 108.84,
-   "v": 95485.03122195
+   "l": 109.29,
+   "v": 89263.50352736
   }
  },
  "change_7d": {
-  "BTC": -0.020487065240270348,
-  "ETH": -0.06609237140739582,
-  "SOL": -0.07874279026999918
+  "BTC": -0.022569173135139082,
+  "ETH": -0.07092511994771328,
+  "SOL": -0.08629441624365486
  },
  "sentiment": {
-  "score": 46.4,
-  "label": "Neutral",
+  "score": 42.9,
+  "label": "Fear",
   "components": {
-   "fng": 64.0,
-   "momentum": 44.878233689932415,
+   "fng": 61.0,
+   "momentum": 44.35770671621523,
    "news_tone": 0.0,
-   "crowding": 53.728037
+   "crowding": 41.4548755
   },
   "weights": {
    "fng": 0.35,
@@ -47,26 +47,26 @@
   }
  },
  "fear_greed": {
-  "value": 64,
+  "value": 61,
   "label": "Greed",
-  "ts": 1791590400
+  "ts": 1791676800
  },
  "news_tone_24h": -4.379,
  "derivatives": {
   "BTC": {
-   "funding_h": -4.673e-07,
-   "oi_usd": 3176432261.91486,
-   "premium": -0.0006024169
+   "funding_h": -1.30204e-05,
+   "oi_usd": 3161567022.20652,
+   "premium": -0.0005709715
   },
   "ETH": {
-   "funding_h": -1.8189e-06,
-   "oi_usd": 2818533505.2116,
-   "premium": -0.0004385615
+   "funding_h": -2.28909e-05,
+   "oi_usd": 2829910238.9409595,
+   "premium": -0.0006775068
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 630951309.5112005,
-   "premium": -0.0002547179
+   "oi_usd": 635006721.3984001,
+   "premium": -0.0003178495
   }
  },
  "items_24h": 29,
@@ -88,6 +88,22 @@
    "score": 5917
   },
   {
+   "id": "c3b673e9ce90345f",
+   "ts": 1791675902,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I am proud to announce that I have just appointed Katie Bailey as Director of the Office of Legislative Affairs. Katie is currently the Deputy Director of Legislative Affairs for the United States Senate, and has already delivered strong results, assisting in the confirmations of",
+   "url": "https://truthsocial.com/@realDonaldTrump/117419271924268127",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 5607
+  },
+  {
    "id": "6fffe7a17d54d4c3",
    "ts": 1791603598,
    "source": "truth",
@@ -105,16 +121,30 @@
    "score": 3376
   },
   {
-   "id": "119448293e4fed32",
-   "ts": 1791589739,
+   "id": "4a8b3a65ec233662",
+   "ts": 1791665192,
    "source": "government",
    "group": "government",
    "kind": "official",
-   "title": "Presidential Message on Leif Erikson Day",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-leif-erikson-day/",
+   "title": "The State of American Manufacturing",
+   "url": "https://www.whitehouse.gov/research/2026/10/the-state-of-american-manufacturing/",
    "domain": "White House",
    "org": "White House",
    "tags": []
+  },
+  {
+   "id": "c912772ee2fce3bc",
+   "ts": 1791677712,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Would you want a SaaS platform that predicted future price movement reliably?",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x2u3lg/would_you_want_a_saas_platform_that_predicted/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
   },
   {
    "id": "def49a482942ce01",
@@ -213,36 +243,6 @@
     "SOL"
    ],
    "score": 0
-  },
-  {
-   "id": "a682e18a47df4d5e",
-   "ts": 1791637263,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
-   "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "fcc2367bea59fa8d",
-   "ts": 1791633600,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
-   "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto",
-    "BTC",
-    "ETH"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -265,7 +265,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 21
+   "n": 22
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -322,11 +322,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 31
+   "n": 32
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 21
   },
   "Reddit r/Bitcoin": {
    "ok": false,
