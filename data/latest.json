@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-11T20:10:22Z",
- "generated_ts": 1791749422,
+ "generated_at": "2026-10-12T00:26:15Z",
+ "generated_ts": 1791764775,
  "prices": {
   "BTC": {
-   "p": 83581.2,
-   "o": 82912.7,
+   "p": 83778.5,
+   "o": 83675.6,
    "h": 84125.5,
    "l": 82716.1,
-   "v": 814.58753656
+   "v": 862.1663109
   },
   "ETH": {
-   "p": 2532.48,
-   "o": 2504.1,
+   "p": 2539.83,
+   "o": 2534.35,
    "h": 2551.99,
    "l": 2495.31,
-   "v": 17486.73284228
+   "v": 17443.37140419
   },
   "SOL": {
-   "p": 111.0,
-   "o": 109.99,
+   "p": 111.24,
+   "o": 111.23,
    "h": 112.63,
    "l": 108.86,
-   "v": 138219.9872494
+   "v": 157891.3908745
   }
  },
  "change_7d": {
-  "BTC": -0.021566431316684915,
-  "ETH": -0.06190742392998495,
-  "SOL": -0.0812685827552032
+  "BTC": -0.03270043352505947,
+  "ETH": -0.0705771896752804,
+  "SOL": -0.08521839269556634
  },
  "sentiment": {
-  "score": 56.2,
+  "score": 58.7,
   "label": "Greed",
   "components": {
-   "fng": 61.0,
-   "momentum": 44.60839217082877,
-   "crowding": 60.262741500000004
+   "fng": 69.0,
+   "momentum": 41.82489161873514,
+   "crowding": 57.0576765
   },
   "weights": {
    "fng": 0.35,
@@ -46,30 +46,79 @@
   }
  },
  "fear_greed": {
-  "value": 61,
+  "value": 69,
   "label": "Greed",
-  "ts": 1791676800
+  "ts": 1791763200
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.05412e-05,
-   "oi_usd": 3148631111.81136,
-   "premium": -0.0004231089
+   "funding_h": 8.2423e-06,
+   "oi_usd": 3199234095.93338,
+   "premium": -0.0002861674
   },
   "ETH": {
-   "funding_h": 5.0759e-06,
-   "oi_usd": 2811970513.5099196,
-   "premium": -0.000315557
+   "funding_h": -1.4062e-06,
+   "oi_usd": 2827414994.307842,
+   "premium": -0.0004720507
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 640070070.8602004,
-   "premium": -0.0002249921
+   "oi_usd": 641749427.7043082,
+   "premium": -0.0002694449
   }
  },
- "items_24h": 20,
+ "items_24h": 21,
  "top_items": [
+  {
+   "id": "4d7459d89981a89a",
+   "ts": 1791752750,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I just want to pay my respect and thanks to Karoline Leavitt for the fantastic job she has done as White House Press Secretary — Could not have been better! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117424308243914403",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 14047
+  },
+  {
+   "id": "48f611707d1ef234",
+   "ts": 1791754638,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I am pleased to announce that Katie Zacharia will be beginning her term as Press Secretary tomorrow, Columbus Day, and will be doing an introductory News Conference on Tuesday at 9:30 A.M. from the Press Briefing Room in the White House. Katie has been with me, in spirit, from th",
+   "url": "https://truthsocial.com/@realDonaldTrump/117424431971621400",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 9719
+  },
+  {
+   "id": "b7f22c467d7df1e1",
+   "ts": 1791755839,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "My Rallies, legendary they have already become, have made a tremendous difference with the enthusiasm of the Republican Party. They have been waiting for them to happen, even though I never thought I'd have to be doing Rallies again. The good news is, I love them, the music, and ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117424510700770095",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 9688
+  },
   {
    "id": "e860f261a151e2cb",
    "ts": 1791728198,
@@ -87,31 +136,31 @@
    "score": 8605
   },
   {
-   "id": "c3b673e9ce90345f",
-   "ts": 1791675902,
+   "id": "5b188c2c41bdc47c",
+   "ts": 1791762867,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "I am proud to announce that I have just appointed Katie Bailey as Director of the Office of Legislative Affairs. Katie is currently the Deputy Director of Legislative Affairs for the United States Senate, and has already delivered strong results, assisting in the confirmations of",
-   "url": "https://truthsocial.com/@realDonaldTrump/117419271924268127",
+   "title": "I have just learned that Roy Cooper, the Radical Left Former Governor of North Carolina, let out 83 murderers from prisons and penitentiaries around the State, with 51 of these prisoners serving life sentences. They ended up committing 25 murders immediately after being released,",
+   "url": "https://truthsocial.com/@realDonaldTrump/117424971260859993",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 5607
+   "score": 3725
   },
   {
-   "id": "4a8b3a65ec233662",
-   "ts": 1791665192,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "The State of American Manufacturing",
-   "url": "https://www.whitehouse.gov/research/2026/10/the-state-of-american-manufacturing/",
-   "domain": "White House",
-   "org": "White House",
+   "id": "e002b2ad3de2bd10",
+   "ts": 1791759473,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+   "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": []
   },
   {
@@ -200,47 +249,6 @@
    "tags": [
     "crypto"
    ]
-  },
-  {
-   "id": "f2dd45955a7df84c",
-   "ts": 1791733247,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
-   "url": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "1baed6df82ff0169",
-   "ts": 1791731722,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Solana Ecosystem News - October 11-2026",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x3aqbj/solana_ecosystem_news_october_112026/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto",
-    "SOL"
-   ],
-   "score": 0
-  },
-  {
-   "id": "fc0e7a1d3d91ed85",
-   "ts": 1791723603,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
-   "url": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -292,11 +300,11 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 14
+   "n": 12
   },
   "BIS": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "Strategy (MSTR) filings": {
    "ok": true,
@@ -320,11 +328,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 29
+   "n": 33
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 15
+   "n": 14
   },
   "Reddit r/Bitcoin": {
    "ok": false,
