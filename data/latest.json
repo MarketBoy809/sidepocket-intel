@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-12T00:26:15Z",
- "generated_ts": 1791764775,
+ "generated_at": "2026-10-12T07:14:57Z",
+ "generated_ts": 1791789297,
  "prices": {
   "BTC": {
-   "p": 83778.5,
+   "p": 84246.9,
    "o": 83675.6,
-   "h": 84125.5,
-   "l": 82716.1,
-   "v": 862.1663109
+   "h": 84250.0,
+   "l": 82884.1,
+   "v": 1472.24140328
   },
   "ETH": {
-   "p": 2539.83,
+   "p": 2574.56,
    "o": 2534.35,
-   "h": 2551.99,
+   "h": 2576.94,
    "l": 2495.31,
-   "v": 17443.37140419
+   "v": 22201.51221694
   },
   "SOL": {
-   "p": 111.24,
+   "p": 112.93,
    "o": 111.23,
-   "h": 112.63,
-   "l": 108.86,
-   "v": 157891.3908745
+   "h": 113.27,
+   "l": 109.12,
+   "v": 209847.19104626
   }
  },
  "change_7d": {
-  "BTC": -0.03270043352505947,
-  "ETH": -0.0705771896752804,
-  "SOL": -0.08521839269556634
+  "BTC": -0.024338594270358824,
+  "ETH": -0.057453040012331806,
+  "SOL": -0.07412587412587406
  },
  "sentiment": {
-  "score": 58.7,
+  "score": 59.3,
   "label": "Greed",
   "components": {
    "fng": 69.0,
-   "momentum": 41.82489161873514,
-   "crowding": 57.0576765
+   "momentum": 43.9153514324103,
+   "crowding": 57.3460995
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 8.2423e-06,
-   "oi_usd": 3199234095.93338,
-   "premium": -0.0002861674
+   "funding_h": 5.8945e-06,
+   "oi_usd": 3230647970.876346,
+   "premium": -0.0004506321
   },
   "ETH": {
-   "funding_h": -1.4062e-06,
-   "oi_usd": 2827414994.307842,
-   "premium": -0.0004720507
+   "funding_h": 1.7318e-06,
+   "oi_usd": 2878698529.7487645,
+   "premium": -0.0004656216
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 641749427.7043082,
-   "premium": -0.0002694449
+   "oi_usd": 667272867.7710001,
+   "premium": -8.84721e-05
   }
  },
- "items_24h": 21,
+ "items_24h": 29,
  "top_items": [
   {
    "id": "4d7459d89981a89a",
@@ -152,39 +152,27 @@
    "score": 3725
   },
   {
-   "id": "e002b2ad3de2bd10",
-   "ts": 1791759473,
+   "id": "5ddd1f98c2d36801",
+   "ts": 1791786621,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
-   "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+   "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "domain": "Cointelegraph",
    "org": "Cointelegraph",
-   "tags": []
-  },
-  {
-   "id": "1012fd3eee26e17b",
-   "ts": 1791743400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
-   "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
    "tags": [
     "crypto"
    ]
   },
   {
-   "id": "3bf45205c946d061",
-   "ts": 1791742042,
+   "id": "544174ddc32bcae7",
+   "ts": 1791785053,
    "source": "reddit",
    "group": "social",
    "kind": "post",
-   "title": "ZKCBDC Patented by Microsoft",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x3f1xc/zkcbdc_patented_by_microsoft/",
+   "title": "Somethings got me thinking. What's going to be the catalyst? DOGE",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x3u40r/somethings_got_me_thinking_whats_going_to_be_the/",
    "domain": "r/CryptoCurrency",
    "tags": [
     "crypto"
@@ -192,27 +180,42 @@
    "score": 0
   },
   {
-   "id": "c299be6cd89cf4e8",
-   "ts": 1791738663,
+   "id": "a378c6428e1fcd53",
+   "ts": 1791782143,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
-   "url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
-   "domain": "Decrypt",
-   "org": "Decrypt",
+   "title": "DATA Network to migrate to Sui, retire own chain",
+   "url": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": []
   },
   {
-   "id": "bb06ad7d28e26eb7",
-   "ts": 1791738660,
+   "id": "5134b4c7488604e5",
+   "ts": 1791780572,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "The $94 Million Hardware Wallet Nightmare: What Ledger Owners Should Do to Protect Their Bitcoin",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x3su9f/the_94_million_hardware_wallet_nightmare_what/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto",
+    "BTC"
+   ],
+   "score": 0
+  },
+  {
+   "id": "84a7c4b7fd49cc56",
+   "ts": 1791780570,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
-   "url": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+   "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
    "tags": [
     "crypto",
     "institution",
@@ -220,35 +223,32 @@
    ]
   },
   {
-   "id": "d0a0603c90ef82cc",
-   "ts": 1791734463,
+   "id": "5c496a4df851f446",
+   "ts": 1791780315,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-   "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": [
-    "crypto",
-    "BTC",
-    "ETH",
-    "SOL"
-   ]
-  },
-  {
-   "id": "6a491dab12425339",
-   "ts": 1791734400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
-   "url": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
+   "title": "French lawmakers back reporting rule for crypto wallets over $112K",
+   "url": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": [
     "crypto"
    ]
+  },
+  {
+   "id": "b61dc62e80754269",
+   "ts": 1791777812,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Daily Crypto Discussion",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x3s0t9/daily_crypto_discussion/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
   }
  ],
  "briefing_ts": 1790465772,
@@ -300,7 +300,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 12
+   "n": 11
   },
   "BIS": {
    "ok": true,
@@ -332,7 +332,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "Reddit r/Bitcoin": {
    "ok": false,
