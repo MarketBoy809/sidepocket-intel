@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-12T17:44:41Z",
- "generated_ts": 1791827081,
+ "generated_at": "2026-10-13T00:31:50Z",
+ "generated_ts": 1791851510,
  "prices": {
   "BTC": {
-   "p": 82367.9,
-   "o": 83675.6,
+   "p": 81231.0,
+   "o": 81737.2,
    "h": 84250.0,
-   "l": 82276.8,
-   "v": 1985.99751261
+   "l": 81192.8,
+   "v": 2526.3307119
   },
   "ETH": {
-   "p": 2503.88,
-   "o": 2534.35,
+   "p": 2417.57,
+   "o": 2444.03,
    "h": 2576.94,
-   "l": 2501.23,
-   "v": 23420.03505833
+   "l": 2410.4,
+   "v": 28474.45950042
   },
   "SOL": {
-   "p": 107.29,
-   "o": 111.23,
+   "p": 103.68,
+   "o": 105.62,
    "h": 113.27,
-   "l": 107.03,
-   "v": 256002.11730139
+   "l": 103.04,
+   "v": 334474.8425013
   }
  },
  "change_7d": {
-  "BTC": -0.03386899528710183,
-  "ETH": -0.0685835948337896,
-  "SOL": -0.09949832775919726
+  "BTC": -0.046723132268892895,
+  "ETH": -0.09791113079421307,
+  "SOL": -0.12536225883911567
  },
  "sentiment": {
-  "score": 58.9,
-  "label": "Greed",
+  "score": 45.5,
+  "label": "Neutral",
   "components": {
-   "fng": 69.0,
-   "momentum": 41.532751178224544,
-   "crowding": 58.538591
+   "fng": 57.0,
+   "momentum": 38.319216932776776,
+   "crowding": 28.060616500000002
   },
   "weights": {
    "fng": 0.35,
@@ -46,46 +46,30 @@
   }
  },
  "fear_greed": {
-  "value": 69,
+  "value": 57,
   "label": "Greed",
-  "ts": 1791763200
+  "ts": 1791849600
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 4.2011e-06,
-   "oi_usd": 3130349210.0841603,
-   "premium": -0.0003625345
+   "funding_h": -1.127e-06,
+   "oi_usd": 3097369227.26084,
+   "premium": -0.0004179163
   },
   "ETH": {
-   "funding_h": 9.2124e-06,
-   "oi_usd": 2760394466.289227,
-   "premium": -0.0005026208
+   "funding_h": -3.35647e-05,
+   "oi_usd": 2631192887.845441,
+   "premium": -0.0007432795
   },
   "SOL": {
-   "funding_h": 9.9799e-06,
-   "oi_usd": 653762373.1918001,
-   "premium": -0.0003257177
+   "funding_h": -2.54162e-05,
+   "oi_usd": 606193390.3648002,
+   "premium": -0.0007302097
   }
  },
- "items_24h": 53,
+ "items_24h": 80,
  "top_items": [
-  {
-   "id": "4d7459d89981a89a",
-   "ts": 1791752750,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I just want to pay my respect and thanks to Karoline Leavitt for the fantastic job she has done as White House Press Secretary — Could not have been better! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117424308243914403",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 14047
-  },
   {
    "id": "193e74b349d35c9a",
    "ts": 1791807193,
@@ -120,137 +104,144 @@
    "score": 11719
   },
   {
-   "id": "48f611707d1ef234",
-   "ts": 1791754638,
+   "id": "900369293ab74951",
+   "ts": 1791832631,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "I am pleased to announce that Katie Zacharia will be beginning her term as Press Secretary tomorrow, Columbus Day, and will be doing an introductory News Conference on Tuesday at 9:30 A.M. from the Press Briefing Room in the White House. Katie has been with me, in spirit, from th",
-   "url": "https://truthsocial.com/@realDonaldTrump/117424431971621400",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 9719
-  },
-  {
-   "id": "b7f22c467d7df1e1",
-   "ts": 1791755839,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "My Rallies, legendary they have already become, have made a tremendous difference with the enthusiasm of the Republican Party. They have been waiting for them to happen, even though I never thought I'd have to be doing Rallies again. The good news is, I love them, the music, and ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117424510700770095",
+   "title": "Senator Roger Marshall is working incredibly hard for the Great State of Kansas, which I love and WON BIG in 2016, 2020, and 2024. Roger is one of my favorite Senators — He is absolutely GREAT, a wonderful person, given a \"bum rap\" because he was mandated by Law to request money ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117429543347855465",
    "domain": "truthsocial.com",
    "tags": [
     "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 9688
+   "score": 9865
   },
   {
-   "id": "5b188c2c41bdc47c",
-   "ts": 1791762867,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I have just learned that Roy Cooper, the Radical Left Former Governor of North Carolina, let out 83 murderers from prisons and penitentiaries around the State, with 51 of these prisoners serving life sentences. They ended up committing 25 murders immediately after being released,",
-   "url": "https://truthsocial.com/@realDonaldTrump/117424971260859993",
-   "domain": "truthsocial.com",
+   "id": "e1b09343754142f8",
+   "ts": 1791849000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Principal Figures of Financial Institutions (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2609.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
    "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3725
-  },
-  {
-   "id": "f7434a6c94db2d2b",
-   "ts": 1791823865,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
-   "url": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto",
-    "BTC"
+    "macro"
    ]
   },
   {
-   "id": "3f4edcbc10ef8ad9",
-   "ts": 1791823294,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
-   "url": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
-   "domain": "Decrypt",
-   "org": "Decrypt",
+   "id": "af611c135d4adeb4",
+   "ts": 1791849000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Corporate Goods Price Index (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2609.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
    "tags": [
-    "crypto",
-    "BTC"
+    "macro"
    ]
   },
   {
-   "id": "6c0691418c257609",
-   "ts": 1791822737,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis",
-   "url": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "18e046a92c392df5",
-   "ts": 1791822621,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
-   "url": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto",
-    "geo",
-    "BTC"
-   ]
-  },
-  {
-   "id": "99b9c04ea47b27b6",
-   "ts": 1791821883,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
-   "url": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": []
-  },
-  {
-   "id": "dc7aadc2732fb551",
-   "ts": 1791821398,
+   "id": "e49cc975bd5ef8a4",
+   "ts": 1791843270,
    "source": "reddit",
    "group": "social",
    "kind": "post",
-   "title": "What does this mean? And why can’t I access it",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x45zuh/what_does_this_mean_and_why_cant_i_access_it/",
+   "title": "Ledger Users Are Getting Robbed Because They Trusted Ledger (it's literally on the box)",
+   "url": "https://www.reddit.com/r/Bitcoin/comments/1x4fm94/ledger_users_are_getting_robbed_because_they/",
+   "domain": "r/Bitcoin",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "ffcfddae0c2d3e8e",
+   "ts": 1791843116,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "200K guy and 40K guy right now:",
+   "url": "https://www.reddit.com/r/Bitcoin/comments/1x4fk62/200k_guy_and_40k_guy_right_now/",
+   "domain": "r/Bitcoin",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "117e655c016ec6bc",
+   "ts": 1791842551,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "The take home with this Ledger wallet \"hack\"",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x4fca8/the_take_home_with_this_ledger_wallet_hack/",
    "domain": "r/CryptoCurrency",
    "tags": [
     "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "f1a06b912ceeed62",
+   "ts": 1791841563,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
+   "url": "https://decrypt.co/380789/ai-hit-40-percent-jobs-imf-warns-young-people-first",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": []
+  },
+  {
+   "id": "4d33396f8cdf2ec1",
+   "ts": 1791841253,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Anything I can do with an old KeepKey wallet?",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x4etwd/anything_i_can_do_with_an_old_keepkey_wallet/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "c792df29bdf1d609",
+   "ts": 1791839763,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
+   "url": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "ea8c4acc5f760c67",
+   "ts": 1791839736,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "I no longer own any real bitcoin",
+   "url": "https://www.reddit.com/r/Bitcoin/comments/1x4e7ip/i_no_longer_own_any_real_bitcoin/",
+   "domain": "r/Bitcoin",
+   "tags": [
+    "crypto",
+    "BTC"
    ],
    "score": 0
   }
@@ -275,7 +266,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 20
+   "n": 18
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -292,7 +283,7 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "European Central Bank": {
    "ok": true,
@@ -304,7 +295,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 11
+   "n": 13
   },
   "BIS": {
    "ok": true,
@@ -328,20 +319,19 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 38
+   "n": 37
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 34
+   "n": 33
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 15
+   "n": 14
   },
   "Reddit r/Bitcoin": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 24
   }
  }
 }
