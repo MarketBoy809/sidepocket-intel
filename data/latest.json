@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-13T07:37:02Z",
- "generated_ts": 1791877022,
+ "generated_at": "2026-10-13T15:51:53Z",
+ "generated_ts": 1791906713,
  "prices": {
   "BTC": {
-   "p": 83873.1,
+   "p": 83208.5,
    "o": 81737.2,
-   "h": 83962.9,
+   "h": 84053.1,
    "l": 80951.2,
-   "v": 2399.31538822
+   "v": 2465.38409592
   },
   "ETH": {
-   "p": 2531.93,
+   "p": 2505.94,
    "o": 2444.03,
-   "h": 2565.79,
+   "h": 2535.22,
    "l": 2406.71,
-   "v": 30269.15926722
+   "v": 32536.69741778
   },
   "SOL": {
-   "p": 108.57,
+   "p": 106.81,
    "o": 105.62,
-   "h": 112.74,
+   "h": 109.13,
    "l": 101.58,
-   "v": 367780.85637155
+   "v": 362811.02584073
   }
  },
  "change_7d": {
-  "BTC": -0.018940955586417497,
-  "ETH": -0.06126906546318933,
-  "SOL": -0.09425613624979133
+  "BTC": -0.03665845662824921,
+  "ETH": -0.07623634700378032,
+  "SOL": -0.11755524521481969
  },
  "sentiment": {
-  "score": 52.5,
+  "score": 52.7,
   "label": "Neutral",
   "components": {
    "fng": 57.0,
-   "momentum": 45.26476110339563,
-   "crowding": 51.6775765
+   "momentum": 40.8353858429377,
+   "crowding": 58.428506999999996
   },
   "weights": {
    "fng": 0.35,
@@ -53,56 +53,23 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": -2.5661e-06,
-   "oi_usd": 3219220475.81936,
-   "premium": -0.0003667876
+   "funding_h": 9.6773e-06,
+   "oi_usd": 3197869879.822748,
+   "premium": -0.0004057535
   },
   "ETH": {
-   "funding_h": 1.0267e-06,
-   "oi_usd": 2828718126.12158,
-   "premium": -0.0005010257
+   "funding_h": 2.5692e-06,
+   "oi_usd": 2727498009.8005595,
+   "premium": -0.0003587086
   },
   "SOL": {
-   "funding_h": 6.1355e-06,
-   "oi_usd": 632818545.8390001,
-   "premium": -0.0002980341
+   "funding_h": 1.08453e-05,
+   "oi_usd": 622313111.0491999,
+   "premium": -0.0004675956
   }
  },
- "items_24h": 84,
+ "items_24h": 99,
  "top_items": [
-  {
-   "id": "193e74b349d35c9a",
-   "ts": 1791807193,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Former Governor Roy Cooper, of North Carolina, let out 83 murderers, 51 were serving life sentences, and 25 immediately committed murders after being let out of penitentiaries across the State. They were released by him because he didn't want them to catch COVID while in prison. ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117427876216740071",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 13707
-  },
-  {
-   "id": "dbe18d5e667c09d7",
-   "ts": 1791814108,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The European Union paid Russia 250 Billion Dollars for Energy, and the Fake News Media doesn't want to get near that story. I made the right choice for the American People — ALWAYS, AMERICA FIRST! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117428329406671403",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro",
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 11719
-  },
   {
    "id": "900369293ab74951",
    "ts": 1791832631,
@@ -137,6 +104,34 @@
    "score": 7090
   },
   {
+   "id": "215ca4610e836cef",
+   "ts": 1791903867,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Minutes of the Money Market Committee meeting – September 2026",
+   "url": "https://www.bankofengland.co.uk/minutes/2026/september/money-markets-committee-minutes-september-2026",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "3e44300821cceb0b",
+   "ts": 1791892815,
+   "source": "institution",
+   "group": "institution",
+   "kind": "official",
+   "title": "8-K - Current report",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526419726/0001193125-26-419726-index.htm",
+   "domain": "Strategy (MSTR) filings",
+   "org": "Strategy (MSTR) filings",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
    "id": "150b8a36ed1b579b",
    "ts": 1791876600,
    "source": "central_bank",
@@ -160,6 +155,20 @@
    "url": "http://www.boj.or.jp/en/research/o_survey/ishiki2610.htm",
    "domain": "Bank of Japan",
    "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "e9e729b4534eb63a",
+   "ts": 1791849600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
+   "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
+   "domain": "BIS",
+   "org": "BIS",
    "tags": [
     "macro"
    ]
@@ -193,60 +202,47 @@
    ]
   },
   {
-   "id": "6b200329ec54f65d",
-   "ts": 1791875359,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "First robbery potentially linked to the Revolut hack in U.K - person robbed $800k at knife point",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x4pyxc/first_robbery_potentially_linked_to_the_revolut/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "973c298f7cc784db",
-   "ts": 1791871381,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Bitcoin’s Quantum Wake-Up Call: 1.79 Million Exchange BTC Have Exposed Public Keys.",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x4owsu/bitcoins_quantum_wakeup_call_179_million_exchange/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto",
-    "BTC"
-   ],
-   "score": 0
-  },
-  {
-   "id": "597749421a7535a4",
-   "ts": 1791870310,
+   "id": "f1c09738da0bf865",
+   "ts": 1791906729,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
-   "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
+   "title": "Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants",
+   "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
    "domain": "CoinDesk",
    "org": "CoinDesk",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "0000c841b29ec8a5",
+   "ts": 1791905252,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
+   "url": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": [
     "crypto",
     "BTC"
    ]
   },
   {
-   "id": "0e3d2cbd860982f5",
-   "ts": 1791869917,
+   "id": "f2962a228facb302",
+   "ts": 1791905092,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
-   "url": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": []
+   "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
+   "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -278,7 +274,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "CFTC": {
    "ok": true,
@@ -290,7 +286,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 5
+   "n": 3
   },
   "Bank of England": {
    "ok": true,
@@ -302,11 +298,11 @@
   },
   "BIS": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "Strategy (MSTR) filings": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "Coinbase filings": {
    "ok": true,
@@ -322,20 +318,19 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 36
+   "n": 35
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 31
+   "n": 30
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 17
+   "n": 16
   },
   "Reddit r/Bitcoin": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 24
   }
  }
 }
