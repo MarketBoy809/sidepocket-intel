@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-13T15:51:53Z",
- "generated_ts": 1791906713,
+ "generated_at": "2026-10-13T21:09:52Z",
+ "generated_ts": 1791925792,
  "prices": {
   "BTC": {
-   "p": 83208.5,
+   "p": 83322.4,
    "o": 81737.2,
    "h": 84053.1,
    "l": 80951.2,
-   "v": 2465.38409592
+   "v": 2764.09121412
   },
   "ETH": {
-   "p": 2505.94,
+   "p": 2506.89,
    "o": 2444.03,
    "h": 2535.22,
    "l": 2406.71,
-   "v": 32536.69741778
+   "v": 32395.71026295
   },
   "SOL": {
-   "p": 106.81,
+   "p": 106.97,
    "o": 105.62,
-   "h": 109.13,
+   "h": 108.91,
    "l": 101.58,
-   "v": 362811.02584073
+   "v": 345361.69772452
   }
  },
  "change_7d": {
-  "BTC": -0.03665845662824921,
-  "ETH": -0.07623634700378032,
-  "SOL": -0.11755524521481969
+  "BTC": -0.026587134759227624,
+  "ETH": -0.07040066412923837,
+  "SOL": -0.11538143648235387
  },
  "sentiment": {
-  "score": 52.7,
+  "score": 54.5,
   "label": "Neutral",
   "components": {
    "fng": 57.0,
-   "momentum": 40.8353858429377,
-   "crowding": 58.428506999999996
+   "momentum": 43.35321631019309,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -53,39 +53,39 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 9.6773e-06,
-   "oi_usd": 3197869879.822748,
-   "premium": -0.0004057535
+   "funding_h": 1.25e-05,
+   "oi_usd": 3202099403.6357102,
+   "premium": -7.19424e-05
   },
   "ETH": {
-   "funding_h": 2.5692e-06,
-   "oi_usd": 2727498009.8005595,
-   "premium": -0.0003587086
+   "funding_h": 1.25e-05,
+   "oi_usd": 2678961858.9806995,
+   "premium": -0.0001992588
   },
   "SOL": {
-   "funding_h": 1.08453e-05,
-   "oi_usd": 622313111.0491999,
-   "premium": -0.0004675956
+   "funding_h": 1.25e-05,
+   "oi_usd": 627266648.4336,
+   "premium": -0.0002268816
   }
  },
- "items_24h": 99,
+ "items_24h": 96,
  "top_items": [
   {
-   "id": "900369293ab74951",
-   "ts": 1791832631,
+   "id": "9725d2dad6ee9e96",
+   "ts": 1791907448,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Senator Roger Marshall is working incredibly hard for the Great State of Kansas, which I love and WON BIG in 2016, 2020, and 2024. Roger is one of my favorite Senators — He is absolutely GREAT, a wonderful person, given a \"bum rap\" because he was mandated by Law to request money ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117429543347855465",
+   "title": "The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request, stopped. They've been silent for a long time, but now they've emerged again, probably at the behest of Iran, which is a Failing Nation, w",
+   "url": "https://truthsocial.com/@realDonaldTrump/117434446535757477",
    "domain": "truthsocial.com",
    "tags": [
-    "geo",
-    "regulation"
+    "macro",
+    "geo"
    ],
    "author": "Donald Trump",
-   "score": 9865
+   "score": 28370
   },
   {
    "id": "c5fe3020a4e0500e",
@@ -102,6 +102,106 @@
    ],
    "author": "Donald Trump",
    "score": 7090
+  },
+  {
+   "id": "277c7266b0178573",
+   "ts": 1791923156,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Why did Ilhan Omar report a Net Worth of up to 30 Million Dollars just a short time ago, and then immediately say, \"Oh, I made a mistake! It's really $100,000.\" Could it be that her highly paid accountant actually reported the money that was stolen from her fraudulent activities ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117435475991175132",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6975
+  },
+  {
+   "id": "3533a8df60fa9fd6",
+   "ts": 1791918581,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Jon Husted, who was a Great Football Player in College, had Record Setting numbers of interceptions. In fact, he was known as \"Interception Jon.\" I found out when Jon Gruden spoke at our first Ohio Rally. I asked the Coach, \"Why are you here Jon?\" He said, \"I'm here to support my",
+   "url": "https://truthsocial.com/@realDonaldTrump/117435176179992905",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6399
+  },
+  {
+   "id": "31a2bbd9d03d7971",
+   "ts": 1791916200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Philip R. Lane: The AI opportunity for Europe",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "d85e5d3609348b27",
+   "ts": 1791914400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "1334c61458d4f011",
+   "ts": 1791913655,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Visits Alaska: Delivering Results for the Last Frontier",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-alaska-delivering-results-for-the-last-frontier/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "87e241e646ff5599",
+   "ts": 1791912706,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Katie Zacharia Delivers Powerful Inaugural Briefing as the 37th White House Press Secretary",
+   "url": "https://www.whitehouse.gov/releases/2026/10/katie-zacharia-delivers-powerful-inaugural-briefing-as-37th-white-house-press-secretary/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "2000f73a65393475",
+   "ts": 1791909392,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "First Lady Melania Trump Launches 2027 Presidential SI Challenge and Establishes First Lady Seal of SI Readiness",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "215ca4610e836cef",
@@ -144,105 +244,6 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "7b652aff69f8c669",
-   "ts": 1791865800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Results of the 107th Opinion Survey on the General Public's Views and Behavior",
-   "url": "http://www.boj.or.jp/en/research/o_survey/ishiki2610.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "e9e729b4534eb63a",
-   "ts": 1791849600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Basel Committee finds Australia, Japan, Korea, Switzerland compliant, and Canada, United Kingdom largely compliant with its leverage ratio framework",
-   "url": "https://www.bis.org/media-releases/20261013-basel-committee-finds-australia-japan-korea-switzerland-compliant-and-canada-united-kingdom",
-   "domain": "BIS",
-   "org": "BIS",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "e1b09343754142f8",
-   "ts": 1791849000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Principal Figures of Financial Institutions (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2609.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "af611c135d4adeb4",
-   "ts": 1791849000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Corporate Goods Price Index (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2609.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "f1c09738da0bf865",
-   "ts": 1791906729,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants",
-   "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "0000c841b29ec8a5",
-   "ts": 1791905252,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
-   "url": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto",
-    "BTC"
-   ]
-  },
-  {
-   "id": "f2962a228facb302",
-   "ts": 1791905092,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
-   "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -265,7 +266,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 15
+   "n": 17
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -274,7 +275,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "CFTC": {
    "ok": true,
@@ -282,11 +283,11 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "European Central Bank": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "Bank of England": {
    "ok": true,
@@ -318,19 +319,20 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 35
+   "n": 33
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 30
+   "n": 33
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 16
+   "n": 19
   },
   "Reddit r/Bitcoin": {
-   "ok": true,
-   "n": 24
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
