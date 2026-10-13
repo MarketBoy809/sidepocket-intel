@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-13T00:31:50Z",
- "generated_ts": 1791851510,
+ "generated_at": "2026-10-13T07:37:02Z",
+ "generated_ts": 1791877022,
  "prices": {
   "BTC": {
-   "p": 81231.0,
+   "p": 83873.1,
    "o": 81737.2,
-   "h": 84250.0,
-   "l": 81192.8,
-   "v": 2526.3307119
+   "h": 83962.9,
+   "l": 80951.2,
+   "v": 2399.31538822
   },
   "ETH": {
-   "p": 2417.57,
+   "p": 2531.93,
    "o": 2444.03,
-   "h": 2576.94,
-   "l": 2410.4,
-   "v": 28474.45950042
+   "h": 2565.79,
+   "l": 2406.71,
+   "v": 30269.15926722
   },
   "SOL": {
-   "p": 103.68,
+   "p": 108.57,
    "o": 105.62,
-   "h": 113.27,
-   "l": 103.04,
-   "v": 334474.8425013
+   "h": 112.74,
+   "l": 101.58,
+   "v": 367780.85637155
   }
  },
  "change_7d": {
-  "BTC": -0.046723132268892895,
-  "ETH": -0.09791113079421307,
-  "SOL": -0.12536225883911567
+  "BTC": -0.018940955586417497,
+  "ETH": -0.06126906546318933,
+  "SOL": -0.09425613624979133
  },
  "sentiment": {
-  "score": 45.5,
+  "score": 52.5,
   "label": "Neutral",
   "components": {
    "fng": 57.0,
-   "momentum": 38.319216932776776,
-   "crowding": 28.060616500000002
+   "momentum": 45.26476110339563,
+   "crowding": 51.6775765
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": -1.127e-06,
-   "oi_usd": 3097369227.26084,
-   "premium": -0.0004179163
+   "funding_h": -2.5661e-06,
+   "oi_usd": 3219220475.81936,
+   "premium": -0.0003667876
   },
   "ETH": {
-   "funding_h": -3.35647e-05,
-   "oi_usd": 2631192887.845441,
-   "premium": -0.0007432795
+   "funding_h": 1.0267e-06,
+   "oi_usd": 2828718126.12158,
+   "premium": -0.0005010257
   },
   "SOL": {
-   "funding_h": -2.54162e-05,
-   "oi_usd": 606193390.3648002,
-   "premium": -0.0007302097
+   "funding_h": 6.1355e-06,
+   "oi_usd": 632818545.8390001,
+   "premium": -0.0002980341
   }
  },
- "items_24h": 80,
+ "items_24h": 84,
  "top_items": [
   {
    "id": "193e74b349d35c9a",
@@ -121,6 +121,50 @@
    "score": 9865
   },
   {
+   "id": "c5fe3020a4e0500e",
+   "ts": 1791859546,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I see so many comments from the Radical Left Morons and Lunatics that China and Russia are helping the \"wonderful\" Islamic Republic of Iran. If they are, it's at a very low level, but I don't believe they are at all. They have too much to lose, and we would know about it, and kno",
+   "url": "https://truthsocial.com/@realDonaldTrump/117431307261297275",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 7090
+  },
+  {
+   "id": "150b8a36ed1b579b",
+   "ts": 1791876600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Basic Figures on Fails (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/set/bffail/sjgb2609.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "7b652aff69f8c669",
+   "ts": 1791865800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Results of the 107th Opinion Survey on the General Public's Views and Behavior",
+   "url": "http://www.boj.or.jp/en/research/o_survey/ishiki2610.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
    "id": "e1b09343754142f8",
    "ts": 1791849000,
    "source": "central_bank",
@@ -149,41 +193,13 @@
    ]
   },
   {
-   "id": "e49cc975bd5ef8a4",
-   "ts": 1791843270,
+   "id": "6b200329ec54f65d",
+   "ts": 1791875359,
    "source": "reddit",
    "group": "social",
    "kind": "post",
-   "title": "Ledger Users Are Getting Robbed Because They Trusted Ledger (it's literally on the box)",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1x4fm94/ledger_users_are_getting_robbed_because_they/",
-   "domain": "r/Bitcoin",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "ffcfddae0c2d3e8e",
-   "ts": 1791843116,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "200K guy and 40K guy right now:",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1x4fk62/200k_guy_and_40k_guy_right_now/",
-   "domain": "r/Bitcoin",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "117e655c016ec6bc",
-   "ts": 1791842551,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "The take home with this Ledger wallet \"hack\"",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x4fca8/the_take_home_with_this_ledger_wallet_hack/",
+   "title": "First robbery potentially linked to the Revolut hack in U.K - person robbed $800k at knife point",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x4pyxc/first_robbery_potentially_linked_to_the_revolut/",
    "domain": "r/CryptoCurrency",
    "tags": [
     "crypto"
@@ -191,59 +207,46 @@
    "score": 0
   },
   {
-   "id": "f1a06b912ceeed62",
-   "ts": 1791841563,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
-   "url": "https://decrypt.co/380789/ai-hit-40-percent-jobs-imf-warns-young-people-first",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": []
-  },
-  {
-   "id": "4d33396f8cdf2ec1",
-   "ts": 1791841253,
+   "id": "973c298f7cc784db",
+   "ts": 1791871381,
    "source": "reddit",
    "group": "social",
    "kind": "post",
-   "title": "Anything I can do with an old KeepKey wallet?",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x4etwd/anything_i_can_do_with_an_old_keepkey_wallet/",
+   "title": "Bitcoin’s Quantum Wake-Up Call: 1.79 Million Exchange BTC Have Exposed Public Keys.",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x4owsu/bitcoins_quantum_wakeup_call_179_million_exchange/",
    "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "c792df29bdf1d609",
-   "ts": 1791839763,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
-   "url": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "ea8c4acc5f760c67",
-   "ts": 1791839736,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "I no longer own any real bitcoin",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1x4e7ip/i_no_longer_own_any_real_bitcoin/",
-   "domain": "r/Bitcoin",
    "tags": [
     "crypto",
     "BTC"
    ],
    "score": 0
+  },
+  {
+   "id": "597749421a7535a4",
+   "ts": 1791870310,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+   "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto",
+    "BTC"
+   ]
+  },
+  {
+   "id": "0e3d2cbd860982f5",
+   "ts": 1791869917,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
+   "url": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -266,7 +269,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 18
+   "n": 15
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -287,7 +290,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 6
+   "n": 5
   },
   "Bank of England": {
    "ok": true,
@@ -295,7 +298,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 13
+   "n": 15
   },
   "BIS": {
    "ok": true,
@@ -319,19 +322,20 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 37
+   "n": 36
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 33
+   "n": 31
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 14
+   "n": 17
   },
   "Reddit r/Bitcoin": {
-   "ok": true,
-   "n": 24
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
