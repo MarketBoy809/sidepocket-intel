@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-13T21:09:52Z",
- "generated_ts": 1791925792,
+ "generated_at": "2026-10-14T01:06:35Z",
+ "generated_ts": 1791939995,
  "prices": {
   "BTC": {
-   "p": 83322.4,
-   "o": 81737.2,
+   "p": 83232.4,
+   "o": 83101.2,
    "h": 84053.1,
-   "l": 80951.2,
-   "v": 2764.09121412
+   "l": 81514.1,
+   "v": 2696.5335859
   },
   "ETH": {
-   "p": 2506.89,
-   "o": 2444.03,
+   "p": 2502.07,
+   "o": 2495.97,
    "h": 2535.22,
-   "l": 2406.71,
-   "v": 32395.71026295
+   "l": 2426.72,
+   "v": 23747.69361216
   },
   "SOL": {
-   "p": 106.97,
-   "o": 105.62,
+   "p": 107.14,
+   "o": 106.73,
    "h": 108.91,
-   "l": 101.58,
-   "v": 345361.69772452
+   "l": 103.44,
+   "v": 225711.69300654
   }
  },
  "change_7d": {
-  "BTC": -0.026587134759227624,
-  "ETH": -0.07040066412923837,
-  "SOL": -0.11538143648235387
+  "BTC": -0.025596088713840264,
+  "ETH": -0.07080948972515098,
+  "SOL": -0.10972878825578494
  },
  "sentiment": {
-  "score": 54.5,
-  "label": "Neutral",
+  "score": 56.7,
+  "label": "Greed",
   "components": {
-   "fng": 57.0,
-   "momentum": 43.35321631019309,
-   "crowding": 63.6875
+   "fng": 62.0,
+   "momentum": 43.600977821539935,
+   "crowding": 61.949443
   },
   "weights": {
    "fng": 0.35,
@@ -46,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 57,
+  "value": 62,
   "label": "Greed",
-  "ts": 1791849600
+  "ts": 1791936000
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3202099403.6357102,
-   "premium": -7.19424e-05
+   "funding_h": 7.8421e-06,
+   "oi_usd": 3156828837.4347,
+   "premium": -0.0002472544
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2678961858.9806995,
-   "premium": -0.0001992588
+   "funding_h": 1.23961e-05,
+   "oi_usd": 2702908168.944222,
+   "premium": -0.000435201
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 627266648.4336,
-   "premium": -0.0002268816
+   "oi_usd": 627940197.9200001,
+   "premium": 0.0
   }
  },
- "items_24h": 96,
+ "items_24h": 95,
  "top_items": [
   {
    "id": "9725d2dad6ee9e96",
@@ -86,6 +86,22 @@
    ],
    "author": "Donald Trump",
    "score": 28370
+  },
+  {
+   "id": "3bdd1d3b06a92e9e",
+   "ts": 1791929303,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Dave Bronson of Alaska begged me for my support and Endorsement, but I wouldn't do it because he didn't win the Primary and, therefore, wasn't deserving of it. I then asked him to get out of the Race, and he agreed! I said, \"Too many Republicans, three, are running against one Du",
+   "url": "https://truthsocial.com/@realDonaldTrump/117435878855345862",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 7823
   },
   {
    "id": "c5fe3020a4e0500e",
@@ -121,6 +137,23 @@
    "score": 6975
   },
   {
+   "id": "cef26d1d22ff097d",
+   "ts": 1791929150,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Heading to Alaska to do a major Rally for Senator Dan S. Sullivan, one of the best and most respected Senators in D.C., Congressman Nick Begich, a fantastic Warrior and Advocate for everything that is important for Alaska, and Bernadette Wilson, who is running for Governor, unfor",
+   "url": "https://truthsocial.com/@realDonaldTrump/117435868809210676",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6930
+  },
+  {
    "id": "3533a8df60fa9fd6",
    "ts": 1791918581,
    "source": "truth",
@@ -136,6 +169,50 @@
    ],
    "author": "Donald Trump",
    "score": 6399
+  },
+  {
+   "id": "93e82561b672bf57",
+   "ts": 1791931916,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Gregg Jarrett is fantastic — A MUST WATCH! President DONALD J. TRUMPGREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story is exposed: https://www.foxnews.com/opinion/gregg-jarrett-trump-framed-russia-collusion-hoax-story-exposed",
+   "url": "https://truthsocial.com/@realDonaldTrump/117436050104659116",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 5792
+  },
+  {
+   "id": "54ab6ad362513675",
+   "ts": 1791939600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Bank of Japan Accounts (October 10)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "e40b81810f976905",
+   "ts": 1791935400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Money Stock (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/money/ms/ms2609.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "31a2bbd9d03d7971",
@@ -176,74 +253,6 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
-  },
-  {
-   "id": "87e241e646ff5599",
-   "ts": 1791912706,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Katie Zacharia Delivers Powerful Inaugural Briefing as the 37th White House Press Secretary",
-   "url": "https://www.whitehouse.gov/releases/2026/10/katie-zacharia-delivers-powerful-inaugural-briefing-as-37th-white-house-press-secretary/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "2000f73a65393475",
-   "ts": 1791909392,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "First Lady Melania Trump Launches 2027 Presidential SI Challenge and Establishes First Lady Seal of SI Readiness",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "215ca4610e836cef",
-   "ts": 1791903867,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Minutes of the Money Market Committee meeting – September 2026",
-   "url": "https://www.bankofengland.co.uk/minutes/2026/september/money-markets-committee-minutes-september-2026",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "3e44300821cceb0b",
-   "ts": 1791892815,
-   "source": "institution",
-   "group": "institution",
-   "kind": "official",
-   "title": "8-K - Current report",
-   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526419726/0001193125-26-419726-index.htm",
-   "domain": "Strategy (MSTR) filings",
-   "org": "Strategy (MSTR) filings",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "150b8a36ed1b579b",
-   "ts": 1791876600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Basic Figures on Fails (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/set/bffail/sjgb2609.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -295,7 +304,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 15
+   "n": 13
   },
   "BIS": {
    "ok": true,
@@ -323,7 +332,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 33
+   "n": 36
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
