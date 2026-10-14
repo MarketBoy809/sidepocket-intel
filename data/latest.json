@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-14T17:01:56Z",
- "generated_ts": 1791997316,
+ "generated_at": "2026-10-14T20:34:47Z",
+ "generated_ts": 1792010087,
  "prices": {
   "BTC": {
-   "p": 81967.1,
+   "p": 81839.1,
    "o": 83101.2,
    "h": 84049.3,
-   "l": 81500.0,
-   "v": 3078.04779259
+   "l": 81426.6,
+   "v": 3083.18792071
   },
   "ETH": {
-   "p": 2449.56,
+   "p": 2426.8,
    "o": 2495.97,
    "h": 2527.11,
    "l": 2414.45,
-   "v": 27378.66757752
+   "v": 30872.43921337
   },
   "SOL": {
-   "p": 105.17,
+   "p": 104.13,
    "o": 106.73,
    "h": 108.57,
    "l": 103.41,
-   "v": 309919.97239323
+   "v": 331603.16587891
   }
  },
  "change_7d": {
-  "BTC": -0.017048651143001824,
-  "ETH": -0.04713714216711666,
-  "SOL": -0.10192719486081375
+  "BTC": -0.020034406161547218,
+  "ETH": -0.055044836068126025,
+  "SOL": -0.10096735187424423
  },
  "sentiment": {
   "score": 57.3,
   "label": "Greed",
   "components": {
    "fng": 62.0,
-   "momentum": 45.737837214249545,
-   "crowding": 61.86031
+   "momentum": 44.991398459613194,
+   "crowding": 62.617685
   },
   "weights": {
    "fng": 0.35,
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3233202569.013652,
-   "premium": -0.0003047071
+   "oi_usd": 3333632074.25976,
+   "premium": -0.0003661305
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2601010871.251799,
-   "premium": -0.0002038985
+   "oi_usd": 2615992792.163918,
+   "premium": -0.0004939085
   },
   "SOL": {
-   "funding_h": 7.494e-06,
-   "oi_usd": 613690420.9426281,
-   "premium": -0.000474924
+   "funding_h": 9.569e-06,
+   "oi_usd": 604714650.9519998,
+   "premium": -0.0004796163
   }
  },
- "items_24h": 92,
+ "items_24h": 85,
  "top_items": [
   {
    "id": "adc5c68fcd5a70cd",
@@ -119,23 +119,6 @@
    "score": 7823
   },
   {
-   "id": "277c7266b0178573",
-   "ts": 1791923156,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Why did Ilhan Omar report a Net Worth of up to 30 Million Dollars just a short time ago, and then immediately say, \"Oh, I made a mistake! It's really $100,000.\" Could it be that her highly paid accountant actually reported the money that was stolen from her fraudulent activities ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117435475991175132",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6975
-  },
-  {
    "id": "cef26d1d22ff097d",
    "ts": 1791929150,
    "source": "truth",
@@ -151,23 +134,6 @@
    ],
    "author": "Donald Trump",
    "score": 6930
-  },
-  {
-   "id": "3533a8df60fa9fd6",
-   "ts": 1791918581,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Jon Husted, who was a Great Football Player in College, had Record Setting numbers of interceptions. In fact, he was known as \"Interception Jon.\" I found out when Jon Gruden spoke at our first Ohio Rally. I asked the Coach, \"Why are you here Jon?\" He said, \"I'm here to support my",
-   "url": "https://truthsocial.com/@realDonaldTrump/117435176179992905",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6399
   },
   {
    "id": "93e82561b672bf57",
@@ -263,6 +229,32 @@
    "tags": [
     "macro"
    ]
+  },
+  {
+   "id": "dcbb3aaa7b9cd8f6",
+   "ts": 1791964800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Japanese Government Bonds Held by the Bank of Japan",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261009.xlsx",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "1098b2789a446dfe",
+   "ts": 1791942493,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on the Birthday of the United States Navy",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-the-united-states-navy/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -285,7 +277,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 17
+   "n": 14
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -302,7 +294,7 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "European Central Bank": {
    "ok": true,
@@ -338,15 +330,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 34
+   "n": 35
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 40
+   "n": 39
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
