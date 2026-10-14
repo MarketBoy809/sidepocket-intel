@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-14T20:34:47Z",
- "generated_ts": 1792010087,
+ "generated_at": "2026-10-14T23:51:36Z",
+ "generated_ts": 1792021896,
  "prices": {
   "BTC": {
-   "p": 81839.1,
+   "p": 81566.4,
    "o": 83101.2,
    "h": 84049.3,
-   "l": 81426.6,
-   "v": 3083.18792071
+   "l": 81333.2,
+   "v": 2604.30591582
   },
   "ETH": {
-   "p": 2426.8,
+   "p": 2418.99,
    "o": 2495.97,
    "h": 2527.11,
-   "l": 2414.45,
-   "v": 30872.43921337
+   "l": 2401.68,
+   "v": 35918.11588232
   },
   "SOL": {
-   "p": 104.13,
+   "p": 104.15,
    "o": 106.73,
    "h": 108.57,
    "l": 103.41,
-   "v": 331603.16587891
+   "v": 348781.93903356
   }
  },
  "change_7d": {
-  "BTC": -0.020034406161547218,
-  "ETH": -0.055044836068126025,
-  "SOL": -0.10096735187424423
+  "BTC": -0.01987134364584354,
+  "ETH": -0.05942085979387068,
+  "SOL": -0.09943941354031911
  },
  "sentiment": {
-  "score": 57.3,
-  "label": "Greed",
+  "score": 55.4,
+  "label": "Neutral",
   "components": {
    "fng": 62.0,
-   "momentum": 44.991398459613194,
-   "crowding": 62.617685
+   "momentum": 45.03216408853911,
+   "crowding": 53.86389
   },
   "weights": {
    "fng": 0.35,
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3333632074.25976,
-   "premium": -0.0003661305
+   "oi_usd": 3283248865.65444,
+   "premium": -0.000374685
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2615992792.163918,
-   "premium": -0.0004939085
+   "funding_h": 3.6925e-06,
+   "oi_usd": 2610670876.8875394,
+   "premium": -0.0005119863
   },
   "SOL": {
-   "funding_h": 9.569e-06,
-   "oi_usd": 604714650.9519998,
-   "premium": -0.0004796163
+   "funding_h": -5.6065e-06,
+   "oi_usd": 608067034.2796,
+   "premium": -0.0005274009
   }
  },
- "items_24h": 85,
+ "items_24h": 81,
  "top_items": [
   {
    "id": "adc5c68fcd5a70cd",
@@ -103,53 +103,20 @@
    "score": 9853
   },
   {
-   "id": "3bdd1d3b06a92e9e",
-   "ts": 1791929303,
+   "id": "92cbc0f8cf9d73c7",
+   "ts": 1792018101,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Dave Bronson of Alaska begged me for my support and Endorsement, but I wouldn't do it because he didn't win the Primary and, therefore, wasn't deserving of it. I then asked him to get out of the Race, and he agreed! I said, \"Too many Republicans, three, are running against one Du",
-   "url": "https://truthsocial.com/@realDonaldTrump/117435878855345862",
+   "title": "I'm heading to Montana for a \"PACKED HOUSE\" Speech. It's broadcast LIVE on Right Side Broadcasting Network (RSBN) — What a great job they do. See you soon! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117441698269818123",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 7823
-  },
-  {
-   "id": "cef26d1d22ff097d",
-   "ts": 1791929150,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Heading to Alaska to do a major Rally for Senator Dan S. Sullivan, one of the best and most respected Senators in D.C., Congressman Nick Begich, a fantastic Warrior and Advocate for everything that is important for Alaska, and Bernadette Wilson, who is running for Governor, unfor",
-   "url": "https://truthsocial.com/@realDonaldTrump/117435868809210676",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6930
-  },
-  {
-   "id": "93e82561b672bf57",
-   "ts": 1791931916,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Gregg Jarrett is fantastic — A MUST WATCH! President DONALD J. TRUMPGREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story is exposed: https://www.foxnews.com/opinion/gregg-jarrett-trump-framed-russia-collusion-hoax-story-exposed",
-   "url": "https://truthsocial.com/@realDonaldTrump/117436050104659116",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 5792
+   "score": 5822
   },
   {
    "id": "3412fcb453efe641",
@@ -255,6 +222,34 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
+  },
+  {
+   "id": "54ab6ad362513675",
+   "ts": 1791939600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Bank of Japan Accounts (October 10)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "81e2cc6a2a3ece95",
+   "ts": 1791936000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -302,11 +297,11 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 13
+   "n": 12
   },
   "BIS": {
    "ok": true,
@@ -334,11 +329,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 39
+   "n": 38
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 21
   },
   "Reddit r/Bitcoin": {
    "ok": false,
