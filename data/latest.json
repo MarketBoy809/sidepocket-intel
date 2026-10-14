@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-14T11:43:17Z",
- "generated_ts": 1791978197,
+ "generated_at": "2026-10-14T17:01:56Z",
+ "generated_ts": 1791997316,
  "prices": {
   "BTC": {
-   "p": 83335.6,
+   "p": 81967.1,
    "o": 83101.2,
    "h": 84049.3,
-   "l": 82875.2,
-   "v": 2451.0544241
+   "l": 81500.0,
+   "v": 3078.04779259
   },
   "ETH": {
-   "p": 2499.18,
+   "p": 2449.56,
    "o": 2495.97,
    "h": 2527.11,
-   "l": 2475.82,
-   "v": 17648.4145498
+   "l": 2414.45,
+   "v": 27378.66757752
   },
   "SOL": {
-   "p": 106.99,
+   "p": 105.17,
    "o": 106.73,
    "h": 108.57,
-   "l": 105.61,
-   "v": 188277.12386065
+   "l": 103.41,
+   "v": 309919.97239323
   }
  },
  "change_7d": {
-  "BTC": -0.00394315700052503,
-  "ETH": -0.028835752145136596,
-  "SOL": -0.08952559088590377
+  "BTC": -0.017048651143001824,
+  "ETH": -0.04713714216711666,
+  "SOL": -0.10192719486081375
  },
  "sentiment": {
-  "score": 57.6,
+  "score": 57.3,
   "label": "Greed",
   "components": {
    "fng": 62.0,
-   "momentum": 49.014210749868745,
-   "crowding": 58.8081435
+   "momentum": 45.737837214249545,
+   "crowding": 61.86031
   },
   "weights": {
    "fng": 0.35,
@@ -54,38 +54,53 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3203704607.0798,
-   "premium": -0.0003476385
+   "oi_usd": 3233202569.013652,
+   "premium": -0.0003047071
   },
   "ETH": {
-   "funding_h": -8.681e-07,
-   "oi_usd": 2689549538.795316,
-   "premium": -0.0005236628
+   "funding_h": 1.25e-05,
+   "oi_usd": 2601010871.251799,
+   "premium": -0.0002038985
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 627015036.0750004,
-   "premium": -0.0003109148
+   "funding_h": 7.494e-06,
+   "oi_usd": 613690420.9426281,
+   "premium": -0.000474924
   }
  },
- "items_24h": 88,
+ "items_24h": 92,
  "top_items": [
   {
-   "id": "9725d2dad6ee9e96",
-   "ts": 1791907448,
+   "id": "adc5c68fcd5a70cd",
+   "ts": 1791978549,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request, stopped. They've been silent for a long time, but now they've emerged again, probably at the behest of Iran, which is a Failing Nation, w",
-   "url": "https://truthsocial.com/@realDonaldTrump/117434446535757477",
+   "title": "Democrats cheered Mar-a-Lago raid in 2022, but now call search of Omar's home 'weaponization': https://justthenews.com/government/courts-law/democrats-praised-mar-lago-raid-2022-now-call-omar-search-weaponization",
+   "url": "https://truthsocial.com/@realDonaldTrump/117439106238163149",
    "domain": "truthsocial.com",
    "tags": [
-    "macro",
-    "geo"
+    "regulation"
    ],
    "author": "Donald Trump",
-   "score": 28370
+   "score": 10562
+  },
+  {
+   "id": "c7d1708a6e7807b0",
+   "ts": 1791978593,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Trump proves he can undo Biden's energy damage in Alaska in short order: https://justthenews.com/government/white-house/trump-proves-alaska-he-can-undo-bidens-energy-damage-half-time",
+   "url": "https://truthsocial.com/@realDonaldTrump/117439109117320192",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 9853
   },
   {
    "id": "3bdd1d3b06a92e9e",
@@ -171,6 +186,41 @@
    "score": 5792
   },
   {
+   "id": "3412fcb453efe641",
+   "ts": 1791995358,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I was just in Alaska launching the largest Energy Infrastructure Project in Alaska History— The Alaska LNG Project. This 50 Billion Dollar Infrastructure Investment from The Republic of Korea is part of their Trade and Investment Deal with me. I am also announcing today that my C",
+   "url": "https://truthsocial.com/@realDonaldTrump/117440207836405365",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro",
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3223
+  },
+  {
+   "id": "d6ad76c27962f606",
+   "ts": 1791995979,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!Today, under my leadership, GlobalFoundries and my Department of Commerce led by Secretary Howard Lutnick announced a MASSIVE 21 BILLION INVESTMENT to build 2 giant new Semiconductor Manufacturing Facilities in Malta, New Y",
+   "url": "https://truthsocial.com/@realDonaldTrump/117440248541514637",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro",
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 2591
+  },
+  {
    "id": "76ed8f47f22c79ff",
    "ts": 1791951450,
    "source": "truth",
@@ -187,6 +237,20 @@
    "score": 2234
   },
   {
+   "id": "f3e86de4961eccc7",
+   "ts": 1791988247,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
+   "domain": "SEC",
+   "org": "SEC",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
    "id": "b156b88e8e5cd9c2",
    "ts": 1791975600,
    "source": "central_bank",
@@ -196,60 +260,6 @@
    "url": "http://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
    "domain": "Bank of Japan",
    "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "dcbb3aaa7b9cd8f6",
-   "ts": 1791964800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Japanese Government Bonds Held by the Bank of Japan",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261009.xlsx",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "1098b2789a446dfe",
-   "ts": 1791942493,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on the Birthday of the United States Navy",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-the-united-states-navy/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "54ab6ad362513675",
-   "ts": 1791939600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Bank of Japan Accounts (October 10)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "81e2cc6a2a3ece95",
-   "ts": 1791936000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
    "tags": [
     "macro"
    ]
@@ -275,7 +285,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 18
+   "n": 17
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -284,7 +294,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "CFTC": {
    "ok": true,
@@ -300,7 +310,7 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "Bank of Japan": {
    "ok": true,
@@ -328,15 +338,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 33
+   "n": 34
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 37
+   "n": 40
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
