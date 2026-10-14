@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-14T06:05:15Z",
- "generated_ts": 1791957915,
+ "generated_at": "2026-10-14T11:43:17Z",
+ "generated_ts": 1791978197,
  "prices": {
   "BTC": {
-   "p": 83280.0,
+   "p": 83335.6,
    "o": 83101.2,
-   "h": 84053.1,
+   "h": 84049.3,
    "l": 82875.2,
-   "v": 2557.46520907
+   "v": 2451.0544241
   },
   "ETH": {
-   "p": 2497.26,
+   "p": 2499.18,
    "o": 2495.97,
-   "h": 2535.06,
-   "l": 2485.88,
-   "v": 18817.36570923
+   "h": 2527.11,
+   "l": 2475.82,
+   "v": 17648.4145498
   },
   "SOL": {
-   "p": 106.88,
+   "p": 106.99,
    "o": 106.73,
-   "h": 108.91,
-   "l": 105.51,
-   "v": 190250.97322828
+   "h": 108.57,
+   "l": 105.61,
+   "v": 188277.12386065
   }
  },
  "change_7d": {
-  "BTC": -0.010883260513348274,
-  "ETH": -0.0454875079196659,
-  "SOL": -0.09880491499747514
+  "BTC": -0.00394315700052503,
+  "ETH": -0.028835752145136596,
+  "SOL": -0.08952559088590377
  },
  "sentiment": {
-  "score": 57.9,
+  "score": 57.6,
   "label": "Greed",
   "components": {
    "fng": 62.0,
-   "momentum": 47.279184871662935,
-   "crowding": 62.636081000000004
+   "momentum": 49.014210749868745,
+   "crowding": 58.8081435
   },
   "weights": {
    "fng": 0.35,
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3149585838.401904,
-   "premium": -0.0005110267
+   "oi_usd": 3203704607.0798,
+   "premium": -0.0003476385
   },
   "ETH": {
-   "funding_h": 9.6194e-06,
-   "oi_usd": 2692522010.959381,
-   "premium": -0.0004039822
+   "funding_h": -8.681e-07,
+   "oi_usd": 2689549538.795316,
+   "premium": -0.0005236628
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 621254411.88224,
-   "premium": -0.0002803738
+   "oi_usd": 627015036.0750004,
+   "premium": -0.0003109148
   }
  },
- "items_24h": 93,
+ "items_24h": 88,
  "top_items": [
   {
    "id": "9725d2dad6ee9e96",
@@ -187,6 +187,34 @@
    "score": 2234
   },
   {
+   "id": "b156b88e8e5cd9c2",
+   "ts": 1791975600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
+   "url": "http://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "dcbb3aaa7b9cd8f6",
+   "ts": 1791964800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Japanese Government Bonds Held by the Bank of Japan",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261009.xlsx",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
    "id": "1098b2789a446dfe",
    "ts": 1791942493,
    "source": "government",
@@ -213,43 +241,15 @@
    ]
   },
   {
-   "id": "e40b81810f976905",
-   "ts": 1791935400,
+   "id": "81e2cc6a2a3ece95",
+   "ts": 1791936000,
    "source": "central_bank",
    "group": "central_bank",
    "kind": "official",
-   "title": "Money Stock (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/money/ms/ms2609.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "31a2bbd9d03d7971",
-   "ts": 1791916200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Philip R. Lane: The AI opportunity for Europe",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
+   "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
    "domain": "European Central Bank",
    "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "d85e5d3609348b27",
-   "ts": 1791914400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
    "tags": [
     "macro"
    ]
@@ -300,15 +300,15 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 7
+   "n": 4
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 11
+   "n": 13
   },
   "BIS": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "Strategy (MSTR) filings": {
    "ok": true,
