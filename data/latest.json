@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-14T01:06:35Z",
- "generated_ts": 1791939995,
+ "generated_at": "2026-10-14T06:05:15Z",
+ "generated_ts": 1791957915,
  "prices": {
   "BTC": {
-   "p": 83232.4,
+   "p": 83280.0,
    "o": 83101.2,
    "h": 84053.1,
-   "l": 81514.1,
-   "v": 2696.5335859
+   "l": 82875.2,
+   "v": 2557.46520907
   },
   "ETH": {
-   "p": 2502.07,
+   "p": 2497.26,
    "o": 2495.97,
-   "h": 2535.22,
-   "l": 2426.72,
-   "v": 23747.69361216
+   "h": 2535.06,
+   "l": 2485.88,
+   "v": 18817.36570923
   },
   "SOL": {
-   "p": 107.14,
+   "p": 106.88,
    "o": 106.73,
    "h": 108.91,
-   "l": 103.44,
-   "v": 225711.69300654
+   "l": 105.51,
+   "v": 190250.97322828
   }
  },
  "change_7d": {
-  "BTC": -0.025596088713840264,
-  "ETH": -0.07080948972515098,
-  "SOL": -0.10972878825578494
+  "BTC": -0.010883260513348274,
+  "ETH": -0.0454875079196659,
+  "SOL": -0.09880491499747514
  },
  "sentiment": {
-  "score": 56.7,
+  "score": 57.9,
   "label": "Greed",
   "components": {
    "fng": 62.0,
-   "momentum": 43.600977821539935,
-   "crowding": 61.949443
+   "momentum": 47.279184871662935,
+   "crowding": 62.636081000000004
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 7.8421e-06,
-   "oi_usd": 3156828837.4347,
-   "premium": -0.0002472544
+   "funding_h": 1.25e-05,
+   "oi_usd": 3149585838.401904,
+   "premium": -0.0005110267
   },
   "ETH": {
-   "funding_h": 1.23961e-05,
-   "oi_usd": 2702908168.944222,
-   "premium": -0.000435201
+   "funding_h": 9.6194e-06,
+   "oi_usd": 2692522010.959381,
+   "premium": -0.0004039822
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 627940197.9200001,
-   "premium": 0.0
+   "oi_usd": 621254411.88224,
+   "premium": -0.0002803738
   }
  },
- "items_24h": 95,
+ "items_24h": 93,
  "top_items": [
   {
    "id": "9725d2dad6ee9e96",
@@ -102,22 +102,6 @@
    ],
    "author": "Donald Trump",
    "score": 7823
-  },
-  {
-   "id": "c5fe3020a4e0500e",
-   "ts": 1791859546,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I see so many comments from the Radical Left Morons and Lunatics that China and Russia are helping the \"wonderful\" Islamic Republic of Iran. If they are, it's at a very low level, but I don't believe they are at all. They have too much to lose, and we would know about it, and kno",
-   "url": "https://truthsocial.com/@realDonaldTrump/117431307261297275",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 7090
   },
   {
    "id": "277c7266b0178573",
@@ -187,6 +171,34 @@
    "score": 5792
   },
   {
+   "id": "76ed8f47f22c79ff",
+   "ts": 1791951450,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Massive Oil, Gas, and Mineral Exploration is getting ready to begin in our new and beautiful Greenland! There are Experts that are saying that the amount of easily available Oil is far greater than that of almost any land, anywhere in the World and, even more importantly, from a ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117437330273528673",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 2234
+  },
+  {
+   "id": "1098b2789a446dfe",
+   "ts": 1791942493,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on the Birthday of the United States Navy",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-the-united-states-navy/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
    "id": "54ab6ad362513675",
    "ts": 1791939600,
    "source": "central_bank",
@@ -241,18 +253,6 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "1334c61458d4f011",
-   "ts": 1791913655,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "President Trump Visits Alaska: Delivering Results for the Last Frontier",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-alaska-delivering-results-for-the-last-frontier/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -275,7 +275,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 17
+   "n": 18
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -304,7 +304,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 13
+   "n": 11
   },
   "BIS": {
    "ok": true,
@@ -332,7 +332,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 36
+   "n": 37
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
