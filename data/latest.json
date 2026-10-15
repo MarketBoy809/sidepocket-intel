@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-15T14:52:07Z",
- "generated_ts": 1792075927,
+ "generated_at": "2026-10-15T19:02:13Z",
+ "generated_ts": 1792090933,
  "prices": {
   "BTC": {
-   "p": 81606.8,
+   "p": 82350.0,
    "o": 81576.5,
-   "h": 81998.0,
+   "h": 82538.4,
    "l": 79709.0,
-   "v": 3104.30849141
+   "v": 3278.7045819
   },
   "ETH": {
-   "p": 2386.24,
+   "p": 2449.94,
    "o": 2418.61,
-   "h": 2450.55,
+   "h": 2455.13,
    "l": 2313.42,
-   "v": 56217.45710805
+   "v": 55439.03181561
   },
   "SOL": {
-   "p": 104.17,
+   "p": 106.01,
    "o": 104.19,
-   "h": 105.27,
+   "h": 106.38,
    "l": 100.44,
-   "v": 575337.2607489
+   "v": 553248.56386279
   }
  },
  "change_7d": {
-  "BTC": -0.02445522645261791,
-  "ETH": -0.07246158302154053,
-  "SOL": -0.09582813335710465
+  "BTC": 0.01077486490283135,
+  "ETH": 0.001537832310838535,
+  "SOL": -0.02008887243103131
  },
  "sentiment": {
-  "score": 51.1,
+  "score": 55.2,
   "label": "Neutral",
   "components": {
    "fng": 53.0,
-   "momentum": 43.88619338684552,
-   "crowding": 56.324318500000004
+   "momentum": 52.69371622570784,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 7.2293e-06,
-   "oi_usd": 3257018052.45468,
-   "premium": -0.0003268214
+   "funding_h": 1.25e-05,
+   "oi_usd": 3408239104.92432,
+   "premium": -6.18601e-05
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2531069186.882398,
-   "premium": -0.0001255703
+   "oi_usd": 2592647319.3192,
+   "premium": -0.0003669725
   },
   "SOL": {
-   "funding_h": -2.4024e-06,
-   "oi_usd": 590539293.0576005,
-   "premium": -0.0001918097
+   "funding_h": 1.25e-05,
+   "oi_usd": 594505015.9564003,
+   "premium": -0.0003524066
   }
  },
- "items_24h": 116,
+ "items_24h": 115,
  "top_items": [
   {
    "id": "92cbc0f8cf9d73c7",
@@ -103,24 +103,6 @@
    "score": 4897
   },
   {
-   "id": "3412fcb453efe641",
-   "ts": 1791995358,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I was just in Alaska launching the largest Energy Infrastructure Project in Alaska History— The Alaska LNG Project. This 50 Billion Dollar Infrastructure Investment from The Republic of Korea is part of their Trade and Investment Deal with me. I am also announcing today that my C",
-   "url": "https://truthsocial.com/@realDonaldTrump/117440207836405365",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro",
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3223
-  },
-  {
    "id": "414860fe8edcfd19",
    "ts": 1792044025,
    "source": "truth",
@@ -136,23 +118,6 @@
    ],
    "author": "Donald Trump",
    "score": 3110
-  },
-  {
-   "id": "d6ad76c27962f606",
-   "ts": 1791995979,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "ANOTHER MASSIVE 21 BILLION DOLLAR INVESTMENT FOR AMERICA!Today, under my leadership, GlobalFoundries and my Department of Commerce led by Secretary Howard Lutnick announced a MASSIVE 21 BILLION INVESTMENT to build 2 giant new Semiconductor Manufacturing Facilities in Malta, New Y",
-   "url": "https://truthsocial.com/@realDonaldTrump/117440248541514637",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro",
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 2591
   },
   {
    "id": "7d77a5d2094a4fd0",
@@ -245,13 +210,43 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
+  },
+  {
+   "id": "4baf94f0522bf1aa",
+   "ts": 1792090193,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Public bitcoin miners spent about $75,500 to mine each BTC in Q2, while BTC ended June at $58,400",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x6u39d/public_bitcoin_miners_spent_about_75500_to_mine/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto",
+    "BTC"
+   ],
+   "score": 0
+  },
+  {
+   "id": "263fd2cbc83bfee0",
+   "ts": 1792090082,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "At the White House, crypto policy vacancy looms large",
+   "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto",
+    "regulation"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 36
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -267,7 +262,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 16
+   "n": 13
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -320,15 +315,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 36
+   "n": 37
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 39
+   "n": 35
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 25
+   "n": 24
   },
   "Reddit r/Bitcoin": {
    "ok": false,
