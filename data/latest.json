@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-14T23:51:36Z",
- "generated_ts": 1792021896,
+ "generated_at": "2026-10-15T04:24:12Z",
+ "generated_ts": 1792038252,
  "prices": {
   "BTC": {
-   "p": 81566.4,
-   "o": 83101.2,
+   "p": 81137.5,
+   "o": 81576.5,
    "h": 84049.3,
-   "l": 81333.2,
-   "v": 2604.30591582
+   "l": 80150.0,
+   "v": 3149.05000509
   },
   "ETH": {
-   "p": 2418.99,
-   "o": 2495.97,
+   "p": 2372.0,
+   "o": 2418.61,
    "h": 2527.11,
-   "l": 2401.68,
-   "v": 35918.11588232
+   "l": 2313.42,
+   "v": 52915.13152321
   },
   "SOL": {
-   "p": 104.15,
-   "o": 106.73,
+   "p": 103.34,
+   "o": 104.19,
    "h": 108.57,
-   "l": 103.41,
-   "v": 348781.93903356
+   "l": 100.44,
+   "v": 588658.35836007
   }
  },
  "change_7d": {
-  "BTC": -0.01987134364584354,
-  "ETH": -0.05942085979387068,
-  "SOL": -0.09943941354031911
+  "BTC": -0.022780062194391063,
+  "ETH": -0.08017498400012481,
+  "SOL": -0.11516513920110663
  },
  "sentiment": {
-  "score": 55.4,
+  "score": 52.4,
   "label": "Neutral",
   "components": {
-   "fng": 62.0,
-   "momentum": 45.03216408853911,
-   "crowding": 53.86389
+   "fng": 53.0,
+   "momentum": 44.304984451402234,
+   "crowding": 61.5725075
   },
   "weights": {
    "fng": 0.35,
@@ -46,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 62,
-  "label": "Greed",
-  "ts": 1791936000
+  "value": 53,
+  "label": "Neutral",
+  "ts": 1792022400
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3283248865.65444,
-   "premium": -0.000374685
+   "oi_usd": 3280015491.2940717,
+   "premium": -0.0002953846
   },
   "ETH": {
-   "funding_h": 3.6925e-06,
-   "oi_usd": 2610670876.8875394,
-   "premium": -0.0005119863
+   "funding_h": 6.7055e-06,
+   "oi_usd": 2506650038.3443203,
+   "premium": -0.0003705606
   },
   "SOL": {
-   "funding_h": -5.6065e-06,
-   "oi_usd": 608067034.2796,
-   "premium": -0.0005274009
+   "funding_h": 1.25e-05,
+   "oi_usd": 602270492.4925996,
+   "premium": -0.0003024853
   }
  },
- "items_24h": 81,
+ "items_24h": 83,
  "top_items": [
   {
    "id": "adc5c68fcd5a70cd",
@@ -154,20 +154,68 @@
    "score": 2591
   },
   {
-   "id": "76ed8f47f22c79ff",
-   "ts": 1791951450,
-   "source": "truth",
+   "id": "b7075966b36a29ea",
+   "ts": 1792030670,
+   "source": "government",
    "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Massive Oil, Gas, and Mineral Exploration is getting ready to begin in our new and beautiful Greenland! There are Experts that are saying that the amount of easily available Oil is far greater than that of almost any land, anywhere in the World and, even more importantly, from a ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117437330273528673",
-   "domain": "truthsocial.com",
+   "kind": "official",
+   "title": "Presidential Message on the Birthday of President Dwight D. Eisenhower",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-president-dwight-d-eisenhower-c6b1/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "974cb54458d9b8f3",
+   "ts": 1792027800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)",
+   "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261015a.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
    "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 2234
+    "macro"
+   ]
+  },
+  {
+   "id": "f4bb976041659898",
+   "ts": 1792026000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Summary of the \"Meeting on Market Operations\" (October 2026)",
+   "url": "http://www.boj.or.jp/en/paym/market/mkt261015a.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "2138bf7764fe4f09",
+   "ts": 1792015117,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Visits Montana with a Record of Results for Workers, Families, and Communities",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-montana-with-a-record-of-results-for-workers-families-and-communities/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "20cb7ecd965a8757",
+   "ts": 1792004178,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Returns to Arizona with a Record of Results: Tax Relief, Jobs, and Border Security",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-arizona-with-a-record-of-results-tax-relief-jobs-and-border-security/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "f3e86de4961eccc7",
@@ -196,60 +244,6 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "dcbb3aaa7b9cd8f6",
-   "ts": 1791964800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Japanese Government Bonds Held by the Bank of Japan",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261009.xlsx",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "1098b2789a446dfe",
-   "ts": 1791942493,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on the Birthday of the United States Navy",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-the-united-states-navy/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "54ab6ad362513675",
-   "ts": 1791939600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Bank of Japan Accounts (October 10)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "81e2cc6a2a3ece95",
-   "ts": 1791936000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -272,7 +266,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -301,7 +295,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 12
+   "n": 14
   },
   "BIS": {
    "ok": true,
@@ -329,11 +323,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 38
+   "n": 37
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
