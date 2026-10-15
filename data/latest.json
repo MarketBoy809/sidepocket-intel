@@ -1,40 +1,41 @@
 {
- "generated_at": "2026-10-15T19:02:13Z",
- "generated_ts": 1792090933,
+ "generated_at": "2026-10-15T22:08:01Z",
+ "generated_ts": 1792102081,
  "prices": {
   "BTC": {
-   "p": 82350.0,
+   "p": 82381.7,
    "o": 81576.5,
    "h": 82538.4,
    "l": 79709.0,
-   "v": 3278.7045819
+   "v": 3423.13351203
   },
   "ETH": {
-   "p": 2449.94,
+   "p": 2461.28,
    "o": 2418.61,
-   "h": 2455.13,
+   "h": 2464.54,
    "l": 2313.42,
-   "v": 55439.03181561
+   "v": 51272.67883626
   },
   "SOL": {
-   "p": 106.01,
+   "p": 105.97,
    "o": 104.19,
    "h": 106.38,
    "l": 100.44,
-   "v": 553248.56386279
+   "v": 514150.79685215
   }
  },
  "change_7d": {
-  "BTC": 0.01077486490283135,
-  "ETH": 0.001537832310838535,
-  "SOL": -0.02008887243103131
+  "BTC": 0.008536172044349005,
+  "ETH": -0.007434704165775365,
+  "SOL": -0.04214143606438774
  },
  "sentiment": {
-  "score": 55.2,
+  "score": 52.7,
   "label": "Neutral",
   "components": {
    "fng": 53.0,
-   "momentum": 52.69371622570784,
+   "momentum": 52.13404301108725,
+   "news_tone": 41.650000000000006,
    "crowding": 63.6875
   },
   "weights": {
@@ -50,26 +51,42 @@
   "label": "Neutral",
   "ts": 1792022400
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.501,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3408239104.92432,
-   "premium": -6.18601e-05
+   "oi_usd": 3422678193.2827,
+   "premium": -0.0003031405
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2592647319.3192,
-   "premium": -0.0003669725
+   "oi_usd": 2697574044.300818,
+   "premium": -0.0001623443
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 594505015.9564003,
-   "premium": -0.0003524066
+   "oi_usd": 593304240.6983998,
+   "premium": -0.0005655042
   }
  },
- "items_24h": 115,
+ "items_24h": 191,
  "top_items": [
+  {
+   "id": "aaae26a31594bfec",
+   "ts": 1792096025,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Sadly, and very stupidly, John Cornyn, and his Liddle' Buddy, Super RINO, Karl Rove, are doing everything possible to make it hard for Ken Paxton, the Greatest Attorney General in the History of Texas, and one of the Best in the United States, to win the upcoming Midterm Election",
+   "url": "https://truthsocial.com/@realDonaldTrump/117446805111809348",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 19233
+  },
   {
    "id": "92cbc0f8cf9d73c7",
    "ts": 1792018101,
@@ -200,45 +217,28 @@
    ]
   },
   {
-   "id": "2138bf7764fe4f09",
-   "ts": 1792015117,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "President Trump Visits Montana with a Record of Results for Workers, Families, and Communities",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-montana-with-a-record-of-results-for-workers-families-and-communities/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "4baf94f0522bf1aa",
-   "ts": 1792090193,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Public bitcoin miners spent about $75,500 to mine each BTC in Q2, while BTC ended June at $58,400",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1x6u39d/public_bitcoin_miners_spent_about_75500_to_mine/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto",
-    "BTC"
-   ],
-   "score": 0
-  },
-  {
-   "id": "263fd2cbc83bfee0",
-   "ts": 1792090082,
+   "id": "e3f42d106eeb5016",
+   "ts": 1792100764,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "At the White House, crypto policy vacancy looms large",
-   "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
+   "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
+   "url": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": []
+  },
+  {
+   "id": "b5d6641f241438a8",
+   "ts": 1792100700,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Crypto News : Pepeto Announces Its Stage Close to Sellout While XRP Price Prediction Targets $315",
+   "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/crypto-news-pepeto-announces-its-stage-close-to-sellout-while-xrp-price-prediction-targets-315/2447094",
+   "domain": "manilatimes.net",
    "tags": [
-    "crypto",
-    "regulation"
+    "crypto"
    ]
   }
  ],
@@ -246,11 +246,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -279,7 +279,7 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "European Central Bank": {
    "ok": true,
@@ -315,15 +315,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 37
+   "n": 35
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 35
+   "n": 36
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 24
+   "n": 23
   },
   "Reddit r/Bitcoin": {
    "ok": false,
