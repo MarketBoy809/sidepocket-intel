@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-14T17:07:16Z",
- "generated_ts": 1791997636,
- "items_analysed": 12075,
+ "generated_at": "2026-10-15T14:56:45Z",
+ "generated_ts": 1792076205,
+ "items_analysed": 12178,
  "insights": [
-  "BTC: 28 sharp dips in the stored history; buying at the trigger got +1.5% back within 14 days in 92.9% of cases (median 5.0 h), 78.6% within 24 h. Typical extra drop after the trigger: -0.5%.",
+  "BTC: 27 sharp dips in the stored history; buying at the trigger got +1.5% back within 14 days in 92.6% of cases (median 5 h), 77.8% within 24 h. Typical extra drop after the trigger: -0.6%.",
   "BTC dips during fear: recovered 90.5% of the time (n=21).",
-  "BTC dips during greed: recovered 100.0% of the time (n=7).",
-  "ETH: 91 sharp dips in the stored history; buying at the trigger got +1.5% back within 14 days in 92.3% of cases (median 5.0 h), 74.7% within 24 h. Typical extra drop after the trigger: -0.5%.",
+  "BTC dips during greed: recovered 100.0% of the time (n=6).",
+  "ETH: 90 sharp dips in the stored history; buying at the trigger got +1.5% back within 14 days in 92.2% of cases (median 5 h), 74.4% within 24 h. Typical extra drop after the trigger: -0.55%.",
   "ETH dips during fear: recovered 90.7% of the time (n=54).",
-  "ETH dips during greed: recovered 93.1% of the time (n=29).",
-  "SOL: 132 sharp dips in the stored history; buying at the trigger got +1.5% back within 14 days in 93.9% of cases (median 3.0 h), 83.3% within 24 h. Typical extra drop after the trigger: -0.3%.",
+  "ETH dips during greed: recovered 92.9% of the time (n=28).",
+  "SOL: 131 sharp dips in the stored history; buying at the trigger got +1.5% back within 14 days in 93.9% of cases (median 3 h), 83.2% within 24 h. Typical extra drop after the trigger: -0.3%.",
   "SOL dips during fear: recovered 93.9% of the time (n=66).",
-  "SOL dips during greed: recovered 94.0% of the time (n=50).",
-  "Precursor: combo 'Donald Trump (Truth Social) · inflation/CPI' was followed by a BTC dip within 6h 3.3% of the time vs 1.0% by chance (lift 3.44x, n=91, held in both halves of the data).",
-  "After Donald Trump (Truth Social) items (n=4172): BTC median move 0.0% in 4h, big (2%+) moves 5.2% of the time.",
-  "After Cointelegraph items (n=388): BTC median move 0.02% in 4h, big (2%+) moves 2.6% of the time.",
-  "After CoinDesk items (n=344): BTC median move 0.06% in 4h, big (2%+) moves 1.7% of the time.",
-  "After Decrypt items (n=302): BTC median move -0.02% in 4h, big (2%+) moves 1.3% of the time.",
-  "Today's market state most resembles 2025-06-01, 2025-08-06, 2023-07-06; 30 days after those days BTC's median move was -3.6% (up in 20.0% of them)."
+  "SOL dips during greed: recovered 93.9% of the time (n=49).",
+  "Precursor: combo 'Donald Trump (Truth Social) · inflation/CPI' was followed by a BTC dip within 6h 3.4% of the time vs 0.9% by chance (lift 3.65x, n=89, held in both halves of the data).",
+  "After Donald Trump (Truth Social) items (n=4174): BTC median move 0.0% in 4h, big (2%+) moves 5.2% of the time.",
+  "After Cointelegraph items (n=404): BTC median move 0.01% in 4h, big (2%+) moves 3.5% of the time.",
+  "After CoinDesk items (n=359): BTC median move 0.05% in 4h, big (2%+) moves 2.2% of the time.",
+  "After Decrypt items (n=313): BTC median move -0.02% in 4h, big (2%+) moves 1.6% of the time.",
+  "Today's market state most resembles 2025-06-16, 2025-08-04, 2024-07-31; 30 days after those days BTC's median move was 0.8% (up in 50.0% of them)."
  ]
 }
