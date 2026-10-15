@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-15T04:24:12Z",
- "generated_ts": 1792038252,
+ "generated_at": "2026-10-15T09:46:02Z",
+ "generated_ts": 1792057562,
  "prices": {
   "BTC": {
-   "p": 81137.5,
+   "p": 81145.0,
    "o": 81576.5,
-   "h": 84049.3,
+   "h": 83845.2,
    "l": 80150.0,
-   "v": 3149.05000509
+   "v": 3145.47401587
   },
   "ETH": {
-   "p": 2372.0,
+   "p": 2367.64,
    "o": 2418.61,
-   "h": 2527.11,
+   "h": 2518.72,
    "l": 2313.42,
-   "v": 52915.13152321
+   "v": 58447.56140152
   },
   "SOL": {
-   "p": 103.34,
+   "p": 102.78,
    "o": 104.19,
-   "h": 108.57,
+   "h": 107.83,
    "l": 100.44,
-   "v": 588658.35836007
+   "v": 598619.96914262
   }
  },
  "change_7d": {
-  "BTC": -0.022780062194391063,
-  "ETH": -0.08017498400012481,
-  "SOL": -0.11516513920110663
+  "BTC": -0.01861361346674892,
+  "ETH": -0.07310923384243712,
+  "SOL": -0.10121069593241011
  },
  "sentiment": {
-  "score": 52.4,
+  "score": 50.8,
   "label": "Neutral",
   "components": {
    "fng": 53.0,
-   "momentum": 44.304984451402234,
-   "crowding": 61.5725075
+   "momentum": 45.34659663331277,
+   "crowding": 52.8908
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3280015491.2940717,
-   "premium": -0.0002953846
+   "funding_h": 1.9585e-06,
+   "oi_usd": 3200228632.9470844,
+   "premium": -0.0004651861
   },
   "ETH": {
-   "funding_h": 6.7055e-06,
-   "oi_usd": 2506650038.3443203,
-   "premium": -0.0003705606
+   "funding_h": 1.19997e-05,
+   "oi_usd": 2502392951.3790812,
+   "premium": -0.000463998
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 602270492.4925996,
-   "premium": -0.0003024853
+   "funding_h": -6.0382e-06,
+   "oi_usd": 576636346.2648001,
+   "premium": -0.000602515
   }
  },
- "items_24h": 83,
+ "items_24h": 86,
  "top_items": [
   {
    "id": "adc5c68fcd5a70cd",
@@ -119,6 +119,22 @@
    "score": 5822
   },
   {
+   "id": "aa2701049ad2996a",
+   "ts": 1792040173,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117443139790546115Actual pictures of our fully renovated White House facade, facing South, with the new South Entrance, and Heliport! Over the years, the facade, both North and South, suffered tremendous wear, tear, and d",
+   "url": "https://truthsocial.com/@realDonaldTrump/117443144788808814",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4897
+  },
+  {
    "id": "3412fcb453efe641",
    "ts": 1791995358,
    "source": "truth",
@@ -135,6 +151,23 @@
    ],
    "author": "Donald Trump",
    "score": 3223
+  },
+  {
+   "id": "414860fe8edcfd19",
+   "ts": 1792044025,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Jon Husted, who is running for the Senate in the Great State of Ohio, is an ALL AMERICAN FOOTBALL PLAYER! He played Safety and, in one season, had 17 Interceptions, a record. As everyone knows, he has, and always will have, my Complete and Total Endorsement! Jon is one of the Gre",
+   "url": "https://truthsocial.com/@realDonaldTrump/117443397258891596",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3110
   },
   {
    "id": "d6ad76c27962f606",
@@ -216,34 +249,6 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
-  },
-  {
-   "id": "f3e86de4961eccc7",
-   "ts": 1791988247,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
-   "domain": "SEC",
-   "org": "SEC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "b156b88e8e5cd9c2",
-   "ts": 1791975600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
-   "url": "http://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -287,7 +292,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "Bank of England": {
    "ok": true,
@@ -295,7 +300,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 14
+   "n": 13
   },
   "BIS": {
    "ok": true,
@@ -323,11 +328,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 37
+   "n": 39
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 24
   },
   "Reddit r/Bitcoin": {
    "ok": false,
