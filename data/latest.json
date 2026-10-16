@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-10-16T17:19:20Z",
- "generated_ts": 1792171160,
+ "generated_at": "2026-10-16T20:55:49Z",
+ "generated_ts": 1792184149,
  "prices": {
   "BTC": {
-   "p": 80753.3,
+   "p": 81600.8,
    "o": 82135.4,
    "h": 82826.0,
-   "l": 80753.3,
-   "v": 2003.11733889
+   "l": 80705.4,
+   "v": 2141.34105031
   },
   "ETH": {
-   "p": 2392.59,
+   "p": 2412.06,
    "o": 2438.96,
    "h": 2490.84,
-   "l": 2392.59,
-   "v": 23191.53195792
+   "l": 2390.35,
+   "v": 23589.43617078
   },
   "SOL": {
-   "p": 102.78,
+   "p": 103.99,
    "o": 105.3,
    "h": 107.31,
-   "l": 102.78,
-   "v": 239091.96628223
+   "l": 102.37,
+   "v": 277327.45307686
   }
  },
  "change_7d": {
-  "BTC": -0.016141478018381627,
-  "ETH": -0.024305095231782224,
-  "SOL": -0.05269876002917579
+  "BTC": -0.009423533046193446,
+  "ETH": -0.026534512645006475,
+  "SOL": -0.046133973057759736
  },
  "sentiment": {
-  "score": 51.3,
+  "score": 55.8,
   "label": "Neutral",
   "components": {
    "fng": 63.0,
-   "momentum": 45.96463049540459,
-   "news_tone": 33.266666666666666,
-   "crowding": 49.1636755
+   "momentum": 47.644116738451636,
+   "crowding": 49.991167
   },
   "weights": {
    "fng": 0.35,
@@ -51,41 +50,41 @@
   "label": "Greed",
   "ts": 1792108800
  },
- "news_tone_24h": -1.004,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 5.1971e-06,
-   "oi_usd": 3343870207.016872,
-   "premium": -0.0006060231
+   "funding_h": 1.25e-05,
+   "oi_usd": 3367607202.25358,
+   "premium": -0.0002704754
   },
   "ETH": {
-   "funding_h": -1.10368e-05,
-   "oi_usd": 2618405316.9049673,
-   "premium": -0.0010019622
+   "funding_h": 5.544e-07,
+   "oi_usd": 2584957092.2214003,
+   "premium": -0.0004761412
   },
   "SOL": {
-   "funding_h": 3.5484e-06,
-   "oi_usd": 549004211.5882604,
-   "premium": -0.0007336151
+   "funding_h": -1.30786e-05,
+   "oi_usd": 578099415.8617996,
+   "premium": -0.0001440576
   }
  },
- "items_24h": 436,
+ "items_24h": 406,
  "top_items": [
   {
-   "id": "aaae26a31594bfec",
-   "ts": 1792096025,
+   "id": "6bdefa0fedd2c3be",
+   "ts": 1792177958,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Sadly, and very stupidly, John Cornyn, and his Liddle' Buddy, Super RINO, Karl Rove, are doing everything possible to make it hard for Ken Paxton, the Greatest Attorney General in the History of Texas, and one of the Best in the United States, to win the upcoming Midterm Election",
-   "url": "https://truthsocial.com/@realDonaldTrump/117446805111809348",
+   "title": "Just landed in Georgia, heading over to the Big Rally — Lots of people! See you soon. Will be broadcast LIVE on Right Side Broadcasting Network (RSBN)! We must get Congressman Mike Collins elected to the U.S. Senate — He is far superior to Pee Wee Herman (Jon Osoff). Likewise, Ri",
+   "url": "https://truthsocial.com/@realDonaldTrump/117452174699040610",
    "domain": "truthsocial.com",
    "tags": [
-    "geo"
+    "regulation"
    ],
    "author": "Donald Trump",
-   "score": 19233
+   "score": 7916
   },
   {
    "id": "b26cb1ddc69ec756",
@@ -134,6 +133,32 @@
    ],
    "author": "Donald Trump",
    "score": 1
+  },
+  {
+   "id": "7e9029a6480fdedb",
+   "ts": 1792178701,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Trump-Vance Administration Leads Nationwide Coalition in Fighting War on Fraud",
+   "url": "https://www.whitehouse.gov/releases/2026/10/trump-vance-administration-leads-nationwide-coalition-in-fighting-war-on-fraud/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
+   "id": "06e768b20018fda7",
+   "ts": 1792168603,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Returns to Georgia with a Record of Results",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-georgia-with-a-record-of-results/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "70363c9b200b07ab",
@@ -216,41 +241,13 @@
     "crypto",
     "institution"
    ]
-  },
-  {
-   "id": "00ba7bb85623913f",
-   "ts": 1792144800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "The Average Electric Utility Bill Is $147 a Month . Here How Much Youd Need in Utility Stocks to Cover It .",
-   "url": "https://www.aol.com/articles/average-electric-utility-bill-147-083800000.html",
-   "domain": "aol.com",
-   "tags": [
-    "regulation",
-    "institution"
-   ]
-  },
-  {
-   "id": "7bd8a05c1571307e",
-   "ts": 1792144800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Saxony Capital Management LLC Purchases 11 , 384 Shares of iShares MSCI united states Quality GARP ETF $GARP",
-   "url": "https://www.dailypolitical.com/2026/10/16/saxony-capital-management-llc-purchases-11384-shares-of-ishares-msci-usa-quality-garp-etf-garp.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 33
+   "n": 15
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -279,7 +276,7 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 2
+   "n": 0
   },
   "Federal Reserve": {
    "ok": true,
@@ -323,7 +320,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 34
+   "n": 32
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
