@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-16T20:55:49Z",
- "generated_ts": 1792184149,
+ "generated_at": "2026-10-16T23:27:19Z",
+ "generated_ts": 1792193239,
  "prices": {
   "BTC": {
-   "p": 81600.8,
+   "p": 81580.1,
    "o": 82135.4,
    "h": 82826.0,
    "l": 80705.4,
-   "v": 2141.34105031
+   "v": 2092.44294877
   },
   "ETH": {
-   "p": 2412.06,
+   "p": 2420.22,
    "o": 2438.96,
    "h": 2490.84,
    "l": 2390.35,
-   "v": 23589.43617078
+   "v": 23311.81544439
   },
   "SOL": {
-   "p": 103.99,
+   "p": 104.17,
    "o": 105.3,
    "h": 107.31,
    "l": 102.37,
-   "v": 277327.45307686
+   "v": 273741.14248921
   }
  },
  "change_7d": {
-  "BTC": -0.009423533046193446,
-  "ETH": -0.026534512645006475,
-  "SOL": -0.046133973057759736
+  "BTC": -0.01070892906954505,
+  "ETH": -0.02611961303085622,
+  "SOL": -0.044358903858491464
  },
  "sentiment": {
-  "score": 55.8,
-  "label": "Neutral",
+  "score": 58.0,
+  "label": "Greed",
   "components": {
    "fng": 63.0,
-   "momentum": 47.644116738451636,
-   "crowding": 49.991167
+   "momentum": 47.32276773261374,
+   "crowding": 60.767135
   },
   "weights": {
    "fng": 0.35,
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3367607202.25358,
-   "premium": -0.0002704754
+   "oi_usd": 3359835223.20048,
+   "premium": -0.000269291
   },
   "ETH": {
-   "funding_h": 5.544e-07,
-   "oi_usd": 2584957092.2214003,
-   "premium": -0.0004761412
+   "funding_h": 9.9609e-06,
+   "oi_usd": 2609371129.4998007,
+   "premium": -0.0004167337
   },
   "SOL": {
-   "funding_h": -1.30786e-05,
-   "oi_usd": 578099415.8617996,
-   "premium": -0.0001440576
+   "funding_h": 7.0381e-06,
+   "oi_usd": 573095623.2936,
+   "premium": -0.0004792485
   }
  },
- "items_24h": 406,
+ "items_24h": 400,
  "top_items": [
   {
    "id": "6bdefa0fedd2c3be",
@@ -85,22 +85,6 @@
    ],
    "author": "Donald Trump",
    "score": 7916
-  },
-  {
-   "id": "b26cb1ddc69ec756",
-   "ts": 1792106238,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Hello Iowa! I am going to be coming to your Great State, which I won in Landslides all three times, with the Highest Vote ever obtained by a Political Candidate (for any Office!), on Thursday, October 22nd, and Sunday, November 1st. The reason I'll be there is to get truly fantas",
-   "url": "https://truthsocial.com/@realDonaldTrump/117447474430342324",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6135
   },
   {
    "id": "e49e647b19c34a45",
@@ -135,110 +119,122 @@
    "score": 1
   },
   {
-   "id": "7e9029a6480fdedb",
-   "ts": 1792178701,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Trump-Vance Administration Leads Nationwide Coalition in Fighting War on Fraud",
-   "url": "https://www.whitehouse.gov/releases/2026/10/trump-vance-administration-leads-nationwide-coalition-in-fighting-war-on-fraud/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "06e768b20018fda7",
-   "ts": 1792168603,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "President Trump Returns to Georgia with a Record of Results",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-georgia-with-a-record-of-results/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "70363c9b200b07ab",
-   "ts": 1792162800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "58de4757d81431d3",
-   "ts": 1792151953,
-   "source": "institution",
+   "id": "f15537a026344004",
+   "ts": 1792191600,
+   "source": "news",
    "group": "institution",
-   "kind": "official",
-   "title": "8-K - Current report",
-   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526423400/0001193125-26-423400-index.htm",
-   "domain": "Strategy (MSTR) filings",
-   "org": "Strategy (MSTR) filings",
+   "kind": "news",
+   "title": "American Century Quality Diversified International ETF ( NYSEARCA : QINT ) Shares Shorted : Short Interest Down 44 . 9 % in September",
+   "url": "https://www.dailypolitical.com/2026/10/16/american-century-quality-diversified-international-etf-nysearcaqint-shares-shorted-short-interest-down-44-9-in-september.html",
+   "domain": "dailypolitical.com",
    "tags": [
+    "crypto",
     "institution"
    ]
   },
   {
-   "id": "1764e66d85ace3c0",
-   "ts": 1792148400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Banknote imagery advisory group minutes – 15 July 2026",
-   "url": "https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "0bf09ceccc8d852f",
-   "ts": 1792145700,
+   "id": "bb2324a5b9f391f5",
+   "ts": 1792191600,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "VOO , VTI , SPY , or IVV ? How These 4 Index Funds Differ",
-   "url": "https://www.fool.com/investing/2026/10/16/voo-vti-spy-ivv-how-4-index-funds-differ/?source=iedfolrf0000001",
-   "domain": "fool.com",
+   "title": "iShares U . S . Insurance ETF ( NYSEARCA : IAK ) Stock Short Interest Report for September",
+   "url": "https://www.tickerreport.com/banking-finance/13623044/ishares-u-s-insurance-etf-nysearcaiak-stock-short-interest-report-for-september.html",
+   "domain": "tickerreport.com",
    "tags": [
+    "crypto",
     "institution"
    ]
   },
   {
-   "id": "5061e1157b72afb2",
-   "ts": 1792144800,
+   "id": "c7739aa4a546acd9",
+   "ts": 1792191600,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "VOO , VTI , SPY , or IVV ? How These 4 Index Funds Differ",
-   "url": "https://www.aol.com/articles/voo-vti-spy-ivv-4-092000000.html",
+   "title": "iShares Morningstar U . S . Equity ETF ( NYSEARCA : ILCB ) Sees Large Growth in Short Interest",
+   "url": "https://www.dailypolitical.com/2026/10/16/ishares-morningstar-u-s-equity-etf-nysearcailcb-sees-large-growth-in-short-interest.html",
+   "domain": "dailypolitical.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "8b2f1c23043e22d0",
+   "ts": 1792190700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Only 19 . 55 % of MUB Is New York Bonds . New York Doesnt Exempt Interest From the Rest",
+   "url": "https://www.aol.com/articles/only-19-55-mub-york-220348000.html",
    "domain": "aol.com",
    "tags": [
     "institution"
    ]
   },
   {
-   "id": "6f4829a4420b128f",
-   "ts": 1792144800,
+   "id": "d2eccf140f8bb1bb",
+   "ts": 1792190700,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Saxony Capital Management LLC Makes New $5 . 83 Million Investment in JPMorgan Equity Premium Income ETF $JEPI",
-   "url": "https://www.dailypolitical.com/2026/10/16/saxony-capital-management-llc-makes-new-5-83-million-investment-in-jpmorgan-equity-premium-income-etf-jepi.html",
-   "domain": "dailypolitical.com",
+   "title": "Stocks hit as AI growth concerns weigh on sentiment - Newsquawk US Market Wrap",
+   "url": "http://www.zerohedge.com/markets/stocks-hit-ai-growth-concerns-weigh-sentiment-newsquawk-us-market-wrap",
+   "domain": "zerohedge.com",
    "tags": [
-    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "78ebcd010cc10f7f",
+   "ts": 1792188000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Super El Nino and Metals",
+   "url": "https://www.investorideas.com/news/2026/mining/10164-super-el-nino-and-metals.asp",
+   "domain": "investorideas.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "9dcd7a44a63bb75b",
+   "ts": 1792187100,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
+   "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792185574.8c66e59ed0ea8874",
+   "domain": "decrypt.co",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "fc2481a5613b725b",
+   "ts": 1792185300,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Is Your Spouse 8 Years Younger ? The Money Has to Outlive Both of You . These 3 ETFs Plan for the Longer Life",
+   "url": "https://www.aol.com/articles/spouse-8-years-younger-money-200304000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "3d6042086a980543",
+   "ts": 1792185300,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "You Are 68 and a $40 , 000 Expense Lands in Three Years ? These 3 ETFs Are Where That Money Should Sit Until Then",
+   "url": "https://www.aol.com/articles/68-40-000-expense-lands-200327000.html",
+   "domain": "aol.com",
+   "tags": [
     "institution"
    ]
   }
@@ -247,11 +243,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 15
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -259,7 +255,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 12
   },
   "White House": {
    "ok": true,
@@ -320,15 +316,16 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 32
+   "n": 31
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
    "n": 23
   },
   "Reddit r/Bitcoin": {
-   "ok": true,
-   "n": 24
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
