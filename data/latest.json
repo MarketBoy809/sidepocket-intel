@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-10-16T07:01:52Z",
- "generated_ts": 1792134112,
+ "generated_at": "2026-10-16T12:16:04Z",
+ "generated_ts": 1792152964,
  "prices": {
   "BTC": {
-   "p": 82069.5,
+   "p": 82101.8,
    "o": 82135.4,
-   "h": 82538.4,
+   "h": 82826.0,
    "l": 79709.0,
-   "v": 2669.99174789
+   "v": 2815.3495724
   },
   "ETH": {
-   "p": 2446.76,
+   "p": 2461.31,
    "o": 2438.96,
-   "h": 2464.54,
+   "h": 2490.84,
    "l": 2321.34,
-   "v": 30170.74235191
+   "v": 29832.93470705
   },
   "SOL": {
-   "p": 106.12,
+   "p": 105.83,
    "o": 105.3,
-   "h": 106.52,
+   "h": 107.31,
    "l": 100.77,
-   "v": 265086.79414121
+   "v": 270903.52238817
   }
  },
  "change_7d": {
-  "BTC": -0.0053286310297498635,
-  "ETH": -0.02046136166157465,
-  "SOL": -0.03934871099050199
+  "BTC": -0.007699948262215151,
+  "ETH": -0.011856034438006419,
+  "SOL": -0.042622066360938723
  },
  "sentiment": {
-  "score": 54.3,
-  "label": "Neutral",
+  "score": 57.7,
+  "label": "Greed",
   "components": {
    "fng": 63.0,
-   "momentum": 48.667842242562536,
-   "news_tone": 32.23333333333333,
-   "crowding": 63.6875
+   "momentum": 48.075012934446214,
+   "crowding": 58.2810835
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +50,25 @@
   "label": "Greed",
   "ts": 1792108800
  },
- "news_tone_24h": -1.066,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3388335801.063,
-   "premium": -0.0002799075
+   "oi_usd": 3442025796.5174403,
+   "premium": -0.0002919495
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2670898003.8654394,
-   "premium": -0.0002857726
+   "funding_h": 1.15551e-05,
+   "oi_usd": 2685211924.5666018,
+   "premium": -0.0001623047
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 589659184.6911999,
-   "premium": -0.0002427874
+   "funding_h": -1.3672e-06,
+   "oi_usd": 590154756.6180007,
+   "premium": -0.0005190393
   }
  },
- "items_24h": 341,
+ "items_24h": 389,
  "top_items": [
   {
    "id": "aaae26a31594bfec",
@@ -120,126 +119,130 @@
    "score": 368
   },
   {
-   "id": "04aff615de205209",
-   "ts": 1792129500,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Goldman Sachs MarketBeta Emerging Markets Equity ETF ( BATS : GSEE ) Stock Falls 0 . 9 % – What Next ?",
-   "url": "https://www.dailypolitical.com/2026/10/15/goldman-sachs-marketbeta-emerging-markets-equity-etf-batsgsee-stock-falls-0-9-whats-next.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "1383f17ebcd41f37",
-   "ts": 1792129500,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "iShares Large Cap Accelerated Outcome ETF ( BATS : TWOX ) Stock Short Interest Report for September",
-   "url": "https://www.dailypolitical.com/2026/10/15/ishares-large-cap-accelerated-outcome-etf-batstwox-stock-short-interest-report-for-september.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "265fb1edc88dca2d",
-   "ts": 1792124100,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "ProShares S & P Kensho Cleantech ETF ( NYSEARCA : CTEX ) Shares Shorted : Short Interest Down 47 . 4 % in September",
-   "url": "https://www.tickerreport.com/banking-finance/13621237/proshares-sp-kensho-cleantech-etf-nysearcactex-shares-shorted-short-interest-down-47-4-in-september.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "94cbdf9d082d461a",
-   "ts": 1792110600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "JPMorgan , Goldman boost yield on Volta AI loan to lure investors",
-   "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/jpmorgan-goldman-boost-yield-volta-ai-loan-lure-investors",
-   "domain": "businesstimes.com.sg",
-   "tags": [
-    "macro",
-    "institution"
-   ]
-  },
-  {
-   "id": "d465c1ba9022624c",
-   "ts": 1792110600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "The 2027 Social Security COLA Adds $75 a Month . Here What $100K in FDVV , SCHD , and JEPI Paid on Top of It",
-   "url": "https://247wallst.com/investing/etf/2026/10/15/the-2027-social-security-cola-adds-75-a-month-heres-what-100k-in-fdvv-schd-and-jepi-paid-on-top-of-it/",
-   "domain": "247wallst.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "ad2ee54e4edaf46c",
-   "ts": 1792110600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "UnitedHealth Fell 51 . 32 %, Then Rose 40 . 64 %. DIA Exposure Followed Both Moves by Design",
-   "url": "https://247wallst.com/investing/etf/2026/10/15/unitedhealth-fell-51-32-then-rose-40-64-dias-exposure-followed-both-moves-by-design/",
-   "domain": "247wallst.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "baa9c2626e79ab44",
-   "ts": 1792109700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Bitcoin banking adoption : Strategy CEO predicts historic surge in Bitcoin banking adoption : 7 drivers that could push banks toward BTC USD",
-   "url": "https://economictimes.indiatimes.com/world/business/strategy-ceo-predicts-historic-surge-in-bitcoin-banking-adoption-7-drivers-that-could-push-banks-toward-btc-usd/articleshow/134978921.cms",
-   "domain": "economictimes.indiatimes.com",
-   "tags": [
-    "crypto",
-    "BTC",
-    "institution"
-   ]
-  },
-  {
-   "id": "7d7fc33d4d63ad06",
-   "ts": 1792108106,
-   "source": "government",
+   "id": "ae5c7ee64c653fe0",
+   "ts": 1792140411,
+   "source": "truth",
    "group": "government",
-   "kind": "official",
-   "title": "Congressional Bills S. 240, S. 283, and S. 2403 Signed into Law",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-s-240-s-283-and-s-2403-signed-into-law/",
-   "domain": "White House",
-   "org": "White House",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT @mrddmiaSam Adkisson worked with me on the Senate Judiciary Committee for Justice Kavanaugh's confirmation.He is a friend, outstanding colleague, brilliant attorney, and committed constitutionalist.President Trump hit a grand-slam by picking Sam for a lifetime appointment to t",
+   "url": "https://truthsocial.com/@realDonaldTrump/117449714031702223",
+   "domain": "truthsocial.com",
    "tags": [
     "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1
+  },
+  {
+   "id": "58de4757d81431d3",
+   "ts": 1792151953,
+   "source": "institution",
+   "group": "institution",
+   "kind": "official",
+   "title": "8-K - Current report",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526423400/0001193125-26-423400-index.htm",
+   "domain": "Strategy (MSTR) filings",
+   "org": "Strategy (MSTR) filings",
+   "tags": [
+    "institution"
    ]
   },
   {
-   "id": "d3ce4899591e8b04",
-   "ts": 1792105200,
+   "id": "1764e66d85ace3c0",
+   "ts": 1792148400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Banknote imagery advisory group minutes – 15 July 2026",
+   "url": "https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "0bf09ceccc8d852f",
+   "ts": 1792145700,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "$250 , 000 in These 3 Monthly Payers Produces $2 , 224 a Month . Here Is Where the Money Actually Comes From",
-   "url": "https://www.aol.com/articles/250-000-3-monthly-payers-213328000.html",
+   "title": "VOO , VTI , SPY , or IVV ? How These 4 Index Funds Differ",
+   "url": "https://www.fool.com/investing/2026/10/16/voo-vti-spy-ivv-how-4-index-funds-differ/?source=iedfolrf0000001",
+   "domain": "fool.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "5061e1157b72afb2",
+   "ts": 1792144800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "VOO , VTI , SPY , or IVV ? How These 4 Index Funds Differ",
+   "url": "https://www.aol.com/articles/voo-vti-spy-ivv-4-092000000.html",
    "domain": "aol.com",
    "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "6f4829a4420b128f",
+   "ts": 1792144800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Saxony Capital Management LLC Makes New $5 . 83 Million Investment in JPMorgan Equity Premium Income ETF $JEPI",
+   "url": "https://www.dailypolitical.com/2026/10/16/saxony-capital-management-llc-makes-new-5-83-million-investment-in-jpmorgan-equity-premium-income-etf-jepi.html",
+   "domain": "dailypolitical.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "00ba7bb85623913f",
+   "ts": 1792144800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "The Average Electric Utility Bill Is $147 a Month . Here How Much Youd Need in Utility Stocks to Cover It .",
+   "url": "https://www.aol.com/articles/average-electric-utility-bill-147-083800000.html",
+   "domain": "aol.com",
+   "tags": [
+    "regulation",
+    "institution"
+   ]
+  },
+  {
+   "id": "7bd8a05c1571307e",
+   "ts": 1792144800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Saxony Capital Management LLC Purchases 11 , 384 Shares of iShares MSCI united states Quality GARP ETF $GARP",
+   "url": "https://www.dailypolitical.com/2026/10/16/saxony-capital-management-llc-purchases-11384-shares-of-ishares-msci-usa-quality-garp-etf-garp.html",
+   "domain": "dailypolitical.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "04b78b7ae028731e",
+   "ts": 1792143900,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "MSCI makes it official , and bitcoin ( BTC ) treasury firms Strategy , Metaplanet are on notice",
+   "url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
+   "domain": "coindesk.com",
+   "tags": [
+    "crypto",
+    "macro",
+    "BTC",
     "institution"
    ]
   }
@@ -260,7 +263,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 3
+   "n": 7
   },
   "White House": {
    "ok": true,
@@ -297,11 +300,11 @@
   },
   "BIS": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "Strategy (MSTR) filings": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "Coinbase filings": {
    "ok": true,
@@ -317,15 +320,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 35
+   "n": 36
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 34
+   "n": 35
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 24
+   "n": 25
   },
   "Reddit r/Bitcoin": {
    "ok": false,
