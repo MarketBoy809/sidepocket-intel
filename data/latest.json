@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-10-15T22:08:01Z",
- "generated_ts": 1792102081,
+ "generated_at": "2026-10-16T01:10:39Z",
+ "generated_ts": 1792113039,
  "prices": {
   "BTC": {
-   "p": 82381.7,
-   "o": 81576.5,
+   "p": 82194.7,
+   "o": 82135.4,
    "h": 82538.4,
    "l": 79709.0,
-   "v": 3423.13351203
+   "v": 3345.29485058
   },
   "ETH": {
-   "p": 2461.28,
-   "o": 2418.61,
+   "p": 2439.04,
+   "o": 2438.96,
    "h": 2464.54,
    "l": 2313.42,
-   "v": 51272.67883626
+   "v": 49639.02395921
   },
   "SOL": {
-   "p": 105.97,
-   "o": 104.19,
+   "p": 105.44,
+   "o": 105.3,
    "h": 106.38,
    "l": 100.44,
-   "v": 514150.79685215
+   "v": 510701.54100113
   }
  },
  "change_7d": {
-  "BTC": 0.008536172044349005,
-  "ETH": -0.007434704165775365,
-  "SOL": -0.04214143606438774
+  "BTC": 0.00617943109148786,
+  "ETH": -0.015121163166397437,
+  "SOL": -0.035050791617095255
  },
  "sentiment": {
-  "score": 52.7,
-  "label": "Neutral",
+  "score": 59.2,
+  "label": "Greed",
   "components": {
-   "fng": 53.0,
-   "momentum": 52.13404301108725,
-   "news_tone": 41.650000000000006,
-   "crowding": 63.6875
+   "fng": 63.0,
+   "momentum": 51.544857772871964,
+   "crowding": 60.416589
   },
   "weights": {
    "fng": 0.35,
@@ -47,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 53,
-  "label": "Neutral",
-  "ts": 1792022400
+  "value": 63,
+  "label": "Greed",
+  "ts": 1792108800
  },
- "news_tone_24h": -0.501,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3422678193.2827,
-   "premium": -0.0003031405
+   "oi_usd": 3413305716.248,
+   "premium": -0.0002916196
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2697574044.300818,
-   "premium": -0.0001623443
+   "oi_usd": 2663808624.5969605,
+   "premium": -0.0002047502
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 593304240.6983998,
-   "premium": -0.0005655042
+   "funding_h": 3.5386e-06,
+   "oi_usd": 588994603.7433,
+   "premium": -0.0003789314
   }
  },
- "items_24h": 191,
+ "items_24h": 263,
  "top_items": [
   {
    "id": "aaae26a31594bfec",
@@ -88,20 +87,20 @@
    "score": 19233
   },
   {
-   "id": "92cbc0f8cf9d73c7",
-   "ts": 1792018101,
+   "id": "b26cb1ddc69ec756",
+   "ts": 1792106238,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "I'm heading to Montana for a \"PACKED HOUSE\" Speech. It's broadcast LIVE on Right Side Broadcasting Network (RSBN) — What a great job they do. See you soon! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117441698269818123",
+   "title": "Hello Iowa! I am going to be coming to your Great State, which I won in Landslides all three times, with the Highest Vote ever obtained by a Political Candidate (for any Office!), on Thursday, October 22nd, and Sunday, November 1st. The reason I'll be there is to get truly fantas",
+   "url": "https://truthsocial.com/@realDonaldTrump/117447474430342324",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 5822
+   "score": 6135
   },
   {
    "id": "aa2701049ad2996a",
@@ -137,108 +136,111 @@
    "score": 3110
   },
   {
-   "id": "7d77a5d2094a4fd0",
-   "ts": 1792074645,
+   "id": "94cbdf9d082d461a",
+   "ts": 1792110600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "JPMorgan , Goldman boost yield on Volta AI loan to lure investors",
+   "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/jpmorgan-goldman-boost-yield-volta-ai-loan-lure-investors",
+   "domain": "businesstimes.com.sg",
+   "tags": [
+    "macro",
+    "institution"
+   ]
+  },
+  {
+   "id": "d465c1ba9022624c",
+   "ts": 1792110600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "The 2027 Social Security COLA Adds $75 a Month . Here What $100K in FDVV , SCHD , and JEPI Paid on Top of It",
+   "url": "https://247wallst.com/investing/etf/2026/10/15/the-2027-social-security-cola-adds-75-a-month-heres-what-100k-in-fdvv-schd-and-jepi-paid-on-top-of-it/",
+   "domain": "247wallst.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "ad2ee54e4edaf46c",
+   "ts": 1792110600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "UnitedHealth Fell 51 . 32 %, Then Rose 40 . 64 %. DIA Exposure Followed Both Moves by Design",
+   "url": "https://247wallst.com/investing/etf/2026/10/15/unitedhealth-fell-51-32-then-rose-40-64-dias-exposure-followed-both-moves-by-design/",
+   "domain": "247wallst.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "baa9c2626e79ab44",
+   "ts": 1792109700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Bitcoin banking adoption : Strategy CEO predicts historic surge in Bitcoin banking adoption : 7 drivers that could push banks toward BTC USD",
+   "url": "https://economictimes.indiatimes.com/world/business/strategy-ceo-predicts-historic-surge-in-bitcoin-banking-adoption-7-drivers-that-could-push-banks-toward-btc-usd/articleshow/134978921.cms",
+   "domain": "economictimes.indiatimes.com",
+   "tags": [
+    "crypto",
+    "BTC",
+    "institution"
+   ]
+  },
+  {
+   "id": "7d7fc33d4d63ad06",
+   "ts": 1792108106,
    "source": "government",
    "group": "government",
    "kind": "official",
-   "title": "ICYMI: “Largest-ever federal anti-transnational crime operation nets 1,296 Tren de Aragua arrests nationwide”",
-   "url": "https://www.whitehouse.gov/releases/2026/10/icymi-largest-ever-federal-anti-transnational-crime-operation-nets-1296-tren-de-aragua-arrests-nationwide/",
+   "title": "Congressional Bills S. 240, S. 283, and S. 2403 Signed into Law",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-s-240-s-283-and-s-2403-signed-into-law/",
    "domain": "White House",
    "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "c1a8493af49d7653",
-   "ts": 1792057961,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
-   "url": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
-   "domain": "Bank of England",
-   "org": "Bank of England",
    "tags": [
-    "macro"
+    "regulation"
    ]
   },
   {
-   "id": "266af4434e114c66",
-   "ts": 1792052879,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Minutes of the SONIA Stakeholder Advisory Group - 25 September 2026",
-   "url": "https://www.bankofengland.co.uk/minutes/2026/september/sonia-stakeholder-advisory-group-25-september-2026",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "b7075966b36a29ea",
-   "ts": 1792030670,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on the Birthday of President Dwight D. Eisenhower",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-birthday-of-president-dwight-d-eisenhower-c6b1/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "974cb54458d9b8f3",
-   "ts": 1792027800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)",
-   "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261015a.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "f4bb976041659898",
-   "ts": 1792026000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Summary of the \"Meeting on Market Operations\" (October 2026)",
-   "url": "http://www.boj.or.jp/en/paym/market/mkt261015a.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "e3f42d106eeb5016",
-   "ts": 1792100764,
+   "id": "d3ce4899591e8b04",
+   "ts": 1792105200,
    "source": "news",
-   "group": "news",
+   "group": "institution",
    "kind": "news",
-   "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
-   "url": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": []
+   "title": "$250 , 000 in These 3 Monthly Payers Produces $2 , 224 a Month . Here Is Where the Money Actually Comes From",
+   "url": "https://www.aol.com/articles/250-000-3-monthly-payers-213328000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
   },
   {
-   "id": "b5d6641f241438a8",
-   "ts": 1792100700,
+   "id": "3b1b4496cb480984",
+   "ts": 1792105200,
    "source": "news",
-   "group": "news",
+   "group": "institution",
    "kind": "news",
-   "title": "Crypto News : Pepeto Announces Its Stage Close to Sellout While XRP Price Prediction Targets $315",
-   "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/crypto-news-pepeto-announces-its-stage-close-to-sellout-while-xrp-price-prediction-targets-315/2447094",
-   "domain": "manilatimes.net",
+   "title": "VGT Returned 799 . 70 % and VOO Returned 324 . 46 % Over a Decade . Adding VUG Does Not Make It Diversified",
+   "url": "https://www.aol.com/articles/vgt-returned-799-70-voo-220310000.html",
+   "domain": "aol.com",
    "tags": [
-    "crypto"
+    "institution"
+   ]
+  },
+  {
+   "id": "c5a5e67758472136",
+   "ts": 1792104300,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "DARPA Nudges Quantum Computing From Planning to Proof",
+   "url": "https://www.bankinfosecurity.com/darpa-nudges-quantum-computing-from-planning-to-proof-a-33121",
+   "domain": "bankinfosecurity.com",
+   "tags": [
+    "institution"
    ]
   }
  ],
@@ -246,7 +248,7 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -258,11 +260,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 8
   },
   "White House": {
    "ok": true,
-   "n": 13
+   "n": 16
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -315,15 +317,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 35
+   "n": 36
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 36
+   "n": 34
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 23
+   "n": 24
   },
   "Reddit r/Bitcoin": {
    "ok": false,
