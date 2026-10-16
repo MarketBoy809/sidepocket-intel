@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-10-16T12:16:04Z",
- "generated_ts": 1792152964,
+ "generated_at": "2026-10-16T17:19:20Z",
+ "generated_ts": 1792171160,
  "prices": {
   "BTC": {
-   "p": 82101.8,
+   "p": 80753.3,
    "o": 82135.4,
    "h": 82826.0,
-   "l": 79709.0,
-   "v": 2815.3495724
+   "l": 80753.3,
+   "v": 2003.11733889
   },
   "ETH": {
-   "p": 2461.31,
+   "p": 2392.59,
    "o": 2438.96,
    "h": 2490.84,
-   "l": 2321.34,
-   "v": 29832.93470705
+   "l": 2392.59,
+   "v": 23191.53195792
   },
   "SOL": {
-   "p": 105.83,
+   "p": 102.78,
    "o": 105.3,
    "h": 107.31,
-   "l": 100.77,
-   "v": 270903.52238817
+   "l": 102.78,
+   "v": 239091.96628223
   }
  },
  "change_7d": {
-  "BTC": -0.007699948262215151,
-  "ETH": -0.011856034438006419,
-  "SOL": -0.042622066360938723
+  "BTC": -0.016141478018381627,
+  "ETH": -0.024305095231782224,
+  "SOL": -0.05269876002917579
  },
  "sentiment": {
-  "score": 57.7,
-  "label": "Greed",
+  "score": 51.3,
+  "label": "Neutral",
   "components": {
    "fng": 63.0,
-   "momentum": 48.075012934446214,
-   "crowding": 58.2810835
+   "momentum": 45.96463049540459,
+   "news_tone": 33.266666666666666,
+   "crowding": 49.1636755
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Greed",
   "ts": 1792108800
  },
- "news_tone_24h": null,
+ "news_tone_24h": -1.004,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3442025796.5174403,
-   "premium": -0.0002919495
+   "funding_h": 5.1971e-06,
+   "oi_usd": 3343870207.016872,
+   "premium": -0.0006060231
   },
   "ETH": {
-   "funding_h": 1.15551e-05,
-   "oi_usd": 2685211924.5666018,
-   "premium": -0.0001623047
+   "funding_h": -1.10368e-05,
+   "oi_usd": 2618405316.9049673,
+   "premium": -0.0010019622
   },
   "SOL": {
-   "funding_h": -1.3672e-06,
-   "oi_usd": 590154756.6180007,
-   "premium": -0.0005190393
+   "funding_h": 3.5484e-06,
+   "oi_usd": 549004211.5882604,
+   "premium": -0.0007336151
   }
  },
- "items_24h": 389,
+ "items_24h": 436,
  "top_items": [
   {
    "id": "aaae26a31594bfec",
@@ -133,6 +134,20 @@
    ],
    "author": "Donald Trump",
    "score": 1
+  },
+  {
+   "id": "70363c9b200b07ab",
+   "ts": 1792162800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "58de4757d81431d3",
@@ -229,33 +244,17 @@
     "crypto",
     "institution"
    ]
-  },
-  {
-   "id": "04b78b7ae028731e",
-   "ts": 1792143900,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "MSCI makes it official , and bitcoin ( BTC ) treasury firms Strategy , Metaplanet are on notice",
-   "url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
-   "domain": "coindesk.com",
-   "tags": [
-    "crypto",
-    "macro",
-    "BTC",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 33
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -263,7 +262,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 7
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -276,7 +275,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "CFTC": {
    "ok": true,
@@ -320,20 +319,19 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 36
+   "n": 37
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 35
+   "n": 34
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 25
+   "n": 23
   },
   "Reddit r/Bitcoin": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 24
   }
  }
 }
