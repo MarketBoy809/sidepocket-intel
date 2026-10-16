@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-10-16T01:10:39Z",
- "generated_ts": 1792113039,
+ "generated_at": "2026-10-16T07:01:52Z",
+ "generated_ts": 1792134112,
  "prices": {
   "BTC": {
-   "p": 82194.7,
+   "p": 82069.5,
    "o": 82135.4,
    "h": 82538.4,
    "l": 79709.0,
-   "v": 3345.29485058
+   "v": 2669.99174789
   },
   "ETH": {
-   "p": 2439.04,
+   "p": 2446.76,
    "o": 2438.96,
    "h": 2464.54,
-   "l": 2313.42,
-   "v": 49639.02395921
+   "l": 2321.34,
+   "v": 30170.74235191
   },
   "SOL": {
-   "p": 105.44,
+   "p": 106.12,
    "o": 105.3,
-   "h": 106.38,
-   "l": 100.44,
-   "v": 510701.54100113
+   "h": 106.52,
+   "l": 100.77,
+   "v": 265086.79414121
   }
  },
  "change_7d": {
-  "BTC": 0.00617943109148786,
-  "ETH": -0.015121163166397437,
-  "SOL": -0.035050791617095255
+  "BTC": -0.0053286310297498635,
+  "ETH": -0.02046136166157465,
+  "SOL": -0.03934871099050199
  },
  "sentiment": {
-  "score": 59.2,
-  "label": "Greed",
+  "score": 54.3,
+  "label": "Neutral",
   "components": {
    "fng": 63.0,
-   "momentum": 51.544857772871964,
-   "crowding": 60.416589
+   "momentum": 48.667842242562536,
+   "news_tone": 32.23333333333333,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Greed",
   "ts": 1792108800
  },
- "news_tone_24h": null,
+ "news_tone_24h": -1.066,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3413305716.248,
-   "premium": -0.0002916196
+   "oi_usd": 3388335801.063,
+   "premium": -0.0002799075
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2663808624.5969605,
-   "premium": -0.0002047502
+   "oi_usd": 2670898003.8654394,
+   "premium": -0.0002857726
   },
   "SOL": {
-   "funding_h": 3.5386e-06,
-   "oi_usd": 588994603.7433,
-   "premium": -0.0003789314
+   "funding_h": 1.25e-05,
+   "oi_usd": 589659184.6911999,
+   "premium": -0.0002427874
   }
  },
- "items_24h": 263,
+ "items_24h": 341,
  "top_items": [
   {
    "id": "aaae26a31594bfec",
@@ -103,37 +104,62 @@
    "score": 6135
   },
   {
-   "id": "aa2701049ad2996a",
-   "ts": 1792040173,
+   "id": "e49e647b19c34a45",
+   "ts": 1792126375,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117443139790546115Actual pictures of our fully renovated White House facade, facing South, with the new South Entrance, and Heliport! Over the years, the facade, both North and South, suffered tremendous wear, tear, and d",
-   "url": "https://truthsocial.com/@realDonaldTrump/117443144788808814",
+   "title": "James TalaFREAKO, who is running for U.S. Senate against the greatest Attorney General in the history of Texas, recently stated, with a large mask covering his face as he spoke, that, \"FOSSIL FUELS ARE DESTROYING THE PLANET.\" In other words, no more drilling for Oil in Texas. Tha",
+   "url": "https://truthsocial.com/@realDonaldTrump/117448794145800937",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 4897
+   "score": 368
   },
   {
-   "id": "414860fe8edcfd19",
-   "ts": 1792044025,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Jon Husted, who is running for the Senate in the Great State of Ohio, is an ALL AMERICAN FOOTBALL PLAYER! He played Safety and, in one season, had 17 Interceptions, a record. As everyone knows, he has, and always will have, my Complete and Total Endorsement! Jon is one of the Gre",
-   "url": "https://truthsocial.com/@realDonaldTrump/117443397258891596",
-   "domain": "truthsocial.com",
+   "id": "04aff615de205209",
+   "ts": 1792129500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Goldman Sachs MarketBeta Emerging Markets Equity ETF ( BATS : GSEE ) Stock Falls 0 . 9 % – What Next ?",
+   "url": "https://www.dailypolitical.com/2026/10/15/goldman-sachs-marketbeta-emerging-markets-equity-etf-batsgsee-stock-falls-0-9-whats-next.html",
+   "domain": "dailypolitical.com",
    "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3110
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "1383f17ebcd41f37",
+   "ts": 1792129500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "iShares Large Cap Accelerated Outcome ETF ( BATS : TWOX ) Stock Short Interest Report for September",
+   "url": "https://www.dailypolitical.com/2026/10/15/ishares-large-cap-accelerated-outcome-etf-batstwox-stock-short-interest-report-for-september.html",
+   "domain": "dailypolitical.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "265fb1edc88dca2d",
+   "ts": 1792124100,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "ProShares S & P Kensho Cleantech ETF ( NYSEARCA : CTEX ) Shares Shorted : Short Interest Down 47 . 4 % in September",
+   "url": "https://www.tickerreport.com/banking-finance/13621237/proshares-sp-kensho-cleantech-etf-nysearcactex-shares-shorted-short-interest-down-47-4-in-september.html",
+   "domain": "tickerreport.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
   },
   {
    "id": "94cbdf9d082d461a",
@@ -216,32 +242,6 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "3b1b4496cb480984",
-   "ts": 1792105200,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "VGT Returned 799 . 70 % and VOO Returned 324 . 46 % Over a Decade . Adding VUG Does Not Make It Diversified",
-   "url": "https://www.aol.com/articles/vgt-returned-799-70-voo-220310000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "c5a5e67758472136",
-   "ts": 1792104300,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "DARPA Nudges Quantum Computing From Planning to Proof",
-   "url": "https://www.bankinfosecurity.com/darpa-nudges-quantum-computing-from-planning-to-proof-a-33121",
-   "domain": "bankinfosecurity.com",
-   "tags": [
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -260,7 +260,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 8
+   "n": 3
   },
   "White House": {
    "ok": true,
@@ -293,7 +293,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 13
+   "n": 11
   },
   "BIS": {
    "ok": true,
@@ -317,7 +317,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 36
+   "n": 35
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
