@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-10-16T23:27:19Z",
- "generated_ts": 1792193239,
+ "generated_at": "2026-10-17T04:10:51Z",
+ "generated_ts": 1792210251,
  "prices": {
   "BTC": {
-   "p": 81580.1,
-   "o": 82135.4,
+   "p": 81438.6,
+   "o": 81500.9,
    "h": 82826.0,
    "l": 80705.4,
-   "v": 2092.44294877
+   "v": 1934.63693574
   },
   "ETH": {
-   "p": 2420.22,
-   "o": 2438.96,
+   "p": 2424.03,
+   "o": 2420.23,
    "h": 2490.84,
    "l": 2390.35,
-   "v": 23311.81544439
+   "v": 31074.64206837
   },
   "SOL": {
-   "p": 104.17,
-   "o": 105.3,
+   "p": 104.66,
+   "o": 104.31,
    "h": 107.31,
    "l": 102.37,
-   "v": 273741.14248921
+   "v": 248553.35769435
   }
  },
  "change_7d": {
-  "BTC": -0.01070892906954505,
-  "ETH": -0.02611961303085622,
-  "SOL": -0.044358903858491464
+  "BTC": -0.013078660279845158,
+  "ETH": -0.02606522734759783,
+  "SOL": -0.04334732615440774
  },
  "sentiment": {
-  "score": 58.0,
-  "label": "Greed",
+  "score": 49.9,
+  "label": "Neutral",
   "components": {
-   "fng": 63.0,
-   "momentum": 47.32276773261374,
-   "crowding": 60.767135
+   "fng": 55.0,
+   "momentum": 46.73033493003871,
+   "news_tone": 37.43333333333334,
+   "crowding": 54.601701
   },
   "weights": {
    "fng": 0.35,
@@ -46,29 +47,29 @@
   }
  },
  "fear_greed": {
-  "value": 63,
+  "value": 55,
   "label": "Greed",
-  "ts": 1792108800
+  "ts": 1792195200
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.754,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3359835223.20048,
-   "premium": -0.000269291
+   "funding_h": 1.0361e-05,
+   "oi_usd": 3350640226.346308,
+   "premium": -0.0005027097
   },
   "ETH": {
-   "funding_h": 9.9609e-06,
-   "oi_usd": 2609371129.4998007,
-   "premium": -0.0004167337
+   "funding_h": 4.197e-07,
+   "oi_usd": 2607107735.2746005,
+   "premium": -0.0005272741
   },
   "SOL": {
-   "funding_h": 7.0381e-06,
-   "oi_usd": 573095623.2936,
-   "premium": -0.0004792485
+   "funding_h": 1.8267e-06,
+   "oi_usd": 569061744.5123519,
+   "premium": -0.000524684
   }
  },
- "items_24h": 400,
+ "items_24h": 377,
  "top_items": [
   {
    "id": "6bdefa0fedd2c3be",
@@ -247,7 +248,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -255,11 +256,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 12
+   "n": 0
   },
   "White House": {
    "ok": true,
-   "n": 16
+   "n": 15
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -316,11 +317,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 31
+   "n": 30
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 23
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
