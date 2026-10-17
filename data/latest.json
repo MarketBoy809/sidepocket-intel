@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-17T04:10:51Z",
- "generated_ts": 1792210251,
+ "generated_at": "2026-10-17T09:10:59Z",
+ "generated_ts": 1792228259,
  "prices": {
   "BTC": {
-   "p": 81438.6,
+   "p": 81618.1,
    "o": 81500.9,
    "h": 82826.0,
    "l": 80705.4,
-   "v": 1934.63693574
+   "v": 1739.46924626
   },
   "ETH": {
-   "p": 2424.03,
+   "p": 2433.76,
    "o": 2420.23,
    "h": 2490.84,
    "l": 2390.35,
-   "v": 31074.64206837
+   "v": 29479.50326971
   },
   "SOL": {
-   "p": 104.66,
+   "p": 104.94,
    "o": 104.31,
    "h": 107.31,
    "l": 102.37,
-   "v": 248553.35769435
+   "v": 239834.48162841
   }
  },
  "change_7d": {
-  "BTC": -0.013078660279845158,
-  "ETH": -0.02606522734759783,
-  "SOL": -0.04334732615440774
+  "BTC": -0.014106173480563065,
+  "ETH": -0.024474066231964162,
+  "SOL": -0.0452188153944136
  },
  "sentiment": {
-  "score": 49.9,
+  "score": 50.9,
   "label": "Neutral",
   "components": {
    "fng": 55.0,
-   "momentum": 46.73033493003871,
-   "news_tone": 37.43333333333334,
-   "crowding": 54.601701
+   "momentum": 46.473456629859236,
+   "news_tone": 37.916666666666664,
+   "crowding": 60.3071255
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +51,25 @@
   "label": "Greed",
   "ts": 1792195200
  },
- "news_tone_24h": -0.754,
+ "news_tone_24h": -0.725,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.0361e-05,
-   "oi_usd": 3350640226.346308,
-   "premium": -0.0005027097
+   "funding_h": 8.7308e-06,
+   "oi_usd": 3370632783.9068,
+   "premium": -0.0005627944
   },
   "ETH": {
-   "funding_h": 4.197e-07,
-   "oi_usd": 2607107735.2746005,
-   "premium": -0.0005272741
+   "funding_h": 7.0079e-06,
+   "oi_usd": 2619402945.8015995,
+   "premium": -0.0005662049
   },
   "SOL": {
-   "funding_h": 1.8267e-06,
-   "oi_usd": 569061744.5123519,
-   "premium": -0.000524684
+   "funding_h": 1.25e-05,
+   "oi_usd": 570911374.4256,
+   "premium": -0.0004605646
   }
  },
- "items_24h": 377,
+ "items_24h": 277,
  "top_items": [
   {
    "id": "6bdefa0fedd2c3be",
@@ -88,36 +88,33 @@
    "score": 7916
   },
   {
-   "id": "e49e647b19c34a45",
-   "ts": 1792126375,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "James TalaFREAKO, who is running for U.S. Senate against the greatest Attorney General in the history of Texas, recently stated, with a large mask covering his face as he spoke, that, \"FOSSIL FUELS ARE DESTROYING THE PLANET.\" In other words, no more drilling for Oil in Texas. Tha",
-   "url": "https://truthsocial.com/@realDonaldTrump/117448794145800937",
-   "domain": "truthsocial.com",
+   "id": "e545c030814a8792",
+   "ts": 1792213200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Christine Lagarde: IMFC Statement",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
    "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 368
+    "macro"
+   ]
   },
   {
-   "id": "ae5c7ee64c653fe0",
-   "ts": 1792140411,
-   "source": "truth",
+   "id": "ebe52dac5df83ad2",
+   "ts": 1792197264,
+   "source": "government",
    "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT @mrddmiaSam Adkisson worked with me on the Senate Judiciary Committee for Justice Kavanaugh's confirmation.He is a friend, outstanding colleague, brilliant attorney, and committed constitutionalist.President Trump hit a grand-slam by picking Sam for a lifetime appointment to t",
-   "url": "https://truthsocial.com/@realDonaldTrump/117449714031702223",
-   "domain": "truthsocial.com",
+   "kind": "official",
+   "title": "Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
+   "domain": "White House",
+   "org": "White House",
    "tags": [
+    "geo",
     "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1
+   ]
   },
   {
    "id": "f15537a026344004",
@@ -260,7 +257,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 15
+   "n": 16
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -281,7 +278,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "Bank of England": {
    "ok": true,
