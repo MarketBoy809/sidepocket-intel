@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-17T13:37:03Z",
- "generated_ts": 1792244223,
+ "generated_at": "2026-10-17T17:00:20Z",
+ "generated_ts": 1792256420,
  "prices": {
   "BTC": {
-   "p": 81381.6,
+   "p": 81155.2,
    "o": 81500.9,
-   "h": 82376.2,
+   "h": 81715.1,
    "l": 80705.4,
-   "v": 1531.59332547
+   "v": 1164.02873187
   },
   "ETH": {
-   "p": 2421.07,
+   "p": 2400.7,
    "o": 2420.23,
-   "h": 2477.22,
+   "h": 2438.0,
    "l": 2390.35,
-   "v": 27756.66514446
+   "v": 23380.1587149
   },
   "SOL": {
-   "p": 103.83,
+   "p": 103.04,
    "o": 104.31,
-   "h": 106.46,
+   "h": 105.13,
    "l": 102.37,
-   "v": 213355.513573
+   "v": 146161.85941854
   }
  },
  "change_7d": {
-  "BTC": -0.016062059622266783,
-  "ETH": -0.028346557717520846,
-  "SOL": -0.05326037391700869
+  "BTC": -0.02157254265117221,
+  "ETH": -0.04091375790529242,
+  "SOL": -0.06257389722601191
  },
  "sentiment": {
-  "score": 48.1,
+  "score": 47.9,
   "label": "Neutral",
   "components": {
    "fng": 55.0,
-   "momentum": 45.9844850944333,
-   "news_tone": 32.03333333333333,
-   "crowding": 50.815337
+   "momentum": 44.60686433720695,
+   "news_tone": 32.35,
+   "crowding": 51.401162
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +51,25 @@
   "label": "Greed",
   "ts": 1792195200
  },
- "news_tone_24h": -1.078,
+ "news_tone_24h": -1.059,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3348582960.2333198,
-   "premium": -0.0003816274
+   "funding_h": 7.6419e-06,
+   "oi_usd": 3330278915.238496,
+   "premium": -0.0005045347
   },
   "ETH": {
-   "funding_h": -1.6678e-06,
-   "oi_usd": 2590870111.7261415,
-   "premium": -0.0003753955
+   "funding_h": 5.3127e-06,
+   "oi_usd": 2546284806.1065598,
+   "premium": -0.0004991681
   },
   "SOL": {
-   "funding_h": -8.5984e-06,
-   "oi_usd": 564554532.8370003,
-   "premium": -0.0004972507
+   "funding_h": -9.1158e-06,
+   "oi_usd": 559654779.9696001,
+   "premium": -0.0006725497
   }
  },
- "items_24h": 313,
+ "items_24h": 277,
  "top_items": [
   {
    "id": "6bdefa0fedd2c3be",
@@ -86,6 +86,22 @@
    ],
    "author": "Donald Trump",
    "score": 7916
+  },
+  {
+   "id": "15dd3be9cd5afdb3",
+   "ts": 1792254714,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Heading to Kentucky! Will be landing soon. Big Crowd. I'm watching it now on RSBN. The coverage is spectacular. In fact, it's so good, that I don't want to leave Air Force One. Vote for Andy Barr for U.S. Senate! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117457204970246458",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2746
   },
   {
    "id": "e545c030814a8792",
@@ -222,26 +238,13 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "3d6042086a980543",
-   "ts": 1792185300,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "You Are 68 and a $40 , 000 Expense Lands in Three Years ? These 3 ETFs Are Where That Money Should Sit Until Then",
-   "url": "https://www.aol.com/articles/68-40-000-expense-lands-200327000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 27
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -314,15 +317,16 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 29
+   "n": 30
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 19
   },
   "Reddit r/Bitcoin": {
-   "ok": true,
-   "n": 24
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
