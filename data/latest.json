@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-17T17:00:20Z",
- "generated_ts": 1792256420,
+ "generated_at": "2026-10-17T19:12:50Z",
+ "generated_ts": 1792264370,
  "prices": {
   "BTC": {
-   "p": 81155.2,
+   "p": 81443.2,
    "o": 81500.9,
    "h": 81715.1,
-   "l": 80705.4,
-   "v": 1164.02873187
+   "l": 81080.2,
+   "v": 675.11702275
   },
   "ETH": {
-   "p": 2400.7,
+   "p": 2414.3,
    "o": 2420.23,
    "h": 2438.0,
-   "l": 2390.35,
-   "v": 23380.1587149
+   "l": 2395.48,
+   "v": 19194.24458416
   },
   "SOL": {
-   "p": 103.04,
+   "p": 103.86,
    "o": 104.31,
    "h": 105.13,
-   "l": 102.37,
-   "v": 146161.85941854
+   "l": 102.84,
+   "v": 108417.65616626
   }
  },
  "change_7d": {
-  "BTC": -0.02157254265117221,
-  "ETH": -0.04091375790529242,
-  "SOL": -0.06257389722601191
+  "BTC": -0.018799620289576272,
+  "ETH": -0.03847042790082327,
+  "SOL": -0.05835375260912962
  },
  "sentiment": {
-  "score": 47.9,
+  "score": 48.6,
   "label": "Neutral",
   "components": {
    "fng": 55.0,
-   "momentum": 44.60686433720695,
-   "news_tone": 32.35,
-   "crowding": 51.401162
+   "momentum": 45.30009492760593,
+   "news_tone": 31.900000000000002,
+   "crowding": 55.0095155
   },
   "weights": {
    "fng": 0.35,
@@ -51,41 +51,105 @@
   "label": "Greed",
   "ts": 1792195200
  },
- "news_tone_24h": -1.059,
+ "news_tone_24h": -1.086,
  "derivatives": {
   "BTC": {
-   "funding_h": 7.6419e-06,
-   "oi_usd": 3330278915.238496,
-   "premium": -0.0005045347
+   "funding_h": 8.1276e-06,
+   "oi_usd": 3355313962.150544,
+   "premium": -0.0004720943
   },
   "ETH": {
-   "funding_h": 5.3127e-06,
-   "oi_usd": 2546284806.1065598,
-   "premium": -0.0004991681
+   "funding_h": 8.2257e-06,
+   "oi_usd": 2562754287.8246403,
+   "premium": -0.0004426664
   },
   "SOL": {
-   "funding_h": -9.1158e-06,
-   "oi_usd": 559654779.9696001,
-   "premium": -0.0006725497
+   "funding_h": -2.6286e-06,
+   "oi_usd": 565288858.8270001,
+   "premium": -0.0005288207
   }
  },
- "items_24h": 277,
+ "items_24h": 334,
  "top_items": [
   {
-   "id": "6bdefa0fedd2c3be",
-   "ts": 1792177958,
+   "id": "9e34f6f3f0597186",
+   "ts": 1792256904,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Just landed in Georgia, heading over to the Big Rally — Lots of people! See you soon. Will be broadcast LIVE on Right Side Broadcasting Network (RSBN)! We must get Congressman Mike Collins elected to the U.S. Senate — He is far superior to Pee Wee Herman (Jon Osoff). Likewise, Ri",
-   "url": "https://truthsocial.com/@realDonaldTrump/117452174699040610",
+   "title": "James TalaFREAKO is a Radical Left Lunatic and Vegan who is the ANTITHESIS of Texas Values. Ken Paxton is the Greatest Attorney General in the History of Texas, and has my Complete and Total Endorsement to be the next U.S. Senator from Texas — HE WILL NEVER LET YOU DOWN! Presiden",
+   "url": "https://truthsocial.com/@realDonaldTrump/117457348466973534",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 6863
+  },
+  {
+   "id": "972b7bd3b9e95d47",
+   "ts": 1792256869,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Mohammed El-Sayed is a terrible Candidate for the Dumocrats. Mike Rogers is a Great American Patriot, and has my Complete and Total Endorsement to be the next U.S. Senator from Michigan — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117457346173487081",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 5407
+  },
+  {
+   "id": "9fc36acfb658a6ac",
+   "ts": 1792256331,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Darline Graham has my Complete and Total Endorsement for Re-Election as U.S. Senator from South Carolina — SHE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117457310952881760",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 4947
+  },
+  {
+   "id": "ad9fe66ca6551c8c",
+   "ts": 1792256890,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Zach Nunn has my Complete and Total Endorsement for Re-Election as U.S. Representative from Iowa's 3rd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117457347557850043",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 7916
+   "score": 4492
+  },
+  {
+   "id": "acfbaa17d445f734",
+   "ts": 1792256300,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Russell Fry has my Complete and Total Endorsement for Re-Election as U.S. Representative from South Carolina's 7th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117457308910220178",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4296
   },
   {
    "id": "15dd3be9cd5afdb3",
@@ -104,6 +168,76 @@
    "score": 2746
   },
   {
+   "id": "c3a6969e865cb377",
+   "ts": 1792261800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
+   "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792260861.a70c71ff679701ce",
+   "domain": "decrypt.co",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "c0c45e9c9127beb8",
+   "ts": 1792259100,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Who Really Owns the Bitcoin Inside BlackRock ETF ?",
+   "url": "https://www.aol.com/articles/really-owns-bitcoin-inside-blackrock-160038000.html",
+   "domain": "aol.com",
+   "tags": [
+    "crypto",
+    "institution",
+    "BTC"
+   ]
+  },
+  {
+   "id": "d61338635c91cf2c",
+   "ts": 1792259100,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
+   "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792258198.969ae5a6ce103a15",
+   "domain": "decrypt.co",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "b01139d70436cc4a",
+   "ts": 1792259100,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Tandem Investment Partners LLC Makes New $636 , 000 Investment in iShares 0 - 3 Month Treasury Bond ETF $SGOV",
+   "url": "https://www.tickerreport.com/banking-finance/13623909/tandem-investment-partners-llc-makes-new-636000-investment-in-ishares-0-3-month-treasury-bond-etf-sgov.html",
+   "domain": "tickerreport.com",
+   "tags": [
+    "crypto",
+    "macro",
+    "institution"
+   ]
+  },
+  {
+   "id": "46299fdbd3c8b0b1",
+   "ts": 1792256400,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Vanguard Large - Cap ETF $VV Stock Bought by Intergy Private Wealth LLC",
+   "url": "https://www.tickerreport.com/banking-finance/13623798/vanguard-large-cap-etf-vv-stock-bought-by-intergy-private-wealth-llc.html",
+   "domain": "tickerreport.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
    "id": "e545c030814a8792",
    "ts": 1792213200,
    "source": "central_bank",
@@ -116,135 +250,13 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "ebe52dac5df83ad2",
-   "ts": 1792197264,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": [
-    "geo",
-    "regulation"
-   ]
-  },
-  {
-   "id": "f15537a026344004",
-   "ts": 1792191600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "American Century Quality Diversified International ETF ( NYSEARCA : QINT ) Shares Shorted : Short Interest Down 44 . 9 % in September",
-   "url": "https://www.dailypolitical.com/2026/10/16/american-century-quality-diversified-international-etf-nysearcaqint-shares-shorted-short-interest-down-44-9-in-september.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "bb2324a5b9f391f5",
-   "ts": 1792191600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "iShares U . S . Insurance ETF ( NYSEARCA : IAK ) Stock Short Interest Report for September",
-   "url": "https://www.tickerreport.com/banking-finance/13623044/ishares-u-s-insurance-etf-nysearcaiak-stock-short-interest-report-for-september.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "c7739aa4a546acd9",
-   "ts": 1792191600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "iShares Morningstar U . S . Equity ETF ( NYSEARCA : ILCB ) Sees Large Growth in Short Interest",
-   "url": "https://www.dailypolitical.com/2026/10/16/ishares-morningstar-u-s-equity-etf-nysearcailcb-sees-large-growth-in-short-interest.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "8b2f1c23043e22d0",
-   "ts": 1792190700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Only 19 . 55 % of MUB Is New York Bonds . New York Doesnt Exempt Interest From the Rest",
-   "url": "https://www.aol.com/articles/only-19-55-mub-york-220348000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "d2eccf140f8bb1bb",
-   "ts": 1792190700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Stocks hit as AI growth concerns weigh on sentiment - Newsquawk US Market Wrap",
-   "url": "http://www.zerohedge.com/markets/stocks-hit-ai-growth-concerns-weigh-sentiment-newsquawk-us-market-wrap",
-   "domain": "zerohedge.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "78ebcd010cc10f7f",
-   "ts": 1792188000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Super El Nino and Metals",
-   "url": "https://www.investorideas.com/news/2026/mining/10164-super-el-nino-and-metals.asp",
-   "domain": "investorideas.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "9dcd7a44a63bb75b",
-   "ts": 1792187100,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
-   "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792185574.8c66e59ed0ea8874",
-   "domain": "decrypt.co",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "fc2481a5613b725b",
-   "ts": 1792185300,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Is Your Spouse 8 Years Younger ? The Money Has to Outlive Both of You . These 3 ETFs Plan for the Longer Life",
-   "url": "https://www.aol.com/articles/spouse-8-years-younger-money-200304000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 18
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -256,7 +268,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 6
   },
   "White House": {
    "ok": true,
@@ -317,11 +329,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 30
+   "n": 35
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 17
   },
   "Reddit r/Bitcoin": {
    "ok": false,
