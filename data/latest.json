@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-18T05:43:46Z",
- "generated_ts": 1792302226,
+ "generated_at": "2026-10-18T10:53:01Z",
+ "generated_ts": 1792320781,
  "prices": {
   "BTC": {
-   "p": 81603.5,
+   "p": 82020.8,
    "o": 81382.0,
-   "h": 81960.6,
+   "h": 82177.3,
    "l": 80655.2,
-   "v": 664.1580074
+   "v": 648.12092974
   },
   "ETH": {
-   "p": 2406.38,
+   "p": 2417.47,
    "o": 2399.83,
    "h": 2438.0,
    "l": 2354.01,
-   "v": 16045.80269038
+   "v": 16428.52685758
   },
   "SOL": {
-   "p": 103.24,
+   "p": 103.93,
    "o": 103.34,
-   "h": 105.13,
+   "h": 104.89,
    "l": 101.0,
-   "v": 118969.07311291
+   "v": 118378.02816416
   }
  },
  "change_7d": {
-  "BTC": -0.014950134666724908,
-  "ETH": -0.036287923854848254,
-  "SOL": -0.05288154169330526
+  "BTC": -0.011155587099113368,
+  "ETH": -0.03143348532117418,
+  "SOL": -0.05037484000731387
  },
  "sentiment": {
-  "score": 51.8,
+  "score": 52.7,
   "label": "Neutral",
   "components": {
    "fng": 53.0,
-   "momentum": 46.26246633331877,
-   "crowding": 56.6102595
+   "momentum": 47.211103225221656,
+   "crowding": 59.2571665
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 7.9695e-06,
-   "oi_usd": 3338332326.38412,
-   "premium": -0.0003438903
+   "funding_h": 4.1715e-06,
+   "oi_usd": 3391557216.0056996,
+   "premium": -0.0005186861
   },
   "ETH": {
-   "funding_h": 5.2747e-06,
-   "oi_usd": 2486081241.1879206,
-   "premium": -0.000373537
+   "funding_h": 1.25e-05,
+   "oi_usd": 2526884486.1995196,
+   "premium": -0.000371824
   },
   "SOL": {
-   "funding_h": 4.8661e-06,
-   "oi_usd": 561099486.766,
-   "premium": -0.0005155572
+   "funding_h": 8.6906e-06,
+   "oi_usd": 565708245.8059003,
+   "premium": -0.000480492
   }
  },
- "items_24h": 349,
+ "items_24h": 385,
  "top_items": [
   {
    "id": "9e34f6f3f0597186",
@@ -167,84 +167,88 @@
    "score": 2746
   },
   {
-   "id": "bf7078dade51a19c",
-   "ts": 1792281600,
+   "id": "fd1a10ab5f3b129f",
+   "ts": 1792319400,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
-   "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792279989.c6c4c20697544fb1",
-   "domain": "decrypt.co",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "84b559fa8008bf5d",
-   "ts": 1792281600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "3 Reasons the Vanguard S & P 500 ETF Could Be Worth Holding for the Next 20 Years",
-   "url": "https://www.fool.com/investing/2026/10/17/3-reasons-vanguard-sp-500-etf-worth-holding-years/",
-   "domain": "fool.com",
+   "title": "85 , 629 iShares Core Total USD Bond Market ETF $IUSB Shares Sold by SteelPeak Wealth LLC",
+   "url": "https://www.dailypolitical.com/2026/10/18/85629-ishares-core-total-usd-bond-market-etf-iusb-shares-sold-by-steelpeak-wealth-llc.html",
+   "domain": "dailypolitical.com",
    "tags": [
     "crypto",
     "institution"
    ]
   },
   {
-   "id": "8aa9f02151b8b15c",
-   "ts": 1792281600,
+   "id": "a0a11e50bc39d884",
+   "ts": 1792319400,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Wall Street Review : Nasdaq Sinks 4 . 48 Percent as Inflation Fears Hit AI Stocks",
-   "url": "https://www.theepochtimes.com/business/wall-street-review-nasdaq-sinks-4-48-percent-as-inflation-fears-hit-ai-stocks-6105146",
-   "domain": "theepochtimes.com",
+   "title": "iShares Core Total USD Bond Market ETF $IUSB Position Lowered by SteelPeak Wealth LLC",
+   "url": "https://www.tickerreport.com/banking-finance/13624628/ishares-core-total-usd-bond-market-etf-iusb-position-lowered-by-steelpeak-wealth-llc.html",
+   "domain": "tickerreport.com",
    "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "f7a8431bbb9b751c",
+   "ts": 1792317600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Goldman Sachs Access Treasury 0 - 1 Year ETF $GBIL Shares Bought by Robertson Stephens Wealth Management LLC",
+   "url": "https://www.themarketsdaily.com/2026/10/18/goldman-sachs-access-treasury-0-1-year-etf-gbil-shares-bought-by-robertson-stephens-wealth-management-llc.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "crypto",
     "macro",
     "institution"
    ]
   },
   {
-   "id": "c3a6969e865cb377",
-   "ts": 1792261800,
+   "id": "207f455c125ee5dc",
+   "ts": 1792317600,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
-   "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792260861.a70c71ff679701ce",
-   "domain": "decrypt.co",
+   "title": "23 , 836 Fidelity Enhanced Mid Cap ETF $FMDE Shares Acquired by Strata Wealth Advisors LLC",
+   "url": "https://www.themarketsdaily.com/2026/10/18/23836-fidelity-enhanced-mid-cap-etf-fmde-shares-acquired-by-strata-wealth-advisors-llc.html",
+   "domain": "themarketsdaily.com",
    "tags": [
+    "crypto",
     "institution"
    ]
   },
   {
-   "id": "c0c45e9c9127beb8",
-   "ts": 1792259100,
+   "id": "2462e6d41bc24df2",
+   "ts": 1792317600,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Who Really Owns the Bitcoin Inside BlackRock ETF ?",
-   "url": "https://www.aol.com/articles/really-owns-bitcoin-inside-blackrock-160038000.html",
-   "domain": "aol.com",
+   "title": "Strata Wealth Advisors LLC Buys 13 , 672 Shares of Fidelity Total Bond ETF $FBND",
+   "url": "https://www.dailypolitical.com/2026/10/18/strata-wealth-advisors-llc-buys-13672-shares-of-fidelity-total-bond-etf-fbnd.html",
+   "domain": "dailypolitical.com",
    "tags": [
     "crypto",
-    "institution",
-    "BTC"
+    "institution"
    ]
   },
   {
-   "id": "d61338635c91cf2c",
-   "ts": 1792259100,
+   "id": "e3eab50ce5580ae5",
+   "ts": 1792317600,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
-   "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792258198.969ae5a6ce103a15",
-   "domain": "decrypt.co",
+   "title": "Vanguard Long - Term Treasury ETF $VGLT Shares Newly Bought by Strata Wealth Advisors LLC",
+   "url": "https://www.tickerreport.com/banking-finance/13624559/vanguard-long-term-treasury-etf-vglt-shares-newly-bought-by-strata-wealth-advisors-llc.html",
+   "domain": "tickerreport.com",
    "tags": [
+    "crypto",
+    "macro",
     "institution"
    ]
   }
@@ -257,7 +261,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -265,7 +269,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 26
   },
   "White House": {
    "ok": true,
