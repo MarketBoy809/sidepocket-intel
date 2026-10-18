@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-18T10:53:01Z",
- "generated_ts": 1792320781,
+ "generated_at": "2026-10-18T14:29:18Z",
+ "generated_ts": 1792333758,
  "prices": {
   "BTC": {
-   "p": 82020.8,
+   "p": 81237.6,
    "o": 81382.0,
    "h": 82177.3,
    "l": 80655.2,
-   "v": 648.12092974
+   "v": 678.02550438
   },
   "ETH": {
-   "p": 2417.47,
+   "p": 2386.45,
    "o": 2399.83,
-   "h": 2438.0,
+   "h": 2426.94,
    "l": 2354.01,
-   "v": 16428.52685758
+   "v": 16573.68226337
   },
   "SOL": {
-   "p": 103.93,
+   "p": 102.47,
    "o": 103.34,
-   "h": 104.89,
+   "h": 104.65,
    "l": 101.0,
-   "v": 118378.02816416
+   "v": 113519.26563208
   }
  },
  "change_7d": {
-  "BTC": -0.011155587099113368,
-  "ETH": -0.03143348532117418,
-  "SOL": -0.05037484000731387
+  "BTC": -0.018830305421924404,
+  "ETH": -0.04284714305713899,
+  "SOL": -0.05980795610425233
  },
  "sentiment": {
-  "score": 52.7,
+  "score": 49.3,
   "label": "Neutral",
   "components": {
    "fng": 53.0,
-   "momentum": 47.211103225221656,
-   "crowding": 59.2571665
+   "momentum": 45.2924236445189,
+   "crowding": 45.872142
   },
   "weights": {
    "fng": 0.35,
@@ -53,23 +53,39 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 4.1715e-06,
-   "oi_usd": 3391557216.0056996,
-   "premium": -0.0005186861
+   "funding_h": 2.2944e-06,
+   "oi_usd": 3384716446.8059998,
+   "premium": -0.0003368808
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2526884486.1995196,
-   "premium": -0.000371824
+   "funding_h": 7.4339e-06,
+   "oi_usd": 2508734388.148563,
+   "premium": -0.0005440469
   },
   "SOL": {
-   "funding_h": 8.6906e-06,
-   "oi_usd": 565708245.8059003,
-   "premium": -0.000480492
+   "funding_h": -2.10375e-05,
+   "oi_usd": 554534561.4072003,
+   "premium": -0.0006336209
   }
  },
- "items_24h": 385,
+ "items_24h": 356,
  "top_items": [
+  {
+   "id": "1877915dab342472",
+   "ts": 1792325124,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Wow. Our Country was scammed, and we now have the proof. You have not heard the last of this! President DJTThe six largest boomerangs from the 2019 Ukraine impeachment narrative so far: https://justthenews.com/accountability/russia-and-ukraine-scandals/6-biggest-setbacks-2019-ukr",
+   "url": "https://truthsocial.com/@realDonaldTrump/117461819331327618",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 8789
+  },
   {
    "id": "9e34f6f3f0597186",
    "ts": 1792256904,
@@ -167,6 +183,35 @@
    "score": 2746
   },
   {
+   "id": "23c1a920168d657b",
+   "ts": 1792332551,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I am pleased to announce that the Department of the Interior, under the auspices of Secretary Doug Burgum, and in conjunction with famed Golf Course Architect, Tom Fazio, has developed a plan to build a World Class Championship Golf Course on the site of the current East Potomac ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117462306089931035",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro"
+   ],
+   "author": "Donald Trump",
+   "score": 2576
+  },
+  {
+   "id": "1889f610f5698ce6",
+   "ts": 1792328400,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
+   "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792327065.aa177324cc3eb448",
+   "domain": "decrypt.co",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
    "id": "fd1a10ab5f3b129f",
    "ts": 1792319400,
    "source": "news",
@@ -208,49 +253,6 @@
     "macro",
     "institution"
    ]
-  },
-  {
-   "id": "207f455c125ee5dc",
-   "ts": 1792317600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "23 , 836 Fidelity Enhanced Mid Cap ETF $FMDE Shares Acquired by Strata Wealth Advisors LLC",
-   "url": "https://www.themarketsdaily.com/2026/10/18/23836-fidelity-enhanced-mid-cap-etf-fmde-shares-acquired-by-strata-wealth-advisors-llc.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "2462e6d41bc24df2",
-   "ts": 1792317600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Strata Wealth Advisors LLC Buys 13 , 672 Shares of Fidelity Total Bond ETF $FBND",
-   "url": "https://www.dailypolitical.com/2026/10/18/strata-wealth-advisors-llc-buys-13672-shares-of-fidelity-total-bond-etf-fbnd.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "e3eab50ce5580ae5",
-   "ts": 1792317600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Vanguard Long - Term Treasury ETF $VGLT Shares Newly Bought by Strata Wealth Advisors LLC",
-   "url": "https://www.tickerreport.com/banking-finance/13624559/vanguard-long-term-treasury-etf-vglt-shares-newly-bought-by-strata-wealth-advisors-llc.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "crypto",
-    "macro",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -261,7 +263,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -269,7 +271,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 26
+   "n": 1
   },
   "White House": {
    "ok": true,
@@ -330,16 +332,15 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 34
+   "n": 35
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 18
+   "n": 19
   },
   "Reddit r/Bitcoin": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 24
   }
  }
 }
