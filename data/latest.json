@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-18T20:30:32Z",
- "generated_ts": 1792355432,
+ "generated_at": "2026-10-18T22:59:23Z",
+ "generated_ts": 1792364363,
  "prices": {
   "BTC": {
-   "p": 80853.6,
+   "p": 81658.0,
    "o": 81382.0,
    "h": 82177.3,
    "l": 80567.9,
-   "v": 881.66628526
+   "v": 956.92268475
   },
   "ETH": {
-   "p": 2347.88,
+   "p": 2392.11,
    "o": 2399.83,
    "h": 2426.94,
    "l": 2326.25,
-   "v": 20673.03246267
+   "v": 18754.57009584
   },
   "SOL": {
-   "p": 101.01,
+   "p": 103.76,
    "o": 103.34,
    "h": 104.65,
    "l": 100.34,
-   "v": 140123.0131155
+   "v": 146835.09986567
   }
  },
  "change_7d": {
-  "BTC": -0.03351958448977525,
-  "ETH": -0.07842030695644282,
-  "SOL": -0.0946601941747573
+  "BTC": -0.027879538171332992,
+  "ETH": -0.06295532700442817,
+  "SOL": -0.07801482552883754
  },
  "sentiment": {
-  "score": 46.4,
+  "score": 51.7,
   "label": "Neutral",
   "components": {
    "fng": 53.0,
-   "momentum": 41.62010387755619,
-   "crowding": 37.435678
+   "momentum": 43.03011545716675,
+   "crowding": 60.0154905
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": -2.8956e-06,
-   "oi_usd": 3324303802.0948796,
-   "premium": -0.0005027565
+   "funding_h": 1.14979e-05,
+   "oi_usd": 3212687518.1521444,
+   "premium": -0.0002825374
   },
   "ETH": {
-   "funding_h": -1.91916e-05,
-   "oi_usd": 2534357176.9956,
-   "premium": -0.0005699848
+   "funding_h": 3.4418e-06,
+   "oi_usd": 2560702393.5947995,
+   "premium": -0.0003047979
   },
   "SOL": {
-   "funding_h": -1.23356e-05,
-   "oi_usd": 552160246.8256,
-   "premium": -0.0004429731
+   "funding_h": 1.25e-05,
+   "oi_usd": 569843097.4110005,
+   "premium": -0.0003850968
   }
  },
- "items_24h": 271,
+ "items_24h": 278,
  "top_items": [
   {
    "id": "55c32826d7485db8",
@@ -85,6 +85,22 @@
    ],
    "author": "Donald Trump",
    "score": 19241
+  },
+  {
+   "id": "482badd96b571612",
+   "ts": 1792355782,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "My decision on Russia is a very simple one. I am in the process of negotiating Peace in the war between Russia and Ukraine, and don't want to do anything that will drive, foolishly, Russia away from the bargaining table. Great progress is being made, and that includes current hos",
+   "url": "https://truthsocial.com/@realDonaldTrump/117463828588421761",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 11008
   },
   {
    "id": "1877915dab342472",
@@ -133,6 +149,19 @@
    ],
    "author": "Donald Trump",
    "score": 2
+  },
+  {
+   "id": "9dab4d2a0db20a4d",
+   "ts": 1792357200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
+   "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792356159.f6e7d81ab41ff839",
+   "domain": "decrypt.co",
+   "tags": [
+    "institution"
+   ]
   },
   {
    "id": "1889f610f5698ce6",
@@ -217,42 +246,13 @@
     "crypto",
     "institution"
    ]
-  },
-  {
-   "id": "e3eab50ce5580ae5",
-   "ts": 1792317600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Vanguard Long - Term Treasury ETF $VGLT Shares Newly Bought by Strata Wealth Advisors LLC",
-   "url": "https://www.tickerreport.com/banking-finance/13624559/vanguard-long-term-treasury-etf-vglt-shares-newly-bought-by-strata-wealth-advisors-llc.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "crypto",
-    "macro",
-    "institution"
-   ]
-  },
-  {
-   "id": "3063b390b11d70df",
-   "ts": 1792317600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Vanguard Tax - Exempt Bond ETF $VTEB Holdings Raised by ShoreHaven Wealth Partners LLC",
-   "url": "https://www.dailypolitical.com/2026/10/18/vanguard-tax-exempt-bond-etf-vteb-holdings-raised-by-shorehaven-wealth-partners-llc.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 13
+   "n": 10
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -264,11 +264,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "White House": {
    "ok": true,
-   "n": 15
+   "n": 14
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -325,11 +325,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 37
+   "n": 35
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 17
+   "n": 19
   },
   "Reddit r/Bitcoin": {
    "ok": false,
