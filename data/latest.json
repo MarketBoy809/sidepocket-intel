@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-17T22:11:10Z",
- "generated_ts": 1792275070,
+ "generated_at": "2026-10-18T00:51:38Z",
+ "generated_ts": 1792284698,
  "prices": {
   "BTC": {
-   "p": 81155.0,
-   "o": 81500.9,
-   "h": 81715.1,
+   "p": 81414.4,
+   "o": 81382.0,
+   "h": 81656.4,
    "l": 80655.2,
-   "v": 587.08089743
+   "v": 580.60082133
   },
   "ETH": {
-   "p": 2385.07,
-   "o": 2420.23,
+   "p": 2403.0,
+   "o": 2399.83,
    "h": 2438.0,
    "l": 2354.01,
-   "v": 22555.99564398
+   "v": 22798.15686898
   },
   "SOL": {
-   "p": 102.69,
-   "o": 104.31,
+   "p": 103.33,
+   "o": 103.34,
    "h": 105.13,
    "l": 101.0,
-   "v": 107340.71459115
+   "v": 111345.19152176
   }
  },
  "change_7d": {
-  "BTC": -0.023281751178754893,
-  "ETH": -0.05169945405312726,
-  "SOL": -0.0728609019145267
+  "BTC": -0.01848480535708251,
+  "ETH": -0.04160775762223139,
+  "SOL": -0.06082371124647693
  },
  "sentiment": {
-  "score": 48.0,
+  "score": 46.9,
   "label": "Neutral",
   "components": {
-   "fng": 55.0,
-   "momentum": 44.17956220531128,
-   "news_tone": 30.166666666666668,
-   "crowding": 54.666306
+   "fng": 53.0,
+   "momentum": 45.37879866072937,
+   "news_tone": 29.383333333333333,
+   "crowding": 52.4698455
   },
   "weights": {
    "fng": 0.35,
@@ -47,29 +47,29 @@
   }
  },
  "fear_greed": {
-  "value": 55,
-  "label": "Greed",
-  "ts": 1792195200
+  "value": 53,
+  "label": "Neutral",
+  "ts": 1792281600
  },
- "news_tone_24h": -1.19,
+ "news_tone_24h": -1.237,
  "derivatives": {
   "BTC": {
-   "funding_h": 9.4806e-06,
-   "oi_usd": 3367940063.34408,
-   "premium": -0.0004516106
+   "funding_h": 3.4977e-06,
+   "oi_usd": 3385178059.800624,
+   "premium": -0.0004735116
   },
   "ETH": {
-   "funding_h": 4.2268e-06,
-   "oi_usd": 2465704227.2080803,
-   "premium": -0.0006699606
+   "funding_h": -1.305e-06,
+   "oi_usd": 2476308478.8010397,
+   "premium": -0.0005071247
   },
   "SOL": {
-   "funding_h": -9.23e-07,
-   "oi_usd": 557600989.2287999,
-   "premium": -0.0006090525
+   "funding_h": 4.574e-06,
+   "oi_usd": 560007238.5159999,
+   "premium": -0.0005316321
   }
  },
- "items_24h": 299,
+ "items_24h": 313,
  "top_items": [
   {
    "id": "9e34f6f3f0597186",
@@ -168,6 +168,47 @@
    "score": 2746
   },
   {
+   "id": "bf7078dade51a19c",
+   "ts": 1792281600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
+   "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792279989.c6c4c20697544fb1",
+   "domain": "decrypt.co",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "84b559fa8008bf5d",
+   "ts": 1792281600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "3 Reasons the Vanguard S & P 500 ETF Could Be Worth Holding for the Next 20 Years",
+   "url": "https://www.fool.com/investing/2026/10/17/3-reasons-vanguard-sp-500-etf-worth-holding-years/",
+   "domain": "fool.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "8aa9f02151b8b15c",
+   "ts": 1792281600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Wall Street Review : Nasdaq Sinks 4 . 48 Percent as Inflation Fears Hit AI Stocks",
+   "url": "https://www.theepochtimes.com/business/wall-street-review-nasdaq-sinks-4-48-percent-as-inflation-fears-hit-ai-stocks-6105146",
+   "domain": "theepochtimes.com",
+   "tags": [
+    "macro",
+    "institution"
+   ]
+  },
+  {
    "id": "c3a6969e865cb377",
    "ts": 1792261800,
    "source": "news",
@@ -207,60 +248,17 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "b01139d70436cc4a",
-   "ts": 1792259100,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Tandem Investment Partners LLC Makes New $636 , 000 Investment in iShares 0 - 3 Month Treasury Bond ETF $SGOV",
-   "url": "https://www.tickerreport.com/banking-finance/13623909/tandem-investment-partners-llc-makes-new-636000-investment-in-ishares-0-3-month-treasury-bond-etf-sgov.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "crypto",
-    "macro",
-    "institution"
-   ]
-  },
-  {
-   "id": "46299fdbd3c8b0b1",
-   "ts": 1792256400,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Vanguard Large - Cap ETF $VV Stock Bought by Intergy Private Wealth LLC",
-   "url": "https://www.tickerreport.com/banking-finance/13623798/vanguard-large-cap-etf-vv-stock-bought-by-intergy-private-wealth-llc.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "e545c030814a8792",
-   "ts": 1792213200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Christine Lagarde: IMFC Statement",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 11
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -268,7 +266,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 3
   },
   "White House": {
    "ok": true,
@@ -329,11 +327,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 35
+   "n": 34
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
