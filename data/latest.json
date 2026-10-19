@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-10-19T06:03:00Z",
- "generated_ts": 1792389780,
+ "generated_at": "2026-10-19T12:56:10Z",
+ "generated_ts": 1792414570,
  "prices": {
   "BTC": {
-   "p": 82702.6,
+   "p": 82471.2,
    "o": 82001.7,
-   "h": 82773.6,
+   "h": 83100.0,
    "l": 80567.9,
-   "v": 1414.84324864
+   "v": 1855.80630165
   },
   "ETH": {
-   "p": 2430.0,
+   "p": 2420.93,
    "o": 2407.51,
-   "h": 2435.19,
+   "h": 2443.7,
    "l": 2326.25,
-   "v": 20193.64993926
+   "v": 22247.99453388
   },
   "SOL": {
-   "p": 105.67,
+   "p": 105.13,
    "o": 103.98,
-   "h": 105.86,
+   "h": 106.08,
    "l": 100.34,
-   "v": 206912.47103852
+   "v": 219552.94262901
   }
  },
  "change_7d": {
-  "BTC": -0.014762024899200768,
-  "ETH": -0.05181816407393681,
-  "SOL": -0.06325969301747844
+  "BTC": -0.012636031172397604,
+  "ETH": -0.04958385261659806,
+  "SOL": -0.05707330267784689
  },
  "sentiment": {
-  "score": 55.0,
+  "score": 52.9,
   "label": "Neutral",
   "components": {
    "fng": 59.0,
-   "momentum": 46.30949377519981,
-   "crowding": 57.346793
+   "momentum": 46.8409922069006,
+   "news_tone": 37.01666666666667,
+   "crowding": 62.846613
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Greed",
   "ts": 1792368000
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.779,
  "derivatives": {
   "BTC": {
-   "funding_h": 8.0089e-06,
-   "oi_usd": 3282643062.78888,
-   "premium": -0.0004347669
+   "funding_h": 1.25e-05,
+   "oi_usd": 3294299704.08033,
+   "premium": -0.0003791122
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2576479033.1904,
-   "premium": -0.0001644061
+   "oi_usd": 2620709633.078401,
+   "premium": -0.0004373731
   },
   "SOL": {
-   "funding_h": -3.807e-07,
-   "oi_usd": 577161940.1372002,
-   "premium": -0.0004727238
+   "funding_h": 1.01962e-05,
+   "oi_usd": 579823406.5680001,
+   "premium": -0.0004332723
   }
  },
- "items_24h": 247,
+ "items_24h": 254,
  "top_items": [
   {
    "id": "55c32826d7485db8",
@@ -103,20 +104,69 @@
    "score": 11008
   },
   {
-   "id": "1877915dab342472",
-   "ts": 1792325124,
+   "id": "eb2f5bbd133c12f8",
+   "ts": 1792404529,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Wow. Our Country was scammed, and we now have the proof. You have not heard the last of this! President DJTThe six largest boomerangs from the 2019 Ukraine impeachment narrative so far: https://justthenews.com/accountability/russia-and-ukraine-scandals/6-biggest-setbacks-2019-ukr",
-   "url": "https://truthsocial.com/@realDonaldTrump/117461819331327618",
+   "title": "The United States Department of Interior wants to take a terrible and very unsafe golf course, and make it into a great, safe, and prestigious golf course. They have an absolute right to do so. It's as simple as that! The judge on the case is a crazed lunatic whose courthouse tap",
+   "url": "https://truthsocial.com/@realDonaldTrump/117467023218108167",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 7224
+  },
+  {
+   "id": "267d338ee4922044",
+   "ts": 1792401263,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Melania Trump makes history presiding over UN Security Council — remarking on Iran war deaths: https://nypost.com/2026/03/02/us-news/melania-trump-makes-history-presiding-over-un-security-council-acknowledges-challenging-times/",
+   "url": "https://truthsocial.com/@realDonaldTrump/117466809182909023",
    "domain": "truthsocial.com",
    "tags": [
     "geo"
    ],
    "author": "Donald Trump",
-   "score": 8789
+   "score": 6078
+  },
+  {
+   "id": "f8a70e1da4dc1e4b",
+   "ts": 1792407100,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I'm going to the Great State of Kansas today to Rally support for Roger Marshall, one of the absolutely best Senators in the U.S. Senate. His opponent is a Fake, and would be a DISASTER for Kansas, a State I won all three times, getting the highest vote in the history of Kansas -",
+   "url": "https://truthsocial.com/@realDonaldTrump/117467191755462147",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 5811
+  },
+  {
+   "id": "43f0f0abf6b1d9e6",
+   "ts": 1792401753,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "How Trump defied the 'experts' — and pushed the UN toward post-Oct. 7 peace: https://nypost.com/2026/10/08/opinion/how-trump-defied-the-experts-and-pushed-the-un-to-post-oct-7-peace/",
+   "url": "https://truthsocial.com/@realDonaldTrump/117466841292482027",
+   "domain": "truthsocial.com",
+   "tags": [
+    "crypto"
+   ],
+   "author": "Donald Trump",
+   "score": 5247
   },
   {
    "id": "23c1a920168d657b",
@@ -149,6 +199,20 @@
    ],
    "author": "Donald Trump",
    "score": 2
+  },
+  {
+   "id": "e2ee396d9641e2d4",
+   "ts": 1792411213,
+   "source": "institution",
+   "group": "institution",
+   "kind": "official",
+   "title": "8-K - Current report",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526424688/0001193125-26-424688-index.htm",
+   "domain": "Strategy (MSTR) filings",
+   "org": "Strategy (MSTR) filings",
+   "tags": [
+    "institution"
+   ]
   },
   {
    "id": "69afe8bb3edd9dc9",
@@ -189,69 +253,13 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "1889f610f5698ce6",
-   "ts": 1792328400,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
-   "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792327065.aa177324cc3eb448",
-   "domain": "decrypt.co",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "fd1a10ab5f3b129f",
-   "ts": 1792319400,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "85 , 629 iShares Core Total USD Bond Market ETF $IUSB Shares Sold by SteelPeak Wealth LLC",
-   "url": "https://www.dailypolitical.com/2026/10/18/85629-ishares-core-total-usd-bond-market-etf-iusb-shares-sold-by-steelpeak-wealth-llc.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "a0a11e50bc39d884",
-   "ts": 1792319400,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "iShares Core Total USD Bond Market ETF $IUSB Position Lowered by SteelPeak Wealth LLC",
-   "url": "https://www.tickerreport.com/banking-finance/13624628/ishares-core-total-usd-bond-market-etf-iusb-position-lowered-by-steelpeak-wealth-llc.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "f7a8431bbb9b751c",
-   "ts": 1792317600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Goldman Sachs Access Treasury 0 - 1 Year ETF $GBIL Shares Bought by Robertson Stephens Wealth Management LLC",
-   "url": "https://www.themarketsdaily.com/2026/10/18/goldman-sachs-access-treasury-0-1-year-etf-gbil-shares-bought-by-robertson-stephens-wealth-management-llc.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "crypto",
-    "macro",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 11
+   "n": 28
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -263,7 +271,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -304,7 +312,7 @@
   },
   "Strategy (MSTR) filings": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "Coinbase filings": {
    "ok": true,
@@ -320,15 +328,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 37
+   "n": 36
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 34
+   "n": 37
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 18
+   "n": 19
   },
   "Reddit r/Bitcoin": {
    "ok": false,
