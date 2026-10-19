@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-10-19T01:03:56Z",
- "generated_ts": 1792371836,
+ "generated_at": "2026-10-19T06:03:00Z",
+ "generated_ts": 1792389780,
  "prices": {
   "BTC": {
-   "p": 82299.7,
+   "p": 82702.6,
    "o": 82001.7,
-   "h": 82425.0,
+   "h": 82773.6,
    "l": 80567.9,
-   "v": 1248.30060945
+   "v": 1414.84324864
   },
   "ETH": {
-   "p": 2414.17,
+   "p": 2430.0,
    "o": 2407.51,
-   "h": 2426.94,
+   "h": 2435.19,
    "l": 2326.25,
-   "v": 18559.34711498
+   "v": 20193.64993926
   },
   "SOL": {
-   "p": 104.32,
+   "p": 105.67,
    "o": 103.98,
-   "h": 104.65,
+   "h": 105.86,
    "l": 100.34,
-   "v": 174185.84236993
+   "v": 206912.47103852
   }
  },
  "change_7d": {
-  "BTC": -0.019823114585594027,
-  "ETH": -0.052131005740347625,
-  "SOL": -0.06599713055954089
+  "BTC": -0.014762024899200768,
+  "ETH": -0.05181816407393681,
+  "SOL": -0.06325969301747844
  },
  "sentiment": {
-  "score": 52.8,
+  "score": 55.0,
   "label": "Neutral",
   "components": {
    "fng": 59.0,
-   "momentum": 45.04422135360149,
-   "news_tone": 39.4,
-   "crowding": 61.976891
+   "momentum": 46.30949377519981,
+   "crowding": 57.346793
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +50,25 @@
   "label": "Greed",
   "ts": 1792368000
  },
- "news_tone_24h": -0.636,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3235882100.106732,
-   "premium": -0.0003762319
+   "funding_h": 8.0089e-06,
+   "oi_usd": 3282643062.78888,
+   "premium": -0.0004347669
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2581629236.1908426,
-   "premium": -0.000372347
+   "oi_usd": 2576479033.1904,
+   "premium": -0.0001644061
   },
   "SOL": {
-   "funding_h": 7.8134e-06,
-   "oi_usd": 569997031.9761001,
-   "premium": -0.0006222775
+   "funding_h": -3.807e-07,
+   "oi_usd": 577161940.1372002,
+   "premium": -0.0004727238
   }
  },
- "items_24h": 231,
+ "items_24h": 247,
  "top_items": [
   {
    "id": "55c32826d7485db8",
@@ -152,6 +151,33 @@
    "score": 2
   },
   {
+   "id": "69afe8bb3edd9dc9",
+   "ts": 1792389600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "18d5ced2bf12a423",
+   "ts": 1792387800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Strategy ( NASDAQ : MSTR ) Price Target Raised to $208 . 00",
+   "url": "https://www.tickerreport.com/banking-finance/13625080/strategy-nasdaqmstr-price-target-raised-to-208-00.html",
+   "domain": "tickerreport.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
    "id": "9dab4d2a0db20a4d",
    "ts": 1792357200,
    "source": "news",
@@ -219,45 +245,17 @@
     "macro",
     "institution"
    ]
-  },
-  {
-   "id": "207f455c125ee5dc",
-   "ts": 1792317600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "23 , 836 Fidelity Enhanced Mid Cap ETF $FMDE Shares Acquired by Strata Wealth Advisors LLC",
-   "url": "https://www.themarketsdaily.com/2026/10/18/23836-fidelity-enhanced-mid-cap-etf-fmde-shares-acquired-by-strata-wealth-advisors-llc.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "2462e6d41bc24df2",
-   "ts": 1792317600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Strata Wealth Advisors LLC Buys 13 , 672 Shares of Fidelity Total Bond ETF $FBND",
-   "url": "https://www.dailypolitical.com/2026/10/18/strata-wealth-advisors-llc-buys-13672-shares-of-fidelity-total-bond-etf-fbnd.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 11
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -265,7 +263,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "White House": {
    "ok": true,
@@ -290,7 +288,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "Bank of England": {
    "ok": true,
@@ -330,7 +328,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 18
   },
   "Reddit r/Bitcoin": {
    "ok": false,
