@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-10-19T19:13:54Z",
- "generated_ts": 1792437234,
+ "generated_at": "2026-10-19T23:32:21Z",
+ "generated_ts": 1792452741,
  "prices": {
   "BTC": {
-   "p": 81815.4,
+   "p": 81941.7,
    "o": 82001.7,
    "h": 83100.0,
-   "l": 80567.9,
-   "v": 2162.63602371
+   "l": 81648.4,
+   "v": 1951.36317335
   },
   "ETH": {
-   "p": 2396.13,
+   "p": 2405.33,
    "o": 2407.51,
    "h": 2443.7,
-   "l": 2326.25,
-   "v": 25766.58408411
+   "l": 2382.78,
+   "v": 18684.8795333
   },
   "SOL": {
-   "p": 103.83,
+   "p": 104.97,
    "o": 103.98,
    "h": 106.08,
-   "l": 100.34,
-   "v": 266635.01317167
+   "l": 103.43,
+   "v": 212895.51889016
   }
  },
  "change_7d": {
-  "BTC": -0.005726104802147342,
-  "ETH": -0.04482581457127712,
-  "SOL": -0.032951689472214524
+  "BTC": -0.001149049432160183,
+  "ETH": -0.024215610666883085,
+  "SOL": -0.011387163561076679
  },
  "sentiment": {
-  "score": 53.9,
-  "label": "Neutral",
+  "score": 57.0,
+  "label": "Greed",
   "components": {
    "fng": 59.0,
-   "momentum": 48.56847379946316,
-   "news_tone": 39.56666666666667,
-   "crowding": 63.6875
+   "momentum": 49.712737641959954,
+   "crowding": 62.164829499999996
   },
   "weights": {
    "fng": 0.35,
@@ -51,42 +50,26 @@
   "label": "Greed",
   "ts": 1792368000
  },
- "news_tone_24h": -0.626,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3248358292.88104,
-   "premium": -0.0003491782
+   "oi_usd": 3281307410.08024,
+   "premium": -0.0002315915
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2585281614.8050785,
-   "premium": -0.0005544601
+   "oi_usd": 2609103461.911309,
+   "premium": -0.000365406
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 571649202.8496,
-   "premium": -0.0005501735
+   "funding_h": 8.3283e-06,
+   "oi_usd": 577337470.952,
+   "premium": -0.0003767854
   }
  },
- "items_24h": 234,
+ "items_24h": 317,
  "top_items": [
-  {
-   "id": "482badd96b571612",
-   "ts": 1792355782,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "My decision on Russia is a very simple one. I am in the process of negotiating Peace in the war between Russia and Ukraine, and don't want to do anything that will drive, foolishly, Russia away from the bargaining table. Great progress is being made, and that includes current hos",
-   "url": "https://truthsocial.com/@realDonaldTrump/117463828588421761",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 11008
-  },
   {
    "id": "eb2f5bbd133c12f8",
    "ts": 1792404529,
@@ -153,6 +136,22 @@
    "score": 5247
   },
   {
+   "id": "e767b4751868a0d3",
+   "ts": 1792447711,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Kansas Senate Dem nominee Adam Hamilton accused of shielding 'child predator' who volunteered for his church in mid-2000s: https://nypost.com/2026/10/02/us-news/kansas-senate-dem-nominee-adam-hamilton-accused-of-shielding-child-predator-who-worked-for-his-church-in-mid-2000s/",
+   "url": "https://truthsocial.com/@realDonaldTrump/117469853201214681",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3899
+  },
+  {
    "id": "994c51bc49300d2a",
    "ts": 1792435107,
    "source": "truth",
@@ -217,6 +216,18 @@
    "score": 860
   },
   {
+   "id": "8b8e253a6cc4d39b",
+   "ts": 1792432825,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Delivers Historic Wins for Kansas Workers, Families, Farmers, and Rural Communities",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-delivers-historic-wins-for-kansas-workers-families-farmers-and-rural-communities/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
    "id": "52af5a23bbe6a89b",
    "ts": 1792430383,
    "source": "regulator",
@@ -231,43 +242,27 @@
    ]
   },
   {
-   "id": "e2ee396d9641e2d4",
-   "ts": 1792411213,
-   "source": "institution",
-   "group": "institution",
+   "id": "f0f2c7e593980d86",
+   "ts": 1792424108,
+   "source": "government",
+   "group": "government",
    "kind": "official",
-   "title": "8-K - Current report",
-   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526424688/0001193125-26-424688-index.htm",
-   "domain": "Strategy (MSTR) filings",
-   "org": "Strategy (MSTR) filings",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "69afe8bb3edd9dc9",
-   "ts": 1792389600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
+   "title": "First Lady Melania Trump Champions New U.S. Women’s Health Initiative",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-champions-new-u-s-womens-health-initiative/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 26
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -279,7 +274,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 14
+   "n": 18
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -332,7 +327,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 36
+   "n": 38
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
@@ -340,7 +335,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 21
   },
   "Reddit r/Bitcoin": {
    "ok": false,
