@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-19T12:56:10Z",
- "generated_ts": 1792414570,
+ "generated_at": "2026-10-19T19:13:54Z",
+ "generated_ts": 1792437234,
  "prices": {
   "BTC": {
-   "p": 82471.2,
+   "p": 81815.4,
    "o": 82001.7,
    "h": 83100.0,
    "l": 80567.9,
-   "v": 1855.80630165
+   "v": 2162.63602371
   },
   "ETH": {
-   "p": 2420.93,
+   "p": 2396.13,
    "o": 2407.51,
    "h": 2443.7,
    "l": 2326.25,
-   "v": 22247.99453388
+   "v": 25766.58408411
   },
   "SOL": {
-   "p": 105.13,
+   "p": 103.83,
    "o": 103.98,
    "h": 106.08,
    "l": 100.34,
-   "v": 219552.94262901
+   "v": 266635.01317167
   }
  },
  "change_7d": {
-  "BTC": -0.012636031172397604,
-  "ETH": -0.04958385261659806,
-  "SOL": -0.05707330267784689
+  "BTC": -0.005726104802147342,
+  "ETH": -0.04482581457127712,
+  "SOL": -0.032951689472214524
  },
  "sentiment": {
-  "score": 52.9,
+  "score": 53.9,
   "label": "Neutral",
   "components": {
    "fng": 59.0,
-   "momentum": 46.8409922069006,
-   "news_tone": 37.01666666666667,
-   "crowding": 62.846613
+   "momentum": 48.56847379946316,
+   "news_tone": 39.56666666666667,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -51,42 +51,26 @@
   "label": "Greed",
   "ts": 1792368000
  },
- "news_tone_24h": -0.779,
+ "news_tone_24h": -0.626,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3294299704.08033,
-   "premium": -0.0003791122
+   "oi_usd": 3248358292.88104,
+   "premium": -0.0003491782
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2620709633.078401,
-   "premium": -0.0004373731
+   "oi_usd": 2585281614.8050785,
+   "premium": -0.0005544601
   },
   "SOL": {
-   "funding_h": 1.01962e-05,
-   "oi_usd": 579823406.5680001,
-   "premium": -0.0004332723
+   "funding_h": 1.25e-05,
+   "oi_usd": 571649202.8496,
+   "premium": -0.0005501735
   }
  },
- "items_24h": 254,
+ "items_24h": 234,
  "top_items": [
-  {
-   "id": "55c32826d7485db8",
-   "ts": 1792334734,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "To the Great People of Israel:Bibi Netanyahu has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran, with its 51 year old chant, \"Death to Israel, Death to America! We will destroy the Little Satan and the Big Sat",
-   "url": "https://truthsocial.com/@realDonaldTrump/117462449149582042",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 19241
-  },
   {
    "id": "482badd96b571612",
    "ts": 1792355782,
@@ -169,36 +153,82 @@
    "score": 5247
   },
   {
-   "id": "23c1a920168d657b",
-   "ts": 1792332551,
+   "id": "994c51bc49300d2a",
+   "ts": 1792435107,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "I am pleased to announce that the Department of the Interior, under the auspices of Secretary Doug Burgum, and in conjunction with famed Golf Course Architect, Tom Fazio, has developed a plan to build a World Class Championship Golf Course on the site of the current East Potomac ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117462306089931035",
+   "title": "I am pleased to nominate Eric Hamilton to serve as Judge on the United States District Court for the District of Nebraska. Eric has done a phenomenal job as the Deputy Assistant Attorney General for the Federal Programs Branch, defending our Administration's most important Polici",
+   "url": "https://truthsocial.com/@realDonaldTrump/117469027191542871",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2411
+  },
+  {
+   "id": "911d2149ede74ade",
+   "ts": 1792435271,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I am pleased to nominate Joseph Falvey to serve as Judge on the United States District Court for the Northern District of Indiana. Joe is currently an Assistant U.S. Attorney, where he has done an incredible job protecting Public Safety, and promoting Law and Order. Joe is a grad",
+   "url": "https://truthsocial.com/@realDonaldTrump/117469037934097385",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2388
+  },
+  {
+   "id": "edef9e2b179908cd",
+   "ts": 1792436716,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The Democrats gave us the Highest Inflation in History, and the Highest Prices to go with it and, as soon as l came into Office, they started screaming,\"AFFORDABILITY.\" They are the ones that created the Affordability Crisis. I'm the one who created the Greatest Economy, and am b",
+   "url": "https://truthsocial.com/@realDonaldTrump/117469132662412438",
    "domain": "truthsocial.com",
    "tags": [
     "macro"
    ],
    "author": "Donald Trump",
-   "score": 2576
+   "score": 1436
   },
   {
-   "id": "746c278b2d943f52",
-   "ts": 1792335757,
+   "id": "0049132a1e1e8d85",
+   "ts": 1792436838,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "RT @realDonaldTrumpTo the Great People of Israel:Bibi Netanyahu has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran, with its 51 year old chant, \"Death to Israel, Death to America! We will destroy the Little Sa",
-   "url": "https://truthsocial.com/@realDonaldTrump/117462516183501342",
+   "title": "A big WIN for Massapequa and DJT!NY plans to drop part of Native American logo ban in 'huge victory' for Massapequa: https://nypost.com/2026/10/19/us-news/nys-dropping-part-of-native-american-logo-ban-in-huge-victory-for-massapequa/",
+   "url": "https://truthsocial.com/@realDonaldTrump/117469140644731762",
    "domain": "truthsocial.com",
    "tags": [
-    "geo"
+    "regulation"
    ],
    "author": "Donald Trump",
-   "score": 2
+   "score": 860
+  },
+  {
+   "id": "52af5a23bbe6a89b",
+   "ts": 1792430383,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence",
+   "domain": "SEC",
+   "org": "SEC",
+   "tags": [
+    "regulation"
+   ]
   },
   {
    "id": "e2ee396d9641e2d4",
@@ -227,43 +257,17 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "18d5ced2bf12a423",
-   "ts": 1792387800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Strategy ( NASDAQ : MSTR ) Price Target Raised to $208 . 00",
-   "url": "https://www.tickerreport.com/banking-finance/13625080/strategy-nasdaqmstr-price-target-raised-to-208-00.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "9dab4d2a0db20a4d",
-   "ts": 1792357200,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
-   "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792356159.f6e7d81ab41ff839",
-   "domain": "decrypt.co",
-   "tags": [
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 28
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -284,7 +288,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "CFTC": {
    "ok": true,
@@ -332,11 +336,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 37
+   "n": 40
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
