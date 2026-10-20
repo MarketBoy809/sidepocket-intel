@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-20T09:56:49Z",
- "generated_ts": 1792490209,
+ "generated_at": "2026-10-20T14:56:16Z",
+ "generated_ts": 1792508176,
  "prices": {
   "BTC": {
-   "p": 81358.8,
+   "p": 83145.2,
    "o": 81843.0,
-   "h": 82847.1,
+   "h": 83250.0,
    "l": 81099.7,
-   "v": 1467.27363017
+   "v": 1665.30499897
   },
   "ETH": {
-   "p": 2379.92,
+   "p": 2466.03,
    "o": 2405.43,
-   "h": 2440.18,
+   "h": 2469.55,
    "l": 2370.41,
-   "v": 19677.53576239
+   "v": 21545.37250037
   },
   "SOL": {
-   "p": 103.84,
+   "p": 107.51,
    "o": 104.95,
-   "h": 105.53,
-   "l": 103.43,
-   "v": 170657.81993435
+   "h": 108.13,
+   "l": 103.5,
+   "v": 168193.0161914
   }
  },
  "change_7d": {
-  "BTC": -0.02464160893816206,
-  "ETH": -0.05287431268164496,
-  "SOL": -0.03291798400595133
+  "BTC": -0.013468098489333028,
+  "ETH": -0.03661063596578953,
+  "SOL": -0.014532158259891218
  },
  "sentiment": {
-  "score": 49.1,
+  "score": 52.0,
   "label": "Neutral",
   "components": {
    "fng": 55.0,
-   "momentum": 43.83959776545949,
-   "news_tone": 38.199999999999996,
-   "crowding": 53.0619485
+   "momentum": 46.632975377666746,
+   "news_tone": 40.46666666666667,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +51,25 @@
   "label": "Greed",
   "ts": 1792454400
  },
- "news_tone_24h": -0.708,
+ "news_tone_24h": -0.572,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3291456846.6511803,
-   "premium": -0.0003191202
+   "oi_usd": 3494716327.4053884,
+   "premium": -0.000156158
   },
   "ETH": {
-   "funding_h": -2.0644e-06,
-   "oi_usd": 2565365853.8068814,
-   "premium": -0.0005622834
+   "funding_h": 1.25e-05,
+   "oi_usd": 2636879406.4292436,
+   "premium": -0.0003645939
   },
   "SOL": {
-   "funding_h": -2.0467e-06,
-   "oi_usd": 571411193.5575999,
-   "premium": -0.0003846524
+   "funding_h": 1.25e-05,
+   "oi_usd": 597370733.9707998,
+   "premium": -0.0003715055
   }
  },
- "items_24h": 335,
+ "items_24h": 296,
  "top_items": [
   {
    "id": "331d70bbf17472ba",
@@ -136,22 +136,6 @@
    ],
    "author": "Donald Trump",
    "score": 7717
-  },
-  {
-   "id": "eb2f5bbd133c12f8",
-   "ts": 1792404529,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The United States Department of Interior wants to take a terrible and very unsafe golf course, and make it into a great, safe, and prestigious golf course. They have an absolute right to do so. It's as simple as that! The judge on the case is a crazed lunatic whose courthouse tap",
-   "url": "https://truthsocial.com/@realDonaldTrump/117467023218108167",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 7224
   },
   {
    "id": "0bfaca3f5a718b73",
@@ -269,17 +253,33 @@
    ],
    "author": "Donald Trump",
    "score": 6228
+  },
+  {
+   "id": "a1f5ff353aca7ef2",
+   "ts": 1792458978,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The choice in this Election is very simple. You can vote for the Radical Left Dumocrat Communists to loot your Wealth, raise your Taxes by 5 Trillion Dollars, annihilate your Borders, decimate Kansas Farms, mutilate your Children, and give 25 Million Illegal Aliens Amnesty and th",
+   "url": "https://truthsocial.com/@realDonaldTrump/117470591632121393",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro"
+   ],
+   "author": "Donald Trump",
+   "score": 6176
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 15
+   "n": 30
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -287,7 +287,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 3
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -300,7 +300,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 2
+   "n": 4
   },
   "CFTC": {
    "ok": true,
@@ -328,7 +328,7 @@
   },
   "Strategy (MSTR) filings": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "Coinbase filings": {
    "ok": true,
@@ -352,7 +352,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
