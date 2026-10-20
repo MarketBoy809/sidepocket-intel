@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-20T04:37:28Z",
- "generated_ts": 1792471048,
+ "generated_at": "2026-10-20T09:56:49Z",
+ "generated_ts": 1792490209,
  "prices": {
   "BTC": {
-   "p": 82050.5,
+   "p": 81358.8,
    "o": 81843.0,
-   "h": 83100.0,
+   "h": 82847.1,
    "l": 81099.7,
-   "v": 1666.32097583
+   "v": 1467.27363017
   },
   "ETH": {
-   "p": 2410.97,
+   "p": 2379.92,
    "o": 2405.43,
-   "h": 2443.7,
+   "h": 2440.18,
    "l": 2370.41,
-   "v": 20273.63134994
+   "v": 19677.53576239
   },
   "SOL": {
-   "p": 105.2,
+   "p": 103.84,
    "o": 104.95,
-   "h": 106.08,
+   "h": 105.53,
    "l": 103.43,
-   "v": 191885.91508036
+   "v": 170657.81993435
   }
  },
  "change_7d": {
-  "BTC": -0.014391126443233641,
-  "ETH": -0.03751965581373064,
-  "SOL": -0.019934792734047514
+  "BTC": -0.02464160893816206,
+  "ETH": -0.05287431268164496,
+  "SOL": -0.03291798400595133
  },
  "sentiment": {
-  "score": 51.5,
+  "score": 49.1,
   "label": "Neutral",
   "components": {
    "fng": 55.0,
-   "momentum": 46.40221838919159,
-   "news_tone": 38.8,
-   "crowding": 62.6702085
+   "momentum": 43.83959776545949,
+   "news_tone": 38.199999999999996,
+   "crowding": 53.0619485
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +51,25 @@
   "label": "Greed",
   "ts": 1792454400
  },
- "news_tone_24h": -0.672,
+ "news_tone_24h": -0.708,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3259564742.2741117,
-   "premium": -0.000188685
+   "oi_usd": 3291456846.6511803,
+   "premium": -0.0003191202
   },
   "ETH": {
-   "funding_h": 9.7129e-06,
-   "oi_usd": 2598561155.4375,
-   "premium": -0.0004516094
+   "funding_h": -2.0644e-06,
+   "oi_usd": 2565365853.8068814,
+   "premium": -0.0005622834
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 578298943.595,
-   "premium": -0.0003323994
+   "funding_h": -2.0467e-06,
+   "oi_usd": 571411193.5575999,
+   "premium": -0.0003846524
   }
  },
- "items_24h": 307,
+ "items_24h": 335,
  "top_items": [
   {
    "id": "331d70bbf17472ba",
@@ -275,11 +275,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 15
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -287,11 +287,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "White House": {
    "ok": true,
-   "n": 18
+   "n": 19
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -312,7 +312,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "Bank of England": {
    "ok": true,
@@ -320,7 +320,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "BIS": {
    "ok": true,
