@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-10-20T14:56:16Z",
- "generated_ts": 1792508176,
+ "generated_at": "2026-10-20T19:08:34Z",
+ "generated_ts": 1792523314,
  "prices": {
   "BTC": {
-   "p": 83145.2,
+   "p": 82445.2,
    "o": 81843.0,
-   "h": 83250.0,
+   "h": 83339.1,
    "l": 81099.7,
-   "v": 1665.30499897
+   "v": 2064.40131739
   },
   "ETH": {
-   "p": 2466.03,
+   "p": 2434.71,
    "o": 2405.43,
-   "h": 2469.55,
+   "h": 2475.0,
    "l": 2370.41,
-   "v": 21545.37250037
+   "v": 24124.2939419
   },
   "SOL": {
-   "p": 107.51,
+   "p": 105.74,
    "o": 104.95,
    "h": 108.13,
    "l": 103.5,
-   "v": 168193.0161914
+   "v": 203846.61433198
   }
  },
  "change_7d": {
-  "BTC": -0.013468098489333028,
-  "ETH": -0.03661063596578953,
-  "SOL": -0.014532158259891218
+  "BTC": -0.007510389898377519,
+  "ETH": -0.028248024034759324,
+  "SOL": -0.017354988399071968
  },
  "sentiment": {
-  "score": 52.0,
+  "score": 54.8,
   "label": "Neutral",
   "components": {
    "fng": 55.0,
-   "momentum": 46.632975377666746,
-   "news_tone": 40.46666666666667,
-   "crowding": 63.6875
+   "momentum": 48.12240252540562,
+   "crowding": 63.087841499999996
   },
   "weights": {
    "fng": 0.35,
@@ -51,26 +50,42 @@
   "label": "Greed",
   "ts": 1792454400
  },
- "news_tone_24h": -0.572,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3494716327.4053884,
-   "premium": -0.000156158
+   "oi_usd": 3402999989.7922597,
+   "premium": -0.0003210662
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2636879406.4292436,
-   "premium": -0.0003645939
+   "oi_usd": 2612188851.8423204,
+   "premium": -0.0003610434
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 597370733.9707998,
-   "premium": -0.0003715055
+   "funding_h": 1.08571e-05,
+   "oi_usd": 585853721.0239997,
+   "premium": -0.0005194805
   }
  },
- "items_24h": 296,
+ "items_24h": 305,
  "top_items": [
+  {
+   "id": "f0af49a3763f520f",
+   "ts": 1792516141,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Because of my belief in the Republican Party, and all of our Policies and Principles, and especially after witnessing what is taking place in France, and other locations throughout Europe, I am pleased to announce that, having to do with the Most Important Midterm Elections in ou",
+   "url": "https://truthsocial.com/@realDonaldTrump/117474337843871362",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro"
+   ],
+   "author": "Donald Trump",
+   "score": 23347
+  },
   {
    "id": "331d70bbf17472ba",
    "ts": 1792459116,
@@ -253,29 +268,13 @@
    ],
    "author": "Donald Trump",
    "score": 6228
-  },
-  {
-   "id": "a1f5ff353aca7ef2",
-   "ts": 1792458978,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The choice in this Election is very simple. You can vote for the Radical Left Dumocrat Communists to loot your Wealth, raise your Taxes by 5 Trillion Dollars, annihilate your Borders, decimate Kansas Farms, mutilate your Children, and give 25 Million Illegal Aliens Amnesty and th",
-   "url": "https://truthsocial.com/@realDonaldTrump/117470591632121393",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro"
-   ],
-   "author": "Donald Trump",
-   "score": 6176
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 30
+   "n": 37
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -291,7 +290,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 19
+   "n": 18
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -304,19 +303,19 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "European Central Bank": {
    "ok": true,
-   "n": 5
+   "n": 4
   },
   "Bank of England": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "Bank of Japan": {
    "ok": true,
