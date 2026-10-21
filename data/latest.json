@@ -1,41 +1,40 @@
 {
- "generated_at": "2026-10-21T07:27:32Z",
- "generated_ts": 1792567652,
+ "generated_at": "2026-10-21T13:41:26Z",
+ "generated_ts": 1792590086,
  "prices": {
   "BTC": {
-   "p": 82809.8,
+   "p": 83436.1,
    "o": 82936.1,
-   "h": 83339.1,
-   "l": 81200.0,
-   "v": 2115.9310944
+   "h": 83794.2,
+   "l": 81520.8,
+   "v": 2122.66587619
   },
   "ETH": {
-   "p": 2444.18,
+   "p": 2463.53,
    "o": 2446.55,
-   "h": 2475.0,
-   "l": 2374.44,
-   "v": 23894.04061697
+   "h": 2494.45,
+   "l": 2390.48,
+   "v": 25389.71979114
   },
   "SOL": {
-   "p": 106.25,
+   "p": 106.48,
    "o": 106.43,
    "h": 108.13,
-   "l": 103.65,
-   "v": 243508.13136363
+   "l": 104.14,
+   "v": 270649.25208245
   }
  },
  "change_7d": {
-  "BTC": -0.007639165598522515,
-  "ETH": -0.026043310941227745,
-  "SOL": -0.011021856902671462
+  "BTC": 0.009060645965606762,
+  "ETH": -0.003193325545391561,
+  "SOL": 0.014428096820123497
  },
  "sentiment": {
-  "score": 56.2,
+  "score": 60.1,
   "label": "Greed",
   "components": {
    "fng": 63.0,
-   "momentum": 48.09020860036937,
-   "news_tone": 43.9,
+   "momentum": 52.26516149140169,
    "crowding": 63.6875
   },
   "weights": {
@@ -51,25 +50,25 @@
   "label": "Greed",
   "ts": 1792540800
  },
- "news_tone_24h": -0.366,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3395363979.02352,
-   "premium": -0.0001821206
+   "oi_usd": 3458156847.70374,
+   "premium": -7.9012e-05
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2646222348.841214,
-   "premium": -8.58155e-05
+   "oi_usd": 2714449257.8387976,
+   "premium": 6.48761e-05
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 579054259.0195998,
-   "premium": -0.0002914082
+   "oi_usd": 579471162.1665599,
+   "premium": -0.0003281609
   }
  },
- "items_24h": 400,
+ "items_24h": 455,
  "top_items": [
   {
    "id": "f0af49a3763f520f",
@@ -86,6 +85,38 @@
    ],
    "author": "Donald Trump",
    "score": 23347
+  },
+  {
+   "id": "0c4dc57222ac94bd",
+   "ts": 1792579052,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Stephen Hubbard, taken four years ago by Russia during the Biden Administration, was just released from prison, at the request of President Donald J. Trump, made directly to President Vladimir Putin in a telephone conversation last week. Stephen is on his way back home and will s",
+   "url": "https://truthsocial.com/@realDonaldTrump/117478460769539937",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 9339
+  },
+  {
+   "id": "6d0cef6446462389",
+   "ts": 1792579784,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Numerous people, who requested that sanctions be immediately imposed on Russia, have called to apologize to President Trump in that they didn't know that he was negotiating the release of Stephen Hubbard, a truly big and important deal for the U.S. If sanctions would have been pl",
+   "url": "https://truthsocial.com/@realDonaldTrump/117478508731391744",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 8045
   },
   {
    "id": "3122b996b7fa76cf",
@@ -152,6 +183,20 @@
    "score": 4286
   },
   {
+   "id": "c89c45c477634a5e",
+   "ts": 1792569600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
    "id": "c66aeb50a0f620f8",
    "ts": 1792556100,
    "source": "central_bank",
@@ -203,54 +248,13 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "a0269ae9ba3daef6",
-   "ts": 1792541700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "We Did the Math on What $100 , 000 Earns in 4 Covered Call ETFs . The Gap Is $4 , 632 a Year",
-   "url": "https://www.aol.com/articles/did-math-100-000-earns-233306000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "532c65c647614ec4",
-   "ts": 1792539900,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Announces Dividend of $0 . 04",
-   "url": "https://www.themarketsdaily.com/2026/10/20/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-announces-dividend-of-0-04-2.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "c761b507024b8822",
-   "ts": 1792539000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Forget GBTC . BlackRock Charges $1 , 250 Less a Year to Hold the Same Bitcoin on $100 , 000",
-   "url": "https://www.aol.com/articles/forget-gbtc-blackrock-charges-1-223338000.html",
-   "domain": "aol.com",
-   "tags": [
-    "crypto",
-    "institution",
-    "BTC"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 25
+   "n": 37
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -287,7 +291,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "Bank of England": {
    "ok": true,
@@ -295,7 +299,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 5
+   "n": 3
   },
   "BIS": {
    "ok": true,
@@ -327,7 +331,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 25
   },
   "Reddit r/Bitcoin": {
    "ok": false,
