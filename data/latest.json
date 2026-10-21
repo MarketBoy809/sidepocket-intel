@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-21T13:41:26Z",
- "generated_ts": 1792590086,
+ "generated_at": "2026-10-21T18:32:53Z",
+ "generated_ts": 1792607573,
  "prices": {
   "BTC": {
-   "p": 83436.1,
+   "p": 84688.0,
    "o": 82936.1,
-   "h": 83794.2,
-   "l": 81520.8,
-   "v": 2122.66587619
+   "h": 84840.0,
+   "l": 82293.7,
+   "v": 2274.73588708
   },
   "ETH": {
-   "p": 2463.53,
+   "p": 2514.35,
    "o": 2446.55,
-   "h": 2494.45,
-   "l": 2390.48,
-   "v": 25389.71979114
+   "h": 2524.58,
+   "l": 2422.5,
+   "v": 23869.66015321
   },
   "SOL": {
-   "p": 106.48,
+   "p": 109.05,
    "o": 106.43,
-   "h": 108.13,
-   "l": 104.14,
-   "v": 270649.25208245
+   "h": 109.15,
+   "l": 105.19,
+   "v": 253277.64506152
   }
  },
  "change_7d": {
-  "BTC": 0.009060645965606762,
-  "ETH": -0.003193325545391561,
-  "SOL": 0.014428096820123497
+  "BTC": 0.03830613966946495,
+  "ETH": 0.034737747913552906,
+  "SOL": 0.04046021093000958
  },
  "sentiment": {
-  "score": 60.1,
+  "score": 61.6,
   "label": "Greed",
   "components": {
    "fng": 63.0,
-   "momentum": 52.26516149140169,
-   "crowding": 63.6875
+   "momentum": 59.57653491736624,
+   "crowding": 60.921603000000005
   },
   "weights": {
    "fng": 0.35,
@@ -53,39 +53,23 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3458156847.70374,
-   "premium": -7.9012e-05
+   "funding_h": 4.9222e-06,
+   "oi_usd": 3454761170.0238,
+   "premium": -0.0005144142
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2714449257.8387976,
-   "premium": 6.48761e-05
+   "oi_usd": 2807281774.2901816,
+   "premium": -9.14102e-05
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 579471162.1665599,
-   "premium": -0.0003281609
+   "oi_usd": 591490455.6276,
+   "premium": 0.0
   }
  },
- "items_24h": 455,
+ "items_24h": 497,
  "top_items": [
-  {
-   "id": "f0af49a3763f520f",
-   "ts": 1792516141,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Because of my belief in the Republican Party, and all of our Policies and Principles, and especially after witnessing what is taking place in France, and other locations throughout Europe, I am pleased to announce that, having to do with the Most Important Midterm Elections in ou",
-   "url": "https://truthsocial.com/@realDonaldTrump/117474337843871362",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro"
-   ],
-   "author": "Donald Trump",
-   "score": 23347
-  },
   {
    "id": "0c4dc57222ac94bd",
    "ts": 1792579052,
@@ -117,6 +101,22 @@
    ],
    "author": "Donald Trump",
    "score": 8045
+  },
+  {
+   "id": "dbeba98a6cff84e6",
+   "ts": 1792603253,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Stephen Hubbard and Family COMING HOME from Russia. Should have been done a long time ago by Sleepy Joe Biden and the Dumocrats! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117480046790001681",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 5814
   },
   {
    "id": "3122b996b7fa76cf",
@@ -183,69 +183,68 @@
    "score": 4286
   },
   {
-   "id": "c89c45c477634a5e",
-   "ts": 1792569600,
-   "source": "central_bank",
-   "group": "central_bank",
+   "id": "cbf62954e45134c0",
+   "ts": 1792607205,
+   "source": "government",
+   "group": "government",
    "kind": "official",
-   "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
+   "title": "President Trump Secures Major Wins for South Carolina Workers, Families, and Communities",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-wins-for-south-carolina-workers-families-and-communities/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
-   "id": "c66aeb50a0f620f8",
-   "ts": 1792556100,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "6a9144ada2a86898",
-   "ts": 1792542600,
+   "id": "b8cc8a91295290d1",
+   "ts": 1792606500,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Announces Dividend Increase – $0 . 04 Per Share",
-   "url": "https://www.themarketsdaily.com/2026/10/20/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-announces-dividend-increase-0-04-per-share.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "5e5ac13f86247fd1",
-   "ts": 1792542600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Plans Dividend Increase – $0 . 04 Per Share",
-   "url": "https://www.tickerreport.com/banking-finance/13627826/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-plans-dividend-increase-0-04-per-share.html",
+   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Declares Dividend of $0 . 04",
+   "url": "https://www.tickerreport.com/banking-finance/13629105/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-declares-dividend-of-0-04-2.html",
    "domain": "tickerreport.com",
    "tags": [
     "institution"
    ]
   },
   {
-   "id": "9fe884353ca78db6",
-   "ts": 1792541700,
+   "id": "5f7be25d97bbd3b8",
+   "ts": 1792606500,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "We Did the Math on What $100 , 000 Earns in 4 Covered Call ETFs . The Gap Is $4 , 632 a Year",
-   "url": "https://247wallst.com/investing/etf/2026/10/20/we-did-the-math-on-what-100000-earns-in-4-covered-call-etfs-the-gap-is-4632-a-year/",
-   "domain": "247wallst.com",
+   "title": "Are prediction markets just gambling ? Kalshi CEO responds",
+   "url": "https://reason.com/podcast/2026/10/21/are-prediction-markets-just-gambling-kalshi-ceo-responds/",
+   "domain": "reason.com",
    "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "bc35783cc867081b",
+   "ts": 1792605600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Vanguard Total Bond Market ETF $BND Shares Purchased by Fifth Third Securities Inc .",
+   "url": "https://www.dailypolitical.com/2026/10/21/vanguard-total-bond-market-etf-bnd-shares-purchased-by-fifth-third-securities-inc.html",
+   "domain": "dailypolitical.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "6b585c9f7c752ea7",
+   "ts": 1792605600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Sterling Manor Financial LLC Acquires New Shares in Fidelity Small - Mid Multifactor ETF $FSMD",
+   "url": "https://www.tickerreport.com/banking-finance/13629089/sterling-manor-financial-llc-acquires-new-shares-in-fidelity-small-mid-multifactor-etf-fsmd.html",
+   "domain": "tickerreport.com",
+   "tags": [
+    "crypto",
     "institution"
    ]
   }
@@ -254,11 +253,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 37
+   "n": 59
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -266,11 +265,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 24
   },
   "White House": {
    "ok": true,
-   "n": 18
+   "n": 19
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -279,7 +278,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "CFTC": {
    "ok": true,
@@ -323,7 +322,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 38
+   "n": 39
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
@@ -331,7 +330,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 25
+   "n": 24
   },
   "Reddit r/Bitcoin": {
    "ok": false,
