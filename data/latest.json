@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-21T01:30:37Z",
- "generated_ts": 1792546237,
+ "generated_at": "2026-10-21T07:27:32Z",
+ "generated_ts": 1792567652,
  "prices": {
   "BTC": {
-   "p": 82872.7,
+   "p": 82809.8,
    "o": 82936.1,
    "h": 83339.1,
    "l": 81200.0,
-   "v": 2171.44977193
+   "v": 2115.9310944
   },
   "ETH": {
-   "p": 2449.45,
+   "p": 2444.18,
    "o": 2446.55,
    "h": 2475.0,
    "l": 2374.44,
-   "v": 24350.16123499
+   "v": 23894.04061697
   },
   "SOL": {
-   "p": 106.57,
+   "p": 106.25,
    "o": 106.43,
    "h": 108.13,
    "l": 103.65,
-   "v": 248698.11106001
+   "v": 243508.13136363
   }
  },
  "change_7d": {
-  "BTC": -0.004772287472787268,
-  "ETH": -0.02188021361346825,
-  "SOL": -0.007546115148127467
+  "BTC": -0.007639165598522515,
+  "ETH": -0.026043310941227745,
+  "SOL": -0.011021856902671462
  },
  "sentiment": {
-  "score": 55.8,
-  "label": "Neutral",
+  "score": 56.2,
+  "label": "Greed",
   "components": {
    "fng": 63.0,
-   "momentum": 48.80692813180318,
-   "news_tone": 40.416666666666664,
+   "momentum": 48.09020860036937,
+   "news_tone": 43.9,
    "crowding": 63.6875
   },
   "weights": {
@@ -51,25 +51,25 @@
   "label": "Greed",
   "ts": 1792540800
  },
- "news_tone_24h": -0.575,
+ "news_tone_24h": -0.366,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3402196456.2139,
-   "premium": -0.0002024906
+   "oi_usd": 3395363979.02352,
+   "premium": -0.0001821206
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2630476116.075121,
-   "premium": -0.0001223192
+   "oi_usd": 2646222348.841214,
+   "premium": -8.58155e-05
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 581009060.2127999,
-   "premium": -0.0003533678
+   "oi_usd": 579054259.0195998,
+   "premium": -0.0002914082
   }
  },
- "items_24h": 326,
+ "items_24h": 400,
  "top_items": [
   {
    "id": "f0af49a3763f520f",
@@ -120,6 +120,22 @@
    "score": 4616
   },
   {
+   "id": "6b721164db520768",
+   "ts": 1792547086,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Cook Political Report shifts Minnesota Senate race toward GOP: https://justthenews.com/politics-policy/cook-political-report-shifts-minnesota-senate-race-toward-gop",
+   "url": "https://truthsocial.com/@realDonaldTrump/117476365886992522",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4576
+  },
+  {
    "id": "be6d0bd5e087c35c",
    "ts": 1792530444,
    "source": "truth",
@@ -134,6 +150,20 @@
    ],
    "author": "Donald Trump",
    "score": 4286
+  },
+  {
+   "id": "c66aeb50a0f620f8",
+   "ts": 1792556100,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "6a9144ada2a86898",
@@ -214,44 +244,17 @@
     "institution",
     "BTC"
    ]
-  },
-  {
-   "id": "04c33432d2a2af57",
-   "ts": 1792539000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
-   "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792534650.339dbf5059535291",
-   "domain": "decrypt.co",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "a55e2989a8c5d22d",
-   "ts": 1792534500,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Goldman Sachs Is Paying Up to $2 . 25 Billion for a $30 Billion ETF Business . Is That Enough to Lift the Stock Back to a Record by 2028 ?",
-   "url": "https://www.fool.com/investing/2026/10/20/goldman-sachs-is-paying-up-to-225-billion-for-a-30/?source=iedfolrf0000001",
-   "domain": "fool.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 18
+   "n": 25
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -259,11 +262,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 7
+   "n": 0
   },
   "White House": {
    "ok": true,
-   "n": 19
+   "n": 18
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -284,7 +287,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "Bank of England": {
    "ok": true,
@@ -324,7 +327,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 21
   },
   "Reddit r/Bitcoin": {
    "ok": false,
