@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-20T23:07:04Z",
- "generated_ts": 1792537624,
+ "generated_at": "2026-10-21T01:30:37Z",
+ "generated_ts": 1792546237,
  "prices": {
   "BTC": {
-   "p": 82925.9,
-   "o": 81843.0,
+   "p": 82872.7,
+   "o": 82936.1,
    "h": 83339.1,
-   "l": 81099.7,
-   "v": 2146.04091903
+   "l": 81200.0,
+   "v": 2171.44977193
   },
   "ETH": {
-   "p": 2448.92,
-   "o": 2405.43,
+   "p": 2449.45,
+   "o": 2446.55,
    "h": 2475.0,
-   "l": 2370.41,
-   "v": 25757.30265898
+   "l": 2374.44,
+   "v": 24350.16123499
   },
   "SOL": {
-   "p": 106.5,
-   "o": 104.95,
+   "p": 106.57,
+   "o": 106.43,
    "h": 108.13,
-   "l": 103.5,
-   "v": 252610.97150249
+   "l": 103.65,
+   "v": 248698.11106001
   }
  },
  "change_7d": {
-  "BTC": -0.005328263087842687,
-  "ETH": -0.022024623257779048,
-  "SOL": -0.0015899738121960504
+  "BTC": -0.004772287472787268,
+  "ETH": -0.02188021361346825,
+  "SOL": -0.007546115148127467
  },
  "sentiment": {
-  "score": 51.9,
+  "score": 55.8,
   "label": "Neutral",
   "components": {
-   "fng": 55.0,
-   "momentum": 48.66793422803933,
-   "news_tone": 37.46666666666667,
+   "fng": 63.0,
+   "momentum": 48.80692813180318,
+   "news_tone": 40.416666666666664,
    "crowding": 63.6875
   },
   "weights": {
@@ -47,29 +47,29 @@
   }
  },
  "fear_greed": {
-  "value": 55,
+  "value": 63,
   "label": "Greed",
-  "ts": 1792454400
+  "ts": 1792540800
  },
- "news_tone_24h": -0.752,
+ "news_tone_24h": -0.575,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3407793714.8497596,
-   "premium": -0.0002650283
+   "oi_usd": 3402196456.2139,
+   "premium": -0.0002024906
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2595410023.6412387,
-   "premium": -0.0002488161
+   "oi_usd": 2630476116.075121,
+   "premium": -0.0001223192
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 583138481.5296,
-   "premium": -0.0003133402
+   "oi_usd": 581009060.2127999,
+   "premium": -0.0003533678
   }
  },
- "items_24h": 296,
+ "items_24h": 326,
  "top_items": [
   {
    "id": "f0af49a3763f520f",
@@ -88,198 +88,170 @@
    "score": 23347
   },
   {
-   "id": "331d70bbf17472ba",
-   "ts": 1792459116,
+   "id": "3122b996b7fa76cf",
+   "ts": 1792530491,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "We abolished all discriminatory \"Diversity, Equity, and Inclusion\" policies throughout the Federal Government. We got Critical Race Theory and Transgender insanity out of our Schools, and we made ENGLISH the Official Language of the United States! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117470600629608396",
+   "title": "Melania Trump Announces White House Women's Health Initiative: https://www.nytimes.com/2026/10/19/us/politics/melania-trump-women-health.html",
+   "url": "https://truthsocial.com/@realDonaldTrump/117475278291502005",
    "domain": "truthsocial.com",
    "tags": [
-    "geo"
+    "regulation"
    ],
    "author": "Donald Trump",
-   "score": 8264
+   "score": 4727
   },
   {
-   "id": "4b9364ec54503a9f",
-   "ts": 1792456716,
+   "id": "e4463c9e08f05b5a",
+   "ts": 1792529360,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "The last time the Radical Dumocrats had power, they gave us the Worst Inflation in American History, the Highest Energy Prices in American History, the Worst Trade Deficit in American History, they allowed 25 million people to pour across our Borders from all over the World and, ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117470443395506989",
+   "title": "Donald Trump signs executive order creating NIH task force as Melania unveils 'new standard for women's health in America': https://nypost.com/2026/10/19/us-news/donald-trump-signs-executive-order-creating-new-womens-health-task-force-with-melania/",
+   "url": "https://truthsocial.com/@realDonaldTrump/117475204189906597",
    "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4616
+  },
+  {
+   "id": "be6d0bd5e087c35c",
+   "ts": 1792530444,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Trump and Republicans show a more female-friendly side of the story with new E.O. on women's health: https://justthenews.com/government/white-house/trump-womens-health",
+   "url": "https://truthsocial.com/@realDonaldTrump/117475275197816762",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4286
+  },
+  {
+   "id": "6a9144ada2a86898",
+   "ts": 1792542600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Announces Dividend Increase – $0 . 04 Per Share",
+   "url": "https://www.themarketsdaily.com/2026/10/20/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-announces-dividend-increase-0-04-per-share.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "5e5ac13f86247fd1",
+   "ts": 1792542600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Plans Dividend Increase – $0 . 04 Per Share",
+   "url": "https://www.tickerreport.com/banking-finance/13627826/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-plans-dividend-increase-0-04-per-share.html",
+   "domain": "tickerreport.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "9fe884353ca78db6",
+   "ts": 1792541700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "We Did the Math on What $100 , 000 Earns in 4 Covered Call ETFs . The Gap Is $4 , 632 a Year",
+   "url": "https://247wallst.com/investing/etf/2026/10/20/we-did-the-math-on-what-100000-earns-in-4-covered-call-etfs-the-gap-is-4632-a-year/",
+   "domain": "247wallst.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "a0269ae9ba3daef6",
+   "ts": 1792541700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "We Did the Math on What $100 , 000 Earns in 4 Covered Call ETFs . The Gap Is $4 , 632 a Year",
+   "url": "https://www.aol.com/articles/did-math-100-000-earns-233306000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "532c65c647614ec4",
+   "ts": 1792539900,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Announces Dividend of $0 . 04",
+   "url": "https://www.themarketsdaily.com/2026/10/20/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-announces-dividend-of-0-04-2.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "c761b507024b8822",
+   "ts": 1792539000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Forget GBTC . BlackRock Charges $1 , 250 Less a Year to Hold the Same Bitcoin on $100 , 000",
+   "url": "https://www.aol.com/articles/forget-gbtc-blackrock-charges-1-223338000.html",
+   "domain": "aol.com",
    "tags": [
     "crypto",
-    "macro"
-   ],
-   "author": "Donald Trump",
-   "score": 7856
+    "institution",
+    "BTC"
+   ]
   },
   {
-   "id": "fd9bcd89fef4af0f",
-   "ts": 1792459189,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "We achieved more in two years than any other presidency in the History of our Country, but now, the Radical Left Dumocrats want to burn it all down. Every single Dumocrat in Congress voted AGAINST our Record Tax Cuts, AGAINST No Tax on Tips, AGAINST No Tax on Overtime, and AGAINS",
-   "url": "https://truthsocial.com/@realDonaldTrump/117470605435315443",
-   "domain": "truthsocial.com",
+   "id": "04c33432d2a2af57",
+   "ts": 1792539000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
+   "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792534650.339dbf5059535291",
+   "domain": "decrypt.co",
    "tags": [
-    "macro",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 7779
+    "institution"
+   ]
   },
   {
-   "id": "b7857494ecf18d94",
-   "ts": 1792459104,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Just today, I signed a Historic Executive Order on Women's Health, supported by our incredible First Lady. With Melania's leadership, we are creating a new Women's Health Division at our National Institutes of Health, to promote new Research, Technology, and Treatments, and ensur",
-   "url": "https://truthsocial.com/@realDonaldTrump/117470599886832710",
-   "domain": "truthsocial.com",
+   "id": "a55e2989a8c5d22d",
+   "ts": 1792534500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Goldman Sachs Is Paying Up to $2 . 25 Billion for a $30 Billion ETF Business . Is That Enough to Lift the Stock Back to a Record by 2028 ?",
+   "url": "https://www.fool.com/investing/2026/10/20/goldman-sachs-is-paying-up-to-225-billion-for-a-30/?source=iedfolrf0000001",
+   "domain": "fool.com",
    "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 7717
-  },
-  {
-   "id": "0bfaca3f5a718b73",
-   "ts": 1792455690,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "If you want to see what is at stake in this Election, just look at what is happening in France — A once-great nation that is being conquered, looted, and burned to the ground by migrants, jihadists, and Communists who hate Christianity, and Western Civilization, itself. As we are",
-   "url": "https://truthsocial.com/@realDonaldTrump/117470376164503349",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 7192
-  },
-  {
-   "id": "2f634f4bf043ea42",
-   "ts": 1792459274,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Roger Marshall is all that stands between the people of Kansas and Communists controlling the United States Senate. Unlike Adam Hamilton, he is endorsed by the N.R.A. and the Kansas Farm Bureau. He will vote for Low Taxes, Less Regulations, a thriving Kansas Oil and Gas Industry,",
-   "url": "https://truthsocial.com/@realDonaldTrump/117470610998962876",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 7103
-  },
-  {
-   "id": "f01152c0697e419f",
-   "ts": 1792455760,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The Dumocrat Agenda is a plan to extinguish Western Civilization. They want to open the Borders, shut down the Power Plants, set loose the Criminals, turn your Children transgender, confiscate your money, and raise up the Palestinian Flag, while they defile the American Flag. All",
-   "url": "https://truthsocial.com/@realDonaldTrump/117470380723173497",
-   "domain": "truthsocial.com",
-   "tags": [
-    "crypto"
-   ],
-   "author": "Donald Trump",
-   "score": 7026
-  },
-  {
-   "id": "85992b1693fdd161",
-   "ts": 1792459071,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Two weeks ago, I signed an Executive Order waiving the Off-Road requirement for Red-Dye Diesel, allowing Farmers, Truckers, and anyone else to fill up with Diesel totally TAX FREE. Here in Kansas, your Dumocrat Governor, Laura Kelly, is REFUSING to give you this much-needed relie",
-   "url": "https://truthsocial.com/@realDonaldTrump/117470597708924695",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro",
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6863
-  },
-  {
-   "id": "497e681a9f6c6260",
-   "ts": 1792458084,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Less than two years ago, Radical Left Dumocrats handed us the DARK AGE of America, but we quickly turned it into the GOLDEN AGE of America. Despite all the damage Dumocrats caused, our Nation is doing better now than ever before, but the Fake News Media refuses to talk about our ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117470533012557706",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro",
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6743
-  },
-  {
-   "id": "c9fb582a2b893331",
-   "ts": 1792459027,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Thanks to a Republican Congress, I signed THE GREAT BIG BEAUTIFUL BILL, delivering THE LARGEST TAX CUTS IN AMERICAN HISTORY. We gave you NO TAX ON TIPS, NO TAX ON OVERTIME, and NO TAX ON SOCIAL SECURITY for our Great Seniors! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117470594815032154",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6267
-  },
-  {
-   "id": "f228edd133e35f8a",
-   "ts": 1792459043,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "To protect Family Farms, we ended the unfair Estate Tax, or Death Tax. My Administration also announced the Highest Biofuel Production Targets in History, which will create 4 Billion Dollars in new Farm Income and demand for Kansas Farmers. I also gave Kansas a waiver to sell E-1",
-   "url": "https://truthsocial.com/@realDonaldTrump/117470595904971292",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6228
+    "crypto",
+    "institution"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 33
+   "n": 18
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -287,11 +259,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 9
+   "n": 7
   },
   "White House": {
    "ok": true,
-   "n": 18
+   "n": 19
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -312,7 +284,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "Bank of England": {
    "ok": true,
@@ -320,11 +292,11 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 7
+   "n": 5
   },
   "BIS": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "Strategy (MSTR) filings": {
    "ok": true,
@@ -352,7 +324,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
