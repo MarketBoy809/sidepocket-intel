@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-10-21T18:32:53Z",
- "generated_ts": 1792607573,
+ "generated_at": "2026-10-21T22:15:28Z",
+ "generated_ts": 1792620928,
  "prices": {
   "BTC": {
-   "p": 84688.0,
+   "p": 84675.9,
    "o": 82936.1,
    "h": 84840.0,
-   "l": 82293.7,
-   "v": 2274.73588708
+   "l": 82542.9,
+   "v": 2410.05921919
   },
   "ETH": {
-   "p": 2514.35,
+   "p": 2491.54,
    "o": 2446.55,
    "h": 2524.58,
-   "l": 2422.5,
-   "v": 23869.66015321
+   "l": 2434.51,
+   "v": 24504.71880257
   },
   "SOL": {
-   "p": 109.05,
+   "p": 107.83,
    "o": 106.43,
    "h": 109.15,
-   "l": 105.19,
-   "v": 253277.64506152
+   "l": 105.53,
+   "v": 254944.23041055
   }
  },
  "change_7d": {
-  "BTC": 0.03830613966946495,
-  "ETH": 0.034737747913552906,
-  "SOL": 0.04046021093000958
+  "BTC": 0.03806025348687413,
+  "ETH": 0.03323266589442346,
+  "SOL": 0.03450912914635312
  },
  "sentiment": {
-  "score": 61.6,
-  "label": "Greed",
+  "score": 55.0,
+  "label": "Neutral",
   "components": {
    "fng": 63.0,
-   "momentum": 59.57653491736624,
-   "crowding": 60.921603000000005
+   "momentum": 59.51506337171853,
+   "news_tone": 27.116666666666667,
+   "crowding": 58.102562
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Greed",
   "ts": 1792540800
  },
- "news_tone_24h": null,
+ "news_tone_24h": -1.373,
  "derivatives": {
   "BTC": {
-   "funding_h": 4.9222e-06,
-   "oi_usd": 3454761170.0238,
-   "premium": -0.0005144142
+   "funding_h": -2.8012e-06,
+   "oi_usd": 3445939963.56708,
+   "premium": -0.00028087
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2807281774.2901816,
-   "premium": -9.14102e-05
+   "oi_usd": 2781777258.4206004,
+   "premium": 0.0001604107
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 591490455.6276,
-   "premium": 0.0
+   "oi_usd": 585130673.954,
+   "premium": 0.0003707824
   }
  },
- "items_24h": 497,
+ "items_24h": 601,
  "top_items": [
   {
    "id": "0c4dc57222ac94bd",
@@ -119,38 +120,6 @@
    "score": 5814
   },
   {
-   "id": "3122b996b7fa76cf",
-   "ts": 1792530491,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Melania Trump Announces White House Women's Health Initiative: https://www.nytimes.com/2026/10/19/us/politics/melania-trump-women-health.html",
-   "url": "https://truthsocial.com/@realDonaldTrump/117475278291502005",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4727
-  },
-  {
-   "id": "e4463c9e08f05b5a",
-   "ts": 1792529360,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Donald Trump signs executive order creating NIH task force as Melania unveils 'new standard for women's health in America': https://nypost.com/2026/10/19/us-news/donald-trump-signs-executive-order-creating-new-womens-health-task-force-with-melania/",
-   "url": "https://truthsocial.com/@realDonaldTrump/117475204189906597",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4616
-  },
-  {
    "id": "6b721164db520768",
    "ts": 1792547086,
    "source": "truth",
@@ -167,84 +136,111 @@
    "score": 4576
   },
   {
-   "id": "be6d0bd5e087c35c",
-   "ts": 1792530444,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Trump and Republicans show a more female-friendly side of the story with new E.O. on women's health: https://justthenews.com/government/white-house/trump-womens-health",
-   "url": "https://truthsocial.com/@realDonaldTrump/117475275197816762",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4286
-  },
-  {
-   "id": "cbf62954e45134c0",
-   "ts": 1792607205,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "President Trump Secures Major Wins for South Carolina Workers, Families, and Communities",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-wins-for-south-carolina-workers-families-and-communities/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "b8cc8a91295290d1",
-   "ts": 1792606500,
+   "id": "52fc054bdf858e9b",
+   "ts": 1792619100,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Declares Dividend of $0 . 04",
-   "url": "https://www.tickerreport.com/banking-finance/13629105/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-declares-dividend-of-0-04-2.html",
+   "title": "CoreWeave market confidence erodes as bond yields spike , stock sinks",
+   "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+   "domain": "cnbc.com",
+   "tags": [
+    "macro",
+    "institution"
+   ]
+  },
+  {
+   "id": "00be6469203b07d0",
+   "ts": 1792619100,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "IREN ( NASDAQ : IREN ) Stock Price Up 4 . 6 % – Should You Buy ?",
+   "url": "https://www.themarketsdaily.com/2026/10/21/iren-nasdaqiren-stock-price-up-4-6-should-you-buy.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "fa81fceb5ed4e7bd",
+   "ts": 1792619100,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Rick Rieder sees historic opportunity in investment - grade bonds",
+   "url": "https://www.cnbc.com/2026/10/21/rick-rieder-investment-grade-bonds.html",
+   "domain": "cnbc.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "d84164254c3ea047",
+   "ts": 1792619100,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Increases Dividend to $0 . 04 Per Share",
+   "url": "https://www.tickerreport.com/banking-finance/13629364/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-increases-dividend-to-0-04-per-share-7.html",
    "domain": "tickerreport.com",
    "tags": [
     "institution"
    ]
   },
   {
-   "id": "5f7be25d97bbd3b8",
-   "ts": 1792606500,
+   "id": "93e279c8eec4acdb",
+   "ts": 1792619100,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Are prediction markets just gambling ? Kalshi CEO responds",
-   "url": "https://reason.com/podcast/2026/10/21/are-prediction-markets-just-gambling-kalshi-ceo-responds/",
-   "domain": "reason.com",
+   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Plans Dividend of $0 . 04",
+   "url": "https://www.themarketsdaily.com/2026/10/21/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-plans-dividend-of-0-04-5.html",
+   "domain": "themarketsdaily.com",
    "tags": [
     "institution"
    ]
   },
   {
-   "id": "bc35783cc867081b",
-   "ts": 1792605600,
+   "id": "f57e285ef7dc6069",
+   "ts": 1792619100,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Vanguard Total Bond Market ETF $BND Shares Purchased by Fifth Third Securities Inc .",
-   "url": "https://www.dailypolitical.com/2026/10/21/vanguard-total-bond-market-etf-bnd-shares-purchased-by-fifth-third-securities-inc.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "6b585c9f7c752ea7",
-   "ts": 1792605600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Sterling Manor Financial LLC Acquires New Shares in Fidelity Small - Mid Multifactor ETF $FSMD",
-   "url": "https://www.tickerreport.com/banking-finance/13629089/sterling-manor-financial-llc-acquires-new-shares-in-fidelity-small-mid-multifactor-etf-fsmd.html",
+   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Announces Dividend Increase – $0 . 04 Per Share",
+   "url": "https://www.tickerreport.com/banking-finance/13629363/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-announces-dividend-increase-0-04-per-share-4.html",
    "domain": "tickerreport.com",
    "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "752dd1ba9eb84b3b",
+   "ts": 1792617300,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Ethereum Price Prediction : What Could ETH Be Worth by 2028 ?",
+   "url": "https://247wallst.com/investing/cryptocurrency/2026/10/21/ethereum-price-prediction-what-could-eth-be-worth-by-2028/",
+   "domain": "247wallst.com",
+   "tags": [
     "crypto",
+    "ETH",
+    "institution"
+   ]
+  },
+  {
+   "id": "591fc5e0626c7c69",
+   "ts": 1792617300,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Ethereum Price Prediction : What Could ETH Be Worth by 2028 ?",
+   "url": "https://www.aol.com/articles/ethereum-price-prediction-could-eth-203043000.html",
+   "domain": "aol.com",
+   "tags": [
+    "crypto",
+    "ETH",
     "institution"
    ]
   }
@@ -253,11 +249,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 59
+   "n": 60
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -265,11 +261,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 24
+   "n": 29
   },
   "White House": {
    "ok": true,
-   "n": 19
+   "n": 17
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
