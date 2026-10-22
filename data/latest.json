@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-10-22T13:42:36Z",
- "generated_ts": 1792676556,
+ "generated_at": "2026-10-22T18:28:00Z",
+ "generated_ts": 1792693680,
  "prices": {
   "BTC": {
-   "p": 81503.9,
+   "p": 81056.3,
    "o": 84022.5,
-   "h": 84840.0,
-   "l": 81471.6,
-   "v": 3211.83758526
+   "h": 84796.0,
+   "l": 80813.7,
+   "v": 2807.22839211
   },
   "ETH": {
-   "p": 2403.87,
+   "p": 2375.28,
    "o": 2471.98,
-   "h": 2524.58,
-   "l": 2392.82,
-   "v": 26385.52023556
+   "h": 2516.82,
+   "l": 2357.35,
+   "v": 26298.7775715
   },
   "SOL": {
-   "p": 104.63,
+   "p": 103.13,
    "o": 106.92,
    "h": 109.15,
-   "l": 103.45,
-   "v": 315614.8426398
+   "l": 102.9,
+   "v": 280003.74733519
   }
  },
  "change_7d": {
-  "BTC": 0.014441715334233458,
-  "ETH": 0.021804610580220703,
-  "SOL": 0.027277203348104344
+  "BTC": -0.015122371019107161,
+  "ETH": -0.027404491439421322,
+  "SOL": -0.021831584916359534
  },
  "sentiment": {
-  "score": 54.2,
-  "label": "Neutral",
+  "score": 60.6,
+  "label": "Greed",
   "components": {
    "fng": 68.0,
-   "momentum": 53.610428833558366,
-   "news_tone": 13.266666666666662,
-   "crowding": 63.6875
+   "momentum": 46.21940724522321,
+   "crowding": 62.277724000000006
   },
   "weights": {
    "fng": 0.35,
@@ -51,26 +50,58 @@
   "label": "Greed",
   "ts": 1792627200
  },
- "news_tone_24h": -2.204,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3506124195.91368,
-   "premium": 0.000508513
+   "oi_usd": 3491070830.9716,
+   "premium": -3.69677e-05
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2638735804.4662995,
-   "premium": 4.15472e-05
+   "funding_h": 8.6376e-06,
+   "oi_usd": 2628991813.6992445,
+   "premium": -0.0003406066
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 581841039.9328,
-   "premium": 4.77122e-05
+   "oi_usd": 572793962.7852002,
+   "premium": -0.0002420956
   }
  },
- "items_24h": 556,
+ "items_24h": 570,
  "top_items": [
+  {
+   "id": "3e4640e41c81b844",
+   "ts": 1792683636,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Iran is doing everything they can to drive up the price of Oil prior to the U.S. Midterm Election. They are even making up fake hits, mines, and everything else, because more Oil is coming through the Hormuz Strait now than it did even prior to the beginning of the Conflict. They",
+   "url": "https://truthsocial.com/@realDonaldTrump/117485314798987090",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 25632
+  },
+  {
+   "id": "374536031f3015d6",
+   "ts": 1792683673,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "THE WALL STREET JOURNAL: \"More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War.\"",
+   "url": "https://truthsocial.com/@realDonaldTrump/117485317207546802",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 9906
+  },
   {
    "id": "3f559821489628c6",
    "ts": 1792636130,
@@ -103,22 +134,6 @@
    ],
    "author": "Donald Trump",
    "score": 5817
-  },
-  {
-   "id": "dbeba98a6cff84e6",
-   "ts": 1792603253,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Stephen Hubbard and Family COMING HOME from Russia. Should have been done a long time ago by Sleepy Joe Biden and the Dumocrats! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117480046790001681",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 5814
   },
   {
    "id": "8dfd73b3e825b814",
@@ -248,29 +263,13 @@
    ],
    "author": "Donald Trump",
    "score": 2952
-  },
-  {
-   "id": "ffb67b43d1559cc0",
-   "ts": 1792673208,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484620681663989TO THE GREAT PEOPLE OF SOUTH CAROLINA, GET OUT AND VOTE FOR: – Darline Graham for U.S. Senate– Alan Wilson for Governor– Cody Simpson for Agriculture Commissioner– Jenny Costa Honeycutt for U.S. Congress",
-   "url": "https://truthsocial.com/@realDonaldTrump/117484631365361174",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2491
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 8
+   "n": 30
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -282,11 +281,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 9
+   "n": 0
   },
   "White House": {
    "ok": true,
-   "n": 16
+   "n": 14
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -343,11 +342,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 63
+   "n": 65
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 19
   },
   "Reddit r/Bitcoin": {
    "ok": false,
