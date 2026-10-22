@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-21T22:15:28Z",
- "generated_ts": 1792620928,
+ "generated_at": "2026-10-22T01:25:48Z",
+ "generated_ts": 1792632348,
  "prices": {
   "BTC": {
-   "p": 84675.9,
-   "o": 82936.1,
+   "p": 84250.9,
+   "o": 84022.5,
    "h": 84840.0,
    "l": 82542.9,
-   "v": 2410.05921919
+   "v": 2373.46530672
   },
   "ETH": {
-   "p": 2491.54,
-   "o": 2446.55,
+   "p": 2475.61,
+   "o": 2471.98,
    "h": 2524.58,
    "l": 2434.51,
-   "v": 24504.71880257
+   "v": 23904.52904297
   },
   "SOL": {
-   "p": 107.83,
-   "o": 106.43,
+   "p": 107.21,
+   "o": 106.92,
    "h": 109.15,
    "l": 105.53,
-   "v": 254944.23041055
+   "v": 239850.4214173
   }
  },
  "change_7d": {
-  "BTC": 0.03806025348687413,
-  "ETH": 0.03323266589442346,
-  "SOL": 0.03450912914635312
+  "BTC": 0.031561755498962035,
+  "ETH": 0.02311325245350658,
+  "SOL": 0.027921704087507163
  },
  "sentiment": {
-  "score": 55.0,
+  "score": 55.8,
   "label": "Neutral",
   "components": {
-   "fng": 63.0,
-   "momentum": 59.51506337171853,
-   "news_tone": 27.116666666666667,
-   "crowding": 58.102562
+   "fng": 68.0,
+   "momentum": 57.89043887474051,
+   "news_tone": 20.35,
+   "crowding": 59.8833605
   },
   "weights": {
    "fng": 0.35,
@@ -47,29 +47,29 @@
   }
  },
  "fear_greed": {
-  "value": 63,
+  "value": 68,
   "label": "Greed",
-  "ts": 1792540800
+  "ts": 1792627200
  },
- "news_tone_24h": -1.373,
+ "news_tone_24h": -1.779,
  "derivatives": {
   "BTC": {
-   "funding_h": -2.8012e-06,
-   "oi_usd": 3445939963.56708,
-   "premium": -0.00028087
+   "funding_h": 2.0777e-06,
+   "oi_usd": 3416499633.6015997,
+   "premium": -0.0004506641
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2781777258.4206004,
-   "premium": 0.0001604107
+   "oi_usd": 2732349720.497641,
+   "premium": -0.0002825201
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 585130673.954,
-   "premium": 0.0003707824
+   "oi_usd": 591480804.7296,
+   "premium": -0.0003261427
   }
  },
- "items_24h": 601,
+ "items_24h": 660,
  "top_items": [
   {
    "id": "0c4dc57222ac94bd",
@@ -136,111 +136,110 @@
    "score": 4576
   },
   {
-   "id": "52fc054bdf858e9b",
-   "ts": 1792619100,
+   "id": "bea05060f8040f33",
+   "ts": 1792630800,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "CoreWeave market confidence erodes as bond yields spike , stock sinks",
-   "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
-   "domain": "cnbc.com",
+   "title": "Vanguard Short - Term Treasury ETF vs Tax - Exempt Bond ETF",
+   "url": "https://www.fool.com/coverage/etfs/2026/10/21/vanguard-short-term-treasury-etf-vs-tax-exempt-bond-etf/",
+   "domain": "fool.com",
    "tags": [
+    "crypto",
     "macro",
     "institution"
    ]
   },
   {
-   "id": "00be6469203b07d0",
-   "ts": 1792619100,
+   "id": "d80322593edaf342",
+   "ts": 1792630800,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "IREN ( NASDAQ : IREN ) Stock Price Up 4 . 6 % – Should You Buy ?",
-   "url": "https://www.themarketsdaily.com/2026/10/21/iren-nasdaqiren-stock-price-up-4-6-should-you-buy.html",
-   "domain": "themarketsdaily.com",
+   "title": "MSCI Adopts Rules That Could Exclude Strategy",
+   "url": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?t=MSCI%20adopts%20index%20exclusion%20rules%20that%20could%20oust%20Strategy&fnp_t=1792626633.43a69d2c1cbe8396",
+   "domain": "cointelegraph.com",
    "tags": [
     "institution"
    ]
   },
   {
-   "id": "fa81fceb5ed4e7bd",
-   "ts": 1792619100,
+   "id": "c630c3ccd5eaff2f",
+   "ts": 1792630800,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Rick Rieder sees historic opportunity in investment - grade bonds",
-   "url": "https://www.cnbc.com/2026/10/21/rick-rieder-investment-grade-bonds.html",
-   "domain": "cnbc.com",
+   "title": "Fidelity Investments Canada ULC Announces Cash Distributions for Certain Fidelity ETFs and ETF Series of Fidelity Mutual Funds",
+   "url": "https://www.intelligencer.ca/press-releases/pr-newswire/fidelity-investments-canada-ulc-announces-cash-distributions-for-certain-fidelity-etfs-and-etf-series-of-fidelity-mutual-funds-3/",
+   "domain": "intelligencer.ca",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "56b4656d35d3d8a4",
+   "ts": 1792630800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Fidelity Investments Canada ULC Announces Cash Distributions for Certain Fidelity ETFs and ETF Series of Fidelity Mutual Funds",
+   "url": "https://www.northernnews.ca/press-releases/pr-newswire/fidelity-investments-canada-ulc-announces-cash-distributions-for-certain-fidelity-etfs-and-etf-series-of-fidelity-mutual-funds/",
+   "domain": "northernnews.ca",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "8eb7c9c8a3ad6fac",
+   "ts": 1792630800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
+   "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792626633.43a69d2c1cbe8396",
+   "domain": "decrypt.co",
    "tags": [
     "institution"
    ]
   },
   {
-   "id": "d84164254c3ea047",
-   "ts": 1792619100,
+   "id": "d9db3ae7383bb4c5",
+   "ts": 1792630800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "BlackRock DVY Returned 58 . 53 % Over Five Years . JEPI Returned 43 . 22 %.",
+   "url": "https://www.aol.com/articles/blackrock-dvy-returned-58-53-000320000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "713af775997ac17c",
+   "ts": 1792630800,
    "source": "news",
    "group": "institution",
    "kind": "news",
    "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Increases Dividend to $0 . 04 Per Share",
-   "url": "https://www.tickerreport.com/banking-finance/13629364/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-increases-dividend-to-0-04-per-share-7.html",
-   "domain": "tickerreport.com",
+   "url": "https://www.dailypolitical.com/2026/10/21/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-increases-dividend-to-0-04-per-share-6.html",
+   "domain": "dailypolitical.com",
    "tags": [
     "institution"
    ]
   },
   {
-   "id": "93e279c8eec4acdb",
-   "ts": 1792619100,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Plans Dividend of $0 . 04",
-   "url": "https://www.themarketsdaily.com/2026/10/21/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-plans-dividend-of-0-04-5.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "f57e285ef7dc6069",
-   "ts": 1792619100,
+   "id": "7099ea9f78a53b66",
+   "ts": 1792630800,
    "source": "news",
    "group": "institution",
    "kind": "news",
    "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Announces Dividend Increase – $0 . 04 Per Share",
-   "url": "https://www.tickerreport.com/banking-finance/13629363/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-announces-dividend-increase-0-04-per-share-4.html",
-   "domain": "tickerreport.com",
+   "url": "https://www.dailypolitical.com/2026/10/21/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-announces-dividend-increase-0-04-per-share-5.html",
+   "domain": "dailypolitical.com",
    "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "752dd1ba9eb84b3b",
-   "ts": 1792617300,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Ethereum Price Prediction : What Could ETH Be Worth by 2028 ?",
-   "url": "https://247wallst.com/investing/cryptocurrency/2026/10/21/ethereum-price-prediction-what-could-eth-be-worth-by-2028/",
-   "domain": "247wallst.com",
-   "tags": [
-    "crypto",
-    "ETH",
-    "institution"
-   ]
-  },
-  {
-   "id": "591fc5e0626c7c69",
-   "ts": 1792617300,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Ethereum Price Prediction : What Could ETH Be Worth by 2028 ?",
-   "url": "https://www.aol.com/articles/ethereum-price-prediction-could-eth-203043000.html",
-   "domain": "aol.com",
-   "tags": [
-    "crypto",
-    "ETH",
     "institution"
    ]
   }
@@ -249,11 +248,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 60
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -261,7 +260,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 29
+   "n": 40
   },
   "White House": {
    "ok": true,
@@ -294,7 +293,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 3
+   "n": 5
   },
   "BIS": {
    "ok": true,
@@ -322,11 +321,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 51
+   "n": 50
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 24
+   "n": 25
   },
   "Reddit r/Bitcoin": {
    "ok": false,
