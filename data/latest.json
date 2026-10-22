@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-22T01:25:48Z",
- "generated_ts": 1792632348,
+ "generated_at": "2026-10-22T07:27:43Z",
+ "generated_ts": 1792654063,
  "prices": {
   "BTC": {
-   "p": 84250.9,
+   "p": 82168.7,
    "o": 84022.5,
    "h": 84840.0,
-   "l": 82542.9,
-   "v": 2373.46530672
+   "l": 82147.8,
+   "v": 2930.02497067
   },
   "ETH": {
-   "p": 2475.61,
+   "p": 2426.08,
    "o": 2471.98,
    "h": 2524.58,
-   "l": 2434.51,
-   "v": 23904.52904297
+   "l": 2423.7,
+   "v": 27155.65268783
   },
   "SOL": {
-   "p": 107.21,
+   "p": 104.43,
    "o": 106.92,
    "h": 109.15,
-   "l": 105.53,
-   "v": 239850.4214173
+   "l": 104.12,
+   "v": 309306.27907034
   }
  },
  "change_7d": {
-  "BTC": 0.031561755498962035,
-  "ETH": 0.02311325245350658,
-  "SOL": 0.027921704087507163
+  "BTC": 0.019944448563675207,
+  "ETH": 0.032078499974524104,
+  "SOL": 0.02470830473575851
  },
  "sentiment": {
-  "score": 55.8,
+  "score": 55.7,
   "label": "Neutral",
   "components": {
    "fng": 68.0,
-   "momentum": 57.89043887474051,
-   "news_tone": 20.35,
-   "crowding": 59.8833605
+   "momentum": 54.9861121409188,
+   "news_tone": 20.566666666666666,
+   "crowding": 63.1271885
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +51,25 @@
   "label": "Greed",
   "ts": 1792627200
  },
- "news_tone_24h": -1.779,
+ "news_tone_24h": -1.766,
  "derivatives": {
   "BTC": {
-   "funding_h": 2.0777e-06,
-   "oi_usd": 3416499633.6015997,
-   "premium": -0.0004506641
+   "funding_h": 1.25e-05,
+   "oi_usd": 3268646080.8974404,
+   "premium": -0.0002771403
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2732349720.497641,
-   "premium": -0.0002825201
+   "oi_usd": 2683885076.127719,
+   "premium": -0.000296428
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 591480804.7296,
-   "premium": -0.0003261427
+   "funding_h": 1.09649e-05,
+   "oi_usd": 579942865.6832004,
+   "premium": -0.000261176
   }
  },
- "items_24h": 660,
+ "items_24h": 622,
  "top_items": [
   {
    "id": "0c4dc57222ac94bd",
@@ -104,6 +104,39 @@
    "score": 8045
   },
   {
+   "id": "3f559821489628c6",
+   "ts": 1792636130,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I am very concerned about the Dan S. Sullivan Race for the U.S. Senate in Alaska in that it is totally confusing, with the Dumocrats putting up another man, totally unrelated to Politics, named Daniel J. Sullivan, Jr. It's ridiculous that the Court didn't stop this SCAM. Even 1, ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117482201426939709",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6130
+  },
+  {
+   "id": "27b7555dbeeee418",
+   "ts": 1792636173,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "American Manufacturing is BOOMING. Jobs are coming HOME. We're breaking ALL Economic Estimates. Now Apple is committing to purchasing 100 MILLION DOLLARS of PENNSYLVANIA Titanium for its NEW iPhone. The Radical Left said it couldn't be done. We proved them wrong, AGAIN! I WILL AL",
+   "url": "https://truthsocial.com/@realDonaldTrump/117482204261904691",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 5817
+  },
+  {
    "id": "dbeba98a6cff84e6",
    "ts": 1792603253,
    "source": "truth",
@@ -120,128 +153,117 @@
    "score": 5814
   },
   {
-   "id": "6b721164db520768",
-   "ts": 1792547086,
+   "id": "8dfd73b3e825b814",
+   "ts": 1792636103,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Cook Political Report shifts Minnesota Senate race toward GOP: https://justthenews.com/politics-policy/cook-political-report-shifts-minnesota-senate-race-toward-gop",
-   "url": "https://truthsocial.com/@realDonaldTrump/117476365886992522",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117469660815396195TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR: – Ken Paxton for U.S. Senate– Greg Abbott for Governor– Dan Patrick for Lieutenant Governor– Mayes Middleton for Attorney General– Don Huffines for Com",
+   "url": "https://truthsocial.com/@realDonaldTrump/117482199679542683",
+   "domain": "truthsocial.com",
+   "tags": [
+    "institution",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4396
+  },
+  {
+   "id": "dedf1956db14b3f1",
+   "ts": 1792636098,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117469664819644244TO THE GREAT PEOPLE OF NEVADA, GET OUT AND VOTE FOR: – Joe Lombardo for Governor– Stavros Anthony for Lieutenant Governor– Jim Marchant for Secretary of State– Adriana Guzmán Fralick for Attorney General",
+   "url": "https://truthsocial.com/@realDonaldTrump/117482199323316964",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 4576
+   "score": 3451
   },
   {
-   "id": "bea05060f8040f33",
-   "ts": 1792630800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Vanguard Short - Term Treasury ETF vs Tax - Exempt Bond ETF",
-   "url": "https://www.fool.com/coverage/etfs/2026/10/21/vanguard-short-term-treasury-etf-vs-tax-exempt-bond-etf/",
-   "domain": "fool.com",
+   "id": "6a98bde881ea328c",
+   "ts": 1792636093,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117474900035235218TO THE GREAT PEOPLE OF IOWA, GET OUT AND VOTE FOR: – Ashley Hinson for U.S. Senate– Zach Lahn for Governor– Brenna Bird for Attorney General– Mariannette Miller-Meeks for U.S. Congress (IA-01)– Joe Mitch",
+   "url": "https://truthsocial.com/@realDonaldTrump/117482198997906927",
+   "domain": "truthsocial.com",
    "tags": [
-    "crypto",
-    "macro",
-    "institution"
-   ]
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3236
   },
   {
-   "id": "d80322593edaf342",
-   "ts": 1792630800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "MSCI Adopts Rules That Could Exclude Strategy",
-   "url": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?t=MSCI%20adopts%20index%20exclusion%20rules%20that%20could%20oust%20Strategy&fnp_t=1792626633.43a69d2c1cbe8396",
-   "domain": "cointelegraph.com",
+   "id": "a11aa6c31280ce41",
+   "ts": 1792636087,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117474904278478680TO THE GREAT PEOPLE OF NORTH CAROLINA, GET OUT AND VOTE FOR: – Michael Whatley for U.S. Senate– Laurie Buckhout for U.S. Congress (NC-01)– Greg Murphy for U.S. Congress (NC-03)– Virginia Foxx for U.S. Co",
+   "url": "https://truthsocial.com/@realDonaldTrump/117482198634651857",
+   "domain": "truthsocial.com",
    "tags": [
-    "institution"
-   ]
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3225
   },
   {
-   "id": "c630c3ccd5eaff2f",
-   "ts": 1792630800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Fidelity Investments Canada ULC Announces Cash Distributions for Certain Fidelity ETFs and ETF Series of Fidelity Mutual Funds",
-   "url": "https://www.intelligencer.ca/press-releases/pr-newswire/fidelity-investments-canada-ulc-announces-cash-distributions-for-certain-fidelity-etfs-and-etf-series-of-fidelity-mutual-funds-3/",
-   "domain": "intelligencer.ca",
+   "id": "0d4897e58fc04767",
+   "ts": 1792636078,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117474908315721936TO THE GREAT PEOPLE OF OHIO, GET OUT AND VOTE FOR: – Jon Husted for U.S. Senate– Vivek Ramaswamy for Governor– Keith Faber for Attorney General– Eric Conroy for U.S. Congress (OH-01)– Dave Taylor for U.S",
+   "url": "https://truthsocial.com/@realDonaldTrump/117482198063478939",
+   "domain": "truthsocial.com",
    "tags": [
-    "crypto",
-    "institution"
-   ]
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3172
   },
   {
-   "id": "56b4656d35d3d8a4",
-   "ts": 1792630800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Fidelity Investments Canada ULC Announces Cash Distributions for Certain Fidelity ETFs and ETF Series of Fidelity Mutual Funds",
-   "url": "https://www.northernnews.ca/press-releases/pr-newswire/fidelity-investments-canada-ulc-announces-cash-distributions-for-certain-fidelity-etfs-and-etf-series-of-fidelity-mutual-funds/",
-   "domain": "northernnews.ca",
+   "id": "8611d0e8723c8b44",
+   "ts": 1792636072,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117479079767228837TO THE GREAT PEOPLE OF ALASKA, GET OUT AND VOTE FOR: – Dan S. Sullivan for U.S. Senate– Nick Begich for U.S. Congress– Bernadette Wilson for Governor These Great Patriots have my Complete and Total Endor",
+   "url": "https://truthsocial.com/@realDonaldTrump/117482197637387863",
+   "domain": "truthsocial.com",
    "tags": [
-    "crypto",
-    "institution"
-   ]
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3049
   },
   {
-   "id": "8eb7c9c8a3ad6fac",
-   "ts": 1792630800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
-   "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792626633.43a69d2c1cbe8396",
-   "domain": "decrypt.co",
+   "id": "76d7e967935920a7",
+   "ts": 1792636038,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117479085659195617TO THE GREAT PEOPLE OF VIRGINIA, GET OUT AND VOTE FOR: – Rob Wittman for U.S. Congress (VA-01)– Jen Kiggans for U.S. Congress (VA-02)– John McGuire for U.S. Congress (VA-05)– Ben Cline for U.S. Congress ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117482195414283532",
+   "domain": "truthsocial.com",
    "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "d9db3ae7383bb4c5",
-   "ts": 1792630800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "BlackRock DVY Returned 58 . 53 % Over Five Years . JEPI Returned 43 . 22 %.",
-   "url": "https://www.aol.com/articles/blackrock-dvy-returned-58-53-000320000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "713af775997ac17c",
-   "ts": 1792630800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Increases Dividend to $0 . 04 Per Share",
-   "url": "https://www.dailypolitical.com/2026/10/21/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-increases-dividend-to-0-04-per-share-6.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "7099ea9f78a53b66",
-   "ts": 1792630800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Announces Dividend Increase – $0 . 04 Per Share",
-   "url": "https://www.dailypolitical.com/2026/10/21/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-announces-dividend-increase-0-04-per-share-5.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "institution"
-   ]
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3018
   }
  ],
  "briefing_ts": 1790465772,
@@ -260,11 +282,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 12
   },
   "White House": {
    "ok": true,
-   "n": 17
+   "n": 16
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -321,11 +343,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 50
+   "n": 58
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 25
+   "n": 24
   },
   "Reddit r/Bitcoin": {
    "ok": false,
