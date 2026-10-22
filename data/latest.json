@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-22T07:27:43Z",
- "generated_ts": 1792654063,
+ "generated_at": "2026-10-22T13:42:36Z",
+ "generated_ts": 1792676556,
  "prices": {
   "BTC": {
-   "p": 82168.7,
+   "p": 81503.9,
    "o": 84022.5,
    "h": 84840.0,
-   "l": 82147.8,
-   "v": 2930.02497067
+   "l": 81471.6,
+   "v": 3211.83758526
   },
   "ETH": {
-   "p": 2426.08,
+   "p": 2403.87,
    "o": 2471.98,
    "h": 2524.58,
-   "l": 2423.7,
-   "v": 27155.65268783
+   "l": 2392.82,
+   "v": 26385.52023556
   },
   "SOL": {
-   "p": 104.43,
+   "p": 104.63,
    "o": 106.92,
    "h": 109.15,
-   "l": 104.12,
-   "v": 309306.27907034
+   "l": 103.45,
+   "v": 315614.8426398
   }
  },
  "change_7d": {
-  "BTC": 0.019944448563675207,
-  "ETH": 0.032078499974524104,
-  "SOL": 0.02470830473575851
+  "BTC": 0.014441715334233458,
+  "ETH": 0.021804610580220703,
+  "SOL": 0.027277203348104344
  },
  "sentiment": {
-  "score": 55.7,
+  "score": 54.2,
   "label": "Neutral",
   "components": {
    "fng": 68.0,
-   "momentum": 54.9861121409188,
-   "news_tone": 20.566666666666666,
-   "crowding": 63.1271885
+   "momentum": 53.610428833558366,
+   "news_tone": 13.266666666666662,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -51,58 +51,26 @@
   "label": "Greed",
   "ts": 1792627200
  },
- "news_tone_24h": -1.766,
+ "news_tone_24h": -2.204,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3268646080.8974404,
-   "premium": -0.0002771403
+   "oi_usd": 3506124195.91368,
+   "premium": 0.000508513
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2683885076.127719,
-   "premium": -0.000296428
+   "oi_usd": 2638735804.4662995,
+   "premium": 4.15472e-05
   },
   "SOL": {
-   "funding_h": 1.09649e-05,
-   "oi_usd": 579942865.6832004,
-   "premium": -0.000261176
+   "funding_h": 1.25e-05,
+   "oi_usd": 581841039.9328,
+   "premium": 4.77122e-05
   }
  },
- "items_24h": 622,
+ "items_24h": 556,
  "top_items": [
-  {
-   "id": "0c4dc57222ac94bd",
-   "ts": 1792579052,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Stephen Hubbard, taken four years ago by Russia during the Biden Administration, was just released from prison, at the request of President Donald J. Trump, made directly to President Vladimir Putin in a telephone conversation last week. Stephen is on his way back home and will s",
-   "url": "https://truthsocial.com/@realDonaldTrump/117478460769539937",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 9339
-  },
-  {
-   "id": "6d0cef6446462389",
-   "ts": 1792579784,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Numerous people, who requested that sanctions be immediately imposed on Russia, have called to apologize to President Trump in that they didn't know that he was negotiating the release of Stephen Hubbard, a truly big and important deal for the U.S. If sanctions would have been pl",
-   "url": "https://truthsocial.com/@realDonaldTrump/117478508731391744",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 8045
-  },
   {
    "id": "3f559821489628c6",
    "ts": 1792636130,
@@ -264,17 +232,49 @@
    ],
    "author": "Donald Trump",
    "score": 3018
+  },
+  {
+   "id": "e6830616f0803a3a",
+   "ts": 1792636052,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117479083730049250TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE FOR: – Pete Ricketts for U.S. Senate– Jim Pillen for Governor– Mike Hilgers for Attorney General– Mike Flood for U.S. Congress (NE-01)– Brinker Harding f",
+   "url": "https://truthsocial.com/@realDonaldTrump/117482196337261627",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2952
+  },
+  {
+   "id": "ffb67b43d1559cc0",
+   "ts": 1792673208,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117484620681663989TO THE GREAT PEOPLE OF SOUTH CAROLINA, GET OUT AND VOTE FOR: – Darline Graham for U.S. Senate– Alan Wilson for Governor– Cody Simpson for Agriculture Commissioner– Jenny Costa Honeycutt for U.S. Congress",
+   "url": "https://truthsocial.com/@realDonaldTrump/117484631365361174",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2491
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 8
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -282,7 +282,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 12
+   "n": 9
   },
   "White House": {
    "ok": true,
@@ -311,11 +311,11 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 3
+   "n": 1
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "BIS": {
    "ok": true,
@@ -343,11 +343,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 58
+   "n": 63
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 24
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
