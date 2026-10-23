@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-10-23T01:24:06Z",
- "generated_ts": 1792718646,
+ "generated_at": "2026-10-23T07:21:20Z",
+ "generated_ts": 1792740080,
  "prices": {
   "BTC": {
-   "p": 81341.4,
+   "p": 81639.7,
    "o": 81314.1,
-   "h": 84291.0,
+   "h": 82246.7,
    "l": 80813.7,
-   "v": 2748.35920566
+   "v": 2192.93182216
   },
   "ETH": {
-   "p": 2386.83,
+   "p": 2401.36,
    "o": 2386.34,
-   "h": 2476.79,
+   "h": 2430.27,
    "l": 2357.35,
-   "v": 25975.81411911
+   "v": 23114.17219252
   },
   "SOL": {
-   "p": 103.79,
+   "p": 104.39,
    "o": 103.54,
-   "h": 107.28,
+   "h": 105.14,
    "l": 102.9,
-   "v": 242553.27353525
+   "v": 166374.92467817
   }
  },
  "change_7d": {
-  "BTC": -0.010793740899872442,
-  "ETH": -0.019199855652516307,
-  "SOL": -0.014320940819423283
+  "BTC": -0.003638708774997864,
+  "ETH": -0.016212305164146464,
+  "SOL": -0.015065913370998196
  },
  "sentiment": {
-  "score": 49.4,
+  "score": 52.6,
   "label": "Neutral",
   "components": {
    "fng": 50.0,
-   "momentum": 47.30156477503189,
-   "news_tone": 38.25,
-   "crowding": 61.8904955
+   "momentum": 49.09032280625053,
+   "crowding": 63.185917
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +50,25 @@
   "label": "Neutral",
   "ts": 1792713600
  },
- "news_tone_24h": -0.705,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3514422978.5746,
-   "premium": -9.57563e-05
+   "oi_usd": 3567560586.07032,
+   "premium": -5.2602e-05
   },
   "ETH": {
-   "funding_h": 1.06932e-05,
-   "oi_usd": 2604004533.9248004,
-   "premium": -0.0004602703
+   "funding_h": 1.11258e-05,
+   "oi_usd": 2621793375.5247355,
+   "premium": -0.0004907506
   },
   "SOL": {
-   "funding_h": 9.3835e-06,
-   "oi_usd": 567777376.5768,
-   "premium": -0.0003849115
+   "funding_h": 1.25e-05,
+   "oi_usd": 572219263.6011521,
+   "premium": -0.0002659396
   }
  },
- "items_24h": 419,
+ "items_24h": 439,
  "top_items": [
   {
    "id": "3e4640e41c81b844",
@@ -104,20 +103,20 @@
    "score": 9906
   },
   {
-   "id": "3f559821489628c6",
-   "ts": 1792636130,
+   "id": "03b80c20ed7a46aa",
+   "ts": 1792725635,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "I am very concerned about the Dan S. Sullivan Race for the U.S. Senate in Alaska in that it is totally confusing, with the Dumocrats putting up another man, totally unrelated to Politics, named Daniel J. Sullivan, Jr. It's ridiculous that the Court didn't stop this SCAM. Even 1, ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117482201426939709",
+   "title": "It was just revealed that Ilhan Omar's name is not Ilhan Omar, the one she used to get elected and sworn into Congress, but rather, it's an entirely different name, Ilhan Nur Said Elmi, and that her last name is, incredibly, also the exact name of her brother, Ahmed Nur Said Elmi",
+   "url": "https://truthsocial.com/@realDonaldTrump/117488067224261864",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 6130
+   "score": 6273
   },
   {
    "id": "4e50b6e9619b0ccb",
@@ -137,38 +136,20 @@
    "score": 5942
   },
   {
-   "id": "27b7555dbeeee418",
-   "ts": 1792636173,
+   "id": "661040b66a91b66e",
+   "ts": 1792725725,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "American Manufacturing is BOOMING. Jobs are coming HOME. We're breaking ALL Economic Estimates. Now Apple is committing to purchasing 100 MILLION DOLLARS of PENNSYLVANIA Titanium for its NEW iPhone. The Radical Left said it couldn't be done. We proved them wrong, AGAIN! I WILL AL",
-   "url": "https://truthsocial.com/@realDonaldTrump/117482204261904691",
+   "title": "The New York Times got caught! They used a Company, Wedgewood Polls, that ADMITTED that the Poll Numbers they published were made up and FAKE. This is what I've had to deal with, right from the beginning! Our powerful Lawsuit against them is getting stronger and stronger everyday",
+   "url": "https://truthsocial.com/@realDonaldTrump/117488073122158937",
    "domain": "truthsocial.com",
    "tags": [
-    "macro",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 5817
-  },
-  {
-   "id": "8dfd73b3e825b814",
-   "ts": 1792636103,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117469660815396195TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR: – Ken Paxton for U.S. Senate– Greg Abbott for Governor– Dan Patrick for Lieutenant Governor– Mayes Middleton for Attorney General– Don Huffines for Com",
-   "url": "https://truthsocial.com/@realDonaldTrump/117482199679542683",
-   "domain": "truthsocial.com",
-   "tags": [
-    "institution",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4396
+   "score": 4940
   },
   {
    "id": "d9a654b9f3ceca2b",
@@ -187,22 +168,6 @@
    "score": 3500
   },
   {
-   "id": "dedf1956db14b3f1",
-   "ts": 1792636098,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117469664819644244TO THE GREAT PEOPLE OF NEVADA, GET OUT AND VOTE FOR: – Joe Lombardo for Governor– Stavros Anthony for Lieutenant Governor– Jim Marchant for Secretary of State– Adriana Guzmán Fralick for Attorney General",
-   "url": "https://truthsocial.com/@realDonaldTrump/117482199323316964",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3451
-  },
-  {
    "id": "d24b38ab9b981de4",
    "ts": 1792709322,
    "source": "truth",
@@ -219,63 +184,96 @@
    "score": 3257
   },
   {
-   "id": "6a98bde881ea328c",
-   "ts": 1792636093,
+   "id": "b834c0b2a7fe6194",
+   "ts": 1792709247,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117474900035235218TO THE GREAT PEOPLE OF IOWA, GET OUT AND VOTE FOR: – Ashley Hinson for U.S. Senate– Zach Lahn for Governor– Brenna Bird for Attorney General– Mariannette Miller-Meeks for U.S. Congress (IA-01)– Joe Mitch",
-   "url": "https://truthsocial.com/@realDonaldTrump/117482198997906927",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486990174433361TO THE GREAT PEOPLE OF WISCONSIN, GET OUT AND VOTE FOR: – Tom Tiffany for Governor– Bryan Steil for U.S. Congress (WI-01)– Derrick Van Orden for U.S. Congress (WI-03)– Scott Fitzgerald for U.S. Congress ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117486993256007616",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 3236
+   "score": 2993
   },
   {
-   "id": "a11aa6c31280ce41",
-   "ts": 1792636087,
+   "id": "3e732a3f9f205e49",
+   "ts": 1792725815,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117474904278478680TO THE GREAT PEOPLE OF NORTH CAROLINA, GET OUT AND VOTE FOR: – Michael Whatley for U.S. Senate– Laurie Buckhout for U.S. Congress (NC-01)– Greg Murphy for U.S. Congress (NC-03)– Virginia Foxx for U.S. Co",
-   "url": "https://truthsocial.com/@realDonaldTrump/117482198634651857",
+   "title": "It is my Great Honor to endorse America First Patriot, Max Engling, who is running to be the next Secretary of State of the wonderful State of Indiana!A lifelong Hoosier, very successful Civic Leader, and former Staffer to GREAT U.S. Senator Jim Banks, Max has dedicated his life ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117488079014515669",
    "domain": "truthsocial.com",
    "tags": [
-    "regulation"
+    "geo"
    ],
    "author": "Donald Trump",
-   "score": 3225
+   "score": 2867
   },
   {
-   "id": "0d4897e58fc04767",
-   "ts": 1792636078,
+   "id": "e4a832261f78f29e",
+   "ts": 1792709167,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117474908315721936TO THE GREAT PEOPLE OF OHIO, GET OUT AND VOTE FOR: – Jon Husted for U.S. Senate– Vivek Ramaswamy for Governor– Keith Faber for Attorney General– Eric Conroy for U.S. Congress (OH-01)– Dave Taylor for U.S",
-   "url": "https://truthsocial.com/@realDonaldTrump/117482198063478939",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486985879568118TO THE GREAT PEOPLE OF WEST VIRGINIA, GET OUT AND VOTE FOR: – Shelley Moore Capito for U.S. Senate– Carol Miller for U.S. Congress (WV-01)– Riley Moore for U.S. Congress (WV-02) These Great Patriots have",
+   "url": "https://truthsocial.com/@realDonaldTrump/117486987976225116",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 3172
+   "score": 2797
+  },
+  {
+   "id": "d72f061607394a52",
+   "ts": 1792709077,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486977381243039TO THE GREAT PEOPLE OF WASHINGTON STATE, GET OUT AND VOTE FOR: – John Braun for U.S. Congress (WA-03)– Amanda McKinney for U.S. Congress (WA-04)– Michael Baumgartner for U.S. Congress (WA-05) These Great",
+   "url": "https://truthsocial.com/@realDonaldTrump/117486982106895020",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2738
+  },
+  {
+   "id": "3a2d43a862bd4592",
+   "ts": 1792726873,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Senator Roger Marshall of Kansas has done an incredible job in representing his Great State! Because of him, working together with the Trump Administration, Bombardier is investing 270 MILLION DOLLARS, creating THOUSANDS of American Jobs in Kansas, Texas, and Indiana.Senator Mars",
+   "url": "https://truthsocial.com/@realDonaldTrump/117488148381448179",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro",
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 2667
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 37
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -316,7 +314,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 6
+   "n": 7
   },
   "BIS": {
    "ok": true,
@@ -344,11 +342,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 99
+   "n": 102
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 21
   },
   "Reddit r/Bitcoin": {
    "ok": false,
