@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-10-22T22:14:38Z",
- "generated_ts": 1792707278,
+ "generated_at": "2026-10-23T01:24:06Z",
+ "generated_ts": 1792718646,
  "prices": {
   "BTC": {
-   "p": 81380.9,
-   "o": 84022.5,
-   "h": 84718.2,
+   "p": 81341.4,
+   "o": 81314.1,
+   "h": 84291.0,
    "l": 80813.7,
-   "v": 2791.20145452
+   "v": 2748.35920566
   },
   "ETH": {
-   "p": 2388.91,
-   "o": 2471.98,
-   "h": 2493.41,
+   "p": 2386.83,
+   "o": 2386.34,
+   "h": 2476.79,
    "l": 2357.35,
-   "v": 26332.41219014
+   "v": 25975.81411911
   },
   "SOL": {
-   "p": 103.53,
-   "o": 106.92,
-   "h": 107.93,
+   "p": 103.79,
+   "o": 103.54,
+   "h": 107.28,
    "l": 102.9,
-   "v": 251188.40720193
+   "v": 242553.27353525
   }
  },
  "change_7d": {
-  "BTC": -0.011651890731476492,
-  "ETH": -0.02799747880365163,
-  "SOL": -0.02209214501510577
+  "BTC": -0.010793740899872442,
+  "ETH": -0.019199855652516307,
+  "SOL": -0.014320940819423283
  },
  "sentiment": {
-  "score": 61.1,
-  "label": "Greed",
+  "score": 49.4,
+  "label": "Neutral",
   "components": {
-   "fng": 68.0,
-   "momentum": 47.087027317130875,
-   "crowding": 63.6875
+   "fng": 50.0,
+   "momentum": 47.30156477503189,
+   "news_tone": 38.25,
+   "crowding": 61.8904955
   },
   "weights": {
    "fng": 0.35,
@@ -46,29 +47,29 @@
   }
  },
  "fear_greed": {
-  "value": 68,
-  "label": "Greed",
-  "ts": 1792627200
+  "value": 50,
+  "label": "Neutral",
+  "ts": 1792713600
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.705,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3496058326.6309,
-   "premium": -6.13617e-05
+   "oi_usd": 3514422978.5746,
+   "premium": -9.57563e-05
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2628826879.84722,
-   "premium": -0.0004181126
+   "funding_h": 1.06932e-05,
+   "oi_usd": 2604004533.9248004,
+   "premium": -0.0004602703
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 566824691.0204,
-   "premium": -0.0002594099
+   "funding_h": 9.3835e-06,
+   "oi_usd": 567777376.5768,
+   "premium": -0.0003849115
   }
  },
- "items_24h": 450,
+ "items_24h": 419,
  "top_items": [
   {
    "id": "3e4640e41c81b844",
@@ -119,6 +120,23 @@
    "score": 6130
   },
   {
+   "id": "4e50b6e9619b0ccb",
+   "ts": 1792711257,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Getting ready to land in Iowa. Big Rally happening. Inflation and Prices coming down, FAST! Campaigning for Ashley Hinson for U.S. Senate, Zach Lahn for Governor, Brenna Bird for Attorney General, Mariannette Miller-Meeks for Iowa's First Congressional District, Joe Mitchell for ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117487124994548876",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 5942
+  },
+  {
    "id": "27b7555dbeeee418",
    "ts": 1792636173,
    "source": "truth",
@@ -153,6 +171,22 @@
    "score": 4396
   },
   {
+   "id": "d9a654b9f3ceca2b",
+   "ts": 1792709749,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117487024484097038TO THE GREAT PEOPLE OF ALASKA, GET OUT AND VOTE FOR: – Dan Sullivan for U.S. Senate– Bernadette Wilson for Governor– Nick Begich for U.S. Congress (AK-AL) These Great Patriots have my Complete and Total ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117487026166573105",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3500
+  },
+  {
    "id": "dedf1956db14b3f1",
    "ts": 1792636098,
    "source": "truth",
@@ -167,6 +201,22 @@
    ],
    "author": "Donald Trump",
    "score": 3451
+  },
+  {
+   "id": "d24b38ab9b981de4",
+   "ts": 1792709322,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486995362968376TO THE GREAT PEOPLE OF WYOMING, GET OUT AND VOTE FOR: – Harriet Hageman for U.S. Senate– Chuck Gray for U.S. Congress (WY-AL) These Great Patriots have my Complete and Total Endorsement — They will never",
+   "url": "https://truthsocial.com/@realDonaldTrump/117486998136416014",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3257
   },
   {
    "id": "6a98bde881ea328c",
@@ -215,65 +265,17 @@
    ],
    "author": "Donald Trump",
    "score": 3172
-  },
-  {
-   "id": "8611d0e8723c8b44",
-   "ts": 1792636072,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117479079767228837TO THE GREAT PEOPLE OF ALASKA, GET OUT AND VOTE FOR: – Dan S. Sullivan for U.S. Senate– Nick Begich for U.S. Congress– Bernadette Wilson for Governor These Great Patriots have my Complete and Total Endor",
-   "url": "https://truthsocial.com/@realDonaldTrump/117482197637387863",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3049
-  },
-  {
-   "id": "76d7e967935920a7",
-   "ts": 1792636038,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117479085659195617TO THE GREAT PEOPLE OF VIRGINIA, GET OUT AND VOTE FOR: – Rob Wittman for U.S. Congress (VA-01)– Jen Kiggans for U.S. Congress (VA-02)– John McGuire for U.S. Congress (VA-05)– Ben Cline for U.S. Congress ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117482195414283532",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3018
-  },
-  {
-   "id": "e6830616f0803a3a",
-   "ts": 1792636052,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117479083730049250TO THE GREAT PEOPLE OF NEBRASKA, GET OUT AND VOTE FOR: – Pete Ricketts for U.S. Senate– Jim Pillen for Governor– Mike Hilgers for Attorney General– Mike Flood for U.S. Congress (NE-01)– Brinker Harding f",
-   "url": "https://truthsocial.com/@realDonaldTrump/117482196337261627",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2952
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 37
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -285,7 +287,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 21
+   "n": 20
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -318,7 +320,7 @@
   },
   "BIS": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "Strategy (MSTR) filings": {
    "ok": true,
@@ -342,7 +344,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 69
+   "n": 99
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
