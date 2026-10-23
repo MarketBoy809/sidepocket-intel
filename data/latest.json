@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-23T07:21:20Z",
- "generated_ts": 1792740080,
+ "generated_at": "2026-10-23T13:19:02Z",
+ "generated_ts": 1792761542,
  "prices": {
   "BTC": {
-   "p": 81639.7,
+   "p": 81547.7,
    "o": 81314.1,
-   "h": 82246.7,
+   "h": 81986.3,
    "l": 80813.7,
-   "v": 2192.93182216
+   "v": 1782.97322472
   },
   "ETH": {
-   "p": 2401.36,
+   "p": 2395.3,
    "o": 2386.34,
-   "h": 2430.27,
+   "h": 2415.58,
    "l": 2357.35,
-   "v": 23114.17219252
+   "v": 19250.295191
   },
   "SOL": {
-   "p": 104.39,
+   "p": 104.19,
    "o": 103.54,
    "h": 105.14,
    "l": 102.9,
-   "v": 166374.92467817
+   "v": 132175.11141169
   }
  },
  "change_7d": {
-  "BTC": -0.003638708774997864,
-  "ETH": -0.016212305164146464,
-  "SOL": -0.015065913370998196
+  "BTC": -0.0037346797038957658,
+  "ETH": -0.02402839497639865,
+  "SOL": -0.011182714177407058
  },
  "sentiment": {
-  "score": 52.6,
+  "score": 52.7,
   "label": "Neutral",
   "components": {
    "fng": 50.0,
-   "momentum": 49.09032280625053,
-   "crowding": 63.185917
+   "momentum": 49.066330074026055,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3567560586.07032,
-   "premium": -5.2602e-05
+   "oi_usd": 3684596186.136572,
+   "premium": 0.0001175845
   },
   "ETH": {
-   "funding_h": 1.11258e-05,
-   "oi_usd": 2621793375.5247355,
-   "premium": -0.0004907506
+   "funding_h": 1.25e-05,
+   "oi_usd": 2614093041.5856013,
+   "premium": -0.0004003403
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 572219263.6011521,
-   "premium": -0.0002659396
+   "oi_usd": 572475655.752,
+   "premium": -0.0002722695
   }
  },
- "items_24h": 439,
+ "items_24h": 443,
  "top_items": [
   {
    "id": "3e4640e41c81b844",
@@ -269,7 +269,7 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 15
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -281,11 +281,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 5
   },
   "White House": {
    "ok": true,
-   "n": 20
+   "n": 22
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -306,7 +306,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "Bank of England": {
    "ok": true,
@@ -314,7 +314,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 7
+   "n": 6
   },
   "BIS": {
    "ok": true,
@@ -322,7 +322,7 @@
   },
   "Strategy (MSTR) filings": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "Coinbase filings": {
    "ok": true,
@@ -342,11 +342,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 102
+   "n": 101
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
