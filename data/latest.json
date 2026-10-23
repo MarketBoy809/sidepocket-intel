@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-10-23T13:19:02Z",
- "generated_ts": 1792761542,
+ "generated_at": "2026-10-23T18:14:29Z",
+ "generated_ts": 1792779269,
  "prices": {
   "BTC": {
-   "p": 81547.7,
+   "p": 81511.5,
    "o": 81314.1,
-   "h": 81986.3,
-   "l": 80813.7,
-   "v": 1782.97322472
+   "h": 81942.7,
+   "l": 81000.0,
+   "v": 1362.59075845
   },
   "ETH": {
-   "p": 2395.3,
+   "p": 2405.87,
    "o": 2386.34,
-   "h": 2415.58,
-   "l": 2357.35,
-   "v": 19250.295191
+   "h": 2414.63,
+   "l": 2372.54,
+   "v": 15198.59411359
   },
   "SOL": {
-   "p": 104.19,
+   "p": 104.28,
    "o": 103.54,
-   "h": 105.14,
-   "l": 102.9,
-   "v": 132175.11141169
+   "h": 105.13,
+   "l": 102.92,
+   "v": 113688.20398988
   }
  },
  "change_7d": {
-  "BTC": -0.0037346797038957658,
-  "ETH": -0.02402839497639865,
-  "SOL": -0.011182714177407058
+  "BTC": 0.00556356996828949,
+  "ETH": -0.0004900291525817212,
+  "SOL": 0.008111239860950206
  },
  "sentiment": {
-  "score": 52.7,
+  "score": 53.3,
   "label": "Neutral",
   "components": {
    "fng": 50.0,
-   "momentum": 49.066330074026055,
+   "momentum": 51.390892492072375,
    "crowding": 63.6875
   },
   "weights": {
@@ -54,54 +54,22 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3684596186.136572,
-   "premium": 0.0001175845
+   "oi_usd": 3659779171.9864,
+   "premium": 0.0
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2614093041.5856013,
-   "premium": -0.0004003403
+   "oi_usd": 2605200344.6734815,
+   "premium": -0.0004151445
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 572475655.752,
-   "premium": -0.0002722695
+   "oi_usd": 572568688.6610602,
+   "premium": -0.0003352009
   }
  },
- "items_24h": 443,
+ "items_24h": 339,
  "top_items": [
-  {
-   "id": "3e4640e41c81b844",
-   "ts": 1792683636,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Iran is doing everything they can to drive up the price of Oil prior to the U.S. Midterm Election. They are even making up fake hits, mines, and everything else, because more Oil is coming through the Hormuz Strait now than it did even prior to the beginning of the Conflict. They",
-   "url": "https://truthsocial.com/@realDonaldTrump/117485314798987090",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 25632
-  },
-  {
-   "id": "374536031f3015d6",
-   "ts": 1792683673,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "THE WALL STREET JOURNAL: \"More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War.\"",
-   "url": "https://truthsocial.com/@realDonaldTrump/117485317207546802",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 9906
-  },
   {
    "id": "03b80c20ed7a46aa",
    "ts": 1792725635,
@@ -263,17 +231,49 @@
    ],
    "author": "Donald Trump",
    "score": 2667
+  },
+  {
+   "id": "6e8e832555a70fc5",
+   "ts": 1792708971,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486973456365506TO THE GREAT PEOPLE OF VIRGINIA, GET OUT AND VOTE FOR: – Rob Wittman for U.S. Congress (VA-01)– Jen Kiggans for U.S. Congress (VA-02)– John McGuire for U.S. Congress (VA-05)– Ben Cline for U.S. Congress ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117486975142107462",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2606
+  },
+  {
+   "id": "04d43d24a6421d76",
+   "ts": 1792708852,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117486964832522667TO THE GREAT PEOPLE OF TENNESSEE, GET OUT AND VOTE FOR: – Bill Hagerty for U.S. Senate– Marsha Blackburn for Governor– Diana Harshbarger for U.S. Congress (TN-01)– Tim Burchett for U.S. Congress (TN-02)–",
+   "url": "https://truthsocial.com/@realDonaldTrump/117486967342374756",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2591
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 15
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -281,7 +281,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 5
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -294,7 +294,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "CFTC": {
    "ok": true,
@@ -302,7 +302,7 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "European Central Bank": {
    "ok": true,
@@ -346,7 +346,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 24
   },
   "Reddit r/Bitcoin": {
    "ok": false,
