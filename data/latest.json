@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-24T10:46:58Z",
- "generated_ts": 1792838818,
+ "generated_at": "2026-10-24T14:25:44Z",
+ "generated_ts": 1792851944,
  "prices": {
   "BTC": {
-   "p": 80560.0,
+   "p": 80006.7,
    "o": 81086.2,
-   "h": 81942.7,
-   "l": 80305.3,
-   "v": 1382.68292722
+   "h": 81797.1,
+   "l": 79950.0,
+   "v": 1322.10593151
   },
   "ETH": {
-   "p": 2367.97,
+   "p": 2337.98,
    "o": 2384.7,
-   "h": 2414.63,
-   "l": 2349.92,
-   "v": 15152.83883897
+   "h": 2413.19,
+   "l": 2330.31,
+   "v": 15318.24980491
   },
   "SOL": {
-   "p": 101.61,
+   "p": 100.05,
    "o": 102.72,
-   "h": 105.13,
-   "l": 100.99,
-   "v": 148528.94469687
+   "h": 105.09,
+   "l": 99.56,
+   "v": 173771.8591275
   }
  },
  "change_7d": {
-  "BTC": -0.011915888423920443,
-  "ETH": -0.02840152548781094,
-  "SOL": -0.032757138764205836
+  "BTC": -0.009697624001634665,
+  "ETH": -0.022770374961264384,
+  "SOL": -0.024751998459019486
  },
  "sentiment": {
-  "score": 48.8,
+  "score": 49.7,
   "label": "Neutral",
   "components": {
    "fng": 51.0,
-   "momentum": 47.02102789401989,
-   "news_tone": 40.7,
-   "crowding": 53.858488
+   "momentum": 47.575593999591334,
+   "news_tone": 40.33333333333333,
+   "crowding": 58.759854
   },
   "weights": {
    "fng": 0.35,
@@ -51,179 +51,195 @@
   "label": "Neutral",
   "ts": 1792800000
  },
- "news_tone_24h": -0.558,
+ "news_tone_24h": -0.58,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3593308982.46158,
-   "premium": -0.0001983389
+   "oi_usd": 3499157371.7808003,
+   "premium": -4.36882e-05
   },
   "ETH": {
-   "funding_h": -2.7806e-06,
-   "oi_usd": 2573195094.394441,
-   "premium": -0.0004808037
+   "funding_h": 7.5346e-06,
+   "oi_usd": 2583230708.64208,
+   "premium": 0.0
   },
   "SOL": {
-   "funding_h": 8.518e-07,
-   "oi_usd": 547359310.2144002,
-   "premium": -0.0004423691
+   "funding_h": 3.965e-06,
+   "oi_usd": 546282619.443,
+   "premium": 0.0
   }
  },
- "items_24h": 205,
+ "items_24h": 202,
  "top_items": [
   {
-   "id": "23d46987719eb79b",
-   "ts": 1792821600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Piero Cipollone: Interview with Milano Finanza",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "4bb1bc0efc5e4143",
-   "ts": 1792786257,
-   "source": "government",
+   "id": "a15c7117a015e575",
+   "ts": 1792843706,
+   "source": "truth",
    "group": "government",
-   "kind": "official",
-   "title": "Fact Sheet: President Donald J. Trump Announces the America First Seafood Strategy and Seafood.gov",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-the-america-first-seafood-strategy-and-seafood-gov/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "282b2780a9235ad0",
-   "ts": 1792785069,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "FURTHER MODIFYING THE SCOPE OF PRODUCTS OF CANADA SUBJECT TO THE ADDITIONAL DUTIES IMPOSED TO OFFSET CANADIAN DISCRIMINATION AGAINST THE COMMERCE OF THE UNITED STATES WITH RESPECT TO MOTOR VEHICLES",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "ba329feb481aa9b9",
-   "ts": 1792784255,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Fact Sheet: President Donald J. Trump Further Modifies Canadian Products Subject to Tariffs Under Section 338",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-further-modifies-canadian-products-subject-to-tariffs-under-section-338/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "81f856d9de5ff81c",
-   "ts": 1792776614,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "President Trump Returns to the Sunshine State with Major Wins for Workers, Seniors, and Veterans",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-the-sunshine-state-with-major-wins-for-workers-seniors-and-veterans/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "b74f7652e7222abe",
-   "ts": 1792764600,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "SEC Announces Fiscal Year 2027 Examination Priorities",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
-   "domain": "SEC",
-   "org": "SEC",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "There is a Fake News report out there that I am going to remove the White House Press Room and bring back the old Swimming Pool, which lies directly underneath. Although I may move the Fake News to a less obnoxious location, the old swimming pool will never be brought back. I NEV",
+   "url": "https://truthsocial.com/@realDonaldTrump/117495805131265987",
+   "domain": "truthsocial.com",
    "tags": [
     "regulation"
-   ]
+   ],
+   "author": "Donald Trump",
+   "score": 7266
   },
   {
-   "id": "65ab9c791ffbdf2f",
-   "ts": 1792761414,
-   "source": "government",
+   "id": "a47fdf0fdcc952b4",
+   "ts": 1792842674,
+   "source": "truth",
    "group": "government",
-   "kind": "official",
-   "title": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine, Localized to Oleshky",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/",
-   "domain": "White House",
-   "org": "White House",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I will be doing a BIG RALLY today in the Great State of Georgia, in honor of Mike Collins, one of the hardest working and most respected Congressmen in D.C., and the phenomenal Rick Jackson, who will hopefully be Georgia's next Governor. They are two incredible people! Their oppo",
+   "url": "https://truthsocial.com/@realDonaldTrump/117495737524654616",
+   "domain": "truthsocial.com",
    "tags": [
-    "geo"
-   ]
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6589
   },
   {
-   "id": "55c35a9e6bdce83b",
-   "ts": 1792758600,
+   "id": "77ddbdf46af65344",
+   "ts": 1792846067,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117495957303860596TO THE GREAT PEOPLE OF FLORIDA, GET OUT AND VOTE FOR: – Ashley Moody for U.S. Senate– Byron Donalds for Governor– James Uthmeier for Attorney General– Wilton Simpson for Agriculture Commissioner– Jimmy P",
+   "url": "https://truthsocial.com/@realDonaldTrump/117495959899521852",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3879
+  },
+  {
+   "id": "d0528083cd8383ff",
+   "ts": 1792850269,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117496229811089720TO THE GREAT PEOPLE OF NEW JERSEY, GET OUT AND VOTE FOR: – Jeff Van Drew for U.S. Congress (NJ-02)– Chris Smith for U.S. Congress (NJ-04)– Tom Kean for U.S. Congress (NJ-07) These Great Patriots have my ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117496235243020824",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1595
+  },
+  {
+   "id": "1ba1640ec0a8b6cc",
+   "ts": 1792850145,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117495961382280989TO THE GREAT PEOPLE OF MICHIGAN, GET OUT AND VOTE FOR: – Mike Rogers for U.S. Senate– John James for Governor– Jack Bergman for U.S. Congress (MI-01)– John Moolenaar for U.S. Congress (MI-02)– Bill Huize",
+   "url": "https://truthsocial.com/@realDonaldTrump/117496227160283486",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1495
+  },
+  {
+   "id": "7580d092c267cfa8",
+   "ts": 1792850400,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Shares Set to Pay Dividend of $0 . 03",
-   "url": "https://www.themarketsdaily.com/2026/10/23/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-shares-set-to-pay-dividend-of-0-03.html",
-   "domain": "themarketsdaily.com",
+   "title": "XLRE vs VNQI : Domestic Large - Cap Stability or International 5 % Yield",
+   "url": "https://www.fool.com/coverage/etfs/2026/10/24/xlre-vs-vnqi-domestic-large-cap-stability-or-international-5-yield/?source=iedfolrf0000001",
+   "domain": "fool.com",
    "tags": [
+    "macro",
     "institution"
    ]
   },
   {
-   "id": "9a7d5b46b0a6d0d1",
-   "ts": 1792758170,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on the World Series",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-world-series/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "c36b14c08f86697e",
-   "ts": 1792756800,
+   "id": "c2c6fce173438383",
+   "ts": 1792848600,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Vanguard FTSE Developed Markets ETF $VEA Shares Acquired by Sepio Capital LP",
-   "url": "https://www.themarketsdaily.com/2026/10/23/vanguard-ftse-developed-markets-etf-vea-shares-acquired-by-sepio-capital-lp.html",
-   "domain": "themarketsdaily.com",
+   "title": "Vanguard Mid - Cap Growth ETF $VOT Holdings Lowered by Sowell Financial Services LLC",
+   "url": "https://www.dailypolitical.com/2026/10/24/vanguard-mid-cap-growth-etf-vot-holdings-lowered-by-sowell-financial-services-llc.html",
+   "domain": "dailypolitical.com",
    "tags": [
     "crypto",
     "institution"
    ]
   },
   {
-   "id": "6d07d64780cca8aa",
-   "ts": 1792756800,
+   "id": "964406f79eb7cfb0",
+   "ts": 1792847700,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( STRC ) to Distribute Dividend of $0 . 03 on December 1st",
-   "url": "https://www.themarketsdaily.com/2026/10/23/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-strc-to-distribute-dividend-of-0-03-on-december-1st-2.html",
-   "domain": "themarketsdaily.com",
+   "title": "Id Put Most of a Lump Sum Into an S & P 500 Fund Right Away . Here When I Wouldnt .",
+   "url": "https://www.aol.com/articles/id-put-most-lump-sum-121202000.html",
+   "domain": "aol.com",
    "tags": [
     "institution"
    ]
   },
   {
-   "id": "c0acb587f5f0cc06",
-   "ts": 1792755000,
+   "id": "60a6592534be1182",
+   "ts": 1792847700,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Investors Just Got Bad News From the Federal Reserve . Here What History Says Comes Next .",
-   "url": "https://www.aol.com/articles/investors-just-got-bad-news-102400000.html",
+   "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
+   "url": "https://www.morningstar.com/news/marketwatch/20261024116/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit",
+   "domain": "morningstar.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "8486e2c0e7448622",
+   "ts": 1792847700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Nasdaq raises red flag on 3 overnight risks ahead of Dec . 6 and they pose an extra - big threat to retirement nest eggs",
+   "url": "https://www.aol.com/articles/nasdaq-raises-red-flag-3-113500000.html",
    "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "cf10de36939decad",
+   "ts": 1792847700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Tech Stock Sell - Off : This Could Be the Most Powerful Reason to Buy Bonds Right Now",
+   "url": "https://www.aol.com/articles/tech-stock-sell-off-could-111000000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "05594471a4a0ff62",
+   "ts": 1792845000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "XLRE vs VNQI : Domestic Large - Cap Stability or International 5 % Yield",
+   "url": "https://www.fool.com/coverage/etfs/2026/10/24/xlre-vs-vnqi-domestic-large-cap-stability-or-international-5-yield/",
+   "domain": "fool.com",
    "tags": [
     "macro",
     "institution"
@@ -234,11 +250,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 16
+   "n": 18
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -246,11 +262,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 10
   },
   "White House": {
    "ok": true,
-   "n": 23
+   "n": 24
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -307,11 +323,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 100
+   "n": 105
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 23
   },
   "Reddit r/Bitcoin": {
    "ok": false,
