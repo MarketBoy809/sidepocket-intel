@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-10-24T05:39:57Z",
- "generated_ts": 1792820397,
+ "generated_at": "2026-10-24T10:46:58Z",
+ "generated_ts": 1792838818,
  "prices": {
   "BTC": {
-   "p": 80641.4,
+   "p": 80560.0,
    "o": 81086.2,
    "h": 81942.7,
-   "l": 80417.7,
-   "v": 1301.09767355
+   "l": 80305.3,
+   "v": 1382.68292722
   },
   "ETH": {
-   "p": 2374.96,
+   "p": 2367.97,
    "o": 2384.7,
    "h": 2414.63,
    "l": 2349.92,
-   "v": 15384.56074041
+   "v": 15152.83883897
   },
   "SOL": {
-   "p": 102.25,
+   "p": 101.61,
    "o": 102.72,
    "h": 105.13,
-   "l": 101.61,
-   "v": 128599.25242029
+   "l": 100.99,
+   "v": 148528.94469687
   }
  },
  "change_7d": {
-  "BTC": -0.007791063122939996,
-  "ETH": -0.017704704192328596,
-  "SOL": -0.0195928509987575
+  "BTC": -0.011915888423920443,
+  "ETH": -0.02840152548781094,
+  "SOL": -0.032757138764205836
  },
  "sentiment": {
-  "score": 51.9,
+  "score": 48.8,
   "label": "Neutral",
   "components": {
    "fng": 51.0,
-   "momentum": 48.052234219265,
-   "crowding": 59.0468535
+   "momentum": 47.02102789401989,
+   "news_tone": 40.7,
+   "crowding": 53.858488
   },
   "weights": {
    "fng": 0.35,
@@ -50,26 +51,40 @@
   "label": "Neutral",
   "ts": 1792800000
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.558,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3554720108.89734,
-   "premium": -0.0001746059
+   "oi_usd": 3593308982.46158,
+   "premium": -0.0001983389
   },
   "ETH": {
-   "funding_h": 3.4474e-06,
-   "oi_usd": 2570019670.9714003,
-   "premium": -0.0004204507
+   "funding_h": -2.7806e-06,
+   "oi_usd": 2573195094.394441,
+   "premium": -0.0004808037
   },
   "SOL": {
-   "funding_h": 8.8385e-06,
-   "oi_usd": 548283889.1840004,
-   "premium": -0.0003907395
+   "funding_h": 8.518e-07,
+   "oi_usd": 547359310.2144002,
+   "premium": -0.0004423691
   }
  },
- "items_24h": 225,
+ "items_24h": 205,
  "top_items": [
+  {
+   "id": "23d46987719eb79b",
+   "ts": 1792821600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Piero Cipollone: Interview with Milano Finanza",
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
   {
    "id": "4bb1bc0efc5e4143",
    "ts": 1792786257,
@@ -213,27 +228,13 @@
     "macro",
     "institution"
    ]
-  },
-  {
-   "id": "2e47917b697e3041",
-   "ts": 1792753200,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "iShares Core S & P 500 ETF $IVV Stock : Pinnacle Associates Ltd . Grows Position",
-   "url": "https://www.themarketsdaily.com/2026/10/23/ishares-core-sp-500-etf-ivv-stock-pinnacle-associates-ltd-grows-position.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 10
+   "n": 16
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -249,7 +250,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 20
+   "n": 23
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -270,7 +271,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "Bank of England": {
    "ok": true,
