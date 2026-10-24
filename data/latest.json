@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-10-24T14:25:44Z",
- "generated_ts": 1792851944,
+ "generated_at": "2026-10-24T18:02:38Z",
+ "generated_ts": 1792864958,
  "prices": {
   "BTC": {
-   "p": 80006.7,
+   "p": 80150.5,
    "o": 81086.2,
-   "h": 81797.1,
-   "l": 79950.0,
-   "v": 1322.10593151
+   "h": 81563.4,
+   "l": 79120.8,
+   "v": 1834.11057869
   },
   "ETH": {
-   "p": 2337.98,
+   "p": 2319.51,
    "o": 2384.7,
-   "h": 2413.19,
-   "l": 2330.31,
-   "v": 15318.24980491
+   "h": 2406.94,
+   "l": 2279.8,
+   "v": 20681.6084822
   },
   "SOL": {
-   "p": 100.05,
+   "p": 100.39,
    "o": 102.72,
-   "h": 105.09,
-   "l": 99.56,
-   "v": 173771.8591275
+   "h": 104.36,
+   "l": 98.51,
+   "v": 273976.09507262
   }
  },
  "change_7d": {
-  "BTC": -0.009697624001634665,
-  "ETH": -0.022770374961264384,
-  "SOL": -0.024751998459019486
+  "BTC": -0.013569405235094688,
+  "ETH": -0.03655868445197259,
+  "SOL": -0.02845528455284551
  },
  "sentiment": {
-  "score": 49.7,
+  "score": 52.5,
   "label": "Neutral",
   "components": {
    "fng": 51.0,
-   "momentum": 47.575593999591334,
-   "news_tone": 40.33333333333333,
-   "crowding": 58.759854
+   "momentum": 46.60764869122633,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +50,25 @@
   "label": "Neutral",
   "ts": 1792800000
  },
- "news_tone_24h": -0.58,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3499157371.7808003,
-   "premium": -4.36882e-05
+   "oi_usd": 3516213541.66708,
+   "premium": -0.0003875148
   },
   "ETH": {
-   "funding_h": 7.5346e-06,
-   "oi_usd": 2583230708.64208,
-   "premium": 0.0
+   "funding_h": 1.25e-05,
+   "oi_usd": 2593460471.8436384,
+   "premium": -0.0001808474
   },
   "SOL": {
-   "funding_h": 3.965e-06,
-   "oi_usd": 546282619.443,
+   "funding_h": 1.25e-05,
+   "oi_usd": 559425436.5056003,
    "premium": 0.0
   }
  },
- "items_24h": 202,
+ "items_24h": 281,
  "top_items": [
   {
    "id": "a15c7117a015e575",
@@ -152,6 +151,22 @@
    "score": 1495
   },
   {
+   "id": "0b57ca0f473f629b",
+   "ts": 1792853172,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT @realDonaldTrumpI will be doing a BIG RALLY today in the Great State of Georgia, in honor of Mike Collins, one of the hardest working and most respected Congressmen in D.C., and the phenomenal Rick Jackson, who will hopefully be Georgia's next Governor. They are two incredible",
+   "url": "https://truthsocial.com/@realDonaldTrump/117496425540649919",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1
+  },
+  {
    "id": "7580d092c267cfa8",
    "ts": 1792850400,
    "source": "news",
@@ -230,27 +245,13 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "05594471a4a0ff62",
-   "ts": 1792845000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "XLRE vs VNQI : Domestic Large - Cap Stability or International 5 % Yield",
-   "url": "https://www.fool.com/coverage/etfs/2026/10/24/xlre-vs-vnqi-domestic-large-cap-stability-or-international-5-yield/",
-   "domain": "fool.com",
-   "tags": [
-    "macro",
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 18
+   "n": 20
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -262,11 +263,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 10
+   "n": 0
   },
   "White House": {
    "ok": true,
-   "n": 24
+   "n": 23
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -323,11 +324,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 105
+   "n": 100
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 23
+   "n": 21
   },
   "Reddit r/Bitcoin": {
    "ok": false,
