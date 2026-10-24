@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-10-24T18:02:38Z",
- "generated_ts": 1792864958,
+ "generated_at": "2026-10-24T20:38:27Z",
+ "generated_ts": 1792874307,
  "prices": {
   "BTC": {
-   "p": 80150.5,
+   "p": 80477.9,
    "o": 81086.2,
-   "h": 81563.4,
+   "h": 81407.7,
    "l": 79120.8,
-   "v": 1834.11057869
+   "v": 1789.31200078
   },
   "ETH": {
-   "p": 2319.51,
+   "p": 2342.48,
    "o": 2384.7,
-   "h": 2406.94,
+   "h": 2402.36,
    "l": 2279.8,
-   "v": 20681.6084822
+   "v": 20529.94647637
   },
   "SOL": {
-   "p": 100.39,
+   "p": 101.37,
    "o": 102.72,
-   "h": 104.36,
+   "h": 104.0,
    "l": 98.51,
-   "v": 273976.09507262
+   "v": 280003.57869003
   }
  },
  "change_7d": {
-  "BTC": -0.013569405235094688,
-  "ETH": -0.03655868445197259,
-  "SOL": -0.02845528455284551
+  "BTC": -0.013559332018078334,
+  "ETH": -0.03277419461670299,
+  "SOL": -0.028087726048480068
  },
  "sentiment": {
   "score": 52.5,
   "label": "Neutral",
   "components": {
    "fng": 51.0,
-   "momentum": 46.60764869122633,
+   "momentum": 46.61016699548042,
    "crowding": 63.6875
   },
   "weights": {
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3516213541.66708,
-   "premium": -0.0003875148
+   "oi_usd": 3444471268.32096,
+   "premium": -0.0001389852
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2593460471.8436384,
-   "premium": -0.0001808474
+   "oi_usd": 2612064699.4181604,
+   "premium": -8.95408e-05
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 559425436.5056003,
-   "premium": 0.0
+   "oi_usd": 560481547.4904001,
+   "premium": 0.000147776
   }
  },
- "items_24h": 281,
+ "items_24h": 284,
  "top_items": [
   {
    "id": "a15c7117a015e575",
@@ -251,11 +251,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 20
+   "n": 12
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -267,7 +267,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 23
+   "n": 24
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -328,7 +328,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
