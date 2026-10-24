@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-24T00:29:10Z",
- "generated_ts": 1792801750,
+ "generated_at": "2026-10-24T05:39:57Z",
+ "generated_ts": 1792820397,
  "prices": {
   "BTC": {
-   "p": 80726.8,
+   "p": 80641.4,
    "o": 81086.2,
    "h": 81942.7,
    "l": 80417.7,
-   "v": 1318.95893352
+   "v": 1301.09767355
   },
   "ETH": {
-   "p": 2373.89,
+   "p": 2374.96,
    "o": 2384.7,
    "h": 2414.63,
    "l": 2349.92,
-   "v": 15547.86713778
+   "v": 15384.56074041
   },
   "SOL": {
-   "p": 102.27,
+   "p": 102.25,
    "o": 102.72,
    "h": 105.13,
    "l": 101.61,
-   "v": 130371.71226068
+   "v": 128599.25242029
   }
  },
  "change_7d": {
-  "BTC": -0.005177911569123157,
-  "ETH": -0.014686435915236851,
-  "SOL": -0.015433282208588953
+  "BTC": -0.007791063122939996,
+  "ETH": -0.017704704192328596,
+  "SOL": -0.0195928509987575
  },
  "sentiment": {
-  "score": 50.1,
+  "score": 51.9,
   "label": "Neutral",
   "components": {
    "fng": 51.0,
-   "momentum": 48.70552210771921,
-   "crowding": 49.7690645
+   "momentum": 48.052234219265,
+   "crowding": 59.0468535
   },
   "weights": {
    "fng": 0.35,
@@ -54,87 +54,22 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3560362862.8593,
-   "premium": -0.0002078647
+   "oi_usd": 3554720108.89734,
+   "premium": -0.0001746059
   },
   "ETH": {
-   "funding_h": -5.2268e-06,
-   "oi_usd": 2573437423.447804,
-   "premium": -0.0006564109
+   "funding_h": 3.4474e-06,
+   "oi_usd": 2570019670.9714003,
+   "premium": -0.0004204507
   },
   "SOL": {
-   "funding_h": -7.9059e-06,
-   "oi_usd": 551926998.9232,
-   "premium": -0.0007814026
+   "funding_h": 8.8385e-06,
+   "oi_usd": 548283889.1840004,
+   "premium": -0.0003907395
   }
  },
- "items_24h": 259,
+ "items_24h": 225,
  "top_items": [
-  {
-   "id": "03b80c20ed7a46aa",
-   "ts": 1792725635,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It was just revealed that Ilhan Omar's name is not Ilhan Omar, the one she used to get elected and sworn into Congress, but rather, it's an entirely different name, Ilhan Nur Said Elmi, and that her last name is, incredibly, also the exact name of her brother, Ahmed Nur Said Elmi",
-   "url": "https://truthsocial.com/@realDonaldTrump/117488067224261864",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6273
-  },
-  {
-   "id": "661040b66a91b66e",
-   "ts": 1792725725,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The New York Times got caught! They used a Company, Wedgewood Polls, that ADMITTED that the Poll Numbers they published were made up and FAKE. This is what I've had to deal with, right from the beginning! Our powerful Lawsuit against them is getting stronger and stronger everyday",
-   "url": "https://truthsocial.com/@realDonaldTrump/117488073122158937",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4940
-  },
-  {
-   "id": "3e732a3f9f205e49",
-   "ts": 1792725815,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse America First Patriot, Max Engling, who is running to be the next Secretary of State of the wonderful State of Indiana!A lifelong Hoosier, very successful Civic Leader, and former Staffer to GREAT U.S. Senator Jim Banks, Max has dedicated his life ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117488079014515669",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 2867
-  },
-  {
-   "id": "3a2d43a862bd4592",
-   "ts": 1792726873,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Senator Roger Marshall of Kansas has done an incredible job in representing his Great State! Because of him, working together with the Trump Administration, Bombardier is investing 270 MILLION DOLLARS, creating THOUSANDS of American Jobs in Kansas, Texas, and Indiana.Senator Mars",
-   "url": "https://truthsocial.com/@realDonaldTrump/117488148381448179",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro",
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 2667
-  },
   {
    "id": "4bb1bc0efc5e4143",
    "ts": 1792786257,
@@ -237,17 +172,72 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
+  },
+  {
+   "id": "c36b14c08f86697e",
+   "ts": 1792756800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Vanguard FTSE Developed Markets ETF $VEA Shares Acquired by Sepio Capital LP",
+   "url": "https://www.themarketsdaily.com/2026/10/23/vanguard-ftse-developed-markets-etf-vea-shares-acquired-by-sepio-capital-lp.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "6d07d64780cca8aa",
+   "ts": 1792756800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( STRC ) to Distribute Dividend of $0 . 03 on December 1st",
+   "url": "https://www.themarketsdaily.com/2026/10/23/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-strc-to-distribute-dividend-of-0-03-on-december-1st-2.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "c0acb587f5f0cc06",
+   "ts": 1792755000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Investors Just Got Bad News From the Federal Reserve . Here What History Says Comes Next .",
+   "url": "https://www.aol.com/articles/investors-just-got-bad-news-102400000.html",
+   "domain": "aol.com",
+   "tags": [
+    "macro",
+    "institution"
+   ]
+  },
+  {
+   "id": "2e47917b697e3041",
+   "ts": 1792753200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "iShares Core S & P 500 ETF $IVV Stock : Pinnacle Associates Ltd . Grows Position",
+   "url": "https://www.themarketsdaily.com/2026/10/23/ishares-core-sp-500-etf-ivv-stock-pinnacle-associates-ltd-grows-position.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 10
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -259,7 +249,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 24
+   "n": 20
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -280,7 +270,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 6
+   "n": 5
   },
   "Bank of England": {
    "ok": true,
