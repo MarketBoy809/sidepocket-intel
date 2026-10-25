@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-10-25T11:12:55Z",
- "generated_ts": 1792926775,
+ "generated_at": "2026-10-25T15:59:52Z",
+ "generated_ts": 1792943992,
  "prices": {
   "BTC": {
-   "p": 80244.1,
+   "p": 80533.0,
    "o": 80772.0,
    "h": 80919.2,
-   "l": 79120.8,
-   "v": 1844.92335562
+   "l": 79475.5,
+   "v": 1256.78872268
   },
   "ETH": {
-   "p": 2326.0,
+   "p": 2341.37,
    "o": 2355.67,
-   "h": 2370.0,
-   "l": 2279.8,
-   "v": 18941.41837847
+   "h": 2368.33,
+   "l": 2291.96,
+   "v": 12520.29573477
   },
   "SOL": {
-   "p": 100.67,
+   "p": 101.49,
    "o": 102.24,
    "h": 102.64,
-   "l": 98.51,
-   "v": 223220.46371286
+   "l": 99.37,
+   "v": 124447.88437822
   }
  },
  "change_7d": {
-  "BTC": -0.02203116145166398,
-  "ETH": -0.038328131855396116,
-  "SOL": -0.03138236426646122
+  "BTC": -0.005458612201959595,
+  "ETH": -0.014107230113397123,
+  "SOL": -0.0076448103498971
  },
  "sentiment": {
-  "score": 51.2,
+  "score": 53.3,
   "label": "Neutral",
   "components": {
    "fng": 54.0,
-   "momentum": 44.492209637084,
-   "news_tone": 44.55,
-   "crowding": 60.310483500000004
+   "momentum": 48.6353469495101,
+   "crowding": 58.0834725
   },
   "weights": {
    "fng": 0.35,
@@ -51,58 +50,26 @@
   "label": "Neutral",
   "ts": 1792886400
  },
- "news_tone_24h": -0.327,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 3.2479e-06,
-   "oi_usd": 3407032334.05652,
-   "premium": -0.0004480342
+   "funding_h": 1.25e-05,
+   "oi_usd": 3382877384.796582,
+   "premium": -0.0003980798
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2554340136.6287994,
-   "premium": -0.0004937424
+   "oi_usd": 2598179540.2415996,
+   "premium": -0.0003156404
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 555683181.3649999,
-   "premium": -0.0003710413
+   "funding_h": -2.8535e-06,
+   "oi_usd": 560295098.5624,
+   "premium": -0.000590435
   }
  },
- "items_24h": 303,
+ "items_24h": 187,
  "top_items": [
-  {
-   "id": "a15c7117a015e575",
-   "ts": 1792843706,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "There is a Fake News report out there that I am going to remove the White House Press Room and bring back the old Swimming Pool, which lies directly underneath. Although I may move the Fake News to a less obnoxious location, the old swimming pool will never be brought back. I NEV",
-   "url": "https://truthsocial.com/@realDonaldTrump/117495805131265987",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 7266
-  },
-  {
-   "id": "a47fdf0fdcc952b4",
-   "ts": 1792842674,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I will be doing a BIG RALLY today in the Great State of Georgia, in honor of Mike Collins, one of the hardest working and most respected Congressmen in D.C., and the phenomenal Rick Jackson, who will hopefully be Georgia's next Governor. They are two incredible people! Their oppo",
-   "url": "https://truthsocial.com/@realDonaldTrump/117495737524654616",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6589
-  },
   {
    "id": "87ea7ec2e4ecf29c",
    "ts": 1792897988,
@@ -138,22 +105,6 @@
    "score": 4111
   },
   {
-   "id": "77ddbdf46af65344",
-   "ts": 1792846067,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117495957303860596TO THE GREAT PEOPLE OF FLORIDA, GET OUT AND VOTE FOR: – Ashley Moody for U.S. Senate– Byron Donalds for Governor– James Uthmeier for Attorney General– Wilton Simpson for Agriculture Commissioner– Jimmy P",
-   "url": "https://truthsocial.com/@realDonaldTrump/117495959899521852",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3879
-  },
-  {
    "id": "bff13172765e96aa",
    "ts": 1792903363,
    "source": "truth",
@@ -168,54 +119,6 @@
    ],
    "author": "Donald Trump",
    "score": 1682
-  },
-  {
-   "id": "d0528083cd8383ff",
-   "ts": 1792850269,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117496229811089720TO THE GREAT PEOPLE OF NEW JERSEY, GET OUT AND VOTE FOR: – Jeff Van Drew for U.S. Congress (NJ-02)– Chris Smith for U.S. Congress (NJ-04)– Tom Kean for U.S. Congress (NJ-07) These Great Patriots have my ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117496235243020824",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1595
-  },
-  {
-   "id": "1ba1640ec0a8b6cc",
-   "ts": 1792850145,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117495961382280989TO THE GREAT PEOPLE OF MICHIGAN, GET OUT AND VOTE FOR: – Mike Rogers for U.S. Senate– John James for Governor– Jack Bergman for U.S. Congress (MI-01)– John Moolenaar for U.S. Congress (MI-02)– Bill Huize",
-   "url": "https://truthsocial.com/@realDonaldTrump/117496227160283486",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1495
-  },
-  {
-   "id": "0b57ca0f473f629b",
-   "ts": 1792853172,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT @realDonaldTrumpI will be doing a BIG RALLY today in the Great State of Georgia, in honor of Mike Collins, one of the hardest working and most respected Congressmen in D.C., and the phenomenal Rick Jackson, who will hopefully be Georgia's next Governor. They are two incredible",
-   "url": "https://truthsocial.com/@realDonaldTrump/117496425540649919",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1
   },
   {
    "id": "c98b79734f0cc854",
@@ -255,13 +158,91 @@
    "tags": [
     "institution"
    ]
+  },
+  {
+   "id": "d7d1ce3db298f6b2",
+   "ts": 1792899000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Plans Dividend of $0 . 03",
+   "url": "https://www.dailypolitical.com/2026/10/24/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-plans-dividend-of-0-03-2.html",
+   "domain": "dailypolitical.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "74d58413f50a1051",
+   "ts": 1792899000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Shareholders to Collect $0 . 03 Dividend",
+   "url": "https://www.tickerreport.com/banking-finance/13635640/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-shareholders-to-collect-0-03-dividend-2.html",
+   "domain": "tickerreport.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "67a2413f972f795d",
+   "ts": 1792899000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Stock to Pay Dividend of $0 . 03",
+   "url": "https://www.dailypolitical.com/2026/10/24/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-stock-to-pay-dividend-of-0-03.html",
+   "domain": "dailypolitical.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "52b90bc0ae554e80",
+   "ts": 1792899000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Shareholders Set to Receive $0 . 03 Dividend",
+   "url": "https://www.themarketsdaily.com/2026/10/25/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-shareholders-set-to-receive-0-03-dividend-3.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "fef111420a5d8aed",
+   "ts": 1792899000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Shareholders to Receive $0 . 03 Dividend",
+   "url": "https://www.themarketsdaily.com/2026/10/25/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-shareholders-to-receive-0-03-dividend-5.html",
+   "domain": "themarketsdaily.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "3d23269638dc8ea4",
+   "ts": 1792899000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Shares Will Pay Dividend of $0 . 03",
+   "url": "https://www.tickerreport.com/banking-finance/13635616/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-shares-will-pay-dividend-of-0-03-4.html",
+   "domain": "tickerreport.com",
+   "tags": [
+    "institution"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 13
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -334,7 +315,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 103
+   "n": 99
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
