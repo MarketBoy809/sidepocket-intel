@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-25T01:03:00Z",
- "generated_ts": 1792890180,
+ "generated_at": "2026-10-25T05:56:24Z",
+ "generated_ts": 1792907784,
  "prices": {
   "BTC": {
-   "p": 80712.9,
+   "p": 80460.0,
    "o": 80772.0,
-   "h": 80992.6,
+   "h": 80919.2,
    "l": 79120.8,
-   "v": 1885.64326964
+   "v": 1931.54339311
   },
   "ETH": {
-   "p": 2355.39,
+   "p": 2348.62,
    "o": 2355.67,
-   "h": 2387.07,
+   "h": 2381.18,
    "l": 2279.8,
-   "v": 19425.80342911
+   "v": 18952.91001545
   },
   "SOL": {
-   "p": 102.2,
+   "p": 101.8,
    "o": 102.24,
-   "h": 103.01,
+   "h": 102.64,
    "l": 98.51,
-   "v": 249473.61608391
+   "v": 248384.94335806
   }
  },
  "change_7d": {
-  "BTC": -0.00826257308835585,
-  "ETH": -0.019071675877222156,
-  "SOL": -0.009486012970670836
+  "BTC": -0.010678321145036838,
+  "ETH": -0.020076228353633287,
+  "SOL": -0.011668273866923895
  },
  "sentiment": {
-  "score": 54.3,
+  "score": 54.1,
   "label": "Neutral",
   "components": {
    "fng": 54.0,
-   "momentum": 47.93435672791104,
-   "crowding": 63.6875
+   "momentum": 47.33041971374079,
+   "crowding": 63.322062
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3433308363.312,
-   "premium": -0.0003439411
+   "funding_h": 1.14988e-05,
+   "oi_usd": 3429565847.1548004,
+   "premium": -0.0004219723
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2614297595.9658594,
-   "premium": -0.0002586488
+   "oi_usd": 2597334188.256061,
+   "premium": -0.0003444595
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 565940447.6407998,
-   "premium": -0.0001465774
+   "oi_usd": 563336050.7744,
+   "premium": -0.0003924262
   }
  },
- "items_24h": 310,
+ "items_24h": 321,
  "top_items": [
   {
    "id": "a15c7117a015e575",
@@ -103,6 +103,40 @@
    "score": 6589
   },
   {
+   "id": "87ea7ec2e4ecf29c",
+   "ts": 1792897988,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The Republicans' Worst Senator, by far, Lisa Murkowski, of the Great State of Alaska (A State for which I produced, on a continuing basis, Billions and Billions of Dollars, and which Crooked Joe Biden and the Dumocrats had totally shut down — Then I came back, and delivered even ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117499362600085167",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro",
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 5045
+  },
+  {
+   "id": "bd054db206cbb1cf",
+   "ts": 1792897709,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "This great Athlete, All American and Winner of the Championship, Jon Gruden's teammate and friend (who said he was the Best Player on the Championship Team with 17 Interceptions as a Safety!), Jon Husted, has just taken the lead in the Polls for the next Senator of the Great Stat",
+   "url": "https://truthsocial.com/@realDonaldTrump/117499344293071820",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 4111
+  },
+  {
    "id": "77ddbdf46af65344",
    "ts": 1792846067,
    "source": "truth",
@@ -117,6 +151,22 @@
    ],
    "author": "Donald Trump",
    "score": 3879
+  },
+  {
+   "id": "bff13172765e96aa",
+   "ts": 1792903363,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Obama was a grossly incompetent President! He paid off Iran with $Billions, and gave them a road to a Nuclear Weapon. He said that Crooked Hillary Clinton was going to WIN, he campaigned hard for her, and she lost in all directions and ways. He then campaigned full out for Kamala",
+   "url": "https://truthsocial.com/@realDonaldTrump/117499714815544938",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 1682
   },
   {
    "id": "d0528083cd8383ff",
@@ -167,81 +217,40 @@
    "score": 1
   },
   {
-   "id": "7580d092c267cfa8",
-   "ts": 1792850400,
+   "id": "c98b79734f0cc854",
+   "ts": 1792903500,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "XLRE vs VNQI : Domestic Large - Cap Stability or International 5 % Yield",
-   "url": "https://www.fool.com/coverage/etfs/2026/10/24/xlre-vs-vnqi-domestic-large-cap-stability-or-international-5-yield/?source=iedfolrf0000001",
-   "domain": "fool.com",
-   "tags": [
-    "macro",
-    "institution"
-   ]
-  },
-  {
-   "id": "c2c6fce173438383",
-   "ts": 1792848600,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Vanguard Mid - Cap Growth ETF $VOT Holdings Lowered by Sowell Financial Services LLC",
-   "url": "https://www.dailypolitical.com/2026/10/24/vanguard-mid-cap-growth-etf-vot-holdings-lowered-by-sowell-financial-services-llc.html",
+   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Announces Dividend of $0 . 03",
+   "url": "https://www.dailypolitical.com/2026/10/24/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-announces-dividend-of-0-03-3.html",
    "domain": "dailypolitical.com",
    "tags": [
-    "crypto",
     "institution"
    ]
   },
   {
-   "id": "964406f79eb7cfb0",
-   "ts": 1792847700,
+   "id": "669850d12e1993b4",
+   "ts": 1792899000,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "Id Put Most of a Lump Sum Into an S & P 500 Fund Right Away . Here When I Wouldnt .",
-   "url": "https://www.aol.com/articles/id-put-most-lump-sum-121202000.html",
+   "title": "Gold prices break $4 , 000 as investors brace for crucial test",
+   "url": "https://www.aol.com/articles/gold-prices-break-4-000-231700000.html",
    "domain": "aol.com",
    "tags": [
     "institution"
    ]
   },
   {
-   "id": "60a6592534be1182",
-   "ts": 1792847700,
+   "id": "4a4f5de009d17187",
+   "ts": 1792899000,
    "source": "news",
    "group": "institution",
    "kind": "news",
-   "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
-   "url": "https://www.morningstar.com/news/marketwatch/20261024116/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit",
-   "domain": "morningstar.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "8486e2c0e7448622",
-   "ts": 1792847700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Nasdaq raises red flag on 3 overnight risks ahead of Dec . 6 and they pose an extra - big threat to retirement nest eggs",
-   "url": "https://www.aol.com/articles/nasdaq-raises-red-flag-3-113500000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "cf10de36939decad",
-   "ts": 1792847700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Tech Stock Sell - Off : This Could Be the Most Powerful Reason to Buy Bonds Right Now",
-   "url": "https://www.aol.com/articles/tech-stock-sell-off-could-111000000.html",
-   "domain": "aol.com",
+   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Declares Dividend of $0 . 03",
+   "url": "https://www.dailypolitical.com/2026/10/24/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-declares-dividend-of-0-03-3.html",
+   "domain": "dailypolitical.com",
    "tags": [
     "institution"
    ]
@@ -255,7 +264,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -263,7 +272,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 9
   },
   "White House": {
    "ok": true,
@@ -324,11 +333,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 100
+   "n": 103
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 18
   },
   "Reddit r/Bitcoin": {
    "ok": false,
