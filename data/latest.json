@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-25T18:54:16Z",
- "generated_ts": 1792954456,
+ "generated_at": "2026-10-25T21:39:08Z",
+ "generated_ts": 1792964348,
  "prices": {
   "BTC": {
-   "p": 80555.2,
+   "p": 80364.2,
    "o": 80772.0,
    "h": 80919.2,
    "l": 80000.0,
-   "v": 1061.11740564
+   "v": 760.77825114
   },
   "ETH": {
-   "p": 2352.45,
+   "p": 2338.18,
    "o": 2355.67,
    "h": 2368.33,
    "l": 2315.53,
-   "v": 11839.63365597
+   "v": 9849.17549892
   },
   "SOL": {
-   "p": 101.72,
+   "p": 101.42,
    "o": 102.24,
    "h": 102.64,
    "l": 100.25,
-   "v": 77060.17556692
+   "v": 70586.75332474
   }
  },
  "change_7d": {
-  "BTC": -0.004988684168108393,
-  "ETH": -0.004845755422429807,
-  "SOL": -0.0014702999411879188
+  "BTC": -0.005932060654670933,
+  "ETH": -0.0016905918774937508,
+  "SOL": 0.004648862512363985
  },
  "sentiment": {
-  "score": 52.4,
+  "score": 51.9,
   "label": "Neutral",
   "components": {
    "fng": 54.0,
-   "momentum": 48.7528289579729,
-   "news_tone": 43.15,
-   "crowding": 63.0190755
+   "momentum": 48.51698483633227,
+   "news_tone": 42.516666666666666,
+   "crowding": 60.8458655
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +51,25 @@
   "label": "Neutral",
   "ts": 1792886400
  },
- "news_tone_24h": -0.411,
+ "news_tone_24h": -0.449,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3400692710.89932,
-   "premium": -0.0004214864
+   "funding_h": 4.7147e-06,
+   "oi_usd": 3402917466.2032003,
+   "premium": -0.0004361977
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2611158791.2273984,
-   "premium": -0.000309909
+   "oi_usd": 2603775314.3203783,
+   "premium": -0.0005381258
   },
   "SOL": {
-   "funding_h": 1.06687e-05,
-   "oi_usd": 562559631.7006,
-   "premium": -0.0003927344
+   "funding_h": 1.25e-05,
+   "oi_usd": 561140314.0,
+   "premium": -0.0005415785
   }
  },
- "items_24h": 184,
+ "items_24h": 166,
  "top_items": [
   {
    "id": "f53664c729bd9167",
@@ -136,6 +136,22 @@
    ],
    "author": "Donald Trump",
    "score": 1682
+  },
+  {
+   "id": "e607c813c597f049",
+   "ts": 1792955700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "JPMorgan Has Nearly $900 Million in Tokenized Funds on Ethereum and Solana . Which Chain Benefits More ?",
+   "url": "https://www.aol.com/articles/jpmorgan-nearly-900-million-tokenized-183043000.html",
+   "domain": "aol.com",
+   "tags": [
+    "crypto",
+    "institution",
+    "ETH",
+    "SOL"
+   ]
   },
   {
    "id": "718f2d73c83e51ae",
@@ -226,19 +242,6 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "52b90bc0ae554e80",
-   "ts": 1792899000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Shareholders Set to Receive $0 . 03 Dividend",
-   "url": "https://www.themarketsdaily.com/2026/10/25/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-shareholders-set-to-receive-0-03-dividend-3.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -249,7 +252,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 16
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -257,7 +260,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "White House": {
    "ok": true,
@@ -318,7 +321,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 100
+   "n": 99
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
