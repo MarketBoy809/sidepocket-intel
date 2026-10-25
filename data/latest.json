@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-10-25T15:59:52Z",
- "generated_ts": 1792943992,
+ "generated_at": "2026-10-25T18:54:16Z",
+ "generated_ts": 1792954456,
  "prices": {
   "BTC": {
-   "p": 80533.0,
+   "p": 80555.2,
    "o": 80772.0,
    "h": 80919.2,
-   "l": 79475.5,
-   "v": 1256.78872268
+   "l": 80000.0,
+   "v": 1061.11740564
   },
   "ETH": {
-   "p": 2341.37,
+   "p": 2352.45,
    "o": 2355.67,
    "h": 2368.33,
-   "l": 2291.96,
-   "v": 12520.29573477
+   "l": 2315.53,
+   "v": 11839.63365597
   },
   "SOL": {
-   "p": 101.49,
+   "p": 101.72,
    "o": 102.24,
    "h": 102.64,
-   "l": 99.37,
-   "v": 124447.88437822
+   "l": 100.25,
+   "v": 77060.17556692
   }
  },
  "change_7d": {
-  "BTC": -0.005458612201959595,
-  "ETH": -0.014107230113397123,
-  "SOL": -0.0076448103498971
+  "BTC": -0.004988684168108393,
+  "ETH": -0.004845755422429807,
+  "SOL": -0.0014702999411879188
  },
  "sentiment": {
-  "score": 53.3,
+  "score": 52.4,
   "label": "Neutral",
   "components": {
    "fng": 54.0,
-   "momentum": 48.6353469495101,
-   "crowding": 58.0834725
+   "momentum": 48.7528289579729,
+   "news_tone": 43.15,
+   "crowding": 63.0190755
   },
   "weights": {
    "fng": 0.35,
@@ -50,26 +51,42 @@
   "label": "Neutral",
   "ts": 1792886400
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.411,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3382877384.796582,
-   "premium": -0.0003980798
+   "oi_usd": 3400692710.89932,
+   "premium": -0.0004214864
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2598179540.2415996,
-   "premium": -0.0003156404
+   "oi_usd": 2611158791.2273984,
+   "premium": -0.000309909
   },
   "SOL": {
-   "funding_h": -2.8535e-06,
-   "oi_usd": 560295098.5624,
-   "premium": -0.000590435
+   "funding_h": 1.06687e-05,
+   "oi_usd": 562559631.7006,
+   "premium": -0.0003927344
   }
  },
- "items_24h": 187,
+ "items_24h": 184,
  "top_items": [
+  {
+   "id": "f53664c729bd9167",
+   "ts": 1792949370,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood — A man who should never be allowed inside the Halls of our Great and Beautiful Capital Building, in Washington, D.C. Everything he stands for is bad for our Country, which is now the \"HOTTEST,\" by far, anyw",
+   "url": "https://truthsocial.com/@realDonaldTrump/117502729923088637",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 7086
+  },
   {
    "id": "87ea7ec2e4ecf29c",
    "ts": 1792897988,
@@ -119,6 +136,18 @@
    ],
    "author": "Donald Trump",
    "score": 1682
+  },
+  {
+   "id": "718f2d73c83e51ae",
+   "ts": 1792940184,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Secures Major Deals to Unleash American Energy and Cut Gas Prices at the Pump",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-deals-to-unleash-american-energy-and-cut-gas-prices-at-the-pump/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "c98b79734f0cc854",
@@ -210,32 +239,6 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "fef111420a5d8aed",
-   "ts": 1792899000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Shareholders to Receive $0 . 03 Dividend",
-   "url": "https://www.themarketsdaily.com/2026/10/25/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-shareholders-to-receive-0-03-dividend-5.html",
-   "domain": "themarketsdaily.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "3d23269638dc8ea4",
-   "ts": 1792899000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Shares Will Pay Dividend of $0 . 03",
-   "url": "https://www.tickerreport.com/banking-finance/13635616/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-shares-will-pay-dividend-of-0-03-4.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -246,7 +249,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -258,7 +261,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 24
+   "n": 25
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -315,7 +318,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 99
+   "n": 100
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
