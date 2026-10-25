@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-10-25T05:56:24Z",
- "generated_ts": 1792907784,
+ "generated_at": "2026-10-25T11:12:55Z",
+ "generated_ts": 1792926775,
  "prices": {
   "BTC": {
-   "p": 80460.0,
+   "p": 80244.1,
    "o": 80772.0,
    "h": 80919.2,
    "l": 79120.8,
-   "v": 1931.54339311
+   "v": 1844.92335562
   },
   "ETH": {
-   "p": 2348.62,
+   "p": 2326.0,
    "o": 2355.67,
-   "h": 2381.18,
+   "h": 2370.0,
    "l": 2279.8,
-   "v": 18952.91001545
+   "v": 18941.41837847
   },
   "SOL": {
-   "p": 101.8,
+   "p": 100.67,
    "o": 102.24,
    "h": 102.64,
    "l": 98.51,
-   "v": 248384.94335806
+   "v": 223220.46371286
   }
  },
  "change_7d": {
-  "BTC": -0.010678321145036838,
-  "ETH": -0.020076228353633287,
-  "SOL": -0.011668273866923895
+  "BTC": -0.02203116145166398,
+  "ETH": -0.038328131855396116,
+  "SOL": -0.03138236426646122
  },
  "sentiment": {
-  "score": 54.1,
+  "score": 51.2,
   "label": "Neutral",
   "components": {
    "fng": 54.0,
-   "momentum": 47.33041971374079,
-   "crowding": 63.322062
+   "momentum": 44.492209637084,
+   "news_tone": 44.55,
+   "crowding": 60.310483500000004
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Neutral",
   "ts": 1792886400
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.327,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.14988e-05,
-   "oi_usd": 3429565847.1548004,
-   "premium": -0.0004219723
+   "funding_h": 3.2479e-06,
+   "oi_usd": 3407032334.05652,
+   "premium": -0.0004480342
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2597334188.256061,
-   "premium": -0.0003444595
+   "oi_usd": 2554340136.6287994,
+   "premium": -0.0004937424
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 563336050.7744,
-   "premium": -0.0003924262
+   "oi_usd": 555683181.3649999,
+   "premium": -0.0003710413
   }
  },
- "items_24h": 321,
+ "items_24h": 303,
  "top_items": [
   {
    "id": "a15c7117a015e575",
@@ -260,7 +261,7 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 13
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -272,7 +273,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 9
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -337,7 +338,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 18
+   "n": 13
   },
   "Reddit r/Bitcoin": {
    "ok": false,
