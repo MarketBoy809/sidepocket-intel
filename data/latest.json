@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-10-26T17:16:04Z",
- "generated_ts": 1793034964,
+ "generated_at": "2026-10-26T22:35:01Z",
+ "generated_ts": 1793054101,
  "prices": {
   "BTC": {
-   "p": 80403.8,
+   "p": 79813.4,
    "o": 80048.7,
-   "h": 80837.3,
+   "h": 80701.7,
    "l": 79265.0,
-   "v": 2357.22373755
+   "v": 2603.58259862
   },
   "ETH": {
-   "p": 2330.88,
+   "p": 2306.22,
    "o": 2326.62,
-   "h": 2361.91,
+   "h": 2346.59,
    "l": 2290.71,
-   "v": 20574.58163145
+   "v": 21038.79010874
   },
   "SOL": {
-   "p": 101.49,
+   "p": 100.11,
    "o": 101.25,
    "h": 102.55,
    "l": 99.75,
-   "v": 131508.1130062
+   "v": 157090.36820488
   }
  },
  "change_7d": {
-  "BTC": -0.02190739289642379,
-  "ETH": -0.034237613034962644,
-  "SOL": -0.03000958772770849
+  "BTC": -0.024151609842914732,
+  "ETH": -0.038391171530854355,
+  "SOL": -0.040714900124247264
  },
  "sentiment": {
-  "score": 49.2,
+  "score": 50.6,
   "label": "Neutral",
   "components": {
    "fng": 50.0,
-   "momentum": 44.52315177589405,
-   "news_tone": 41.1,
-   "crowding": 61.5320655
+   "momentum": 43.96209753927132,
+   "crowding": 61.026431
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +50,25 @@
   "label": "Neutral",
   "ts": 1792972800
  },
- "news_tone_24h": -0.534,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3383019169.2976203,
-   "premium": -0.0002470859
+   "funding_h": 1.01435e-05,
+   "oi_usd": 3406817520.3253202,
+   "premium": -0.0005866394
   },
   "ETH": {
-   "funding_h": 6.5947e-06,
-   "oi_usd": 2619359901.572699,
-   "premium": -0.0003983722
+   "funding_h": 7.5659e-06,
+   "oi_usd": 2596300221.8714004,
+   "premium": -0.000748908
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 562564668.1120001,
-   "premium": -7.18292e-05
+   "oi_usd": 557123120.1423999,
+   "premium": -0.0005983247
   }
  },
- "items_24h": 139,
+ "items_24h": 122,
  "top_items": [
   {
    "id": "11387b330382729f",
@@ -105,20 +104,36 @@
    "score": 8839
   },
   {
-   "id": "f53664c729bd9167",
-   "ts": 1792949370,
+   "id": "14ee5cd3f29b82ac",
+   "ts": 1793049327,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood — A man who should never be allowed inside the Halls of our Great and Beautiful Capital Building, in Washington, D.C. Everything he stands for is bad for our Country, which is now the \"HOTTEST,\" by far, anyw",
-   "url": "https://truthsocial.com/@realDonaldTrump/117502729923088637",
+   "title": "Let's all get behind Michele Tafoya in Minnesota. She's running a great race. Don't allow them to play with the Votes after the race is over. The Federal Government will be watching closely. The only way she can lose is if they cheat by playing games with the Ballots as they come",
+   "url": "https://truthsocial.com/@realDonaldTrump/117509280703799414",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 5625
+  },
+  {
+   "id": "826dc834e94c7e27",
+   "ts": 1793050667,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The United States Senate is letting the Daylight Saving Bill die, when a vast Majority of the Country want it. Most people are demanding light in the evening, but ALL want not to change their clocks anymore. TAKE A VOTE! As stated in The New York Post, \"Lawmakers in Washington ha",
+   "url": "https://truthsocial.com/@realDonaldTrump/117509368573544706",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 7086
+   "score": 5121
   },
   {
    "id": "1fbcda6a50ff57b9",
@@ -136,6 +151,38 @@
    ],
    "author": "Donald Trump",
    "score": 4389
+  },
+  {
+   "id": "341211f41cfe8827",
+   "ts": 1793048188,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congressman Clay Higgins is a MAGA Warrior who is doing a tremendous job representing the wonderful people of Louisiana's 3rd Congressional District! A tough Law Enforcement Officer, and brave U.S. Army Veteran, Clay strongly supports our incredible Law Enforcement, Military, and",
+   "url": "https://truthsocial.com/@realDonaldTrump/117509206102856686",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4246
+  },
+  {
+   "id": "0d35eb6dea882359",
+   "ts": 1793051465,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Right Side Broadcasting Network (RSBN) is doing an amazing job broadcasting the Rally in Mississippi. Watching on Air Force One as we are landing. Two Great Patriots are currently doing the anchoring. Wow, I've never heard such great things being said about me! PACKED HOUSE — Wil",
+   "url": "https://truthsocial.com/@realDonaldTrump/117509420824140105",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4019
   },
   {
    "id": "b82e278f6e6aea40",
@@ -170,86 +217,52 @@
    "score": 3532
   },
   {
-   "id": "c861d058055c548e",
-   "ts": 1793034373,
-   "source": "government",
+   "id": "d8dacd71e5c30f6d",
+   "ts": 1793048146,
+   "source": "truth",
    "group": "government",
-   "kind": "official",
-   "title": "From Coast to Coast, President Trump Is Putting American Industry Back on the Map",
-   "url": "https://www.whitehouse.gov/releases/2026/10/from-coast-to-coast-president-trump-is-putting-american-industry-back-on-the-map/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "44b8a5bd13a87455",
-   "ts": 1793023200,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "CFTC and National Basketball Association Sign MOU to Protect Integrity in Professional Basketball",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9314-26",
-   "domain": "CFTC",
-   "org": "CFTC",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congressman Greg Murphy, M.D., is a Tremendous Champion for the incredible people of North Carolina's 3rd Congressional District! A distinguished Surgeon and Member of the House Veterans' Affairs Committee, Greg knows the Wisdom and Courage required to Defend our Country, Support",
+   "url": "https://truthsocial.com/@realDonaldTrump/117509203319385918",
+   "domain": "truthsocial.com",
    "tags": [
     "regulation"
-   ]
+   ],
+   "author": "Donald Trump",
+   "score": 3488
   },
   {
-   "id": "f21defd7e6b8804b",
-   "ts": 1793018955,
-   "source": "institution",
-   "group": "institution",
-   "kind": "official",
-   "title": "8-K - Current report",
-   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526431146/0001193125-26-431146-index.htm",
-   "domain": "Strategy (MSTR) filings",
-   "org": "Strategy (MSTR) filings",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "36914d57178308b3",
-   "ts": 1793018835,
-   "source": "government",
+   "id": "416fe4ae9af9b1ee",
+   "ts": 1793048121,
+   "source": "truth",
    "group": "government",
-   "kind": "official",
-   "title": "First Lady Melania Trump Announces Halloween at the White House 2026",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-announces-halloween-at-the-white-house-2026/",
-   "domain": "White House",
-   "org": "White House",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "It is my Great Honor to endorse Carlos De La Cruz, a fantastic America First Candidate running to be the next Congressman from Texas' 35th Congressional District! A Brave, 20 Year Air Force Veteran, and now, as a successful Businessman, Carlos has a Proven Record of Success — He ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117509201705742785",
+   "domain": "truthsocial.com",
    "tags": [
     "regulation"
-   ]
+   ],
+   "author": "Donald Trump",
+   "score": 3419
   },
   {
-   "id": "f737e8530d3dd326",
-   "ts": 1793005200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
+   "id": "67a0b3e483537197",
+   "ts": 1793048101,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "It is my Great Honor to endorse America First Patriot, Eric Flores, who is running to represent the wonderful people of Texas' 34th Congressional District. A Brave U.S. Army Veteran, and former Criminal Prosecutor, Eric knows the Wisdom and Courage it takes to Ensure LAW AND ORDE",
+   "url": "https://truthsocial.com/@realDonaldTrump/117509200374065660",
+   "domain": "truthsocial.com",
    "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "4aa2eb3e52ea81d3",
-   "ts": 1792990800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3230
   }
  ],
  "briefing_ts": 1790465772,
@@ -281,7 +294,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "CFTC": {
    "ok": true,
@@ -329,11 +342,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 100
+   "n": 128
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 19
   },
   "Reddit r/Bitcoin": {
    "ok": false,
