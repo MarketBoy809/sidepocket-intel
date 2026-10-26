@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-26T04:37:28Z",
- "generated_ts": 1792989448,
+ "generated_at": "2026-10-26T10:57:38Z",
+ "generated_ts": 1793012258,
  "prices": {
   "BTC": {
-   "p": 79933.2,
+   "p": 80314.0,
    "o": 80048.7,
-   "h": 80849.9,
+   "h": 80837.3,
    "l": 79265.0,
-   "v": 1280.14888384
+   "v": 1348.85340779
   },
   "ETH": {
-   "p": 2313.42,
+   "p": 2327.34,
    "o": 2326.62,
-   "h": 2366.42,
+   "h": 2361.91,
    "l": 2290.71,
-   "v": 19214.22403053
+   "v": 18949.1502977
   },
   "SOL": {
-   "p": 100.99,
+   "p": 101.3,
    "o": 101.25,
-   "h": 102.64,
+   "h": 102.13,
    "l": 99.75,
-   "v": 93232.07797669
+   "v": 96272.47498728
   }
  },
  "change_7d": {
-  "BTC": -0.035761618167453824,
-  "ETH": -0.05015774954987696,
-  "SOL": -0.04803119649990486
+  "BTC": -0.02729262355804852,
+  "ETH": -0.041862604574371465,
+  "SOL": -0.036351556567957466
  },
  "sentiment": {
-  "score": 49.1,
+  "score": 50.6,
   "label": "Neutral",
   "components": {
    "fng": 50.0,
-   "momentum": 41.05959545813654,
-   "crowding": 57.556814
+   "momentum": 43.17684411048787,
+   "crowding": 61.7075575
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 9.4824e-06,
-   "oi_usd": 3344107244.61422,
-   "premium": -0.0004921838
+   "funding_h": 1.25e-05,
+   "oi_usd": 3373795380.48912,
+   "premium": -0.0002486573
   },
   "ETH": {
-   "funding_h": -1.2788e-06,
-   "oi_usd": 2559492337.0003195,
-   "premium": -0.0005180452
+   "funding_h": 7.0755e-06,
+   "oi_usd": 2582152462.2009616,
+   "premium": -0.000471941
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 557390454.5699999,
-   "premium": -0.0004162461
+   "oi_usd": 562698378.8747998,
+   "premium": -0.0003449465
   }
  },
- "items_24h": 102,
+ "items_24h": 113,
  "top_items": [
   {
    "id": "11387b330382729f",
@@ -169,20 +169,32 @@
    "score": 3532
   },
   {
-   "id": "bff13172765e96aa",
-   "ts": 1792903363,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Obama was a grossly incompetent President! He paid off Iran with $Billions, and gave them a road to a Nuclear Weapon. He said that Crooked Hillary Clinton was going to WIN, he campaigned hard for her, and she lost in all directions and ways. He then campaigned full out for Kamala",
-   "url": "https://truthsocial.com/@realDonaldTrump/117499714815544938",
-   "domain": "truthsocial.com",
+   "id": "f737e8530d3dd326",
+   "ts": 1793005200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
    "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 1682
+    "macro"
+   ]
+  },
+  {
+   "id": "4aa2eb3e52ea81d3",
+   "ts": 1792990800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "e607c813c597f049",
@@ -213,46 +225,32 @@
    "tags": []
   },
   {
-   "id": "c98b79734f0cc854",
-   "ts": 1792903500,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Announces Dividend of $0 . 03",
-   "url": "https://www.dailypolitical.com/2026/10/24/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-announces-dividend-of-0-03-3.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "225db51341cd59b3",
-   "ts": 1792989422,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-   "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto",
-    "macro",
-    "BTC"
-   ]
-  },
-  {
-   "id": "23685e003f04754c",
-   "ts": 1792988190,
+   "id": "c546df3b651e9807",
+   "ts": 1793012396,
    "source": "reddit",
    "group": "social",
    "kind": "post",
-   "title": "AI & Quantum Computing are not wizards that can willy-nilly cast a spell and destroy bitcoin. Devs are working to create solutions.",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xfn1oh/ai_quantum_computing_are_not_wizards_that_can/",
+   "title": "Bitcoin Will Never Exceed its ATH by More than 10%, Bitcoin's Bottom Will Be Below 40K, and Ethereum's Price will be greater than 16K USD within 10 Years.",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xftnjt/bitcoin_will_never_exceed_its_ath_by_more_than_10/",
    "domain": "r/CryptoCurrency",
    "tags": [
     "crypto",
-    "BTC"
+    "BTC",
+    "ETH"
+   ],
+   "score": 0
+  },
+  {
+   "id": "715af1d13dd38a52",
+   "ts": 1793012180,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Where do I start?",
+   "url": "https://www.reddit.com/r/Bitcoin/comments/1xftl8f/where_do_i_start/",
+   "domain": "r/Bitcoin",
+   "tags": [
+    "crypto"
    ],
    "score": 0
   }
@@ -298,7 +296,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 6
+   "n": 7
   },
   "Bank of England": {
    "ok": true,
@@ -334,16 +332,15 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 104
+   "n": 100
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "Reddit r/Bitcoin": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 24
   }
  }
 }
