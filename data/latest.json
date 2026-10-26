@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-10-26T10:57:38Z",
- "generated_ts": 1793012258,
+ "generated_at": "2026-10-26T17:16:04Z",
+ "generated_ts": 1793034964,
  "prices": {
   "BTC": {
-   "p": 80314.0,
+   "p": 80403.8,
    "o": 80048.7,
    "h": 80837.3,
    "l": 79265.0,
-   "v": 1348.85340779
+   "v": 2357.22373755
   },
   "ETH": {
-   "p": 2327.34,
+   "p": 2330.88,
    "o": 2326.62,
    "h": 2361.91,
    "l": 2290.71,
-   "v": 18949.1502977
+   "v": 20574.58163145
   },
   "SOL": {
-   "p": 101.3,
+   "p": 101.49,
    "o": 101.25,
-   "h": 102.13,
+   "h": 102.55,
    "l": 99.75,
-   "v": 96272.47498728
+   "v": 131508.1130062
   }
  },
  "change_7d": {
-  "BTC": -0.02729262355804852,
-  "ETH": -0.041862604574371465,
-  "SOL": -0.036351556567957466
+  "BTC": -0.02190739289642379,
+  "ETH": -0.034237613034962644,
+  "SOL": -0.03000958772770849
  },
  "sentiment": {
-  "score": 50.6,
+  "score": 49.2,
   "label": "Neutral",
   "components": {
    "fng": 50.0,
-   "momentum": 43.17684411048787,
-   "crowding": 61.7075575
+   "momentum": 44.52315177589405,
+   "news_tone": 41.1,
+   "crowding": 61.5320655
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Neutral",
   "ts": 1792972800
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.534,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3373795380.48912,
-   "premium": -0.0002486573
+   "oi_usd": 3383019169.2976203,
+   "premium": -0.0002470859
   },
   "ETH": {
-   "funding_h": 7.0755e-06,
-   "oi_usd": 2582152462.2009616,
-   "premium": -0.000471941
+   "funding_h": 6.5947e-06,
+   "oi_usd": 2619359901.572699,
+   "premium": -0.0003983722
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 562698378.8747998,
-   "premium": -0.0003449465
+   "oi_usd": 562564668.1120001,
+   "premium": -7.18292e-05
   }
  },
- "items_24h": 113,
+ "items_24h": 139,
  "top_items": [
   {
    "id": "11387b330382729f",
@@ -169,6 +170,60 @@
    "score": 3532
   },
   {
+   "id": "c861d058055c548e",
+   "ts": 1793034373,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "From Coast to Coast, President Trump Is Putting American Industry Back on the Map",
+   "url": "https://www.whitehouse.gov/releases/2026/10/from-coast-to-coast-president-trump-is-putting-american-industry-back-on-the-map/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "44b8a5bd13a87455",
+   "ts": 1793023200,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "CFTC and National Basketball Association Sign MOU to Protect Integrity in Professional Basketball",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9314-26",
+   "domain": "CFTC",
+   "org": "CFTC",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "f21defd7e6b8804b",
+   "ts": 1793018955,
+   "source": "institution",
+   "group": "institution",
+   "kind": "official",
+   "title": "8-K - Current report",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526431146/0001193125-26-431146-index.htm",
+   "domain": "Strategy (MSTR) filings",
+   "org": "Strategy (MSTR) filings",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "36914d57178308b3",
+   "ts": 1793018835,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "First Lady Melania Trump Announces Halloween at the White House 2026",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-announces-halloween-at-the-white-house-2026/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
    "id": "f737e8530d3dd326",
    "ts": 1793005200,
    "source": "central_bank",
@@ -195,64 +250,6 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "e607c813c597f049",
-   "ts": 1792955700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "JPMorgan Has Nearly $900 Million in Tokenized Funds on Ethereum and Solana . Which Chain Benefits More ?",
-   "url": "https://www.aol.com/articles/jpmorgan-nearly-900-million-tokenized-183043000.html",
-   "domain": "aol.com",
-   "tags": [
-    "crypto",
-    "institution",
-    "ETH",
-    "SOL"
-   ]
-  },
-  {
-   "id": "718f2d73c83e51ae",
-   "ts": 1792940184,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "President Trump Secures Major Deals to Unleash American Energy and Cut Gas Prices at the Pump",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-secures-major-deals-to-unleash-american-energy-and-cut-gas-prices-at-the-pump/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "c546df3b651e9807",
-   "ts": 1793012396,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Bitcoin Will Never Exceed its ATH by More than 10%, Bitcoin's Bottom Will Be Below 40K, and Ethereum's Price will be greater than 16K USD within 10 Years.",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xftnjt/bitcoin_will_never_exceed_its_ath_by_more_than_10/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto",
-    "BTC",
-    "ETH"
-   ],
-   "score": 0
-  },
-  {
-   "id": "715af1d13dd38a52",
-   "ts": 1793012180,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Where do I start?",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1xftl8f/where_do_i_start/",
-   "domain": "r/Bitcoin",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
   }
  ],
  "briefing_ts": 1790465772,
@@ -275,7 +272,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 25
+   "n": 24
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -288,7 +285,7 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "Federal Reserve": {
    "ok": true,
@@ -336,11 +333,12 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 15
+   "n": 20
   },
   "Reddit r/Bitcoin": {
-   "ok": true,
-   "n": 24
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
