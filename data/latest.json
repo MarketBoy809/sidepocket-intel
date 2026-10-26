@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-25T21:39:08Z",
- "generated_ts": 1792964348,
+ "generated_at": "2026-10-26T00:06:40Z",
+ "generated_ts": 1792973200,
  "prices": {
   "BTC": {
-   "p": 80364.2,
-   "o": 80772.0,
+   "p": 79996.0,
+   "o": 80048.7,
    "h": 80919.2,
-   "l": 80000.0,
-   "v": 760.77825114
+   "l": 79750.0,
+   "v": 891.42244361
   },
   "ETH": {
-   "p": 2338.18,
-   "o": 2355.67,
+   "p": 2325.58,
+   "o": 2326.62,
    "h": 2368.33,
-   "l": 2315.53,
-   "v": 9849.17549892
+   "l": 2307.72,
+   "v": 11318.09336311
   },
   "SOL": {
-   "p": 101.42,
-   "o": 102.24,
+   "p": 101.28,
+   "o": 101.25,
    "h": 102.64,
    "l": 100.25,
-   "v": 70586.75332474
+   "v": 71686.06697495
   }
  },
  "change_7d": {
-  "BTC": -0.005932060654670933,
-  "ETH": -0.0016905918774937508,
-  "SOL": 0.004648862512363985
+  "BTC": -0.02382349767123115,
+  "ETH": -0.03354503200402084,
+  "SOL": -0.02654101355899597
  },
  "sentiment": {
-  "score": 51.9,
+  "score": 47.5,
   "label": "Neutral",
   "components": {
-   "fng": 54.0,
-   "momentum": 48.51698483633227,
-   "news_tone": 42.516666666666666,
-   "crowding": 60.8458655
+   "fng": 50.0,
+   "momentum": 44.044125582192216,
+   "news_tone": 41.13333333333333,
+   "crowding": 52.535253499999996
   },
   "weights": {
    "fng": 0.35,
@@ -47,29 +47,29 @@
   }
  },
  "fear_greed": {
-  "value": 54,
+  "value": 50,
   "label": "Neutral",
-  "ts": 1792886400
+  "ts": 1792972800
  },
- "news_tone_24h": -0.449,
+ "news_tone_24h": -0.532,
  "derivatives": {
   "BTC": {
-   "funding_h": 4.7147e-06,
-   "oi_usd": 3402917466.2032003,
-   "premium": -0.0004361977
+   "funding_h": 1.2537e-06,
+   "oi_usd": 3401552135.83016,
+   "premium": -0.0004069831
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2603775314.3203783,
-   "premium": -0.0005381258
+   "funding_h": -3.1474e-06,
+   "oi_usd": 2577037796.9368405,
+   "premium": -0.0004722854
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 561140314.0,
-   "premium": -0.0005415785
+   "funding_h": 8.8396e-06,
+   "oi_usd": 561006756.3295999,
+   "premium": -0.0002968149
   }
  },
- "items_24h": 166,
+ "items_24h": 110,
  "top_items": [
   {
    "id": "f53664c729bd9167",
@@ -104,6 +104,23 @@
    ],
    "author": "Donald Trump",
    "score": 5045
+  },
+  {
+   "id": "1fbcda6a50ff57b9",
+   "ts": 1792969089,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117462449149582042To the people of Israel, to those who haven't seen it, I am attaching the Endorsement I gave one week ago to your Prime Minister, Bibi Netanyahu. As everyone is aware, including the enemy, Bibi and I hav",
+   "url": "https://truthsocial.com/@realDonaldTrump/117504022227510179",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro",
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 4389
   },
   {
    "id": "bd054db206cbb1cf",
@@ -229,19 +246,6 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "67a2413f972f795d",
-   "ts": 1792899000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Strategy Inc Variable Rate Series A Perpetual Stretch Preferred Stock ( NASDAQ : STRC ) Stock to Pay Dividend of $0 . 03",
-   "url": "https://www.dailypolitical.com/2026/10/24/strategy-inc-variable-rate-series-a-perpetual-stretch-preferred-stock-nasdaqstrc-stock-to-pay-dividend-of-0-03.html",
-   "domain": "dailypolitical.com",
-   "tags": [
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -252,7 +256,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 16
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -260,7 +264,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -321,11 +325,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 99
+   "n": 100
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 13
+   "n": 14
   },
   "Reddit r/Bitcoin": {
    "ok": false,
