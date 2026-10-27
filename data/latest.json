@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-27T14:20:54Z",
- "generated_ts": 1793110854,
+ "generated_at": "2026-10-27T19:59:49Z",
+ "generated_ts": 1793131189,
  "prices": {
   "BTC": {
-   "p": 79883.8,
+   "p": 80713.0,
    "o": 80001.8,
-   "h": 80701.7,
+   "h": 80720.8,
    "l": 79378.5,
-   "v": 2207.42636242
+   "v": 1870.85843245
   },
   "ETH": {
-   "p": 2315.51,
+   "p": 2345.15,
    "o": 2320.46,
-   "h": 2340.93,
+   "h": 2354.99,
    "l": 2294.34,
-   "v": 11053.78576165
+   "v": 12209.65304589
   },
   "SOL": {
-   "p": 99.93,
+   "p": 101.08,
    "o": 100.77,
-   "h": 102.55,
+   "h": 101.24,
    "l": 99.02,
-   "v": 146079.29565368
+   "v": 143795.66767596
   }
  },
  "change_7d": {
-  "BTC": -0.0261133464328292,
-  "ETH": -0.03739567329651638,
-  "SOL": -0.048806012748549094
+  "BTC": -0.02344824992964773,
+  "ETH": -0.03884511633826994,
+  "SOL": -0.04778995088779753
  },
  "sentiment": {
-  "score": 43.3,
+  "score": 43.5,
   "label": "Fear",
   "components": {
    "fng": 48.0,
-   "momentum": 43.4716633917927,
+   "momentum": 44.13793751758807,
    "news_tone": 11.899999999999999,
-   "crowding": 63.612967
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -55,22 +55,38 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3439031293.62942,
-   "premium": -0.0002012246
+   "oi_usd": 3507811064.23776,
+   "premium": -0.0003080886
   },
   "ETH": {
-   "funding_h": 1.22958e-05,
-   "oi_usd": 2617920066.26292,
-   "premium": -0.0002673082
+   "funding_h": 1.25e-05,
+   "oi_usd": 2656028655.5020604,
+   "premium": -0.0002554713
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 557084771.1840001,
-   "premium": -0.0003976429
+   "oi_usd": 563617109.0820006,
+   "premium": -0.0002381326
   }
  },
- "items_24h": 111,
+ "items_24h": 110,
  "top_items": [
+  {
+   "id": "ab671688df5554d2",
+   "ts": 1793120884,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Get rid of the guns, get rid of the Oil, get rid of the meat, but Transgender Mutilization of your Children and Open Borders are OK. This is what TalaFREAKO stands for, and this is where he is going to help take Texas if he wins — which he won't. Ken Paxton is the Greatest Attorn",
+   "url": "https://truthsocial.com/@realDonaldTrump/117513970306136414",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 9507
+  },
   {
    "id": "9b1a514502c0098e",
    "ts": 1793054355,
@@ -86,6 +102,22 @@
    ],
    "author": "Donald Trump",
    "score": 9034
+  },
+  {
+   "id": "596acd654bd6119e",
+   "ts": 1793115041,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Heading to Corpus Christi, and then Lubbock, Texas. I won Texas all three times, by the Highest Vote in the History of the State. Such an Honor! Great Spirit. Ken Paxton is the Best Attorney General in the History of Texas, and will be an incredible Senator! President DONALD J. T",
+   "url": "https://truthsocial.com/@realDonaldTrump/117513587385090078",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 6241
   },
   {
    "id": "14ee5cd3f29b82ac",
@@ -120,6 +152,22 @@
    "score": 5121
   },
   {
+   "id": "d571be7d129d52ef",
+   "ts": 1793118709,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congressman Scott Perry is a tremendous Representative for the Great People of Pennsylvania's 10th Congressional District! A retired Army Brigadier General, Scott is a MAGA Warrior, who always puts AMERICA FIRST. His opponent, Janelle Stelson, is a Radical Left Dumocrat who is op",
+   "url": "https://truthsocial.com/@realDonaldTrump/117513827753369395",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 5020
+  },
+  {
    "id": "341211f41cfe8827",
    "ts": 1793048188,
    "source": "truth",
@@ -134,6 +182,22 @@
    ],
    "author": "Donald Trump",
    "score": 4246
+  },
+  {
+   "id": "0a1ac2dad89f0625",
+   "ts": 1793124343,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117514195455574693TO THE GREAT PEOPLE OF KANSAS, MAKE A PLAN TO VOTE FOR: – Roger Marshall for U.S. Senate– Ty Masterson for Governor– Tracey Mann for U.S. Congress (KS-01)– Derek Schmidt for U.S. Congress (KS-02)– Ron Es",
+   "url": "https://truthsocial.com/@realDonaldTrump/117514196965554272",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4069
   },
   {
    "id": "0d35eb6dea882359",
@@ -198,70 +262,6 @@
    ],
    "author": "Donald Trump",
    "score": 3230
-  },
-  {
-   "id": "a59209695884f01b",
-   "ts": 1793047931,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Congresswoman Anna Paulina Luna is an America First Patriot and Tremendous Champion for the wonderful people of Florida's 13th Congressional District! A true MAGA Warrior, Anna is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unlea",
-   "url": "https://truthsocial.com/@realDonaldTrump/117509189268383436",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3179
-  },
-  {
-   "id": "dcbb119b119b2f9c",
-   "ts": 1793048076,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse America First Patriot, Tano Tijerina, who is running to represent the wonderful people of Texas' 28th Congressional District. A Great and Highly Respected Hispanic Judge, very successful Businessman, and Rancher, Tano Tijerina has dedicated his lif",
-   "url": "https://truthsocial.com/@realDonaldTrump/117509198713816435",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3130
-  },
-  {
-   "id": "d965297226ca41e9",
-   "ts": 1793048045,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse America First Patriot Alex Mealer, who is running to represent the incredible people of Texas' 9th Congressional District. A West Point Graduate, and Combat Decorated Army Bomb Squad Officer, Alex knows the Wisdom and Courage required to Defend our",
-   "url": "https://truthsocial.com/@realDonaldTrump/117509196730737384",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3041
-  },
-  {
-   "id": "75aa62603de8e5d4",
-   "ts": 1793048024,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse America First Patriot, Scott Singer, who is running to represent the incredible people of Florida's 25th Congressional District! A Proven Leader, Scott has served his Community as the Highly Respected Mayor of Boca Raton, and as a very successful B",
-   "url": "https://truthsocial.com/@realDonaldTrump/117509195327682999",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2962
   }
  ],
  "briefing_ts": 1790465772,
@@ -284,7 +284,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 23
+   "n": 21
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -297,7 +297,7 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 2
+   "n": 4
   },
   "Federal Reserve": {
    "ok": true,
@@ -337,15 +337,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 36
+   "n": 35
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 115
+   "n": 118
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 15
   },
   "Reddit r/Bitcoin": {
    "ok": false,
