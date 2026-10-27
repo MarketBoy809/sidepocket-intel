@@ -1,41 +1,40 @@
 {
- "generated_at": "2026-10-27T19:59:49Z",
- "generated_ts": 1793131189,
+ "generated_at": "2026-10-27T23:41:45Z",
+ "generated_ts": 1793144505,
  "prices": {
   "BTC": {
-   "p": 80713.0,
+   "p": 80823.0,
    "o": 80001.8,
-   "h": 80720.8,
+   "h": 81199.7,
    "l": 79378.5,
-   "v": 1870.85843245
+   "v": 2192.14631405
   },
   "ETH": {
-   "p": 2345.15,
+   "p": 2347.6,
    "o": 2320.46,
-   "h": 2354.99,
+   "h": 2361.69,
    "l": 2294.34,
-   "v": 12209.65304589
+   "v": 13107.10862681
   },
   "SOL": {
-   "p": 101.08,
+   "p": 101.19,
    "o": 100.77,
-   "h": 101.24,
+   "h": 101.72,
    "l": 99.02,
-   "v": 143795.66767596
+   "v": 134414.82163296
   }
  },
  "change_7d": {
-  "BTC": -0.02344824992964773,
-  "ETH": -0.03884511633826994,
-  "SOL": -0.04778995088779753
+  "BTC": -0.026740540181101276,
+  "ETH": -0.0433785022924096,
+  "SOL": -0.05217798594847769
  },
  "sentiment": {
-  "score": 43.5,
-  "label": "Fear",
+  "score": 50.0,
+  "label": "Neutral",
   "components": {
    "fng": 48.0,
-   "momentum": 44.13793751758807,
-   "news_tone": 11.899999999999999,
+   "momentum": 43.31486495472468,
    "crowding": 63.6875
   },
   "weights": {
@@ -51,25 +50,25 @@
   "label": "Neutral",
   "ts": 1793059200
  },
- "news_tone_24h": -2.286,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3507811064.23776,
-   "premium": -0.0003080886
+   "oi_usd": 3521171772.92288,
+   "premium": -0.0002100607
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2656028655.5020604,
-   "premium": -0.0002554713
+   "oi_usd": 2650705253.7386208,
+   "premium": -0.0002807483
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 563617109.0820006,
-   "premium": -0.0002381326
+   "oi_usd": 565791986.2896,
+   "premium": -0.0002960916
   }
  },
- "items_24h": 110,
+ "items_24h": 79,
  "top_items": [
   {
    "id": "ab671688df5554d2",
@@ -88,22 +87,6 @@
    "score": 9507
   },
   {
-   "id": "9b1a514502c0098e",
-   "ts": 1793054355,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Mike Johnson is a Great Man, an outstanding Representative for the wonderful people of Louisiana's 4th Congressional District, and a strong and fearless Speaker of the United States House of Representatives. He is able to get things done when nobody else can! As Speak",
-   "url": "https://truthsocial.com/@realDonaldTrump/117509610265325055",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 9034
-  },
-  {
    "id": "596acd654bd6119e",
    "ts": 1793115041,
    "source": "truth",
@@ -118,38 +101,6 @@
    ],
    "author": "Donald Trump",
    "score": 6241
-  },
-  {
-   "id": "14ee5cd3f29b82ac",
-   "ts": 1793049327,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Let's all get behind Michele Tafoya in Minnesota. She's running a great race. Don't allow them to play with the Votes after the race is over. The Federal Government will be watching closely. The only way she can lose is if they cheat by playing games with the Ballots as they come",
-   "url": "https://truthsocial.com/@realDonaldTrump/117509280703799414",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 5625
-  },
-  {
-   "id": "826dc834e94c7e27",
-   "ts": 1793050667,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The United States Senate is letting the Daylight Saving Bill die, when a vast Majority of the Country want it. Most people are demanding light in the evening, but ALL want not to change their clocks anymore. TAKE A VOTE! As stated in The New York Post, \"Lawmakers in Washington ha",
-   "url": "https://truthsocial.com/@realDonaldTrump/117509368573544706",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 5121
   },
   {
    "id": "d571be7d129d52ef",
@@ -168,22 +119,6 @@
    "score": 5020
   },
   {
-   "id": "341211f41cfe8827",
-   "ts": 1793048188,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Clay Higgins is a MAGA Warrior who is doing a tremendous job representing the wonderful people of Louisiana's 3rd Congressional District! A tough Law Enforcement Officer, and brave U.S. Army Veteran, Clay strongly supports our incredible Law Enforcement, Military, and",
-   "url": "https://truthsocial.com/@realDonaldTrump/117509206102856686",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4246
-  },
-  {
    "id": "0a1ac2dad89f0625",
    "ts": 1793124343,
    "source": "truth",
@@ -200,68 +135,118 @@
    "score": 4069
   },
   {
-   "id": "0d35eb6dea882359",
-   "ts": 1793051465,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Right Side Broadcasting Network (RSBN) is doing an amazing job broadcasting the Rally in Mississippi. Watching on Air Force One as we are landing. Two Great Patriots are currently doing the anchoring. Wow, I've never heard such great things being said about me! PACKED HOUSE — Wil",
-   "url": "https://truthsocial.com/@realDonaldTrump/117509420824140105",
-   "domain": "truthsocial.com",
+   "id": "9842b3592b2dde14",
+   "ts": 1793128948,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "ICYMI: Agricultural Leaders and Market Participants Join CFTC Chairman Selig in Overland Park, Kansas for AgCon 2026",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9317-26",
+   "domain": "CFTC",
+   "org": "CFTC",
    "tags": [
     "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4019
+   ]
   },
   {
-   "id": "d8dacd71e5c30f6d",
-   "ts": 1793048146,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Greg Murphy, M.D., is a Tremendous Champion for the incredible people of North Carolina's 3rd Congressional District! A distinguished Surgeon and Member of the House Veterans' Affairs Committee, Greg knows the Wisdom and Courage required to Defend our Country, Support",
-   "url": "https://truthsocial.com/@realDonaldTrump/117509203319385918",
-   "domain": "truthsocial.com",
+   "id": "d00fa215b222a077",
+   "ts": 1793123235,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "CFTC Announces Semiweekly Publication of the COT Report",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9316-26",
+   "domain": "CFTC",
+   "org": "CFTC",
    "tags": [
     "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3488
+   ]
   },
   {
-   "id": "416fe4ae9af9b1ee",
-   "ts": 1793048121,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse Carlos De La Cruz, a fantastic America First Candidate running to be the next Congressman from Texas' 35th Congressional District! A Brave, 20 Year Air Force Veteran, and now, as a successful Businessman, Carlos has a Proven Record of Success — He ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117509201705742785",
-   "domain": "truthsocial.com",
+   "id": "7971985892d7e938",
+   "ts": 1793105918,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "CFTC Sues to Block State Enforcement in Utah Amid Ongoing Efforts to Preserve Jurisdiction",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
+   "domain": "CFTC",
+   "org": "CFTC",
    "tags": [
     "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3419
+   ]
   },
   {
-   "id": "67a0b3e483537197",
-   "ts": 1793048101,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse America First Patriot, Eric Flores, who is running to represent the wonderful people of Texas' 34th Congressional District. A Brave U.S. Army Veteran, and former Criminal Prosecutor, Eric knows the Wisdom and Courage it takes to Ensure LAW AND ORDE",
-   "url": "https://truthsocial.com/@realDonaldTrump/117509200374065660",
-   "domain": "truthsocial.com",
+   "id": "cca12182e804bae3",
+   "ts": 1793077200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Indicators for Core CPI",
+   "url": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
    "tags": [
-    "regulation"
+    "macro"
+   ]
+  },
+  {
+   "id": "6ccfaf91462aec62",
+   "ts": 1793059200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "October 2026 euro area bank lending survey",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "2c5343f458762d9b",
+   "ts": 1793058600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Services Producer Price Index (Sept.)",
+   "url": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2609.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "098e75d9dd0e8ddb",
+   "ts": 1793138517,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Tether’s Next Bitcoin Power Play: The Software Behind the Miners. Fifteen mining industry players back its open-source toolkit. The stakes reach far beyond hashrate.",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xh68o7/tethers_next_bitcoin_power_play_the_software/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto",
+    "BTC"
    ],
-   "author": "Donald Trump",
-   "score": 3230
+   "score": 0
+  },
+  {
+   "id": "75d67c65d8c9b3af",
+   "ts": 1793136502,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+   "url": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": [
+    "crypto",
+    "BTC"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -284,7 +269,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 21
+   "n": 19
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -341,11 +326,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 118
+   "n": 115
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 15
+   "n": 16
   },
   "Reddit r/Bitcoin": {
    "ok": false,
