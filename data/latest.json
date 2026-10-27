@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-27T01:58:51Z",
- "generated_ts": 1793066331,
+ "generated_at": "2026-10-27T07:40:41Z",
+ "generated_ts": 1793086841,
  "prices": {
   "BTC": {
-   "p": 79905.6,
+   "p": 79545.5,
    "o": 80001.8,
    "h": 80701.7,
-   "l": 79265.0,
-   "v": 2333.19276233
+   "l": 79335.7,
+   "v": 2355.69861815
   },
   "ETH": {
-   "p": 2318.25,
+   "p": 2304.49,
    "o": 2320.46,
    "h": 2340.93,
-   "l": 2290.71,
-   "v": 13637.51297241
+   "l": 2292.35,
+   "v": 11640.61754938
   },
   "SOL": {
-   "p": 100.41,
+   "p": 99.6,
    "o": 100.77,
    "h": 102.55,
-   "l": 99.75,
-   "v": 152019.83435891
+   "l": 99.3,
+   "v": 153843.38915698
   }
  },
  "change_7d": {
-  "BTC": -0.01901966364016889,
-  "ETH": -0.03161712594321912,
-  "SOL": -0.037844036697247646
+  "BTC": -0.026820829792751993,
+  "ETH": -0.03934240078818402,
+  "SOL": -0.0491583779648049
  },
  "sentiment": {
-  "score": 49.7,
+  "score": 49.3,
   "label": "Neutral",
   "components": {
    "fng": 48.0,
-   "momentum": 45.24508408995778,
-   "crowding": 59.735061
+   "momentum": 43.294792551812,
+   "crowding": 60.2543465
   },
   "weights": {
    "fng": 0.35,
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3382439008.022844,
-   "premium": -0.0003036058
+   "oi_usd": 3331566803.6431403,
+   "premium": -0.0003087481
   },
   "ETH": {
-   "funding_h": 1.6714e-06,
-   "oi_usd": 2600507171.277302,
-   "premium": -0.0003014513
+   "funding_h": 1.06999e-05,
+   "oi_usd": 2593558917.924,
+   "premium": -0.000359505
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 556061577.8543999,
-   "premium": 0.0
+   "funding_h": 4.8942e-06,
+   "oi_usd": 552271104.78976,
+   "premium": -0.0004008819
   }
  },
- "items_24h": 121,
+ "items_24h": 115,
  "top_items": [
   {
    "id": "9b1a514502c0098e",
@@ -151,38 +151,6 @@
    "score": 4019
   },
   {
-   "id": "b82e278f6e6aea40",
-   "ts": 1792981720,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Iran Oil Minister Resigns Amid US Blockade; Hamid Bovard Takes Interim Charge: https://openthemagazine.com/world/iran-oil-minister-resigns-amid-us-blockade-hamid-bovard-takes-interim-charge",
-   "url": "https://truthsocial.com/@realDonaldTrump/117504850047003375",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 3573
-  },
-  {
-   "id": "c181e08d0ac7ac19",
-   "ts": 1792981872,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "NY plans to drop part of Native American logo ban in 'huge victory' for Massapequa: https://nypost.com/2026/10/19/us-news/nys-dropping-part-of-native-american-logo-ban-in-huge-victory-for-massapequa/",
-   "url": "https://truthsocial.com/@realDonaldTrump/117504860004217059",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3532
-  },
-  {
    "id": "d8dacd71e5c30f6d",
    "ts": 1793048146,
    "source": "truth",
@@ -261,13 +229,45 @@
    ],
    "author": "Donald Trump",
    "score": 3130
+  },
+  {
+   "id": "d965297226ca41e9",
+   "ts": 1793048045,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "It is my Great Honor to endorse America First Patriot Alex Mealer, who is running to represent the incredible people of Texas' 9th Congressional District. A West Point Graduate, and Combat Decorated Army Bomb Squad Officer, Alex knows the Wisdom and Courage required to Defend our",
+   "url": "https://truthsocial.com/@realDonaldTrump/117509196730737384",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3041
+  },
+  {
+   "id": "75aa62603de8e5d4",
+   "ts": 1793048024,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "It is my Great Honor to endorse America First Patriot, Scott Singer, who is running to represent the incredible people of Florida's 25th Congressional District! A Proven Leader, Scott has served his Community as the Highly Respected Mayor of Boca Raton, and as a very successful B",
+   "url": "https://truthsocial.com/@realDonaldTrump/117509195327682999",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2962
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 4
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -283,7 +283,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 24
+   "n": 23
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -304,7 +304,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 7
+   "n": 6
   },
   "Bank of England": {
    "ok": true,
@@ -312,7 +312,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "BIS": {
    "ok": true,
