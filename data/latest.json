@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-10-27T07:40:41Z",
- "generated_ts": 1793086841,
+ "generated_at": "2026-10-27T14:20:54Z",
+ "generated_ts": 1793110854,
  "prices": {
   "BTC": {
-   "p": 79545.5,
+   "p": 79883.8,
    "o": 80001.8,
    "h": 80701.7,
-   "l": 79335.7,
-   "v": 2355.69861815
+   "l": 79378.5,
+   "v": 2207.42636242
   },
   "ETH": {
-   "p": 2304.49,
+   "p": 2315.51,
    "o": 2320.46,
    "h": 2340.93,
-   "l": 2292.35,
-   "v": 11640.61754938
+   "l": 2294.34,
+   "v": 11053.78576165
   },
   "SOL": {
-   "p": 99.6,
+   "p": 99.93,
    "o": 100.77,
    "h": 102.55,
-   "l": 99.3,
-   "v": 153843.38915698
+   "l": 99.02,
+   "v": 146079.29565368
   }
  },
  "change_7d": {
-  "BTC": -0.026820829792751993,
-  "ETH": -0.03934240078818402,
-  "SOL": -0.0491583779648049
+  "BTC": -0.0261133464328292,
+  "ETH": -0.03739567329651638,
+  "SOL": -0.048806012748549094
  },
  "sentiment": {
-  "score": 49.3,
-  "label": "Neutral",
+  "score": 43.3,
+  "label": "Fear",
   "components": {
    "fng": 48.0,
-   "momentum": 43.294792551812,
-   "crowding": 60.2543465
+   "momentum": 43.4716633917927,
+   "news_tone": 11.899999999999999,
+   "crowding": 63.612967
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Neutral",
   "ts": 1793059200
  },
- "news_tone_24h": null,
+ "news_tone_24h": -2.286,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3331566803.6431403,
-   "premium": -0.0003087481
+   "oi_usd": 3439031293.62942,
+   "premium": -0.0002012246
   },
   "ETH": {
-   "funding_h": 1.06999e-05,
-   "oi_usd": 2593558917.924,
-   "premium": -0.000359505
+   "funding_h": 1.22958e-05,
+   "oi_usd": 2617920066.26292,
+   "premium": -0.0002673082
   },
   "SOL": {
-   "funding_h": 4.8942e-06,
-   "oi_usd": 552271104.78976,
-   "premium": -0.0004008819
+   "funding_h": 1.25e-05,
+   "oi_usd": 557084771.1840001,
+   "premium": -0.0003976429
   }
  },
- "items_24h": 115,
+ "items_24h": 111,
  "top_items": [
   {
    "id": "9b1a514502c0098e",
@@ -267,7 +268,7 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 4
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -292,7 +293,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 3
+   "n": 1
   },
   "CFTC": {
    "ok": true,
@@ -304,7 +305,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 6
+   "n": 7
   },
   "Bank of England": {
    "ok": true,
@@ -336,7 +337,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 40
+   "n": 36
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
@@ -344,7 +345,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 18
+   "n": 19
   },
   "Reddit r/Bitcoin": {
    "ok": false,
