@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-26T22:35:01Z",
- "generated_ts": 1793054101,
+ "generated_at": "2026-10-27T01:58:51Z",
+ "generated_ts": 1793066331,
  "prices": {
   "BTC": {
-   "p": 79813.4,
-   "o": 80048.7,
+   "p": 79905.6,
+   "o": 80001.8,
    "h": 80701.7,
    "l": 79265.0,
-   "v": 2603.58259862
+   "v": 2333.19276233
   },
   "ETH": {
-   "p": 2306.22,
-   "o": 2326.62,
-   "h": 2346.59,
+   "p": 2318.25,
+   "o": 2320.46,
+   "h": 2340.93,
    "l": 2290.71,
-   "v": 21038.79010874
+   "v": 13637.51297241
   },
   "SOL": {
-   "p": 100.11,
-   "o": 101.25,
+   "p": 100.41,
+   "o": 100.77,
    "h": 102.55,
    "l": 99.75,
-   "v": 157090.36820488
+   "v": 152019.83435891
   }
  },
  "change_7d": {
-  "BTC": -0.024151609842914732,
-  "ETH": -0.038391171530854355,
-  "SOL": -0.040714900124247264
+  "BTC": -0.01901966364016889,
+  "ETH": -0.03161712594321912,
+  "SOL": -0.037844036697247646
  },
  "sentiment": {
-  "score": 50.6,
+  "score": 49.7,
   "label": "Neutral",
   "components": {
-   "fng": 50.0,
-   "momentum": 43.96209753927132,
-   "crowding": 61.026431
+   "fng": 48.0,
+   "momentum": 45.24508408995778,
+   "crowding": 59.735061
   },
   "weights": {
    "fng": 0.35,
@@ -46,62 +46,45 @@
   }
  },
  "fear_greed": {
-  "value": 50,
+  "value": 48,
   "label": "Neutral",
-  "ts": 1792972800
+  "ts": 1793059200
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.01435e-05,
-   "oi_usd": 3406817520.3253202,
-   "premium": -0.0005866394
+   "funding_h": 1.25e-05,
+   "oi_usd": 3382439008.022844,
+   "premium": -0.0003036058
   },
   "ETH": {
-   "funding_h": 7.5659e-06,
-   "oi_usd": 2596300221.8714004,
-   "premium": -0.000748908
+   "funding_h": 1.6714e-06,
+   "oi_usd": 2600507171.277302,
+   "premium": -0.0003014513
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 557123120.1423999,
-   "premium": -0.0005983247
+   "oi_usd": 556061577.8543999,
+   "premium": 0.0
   }
  },
- "items_24h": 122,
+ "items_24h": 121,
  "top_items": [
   {
-   "id": "11387b330382729f",
-   "ts": 1792972809,
+   "id": "9b1a514502c0098e",
+   "ts": 1793054355,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Let's talk about this COMPLETE AND TOTAL LOSER, Bill Maher. He's got a Low Rated Show on equally Low Rated HBO, which was once, long ago, a Network of Quality and Excitement — But that's all gone. It's not \"HOT\" anymore! Maher's friend and business associate, Chuck LaBella, was a",
-   "url": "https://truthsocial.com/@realDonaldTrump/117504266048722465",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 11035
-  },
-  {
-   "id": "0c7543014f401d3a",
-   "ts": 1792972736,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I am proud to announce the NEWEST FLAGSHIP NATIONAL PARK in the Country, CHIRICAHUA NATIONAL PARK in ARIZONA! In my First Term, I signed the GREAT American Outdoors Act, one of the LARGEST Investments in National Parks in HISTORY, and designated a new National Park in the Great S",
-   "url": "https://truthsocial.com/@realDonaldTrump/117504261273100838",
+   "title": "Congressman Mike Johnson is a Great Man, an outstanding Representative for the wonderful people of Louisiana's 4th Congressional District, and a strong and fearless Speaker of the United States House of Representatives. He is able to get things done when nobody else can! As Speak",
+   "url": "https://truthsocial.com/@realDonaldTrump/117509610265325055",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 8839
+   "score": 9034
   },
   {
    "id": "14ee5cd3f29b82ac",
@@ -134,23 +117,6 @@
    ],
    "author": "Donald Trump",
    "score": 5121
-  },
-  {
-   "id": "1fbcda6a50ff57b9",
-   "ts": 1792969089,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117462449149582042To the people of Israel, to those who haven't seen it, I am attaching the Endorsement I gave one week ago to your Prime Minister, Bibi Netanyahu. As everyone is aware, including the enemy, Bibi and I hav",
-   "url": "https://truthsocial.com/@realDonaldTrump/117504022227510179",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro",
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 4389
   },
   {
    "id": "341211f41cfe8827",
@@ -263,6 +229,38 @@
    ],
    "author": "Donald Trump",
    "score": 3230
+  },
+  {
+   "id": "a59209695884f01b",
+   "ts": 1793047931,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congresswoman Anna Paulina Luna is an America First Patriot and Tremendous Champion for the wonderful people of Florida's 13th Congressional District! A true MAGA Warrior, Anna is working tirelessly to Grow our Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unlea",
+   "url": "https://truthsocial.com/@realDonaldTrump/117509189268383436",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3179
+  },
+  {
+   "id": "dcbb119b119b2f9c",
+   "ts": 1793048076,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "It is my Great Honor to endorse America First Patriot, Tano Tijerina, who is running to represent the wonderful people of Texas' 28th Congressional District. A Great and Highly Respected Hispanic Judge, very successful Businessman, and Rancher, Tano Tijerina has dedicated his lif",
+   "url": "https://truthsocial.com/@realDonaldTrump/117509198713816435",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3130
   }
  ],
  "briefing_ts": 1790465772,
@@ -314,7 +312,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 6
+   "n": 7
   },
   "BIS": {
    "ok": true,
@@ -342,11 +340,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 128
+   "n": 115
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 18
   },
   "Reddit r/Bitcoin": {
    "ok": false,
