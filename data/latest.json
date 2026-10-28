@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-10-28T05:24:51Z",
- "generated_ts": 1793165091,
+ "generated_at": "2026-10-28T12:39:56Z",
+ "generated_ts": 1793191196,
  "prices": {
   "BTC": {
-   "p": 80834.5,
+   "p": 80628.2,
    "o": 80800.9,
-   "h": 81199.7,
-   "l": 79378.5,
-   "v": 2052.23346785
+   "h": 81688.0,
+   "l": 79702.4,
+   "v": 2092.22771233
   },
   "ETH": {
-   "p": 2352.8,
+   "p": 2335.9,
    "o": 2347.12,
-   "h": 2365.97,
-   "l": 2294.34,
-   "v": 14844.09829884
+   "h": 2383.77,
+   "l": 2312.0,
+   "v": 15264.97863401
   },
   "SOL": {
-   "p": 101.92,
+   "p": 101.37,
    "o": 101.22,
-   "h": 102.27,
-   "l": 99.02,
-   "v": 124542.34467263
+   "h": 103.52,
+   "l": 99.73,
+   "v": 137426.41503518
   }
  },
  "change_7d": {
-  "BTC": -0.022276514919799206,
-  "ETH": -0.036872642996654714,
-  "SOL": -0.03659920559863808
+  "BTC": -0.02641829346256347,
+  "ETH": -0.044169804667074805,
+  "SOL": -0.0388795203297732
  },
  "sentiment": {
-  "score": 51.8,
+  "score": 51.5,
   "label": "Neutral",
   "components": {
    "fng": 51.0,
-   "momentum": 44.4308712700502,
+   "momentum": 43.39542663435913,
    "crowding": 63.6875
   },
   "weights": {
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3516336653.5048003,
-   "premium": -0.0002593681
+   "oi_usd": 3453400646.0115,
+   "premium": -0.0003826772
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2655982577.6963406,
-   "premium": -0.0003394577
+   "oi_usd": 2625681686.0129976,
+   "premium": -0.000324878
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 572021455.2415998,
-   "premium": -0.0004898599
+   "oi_usd": 569304284.2250001,
+   "premium": -0.0003447766
   }
  },
- "items_24h": 76,
+ "items_24h": 81,
  "top_items": [
   {
    "id": "ab671688df5554d2",
@@ -151,6 +151,34 @@
    "score": 1670
   },
   {
+   "id": "b1cb03c1faf8df24",
+   "ts": 1793165121,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT @jmclghlnStrong Majority backs @realDonaldTrump stopping Iran from getting Nukes https://www.newsmax.com/mclaughlin/cable-nuclear-weapons/2026/03/12/id/1249304/ @DanScavino @StevenCheung @DevinNunes",
+   "url": "https://truthsocial.com/@realDonaldTrump/117516869410610885",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 3
+  },
+  {
+   "id": "5e3010e833d62e90",
+   "ts": 1793190586,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Announces Arrival of First One Million Barrels of Oil in Texas Thanks to Historic Oil Deal",
+   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-announces-arrival-of-first-one-million-barrels-of-oil-in-texas-thanks-to-historic-oil-deal/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
    "id": "82e45f8c1c831ea6",
    "ts": 1793149452,
    "source": "government",
@@ -205,41 +233,13 @@
    ]
   },
   {
-   "id": "2cc5194e3bbf22b8",
-   "ts": 1793164236,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
-   "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": []
-  },
-  {
-   "id": "44995bd9317234ef",
-   "ts": 1793160920,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto",
-    "macro",
-    "BTC"
-   ]
-  },
-  {
-   "id": "012d76629a6a1e37",
-   "ts": 1793160149,
+   "id": "508e89ab5bb5298c",
+   "ts": 1793190135,
    "source": "reddit",
    "group": "social",
    "kind": "post",
-   "title": "Daily Crypto Discussion",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xhe40t/daily_crypto_discussion/",
+   "title": "Ledger hacks expand, now in Singapore too",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xhmkq3/ledger_hacks_expand_now_in_singapore_too/",
    "domain": "r/CryptoCurrency",
    "tags": [
     "crypto"
@@ -267,7 +267,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 20
+   "n": 21
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -288,7 +288,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 6
+   "n": 5
   },
   "Bank of England": {
    "ok": true,
@@ -324,11 +324,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 115
+   "n": 114
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 16
+   "n": 19
   },
   "Reddit r/Bitcoin": {
    "ok": false,
