@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-10-27T23:41:45Z",
- "generated_ts": 1793144505,
+ "generated_at": "2026-10-28T05:24:51Z",
+ "generated_ts": 1793165091,
  "prices": {
   "BTC": {
-   "p": 80823.0,
-   "o": 80001.8,
+   "p": 80834.5,
+   "o": 80800.9,
    "h": 81199.7,
    "l": 79378.5,
-   "v": 2192.14631405
+   "v": 2052.23346785
   },
   "ETH": {
-   "p": 2347.6,
-   "o": 2320.46,
-   "h": 2361.69,
+   "p": 2352.8,
+   "o": 2347.12,
+   "h": 2365.97,
    "l": 2294.34,
-   "v": 13107.10862681
+   "v": 14844.09829884
   },
   "SOL": {
-   "p": 101.19,
-   "o": 100.77,
-   "h": 101.72,
+   "p": 101.92,
+   "o": 101.22,
+   "h": 102.27,
    "l": 99.02,
-   "v": 134414.82163296
+   "v": 124542.34467263
   }
  },
  "change_7d": {
-  "BTC": -0.026740540181101276,
-  "ETH": -0.0433785022924096,
-  "SOL": -0.05217798594847769
+  "BTC": -0.022276514919799206,
+  "ETH": -0.036872642996654714,
+  "SOL": -0.03659920559863808
  },
  "sentiment": {
-  "score": 50.0,
+  "score": 51.8,
   "label": "Neutral",
   "components": {
-   "fng": 48.0,
-   "momentum": 43.31486495472468,
+   "fng": 51.0,
+   "momentum": 44.4308712700502,
    "crowding": 63.6875
   },
   "weights": {
@@ -46,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 48,
+  "value": 51,
   "label": "Neutral",
-  "ts": 1793059200
+  "ts": 1793145600
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3521171772.92288,
-   "premium": -0.0002100607
+   "oi_usd": 3516336653.5048003,
+   "premium": -0.0002593681
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2650705253.7386208,
-   "premium": -0.0002807483
+   "oi_usd": 2655982577.6963406,
+   "premium": -0.0003394577
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 565791986.2896,
-   "premium": -0.0002960916
+   "oi_usd": 572021455.2415998,
+   "premium": -0.0004898599
   }
  },
- "items_24h": 79,
+ "items_24h": 76,
  "top_items": [
   {
    "id": "ab671688df5554d2",
@@ -135,6 +135,34 @@
    "score": 4069
   },
   {
+   "id": "70e19d8ae950621b",
+   "ts": 1793162021,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "\"When President Trump endorsed Bibi Netanyahu, the whole tide turned, and now, rather than a decisive defeat for a Great Prime Minister, it looks like a big come-from-behind stalemate, or even a WIN for Netanyahu. It all took place AFTER the Endorsement by President Trump, who on",
+   "url": "https://truthsocial.com/@realDonaldTrump/117516666252141562",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 1670
+  },
+  {
+   "id": "82e45f8c1c831ea6",
+   "ts": 1793149452,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "NEW SURVEY: President Trump Delivers Historic Drop in Violent Crime",
+   "url": "https://www.whitehouse.gov/releases/2026/10/new-survey-president-trump-delivers-historic-drop-in-violent-crime/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
    "id": "9842b3592b2dde14",
    "ts": 1793128948,
    "source": "regulator",
@@ -177,76 +205,46 @@
    ]
   },
   {
-   "id": "cca12182e804bae3",
-   "ts": 1793077200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Indicators for Core CPI",
-   "url": "http://www.boj.or.jp/en/research/research_data/cpi/index.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "6ccfaf91462aec62",
-   "ts": 1793059200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "October 2026 euro area bank lending survey",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "2c5343f458762d9b",
-   "ts": 1793058600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Services Producer Price Index (Sept.)",
-   "url": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2609.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "098e75d9dd0e8ddb",
-   "ts": 1793138517,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Tether’s Next Bitcoin Power Play: The Software Behind the Miners. Fifteen mining industry players back its open-source toolkit. The stakes reach far beyond hashrate.",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xh68o7/tethers_next_bitcoin_power_play_the_software/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto",
-    "BTC"
-   ],
-   "score": 0
-  },
-  {
-   "id": "75d67c65d8c9b3af",
-   "ts": 1793136502,
+   "id": "2cc5194e3bbf22b8",
+   "ts": 1793164236,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
-   "url": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+   "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": []
+  },
+  {
+   "id": "44995bd9317234ef",
+   "ts": 1793160920,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
    "tags": [
     "crypto",
+    "macro",
     "BTC"
    ]
+  },
+  {
+   "id": "012d76629a6a1e37",
+   "ts": 1793160149,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Daily Crypto Discussion",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xhe40t/daily_crypto_discussion/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
   }
  ],
  "briefing_ts": 1790465772,
@@ -269,7 +267,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 19
+   "n": 20
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -290,7 +288,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 7
+   "n": 6
   },
   "Bank of England": {
    "ok": true,
