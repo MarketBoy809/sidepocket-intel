@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-28T12:39:56Z",
- "generated_ts": 1793191196,
+ "generated_at": "2026-10-28T18:46:57Z",
+ "generated_ts": 1793213217,
  "prices": {
   "BTC": {
-   "p": 80628.2,
+   "p": 80920.4,
    "o": 80800.9,
    "h": 81688.0,
-   "l": 79702.4,
-   "v": 2092.22771233
+   "l": 80281.8,
+   "v": 1992.85959941
   },
   "ETH": {
-   "p": 2335.9,
+   "p": 2352.12,
    "o": 2347.12,
    "h": 2383.77,
-   "l": 2312.0,
-   "v": 15264.97863401
+   "l": 2319.54,
+   "v": 17476.28261231
   },
   "SOL": {
-   "p": 101.37,
+   "p": 101.95,
    "o": 101.22,
    "h": 103.52,
-   "l": 99.73,
-   "v": 137426.41503518
+   "l": 100.33,
+   "v": 136480.22385429
   }
  },
  "change_7d": {
-  "BTC": -0.02641829346256347,
-  "ETH": -0.044169804667074805,
-  "SOL": -0.0388795203297732
+  "BTC": -0.045597985581516995,
+  "ETH": -0.06793891307288881,
+  "SOL": -0.06413564319941019
  },
  "sentiment": {
-  "score": 51.5,
+  "score": 50.1,
   "label": "Neutral",
   "components": {
    "fng": 51.0,
-   "momentum": 43.39542663435913,
-   "crowding": 63.6875
+   "momentum": 38.600503604620755,
+   "crowding": 63.2809265
   },
   "weights": {
    "fng": 0.35,
@@ -54,86 +54,22 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3453400646.0115,
-   "premium": -0.0003826772
+   "oi_usd": 3598750859.6987915,
+   "premium": -0.0001209939
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2625681686.0129976,
-   "premium": -0.000324878
+   "funding_h": 1.13861e-05,
+   "oi_usd": 2655459645.348839,
+   "premium": -0.0003398471
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 569304284.2250001,
-   "premium": -0.0003447766
+   "oi_usd": 574544263.7872005,
+   "premium": -0.0003537617
   }
  },
- "items_24h": 81,
+ "items_24h": 85,
  "top_items": [
-  {
-   "id": "ab671688df5554d2",
-   "ts": 1793120884,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Get rid of the guns, get rid of the Oil, get rid of the meat, but Transgender Mutilization of your Children and Open Borders are OK. This is what TalaFREAKO stands for, and this is where he is going to help take Texas if he wins — which he won't. Ken Paxton is the Greatest Attorn",
-   "url": "https://truthsocial.com/@realDonaldTrump/117513970306136414",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 9507
-  },
-  {
-   "id": "596acd654bd6119e",
-   "ts": 1793115041,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Heading to Corpus Christi, and then Lubbock, Texas. I won Texas all three times, by the Highest Vote in the History of the State. Such an Honor! Great Spirit. Ken Paxton is the Best Attorney General in the History of Texas, and will be an incredible Senator! President DONALD J. T",
-   "url": "https://truthsocial.com/@realDonaldTrump/117513587385090078",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 6241
-  },
-  {
-   "id": "d571be7d129d52ef",
-   "ts": 1793118709,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Scott Perry is a tremendous Representative for the Great People of Pennsylvania's 10th Congressional District! A retired Army Brigadier General, Scott is a MAGA Warrior, who always puts AMERICA FIRST. His opponent, Janelle Stelson, is a Radical Left Dumocrat who is op",
-   "url": "https://truthsocial.com/@realDonaldTrump/117513827753369395",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 5020
-  },
-  {
-   "id": "0a1ac2dad89f0625",
-   "ts": 1793124343,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117514195455574693TO THE GREAT PEOPLE OF KANSAS, MAKE A PLAN TO VOTE FOR: – Roger Marshall for U.S. Senate– Ty Masterson for Governor– Tracey Mann for U.S. Congress (KS-01)– Derek Schmidt for U.S. Congress (KS-02)– Ron Es",
-   "url": "https://truthsocial.com/@realDonaldTrump/117514196965554272",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4069
-  },
   {
    "id": "70e19d8ae950621b",
    "ts": 1793162021,
@@ -165,6 +101,62 @@
    ],
    "author": "Donald Trump",
    "score": 3
+  },
+  {
+   "id": "847a7abc2726921c",
+   "ts": 1793210400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Federal Reserve issues FOMC statement",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "334d5c81e639c2ee",
+   "ts": 1793206853,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "CFTC to Host Roundtable on 24/7 Trading",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9318-26",
+   "domain": "CFTC",
+   "org": "CFTC",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "c729d9736b17b80d",
+   "ts": 1793197688,
+   "source": "institution",
+   "group": "institution",
+   "kind": "official",
+   "title": "8-K - Current report",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526435451/0001193125-26-435451-index.htm",
+   "domain": "Strategy (MSTR) filings",
+   "org": "Strategy (MSTR) filings",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "366b13df0e7197dc",
+   "ts": 1793197009,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Remit for the Monetary Policy Committee - October 2026",
+   "url": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "5e3010e833d62e90",
@@ -205,46 +197,46 @@
    ]
   },
   {
-   "id": "d00fa215b222a077",
-   "ts": 1793123235,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "CFTC Announces Semiweekly Publication of the COT Report",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9316-26",
-   "domain": "CFTC",
-   "org": "CFTC",
+   "id": "f79a0a3682c4ce11",
+   "ts": 1793211918,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
+   "url": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
+   "domain": "Decrypt",
+   "org": "Decrypt",
    "tags": [
-    "regulation"
+    "crypto",
+    "macro",
+    "BTC"
    ]
   },
   {
-   "id": "7971985892d7e938",
-   "ts": 1793105918,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "CFTC Sues to Block State Enforcement in Utah Amid Ongoing Efforts to Preserve Jurisdiction",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9315-26",
-   "domain": "CFTC",
-   "org": "CFTC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "508e89ab5bb5298c",
-   "ts": 1793190135,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Ledger hacks expand, now in Singapore too",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xhmkq3/ledger_hacks_expand_now_in_singapore_too/",
-   "domain": "r/CryptoCurrency",
+   "id": "d5793047b3cf1129",
+   "ts": 1793211091,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Crypto isn’t a partisan fight, proven by data",
+   "url": "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
    "tags": [
     "crypto"
-   ],
-   "score": 0
+   ]
+  },
+  {
+   "id": "2bf2553370526976",
+   "ts": 1793210454,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Strategy shareholders approve daily dividends for four preferred stocks",
+   "url": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -267,7 +259,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 21
+   "n": 20
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -280,11 +272,11 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "European Central Bank": {
    "ok": true,
@@ -292,7 +284,7 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "Bank of Japan": {
    "ok": true,
@@ -304,7 +296,7 @@
   },
   "Strategy (MSTR) filings": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "Coinbase filings": {
    "ok": true,
@@ -320,15 +312,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 35
+   "n": 34
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 114
+   "n": 112
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
