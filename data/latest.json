@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-28T18:46:57Z",
- "generated_ts": 1793213217,
+ "generated_at": "2026-10-28T23:06:23Z",
+ "generated_ts": 1793228783,
  "prices": {
   "BTC": {
-   "p": 80920.4,
+   "p": 81222.6,
    "o": 80800.9,
-   "h": 81688.0,
+   "h": 81709.1,
    "l": 80281.8,
-   "v": 1992.85959941
+   "v": 1860.25560693
   },
   "ETH": {
-   "p": 2352.12,
+   "p": 2357.42,
    "o": 2347.12,
-   "h": 2383.77,
+   "h": 2389.93,
    "l": 2319.54,
-   "v": 17476.28261231
+   "v": 17581.73729916
   },
   "SOL": {
-   "p": 101.95,
+   "p": 102.34,
    "o": 101.22,
-   "h": 103.52,
+   "h": 103.81,
    "l": 100.33,
-   "v": 136480.22385429
+   "v": 147390.53213253
   }
  },
  "change_7d": {
-  "BTC": -0.045597985581516995,
-  "ETH": -0.06793891307288881,
-  "SOL": -0.06413564319941019
+  "BTC": -0.03773475545251383,
+  "ETH": -0.050336962783034477,
+  "SOL": -0.0461953990872684
  },
  "sentiment": {
-  "score": 50.1,
+  "score": 49.7,
   "label": "Neutral",
   "components": {
    "fng": 51.0,
-   "momentum": 38.600503604620755,
-   "crowding": 63.2809265
+   "momentum": 40.56631113687155,
+   "crowding": 58.9991845
   },
   "weights": {
    "fng": 0.35,
@@ -54,22 +54,105 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3598750859.6987915,
-   "premium": -0.0001209939
+   "oi_usd": 3559354122.59124,
+   "premium": -0.0001242679
   },
   "ETH": {
-   "funding_h": 1.13861e-05,
-   "oi_usd": 2655459645.348839,
-   "premium": -0.0003398471
+   "funding_h": 1.0314e-06,
+   "oi_usd": 2629181738.7664404,
+   "premium": -0.0003093968
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 574544263.7872005,
-   "premium": -0.0003537617
+   "funding_h": 1.11239e-05,
+   "oi_usd": 581450858.5577999,
+   "premium": -0.0002547437
   }
  },
- "items_24h": 85,
+ "items_24h": 89,
  "top_items": [
+  {
+   "id": "a7aa89d9f4564c50",
+   "ts": 1793214512,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "It has just been determined that the Democrats in Alaska illegally searched for, and recruited, a man named Dan Sullivan to run against our distinguished Republican Senator, Dan Sullivan, in order to defraud, confuse, and obfuscate the Election, thereby taking votes away from the",
+   "url": "https://truthsocial.com/@realDonaldTrump/117520106264955050",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 27019
+  },
+  {
+   "id": "5726170275bd2809",
+   "ts": 1793221710,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "It was just determined that the Dumocrats in Alaska, despite their sworn statements to the contrary, put a man named Dan Sullivan on the Ballot in order to confuse the Public with respect to Highly Esteemed Senator Dan Sullivan. This is Voter Fraud at the Highest Level, and the D",
+   "url": "https://truthsocial.com/@realDonaldTrump/117520578001844805",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 7714
+  },
+  {
+   "id": "fc4b788b98e4d5fd",
+   "ts": 1793223435,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "TO THE GREAT PEOPLE OF ALASKA, GET OUT AND VOTE FOR DAN S. SULLIVAN! Senator Dan S. Sullivan is doing a fantastic job representing the Great State of Alaska! Prior to becoming a very distinguished and Highly Respected Senator, Dan served as State Attorney General and the Commissi",
+   "url": "https://truthsocial.com/@realDonaldTrump/117520691083964719",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4132
+  },
+  {
+   "id": "8213b4532f16bcbb",
+   "ts": 1793224940,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I'm going to be doing a major TeleRally for Julia Letlow, who is running for the U.S. Senate and is spectacular, and our fantastic Speaker of the House, Mike Johnson, on Monday evening, LIVE.Highly Respected America First Congresswoman, Julia Letlow, of the wonderful State of Lou",
+   "url": "https://truthsocial.com/@realDonaldTrump/117520789719949115",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3343
+  },
+  {
+   "id": "b1c45069cdc3d2a2",
+   "ts": 1793224906,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117520769528895376TO THE GREAT PEOPLE OF OKLAHOMA, GET OUT AND VOTE FOR: – Kevin Hern for U.S. Senate– Mike Mazzei for Governor– T.W. Shannon for Lieutenant Governor– Cindy Byrd for State Treasurer– Mark Tedford for U.S. ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117520787444181449",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2512
+  },
   {
    "id": "70e19d8ae950621b",
    "ts": 1793162021,
@@ -103,139 +186,70 @@
    "score": 3
   },
   {
-   "id": "847a7abc2726921c",
-   "ts": 1793210400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Federal Reserve issues FOMC statement",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
+   "id": "b6846d45343dc63e",
+   "ts": 1793215566,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT @realDonaldTrumpIt has just been determined that the Democrats in Alaska illegally searched for, and recruited, a man named Dan Sullivan to run against our distinguished Republican Senator, Dan Sullivan, in order to defraud, confuse, and obfuscate the Election, thereby taking ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117520175358921687",
+   "domain": "truthsocial.com",
    "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "334d5c81e639c2ee",
-   "ts": 1793206853,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "CFTC to Host Roundtable on 24/7 Trading",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9318-26",
-   "domain": "CFTC",
-   "org": "CFTC",
-   "tags": [
+    "geo",
     "regulation"
-   ]
+   ],
+   "author": "Donald Trump",
+   "score": 1
   },
   {
-   "id": "c729d9736b17b80d",
-   "ts": 1793197688,
-   "source": "institution",
-   "group": "institution",
-   "kind": "official",
-   "title": "8-K - Current report",
-   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526435451/0001193125-26-435451-index.htm",
-   "domain": "Strategy (MSTR) filings",
-   "org": "Strategy (MSTR) filings",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "366b13df0e7197dc",
-   "ts": 1793197009,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Remit for the Monetary Policy Committee - October 2026",
-   "url": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "5e3010e833d62e90",
-   "ts": 1793190586,
+   "id": "25e7fa450b26ddb7",
+   "ts": 1793221510,
    "source": "government",
    "group": "government",
    "kind": "official",
-   "title": "President Trump Announces Arrival of First One Million Barrels of Oil in Texas Thanks to Historic Oil Deal",
-   "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-announces-arrival-of-first-one-million-barrels-of-oil-in-texas-thanks-to-historic-oil-deal/",
+   "title": "Fact Sheet: President Donald J. Trump Ended the Illegal and Discriminatory Practices of Diversity, Equity, and Inclusion",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-ended-the-illegal-and-discriminatory-practices-of-diversity-equity-and-inclusion/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
+   "id": "686ffadf523216c7",
+   "ts": 1793218167,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Fact Sheet: President Donald J. Trump Adjusts Imports of Robotics, Industrial Machinery, and their Parts and Components into the United States",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-adjusts-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/",
    "domain": "White House",
    "org": "White House",
    "tags": []
   },
   {
-   "id": "82e45f8c1c831ea6",
-   "ts": 1793149452,
+   "id": "7e29ba76661ce561",
+   "ts": 1793217828,
    "source": "government",
    "group": "government",
    "kind": "official",
-   "title": "NEW SURVEY: President Trump Delivers Historic Drop in Violent Crime",
-   "url": "https://www.whitehouse.gov/releases/2026/10/new-survey-president-trump-delivers-historic-drop-in-violent-crime/",
+   "title": "ADJUSTING IMPORTS OF ROBOTICS, INDUSTRIAL MACHINERY, AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/",
    "domain": "White House",
    "org": "White House",
    "tags": []
   },
   {
-   "id": "9842b3592b2dde14",
-   "ts": 1793128948,
-   "source": "regulator",
-   "group": "regulator",
+   "id": "06c8f1ace8d8d89e",
+   "ts": 1793213184,
+   "source": "government",
+   "group": "government",
    "kind": "official",
-   "title": "ICYMI: Agricultural Leaders and Market Participants Join CFTC Chairman Selig in Overland Park, Kansas for AgCon 2026",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9317-26",
-   "domain": "CFTC",
-   "org": "CFTC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "f79a0a3682c4ce11",
-   "ts": 1793211918,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
-   "url": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": [
-    "crypto",
-    "macro",
-    "BTC"
-   ]
-  },
-  {
-   "id": "d5793047b3cf1129",
-   "ts": 1793211091,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Crypto isn’t a partisan fight, proven by data",
-   "url": "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "2bf2553370526976",
-   "ts": 1793210454,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Strategy shareholders approve daily dividends for four preferred stocks",
-   "url": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "title": "The Economic Benefits of Permitting Reform",
+   "url": "https://www.whitehouse.gov/research/2026/10/the-economic-benefits-of-permitting-reform/",
+   "domain": "White House",
+   "org": "White House",
    "tags": []
   }
  ],
@@ -259,7 +273,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 20
+   "n": 25
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -316,11 +330,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 112
+   "n": 118
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 21
   },
   "Reddit r/Bitcoin": {
    "ok": false,
