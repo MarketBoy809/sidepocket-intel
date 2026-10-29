@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-29T16:51:19Z",
- "generated_ts": 1793292679,
+ "generated_at": "2026-10-29T21:44:05Z",
+ "generated_ts": 1793310245,
  "prices": {
   "BTC": {
-   "p": 81144.8,
+   "p": 79143.2,
    "o": 81287.1,
    "h": 81882.0,
-   "l": 79614.8,
-   "v": 2342.3682724
+   "l": 78200.0,
+   "v": 3075.30639829
   },
   "ETH": {
-   "p": 2351.3,
+   "p": 2271.81,
    "o": 2357.26,
-   "h": 2389.93,
-   "l": 2290.57,
-   "v": 28909.72248063
+   "h": 2376.99,
+   "l": 2230.19,
+   "v": 43156.27561519
   },
   "SOL": {
-   "p": 101.77,
+   "p": 97.18,
    "o": 102.33,
-   "h": 103.81,
-   "l": 99.12,
-   "v": 236484.93146449
+   "h": 103.07,
+   "l": 94.57,
+   "v": 334334.38442898
   }
  },
  "change_7d": {
-  "BTC": 0.001416103671585528,
-  "ETH": -0.012111044337606831,
-  "SOL": -0.018277511961722455
+  "BTC": -0.02983301759960894,
+  "ETH": -0.05230073658866578,
+  "SOL": -0.06935296396745444
  },
  "sentiment": {
-  "score": 53.5,
+  "score": 49.9,
   "label": "Neutral",
   "components": {
    "fng": 51.0,
-   "momentum": 50.35402591789638,
-   "crowding": 63.6875
+   "momentum": 42.54174560009776,
+   "crowding": 57.2396655
   },
   "weights": {
    "fng": 0.35,
@@ -54,39 +54,22 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3525005116.868,
-   "premium": -0.0002461932
+   "oi_usd": 3516630817.97916,
+   "premium": -0.0005348983
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2592180767.605,
-   "premium": -0.000382328
+   "funding_h": -5.1653e-06,
+   "oi_usd": 2466802666.434875,
+   "premium": -0.0018020394
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 572883670.3408002,
-   "premium": -0.0001580506
+   "oi_usd": 556789047.5183395,
+   "premium": -0.0006678654
   }
  },
- "items_24h": 114,
+ "items_24h": 124,
  "top_items": [
-  {
-   "id": "a7aa89d9f4564c50",
-   "ts": 1793214512,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It has just been determined that the Democrats in Alaska illegally searched for, and recruited, a man named Dan Sullivan to run against our distinguished Republican Senator, Dan Sullivan, in order to defraud, confuse, and obfuscate the Election, thereby taking votes away from the",
-   "url": "https://truthsocial.com/@realDonaldTrump/117520106264955050",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 27019
-  },
   {
    "id": "649d382eabcda4fd",
    "ts": 1793272922,
@@ -102,22 +85,6 @@
    ],
    "author": "Donald Trump",
    "score": 8474
-  },
-  {
-   "id": "5726170275bd2809",
-   "ts": 1793221710,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It was just determined that the Dumocrats in Alaska, despite their sworn statements to the contrary, put a man named Dan Sullivan on the Ballot in order to confuse the Public with respect to Highly Esteemed Senator Dan Sullivan. This is Voter Fraud at the Highest Level, and the D",
-   "url": "https://truthsocial.com/@realDonaldTrump/117520578001844805",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 7714
   },
   {
    "id": "ef56f722bd06428e",
@@ -184,6 +151,22 @@
    "score": 6183
   },
   {
+   "id": "f37c2a815a0e7dad",
+   "ts": 1793299968,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Today I am pleased to report, in Breaking News this morning, that the U.S. Economy is BOOMING at 3.4 PERCENT — A Historic Level of Economic Growth. Consumer spending is WAY UP, Business Investment is WAY UP, and Investment in new Equipment EXPLODED by 21%, which means Record Numb",
+   "url": "https://truthsocial.com/@realDonaldTrump/117525706731349400",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro"
+   ],
+   "author": "Donald Trump",
+   "score": 5332
+  },
+  {
    "id": "d9d2e34b7a54d024",
    "ts": 1793284249,
    "source": "truth",
@@ -200,21 +183,68 @@
    "score": 4873
   },
   {
-   "id": "fc4b788b98e4d5fd",
-   "ts": 1793223435,
+   "id": "3a198d279c2db6c4",
+   "ts": 1793301452,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "TO THE GREAT PEOPLE OF ALASKA, GET OUT AND VOTE FOR DAN S. SULLIVAN! Senator Dan S. Sullivan is doing a fantastic job representing the Great State of Alaska! Prior to becoming a very distinguished and Highly Respected Senator, Dan served as State Attorney General and the Commissi",
-   "url": "https://truthsocial.com/@realDonaldTrump/117520691083964719",
+   "title": "Congressman Mike Kelly, who has been with us from the very beginning, is a Tremendous Champion of Pennsylvania's 16th Congressional District! As a Senior Member of the POWERFUL House Ways & Means Committee, Mike understands the America First Policies required to Create GREAT Jobs",
+   "url": "https://truthsocial.com/@realDonaldTrump/117525804009701874",
    "domain": "truthsocial.com",
    "tags": [
-    "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 4132
+   "score": 4585
+  },
+  {
+   "id": "305e4ce237421af6",
+   "ts": 1793301421,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congressman Glenn \"GT\" Thompson is a Tremendous Champion for Pennsylvania's 15th Congressional District! As Chairman of the House Agriculture Committee, GT is a strong and effective voice for American Agriculture, and our amazing Farmers and Ranchers. In Congress, he is fighting ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117525801983876789",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3740
+  },
+  {
+   "id": "e91a919e56849650",
+   "ts": 1793300107,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "It is my Great Honor to endorse America First Patriot, David Stumbo, who is running to be the next Attorney General of the wonderful State of South Carolina, a place I love and WON BIG in 2016, 2020, and 2024!A Strong Conservative Fighter who has distinguished himself as a Crimin",
+   "url": "https://truthsocial.com/@realDonaldTrump/117525715840384199",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3501
+  },
+  {
+   "id": "0764985c89159473",
+   "ts": 1793301394,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congressman Guy Reschenthaler is doing an incredible job representing Pennsylvania's 14th Congressional District! As the Chief Deputy Whip, Guy is working closely with me to Advance our America First Agenda. He is fighting hard to Keep our Border SECURE, Stop Migrant Crime, Grow ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117525800206914059",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3474
   },
   {
    "id": "8213b4532f16bcbb",
@@ -232,38 +262,6 @@
    ],
    "author": "Donald Trump",
    "score": 3343
-  },
-  {
-   "id": "b1c45069cdc3d2a2",
-   "ts": 1793224906,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117520769528895376TO THE GREAT PEOPLE OF OKLAHOMA, GET OUT AND VOTE FOR: – Kevin Hern for U.S. Senate– Mike Mazzei for Governor– T.W. Shannon for Lieutenant Governor– Cindy Byrd for State Treasurer– Mark Tedford for U.S. ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117520787444181449",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2512
-  },
-  {
-   "id": "5be134b96df7e8ac",
-   "ts": 1793290537,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Dan Meuser is an America First Patriot who is doing an incredible job representing Pennsylvania's 9th Congressional District!A very successful Businessman, former Secretary of Revenue of Pennsylvania, and now, as U.S. Congressman, Dan has strongly served his Community",
-   "url": "https://truthsocial.com/@realDonaldTrump/117525088652931553",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2009
   }
  ],
  "briefing_ts": 1790465772,
@@ -286,7 +284,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 28
+   "n": 20
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -295,7 +293,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "CFTC": {
    "ok": true,
@@ -303,7 +301,7 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "European Central Bank": {
    "ok": true,
@@ -311,7 +309,7 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "Bank of Japan": {
    "ok": true,
@@ -323,11 +321,11 @@
   },
   "Strategy (MSTR) filings": {
    "ok": true,
-   "n": 2
+   "n": 4
   },
   "Coinbase filings": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "CoinDesk": {
    "ok": true,
@@ -339,11 +337,11 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 37
+   "n": 38
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 108
+   "n": 120
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
