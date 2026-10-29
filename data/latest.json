@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-10-29T09:47:38Z",
- "generated_ts": 1793267258,
+ "generated_at": "2026-10-29T16:51:19Z",
+ "generated_ts": 1793292679,
  "prices": {
   "BTC": {
-   "p": 80091.2,
+   "p": 81144.8,
    "o": 81287.1,
-   "h": 81709.1,
+   "h": 81882.0,
    "l": 79614.8,
-   "v": 2082.36106935
+   "v": 2342.3682724
   },
   "ETH": {
-   "p": 2318.06,
+   "p": 2351.3,
    "o": 2357.26,
    "h": 2389.93,
    "l": 2290.57,
-   "v": 21381.07821184
+   "v": 28909.72248063
   },
   "SOL": {
-   "p": 100.03,
+   "p": 101.77,
    "o": 102.33,
    "h": 103.81,
    "l": 99.12,
-   "v": 208747.62767171
+   "v": 236484.93146449
   }
  },
  "change_7d": {
-  "BTC": -0.022119804170422797,
-  "ETH": -0.037541612464829385,
-  "SOL": -0.03490502362356562
+  "BTC": 0.001416103671585528,
+  "ETH": -0.012111044337606831,
+  "SOL": -0.018277511961722455
  },
  "sentiment": {
-  "score": 51.9,
+  "score": 53.5,
   "label": "Neutral",
   "components": {
    "fng": 51.0,
-   "momentum": 44.4700489573943,
+   "momentum": 50.35402591789638,
    "crowding": 63.6875
   },
   "weights": {
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3477444263.29004,
-   "premium": -0.0002493952
+   "oi_usd": 3525005116.868,
+   "premium": -0.0002461932
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2602141237.5680003,
-   "premium": -0.0001292713
+   "oi_usd": 2592180767.605,
+   "premium": -0.000382328
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 566309075.9790001,
-   "premium": -0.0003494235
+   "oi_usd": 572883670.3408002,
+   "premium": -0.0001580506
   }
  },
- "items_24h": 87,
+ "items_24h": 114,
  "top_items": [
   {
    "id": "a7aa89d9f4564c50",
@@ -88,6 +88,22 @@
    "score": 27019
   },
   {
+   "id": "649d382eabcda4fd",
+   "ts": 1793272922,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Aaron Flint has my Complete and Total Endorsement to be the next U.S. Representative from Montana's 1st Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117523934218890356",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 8474
+  },
+  {
    "id": "5726170275bd2809",
    "ts": 1793221710,
    "source": "truth",
@@ -104,6 +120,54 @@
    "score": 7714
   },
   {
+   "id": "ef56f722bd06428e",
+   "ts": 1793272854,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Ralph Alvarado has my Complete and Total Endorsement to be the next U.S. Representative from Kentucky's 6th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117523929787664257",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 7368
+  },
+  {
+   "id": "ebfa41e820f55a60",
+   "ts": 1793272838,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Rhett Marques has my Complete and Total Endorsement to be the next U.S. Representative from Alabama's 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117523928716548011",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6885
+  },
+  {
+   "id": "abb9e532e38e8d2a",
+   "ts": 1793272832,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Anthony Constantino has my Complete and Total Endorsement to be the next U.S. Representative from New York's 21st Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117523928356184918",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6754
+  },
+  {
    "id": "83e680255037e529",
    "ts": 1793241809,
    "source": "truth",
@@ -118,6 +182,22 @@
    ],
    "author": "Donald Trump",
    "score": 6183
+  },
+  {
+   "id": "d9d2e34b7a54d024",
+   "ts": 1793284249,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117524674249671299TO THE GREAT PEOPLE OF KENTUCKY, GET OUT AND VOTE FOR: – Andy Barr for U.S. Senate– James Comer for U.S. Congress (KY-01)– Brett Guthrie for U.S. Congress (KY-02)– Ed Gallrein for U.S. Congress (KY-04)– ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117524676590414089",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4873
   },
   {
    "id": "fc4b788b98e4d5fd",
@@ -170,85 +250,20 @@
    "score": 2512
   },
   {
-   "id": "b6846d45343dc63e",
-   "ts": 1793215566,
+   "id": "5be134b96df7e8ac",
+   "ts": 1793290537,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "RT @realDonaldTrumpIt has just been determined that the Democrats in Alaska illegally searched for, and recruited, a man named Dan Sullivan to run against our distinguished Republican Senator, Dan Sullivan, in order to defraud, confuse, and obfuscate the Election, thereby taking ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117520175358921687",
+   "title": "Congressman Dan Meuser is an America First Patriot who is doing an incredible job representing Pennsylvania's 9th Congressional District!A very successful Businessman, former Secretary of Revenue of Pennsylvania, and now, as U.S. Congressman, Dan has strongly served his Community",
+   "url": "https://truthsocial.com/@realDonaldTrump/117525088652931553",
    "domain": "truthsocial.com",
    "tags": [
-    "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 1
-  },
-  {
-   "id": "25e7fa450b26ddb7",
-   "ts": 1793221510,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Fact Sheet: President Donald J. Trump Ended the Illegal and Discriminatory Practices of Diversity, Equity, and Inclusion",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-ended-the-illegal-and-discriminatory-practices-of-diversity-equity-and-inclusion/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "686ffadf523216c7",
-   "ts": 1793218167,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Fact Sheet: President Donald J. Trump Adjusts Imports of Robotics, Industrial Machinery, and their Parts and Components into the United States",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-adjusts-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "7e29ba76661ce561",
-   "ts": 1793217828,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "ADJUSTING IMPORTS OF ROBOTICS, INDUSTRIAL MACHINERY, AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "06c8f1ace8d8d89e",
-   "ts": 1793213184,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "The Economic Benefits of Permitting Reform",
-   "url": "https://www.whitehouse.gov/research/2026/10/the-economic-benefits-of-permitting-reform/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "847a7abc2726921c",
-   "ts": 1793210400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Federal Reserve issues FOMC statement",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro"
-   ]
+   "score": 2009
   }
  ],
  "briefing_ts": 1790465772,
@@ -271,7 +286,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 25
+   "n": 28
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -292,11 +307,11 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 5
+   "n": 9
   },
   "Bank of England": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "Bank of Japan": {
    "ok": true,
@@ -304,7 +319,7 @@
   },
   "BIS": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "Strategy (MSTR) filings": {
    "ok": true,
@@ -324,15 +339,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 34
+   "n": 37
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 109
+   "n": 108
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 24
   },
   "Reddit r/Bitcoin": {
    "ok": false,
