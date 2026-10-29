@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-29T02:22:05Z",
- "generated_ts": 1793240525,
+ "generated_at": "2026-10-29T09:47:38Z",
+ "generated_ts": 1793267258,
  "prices": {
   "BTC": {
-   "p": 79901.7,
+   "p": 80091.2,
    "o": 81287.1,
    "h": 81709.1,
-   "l": 79796.7,
-   "v": 1928.4349712
+   "l": 79614.8,
+   "v": 2082.36106935
   },
   "ETH": {
-   "p": 2307.89,
+   "p": 2318.06,
    "o": 2357.26,
    "h": 2389.93,
-   "l": 2298.86,
-   "v": 18818.42736511
+   "l": 2290.57,
+   "v": 21381.07821184
   },
   "SOL": {
-   "p": 99.69,
+   "p": 100.03,
    "o": 102.33,
    "h": 103.81,
-   "l": 99.32,
-   "v": 168596.79082469
+   "l": 99.12,
+   "v": 208747.62767171
   }
  },
  "change_7d": {
-  "BTC": -0.04107218955390785,
-  "ETH": -0.056607855784068024,
-  "SOL": -0.05957206145725334
+  "BTC": -0.022119804170422797,
+  "ETH": -0.037541612464829385,
+  "SOL": -0.03490502362356562
  },
  "sentiment": {
-  "score": 49.0,
+  "score": 51.9,
   "label": "Neutral",
   "components": {
    "fng": 51.0,
-   "momentum": 39.731952611523035,
-   "crowding": 56.673879
+   "momentum": 44.4700489573943,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -54,18 +54,18 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3463983068.38362,
-   "premium": -0.0003425069
+   "oi_usd": 3477444263.29004,
+   "premium": -0.0002493952
   },
   "ETH": {
-   "funding_h": -6.7154e-06,
-   "oi_usd": 2560480682.9271603,
-   "premium": -0.0005888568
+   "funding_h": 1.25e-05,
+   "oi_usd": 2602141237.5680003,
+   "premium": -0.0001292713
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 569989032.9325799,
-   "premium": -0.0004910312
+   "oi_usd": 566309075.9790001,
+   "premium": -0.0003494235
   }
  },
  "items_24h": 87,
@@ -102,6 +102,22 @@
    ],
    "author": "Donald Trump",
    "score": 7714
+  },
+  {
+   "id": "83e680255037e529",
+   "ts": 1793241809,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117521892279559312East Potomac Golf Course is highly dangerous, dilapidated, and absolutely disgusting. Below are new photos of the deplorable conditions of the driving range building, including excrement in the stairwell",
+   "url": "https://truthsocial.com/@realDonaldTrump/117521895212942057",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6183
   },
   {
    "id": "fc4b788b98e4d5fd",
@@ -152,38 +168,6 @@
    ],
    "author": "Donald Trump",
    "score": 2512
-  },
-  {
-   "id": "70e19d8ae950621b",
-   "ts": 1793162021,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "\"When President Trump endorsed Bibi Netanyahu, the whole tide turned, and now, rather than a decisive defeat for a Great Prime Minister, it looks like a big come-from-behind stalemate, or even a WIN for Netanyahu. It all took place AFTER the Endorsement by President Trump, who on",
-   "url": "https://truthsocial.com/@realDonaldTrump/117516666252141562",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 1670
-  },
-  {
-   "id": "b1cb03c1faf8df24",
-   "ts": 1793165121,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT @jmclghlnStrong Majority backs @realDonaldTrump stopping Iran from getting Nukes https://www.newsmax.com/mclaughlin/cable-nuclear-weapons/2026/03/12/id/1249304/ @DanScavino @StevenCheung @DevinNunes",
-   "url": "https://truthsocial.com/@realDonaldTrump/117516869410610885",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 3
   },
   {
    "id": "b6846d45343dc63e",
@@ -251,6 +235,20 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
+  },
+  {
+   "id": "847a7abc2726921c",
+   "ts": 1793210400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Federal Reserve issues FOMC statement",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -273,7 +271,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 22
+   "n": 25
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -302,7 +300,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 5
+   "n": 3
   },
   "BIS": {
    "ok": true,
@@ -330,11 +328,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 118
+   "n": 109
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
