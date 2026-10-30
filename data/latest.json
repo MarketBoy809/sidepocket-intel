@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-29T21:44:05Z",
- "generated_ts": 1793310245,
+ "generated_at": "2026-10-30T01:51:04Z",
+ "generated_ts": 1793325064,
  "prices": {
   "BTC": {
-   "p": 79143.2,
-   "o": 81287.1,
+   "p": 76661.0,
+   "o": 77800.0,
    "h": 81882.0,
-   "l": 78200.0,
-   "v": 3075.30639829
+   "l": 76500.0,
+   "v": 4384.73087749
   },
   "ETH": {
-   "p": 2271.81,
-   "o": 2357.26,
+   "p": 2192.53,
+   "o": 2248.91,
    "h": 2376.99,
-   "l": 2230.19,
-   "v": 43156.27561519
+   "l": 2170.0,
+   "v": 60731.60760288
   },
   "SOL": {
-   "p": 97.18,
-   "o": 102.33,
+   "p": 93.65,
+   "o": 95.39,
    "h": 103.07,
-   "l": 94.57,
-   "v": 334334.38442898
+   "l": 92.15,
+   "v": 521842.40402532
   }
  },
  "change_7d": {
-  "BTC": -0.02983301759960894,
-  "ETH": -0.05230073658866578,
-  "SOL": -0.06935296396745444
+  "BTC": -0.052677408040798956,
+  "ETH": -0.07234482008914002,
+  "SOL": -0.08919465024535754
  },
  "sentiment": {
-  "score": 49.9,
-  "label": "Neutral",
+  "score": 33.3,
+  "label": "Fear",
   "components": {
-   "fng": 51.0,
-   "momentum": 42.54174560009776,
-   "crowding": 57.2396655
+   "fng": 30.0,
+   "momentum": 36.83064798980026,
+   "crowding": 36.1741285
   },
   "weights": {
    "fng": 0.35,
@@ -46,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 51,
-  "label": "Neutral",
-  "ts": 1793232000
+  "value": 30,
+  "label": "Fear",
+  "ts": 1793318400
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3516630817.97916,
-   "premium": -0.0005348983
+   "funding_h": 1.22168e-05,
+   "oi_usd": 3264834968.59264,
+   "premium": -0.0002471834
   },
   "ETH": {
-   "funding_h": -5.1653e-06,
-   "oi_usd": 2466802666.434875,
-   "premium": -0.0018020394
+   "funding_h": -5.88696e-05,
+   "oi_usd": 2328698245.6762004,
+   "premium": -0.0008645009
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 556789047.5183395,
-   "premium": -0.0006678654
+   "funding_h": 8.7737e-06,
+   "oi_usd": 523895990.31711984,
+   "premium": -0.0001885285
   }
  },
- "items_24h": 124,
+ "items_24h": 139,
  "top_items": [
   {
    "id": "649d382eabcda4fd",
@@ -151,6 +151,22 @@
    "score": 6183
   },
   {
+   "id": "543add777b57afe9",
+   "ts": 1793313729,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congressman Troy Downing is doing a truly fantastic job representing the incredible people of Montana's 2nd Congressional District! Troy bravely served our Great Country in the U.S. Air Force as a Combat Veteran and, in Congress, he is fighting tirelessly to Support our Farmers a",
+   "url": "https://truthsocial.com/@realDonaldTrump/117526608599642271",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 5354
+  },
+  {
    "id": "f37c2a815a0e7dad",
    "ts": 1793299968,
    "source": "truth",
@@ -183,6 +199,22 @@
    "score": 4873
   },
   {
+   "id": "22a0f18d348a6715",
+   "ts": 1793313705,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Aaron Flint will be a tremendous Congressman for the amazing people of Montana's 1st Congressional District! A Fifth Generation Montanan, and distinguished Combat Veteran, Aaron has dedicated his life to serving his Great State and Country. Lieutenant Colonel Flint served our Nat",
+   "url": "https://truthsocial.com/@realDonaldTrump/117526606999074581",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4646
+  },
+  {
    "id": "3a198d279c2db6c4",
    "ts": 1793301452,
    "source": "truth",
@@ -199,69 +231,36 @@
    "score": 4585
   },
   {
-   "id": "305e4ce237421af6",
-   "ts": 1793301421,
+   "id": "469b6abe5e1cb6e3",
+   "ts": 1793313689,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Glenn \"GT\" Thompson is a Tremendous Champion for Pennsylvania's 15th Congressional District! As Chairman of the House Agriculture Committee, GT is a strong and effective voice for American Agriculture, and our amazing Farmers and Ranchers. In Congress, he is fighting ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117525801983876789",
+   "title": "Republican Kurt Alme is a terrific candidate for the U.S. Senate in the Wonderful State of Montana, which I love and WON BIG in 2016, 2020, and 2024. He loves the U.S.A., and is a truly Great American Patriot! Kurt is running against a Radical Left Democrat named Alani Bankhead, ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117526605975151903",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 3740
+   "score": 4404
   },
   {
-   "id": "e91a919e56849650",
-   "ts": 1793300107,
+   "id": "bab07511ad880470",
+   "ts": 1793313662,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse America First Patriot, David Stumbo, who is running to be the next Attorney General of the wonderful State of South Carolina, a place I love and WON BIG in 2016, 2020, and 2024!A Strong Conservative Fighter who has distinguished himself as a Crimin",
-   "url": "https://truthsocial.com/@realDonaldTrump/117525715840384199",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117526601708258656TO THE GREAT PEOPLE OF MONTANA, GET OUT AND VOTE FOR:– Kurt Alme for U.S. Senate– Aaron Flint for U.S. Congress (MT-01)– Troy Downing for U.S. Congress (MT-02)These Great Patriots have my Complete and To",
+   "url": "https://truthsocial.com/@realDonaldTrump/117526604215320335",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 3501
-  },
-  {
-   "id": "0764985c89159473",
-   "ts": 1793301394,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Guy Reschenthaler is doing an incredible job representing Pennsylvania's 14th Congressional District! As the Chief Deputy Whip, Guy is working closely with me to Advance our America First Agenda. He is fighting hard to Keep our Border SECURE, Stop Migrant Crime, Grow ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117525800206914059",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3474
-  },
-  {
-   "id": "8213b4532f16bcbb",
-   "ts": 1793224940,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I'm going to be doing a major TeleRally for Julia Letlow, who is running for the U.S. Senate and is spectacular, and our fantastic Speaker of the House, Mike Johnson, on Monday evening, LIVE.Highly Respected America First Congresswoman, Julia Letlow, of the wonderful State of Lou",
-   "url": "https://truthsocial.com/@realDonaldTrump/117520789719949115",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3343
+   "score": 4338
   }
  ],
  "briefing_ts": 1790465772,
@@ -341,11 +340,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 120
+   "n": 90
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 24
+   "n": 25
   },
   "Reddit r/Bitcoin": {
    "ok": false,
