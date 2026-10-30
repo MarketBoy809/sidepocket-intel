@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-30T08:29:55Z",
- "generated_ts": 1793348995,
+ "generated_at": "2026-10-30T15:49:25Z",
+ "generated_ts": 1793375365,
  "prices": {
   "BTC": {
-   "p": 77874.3,
+   "p": 77291.5,
    "o": 77800.0,
    "h": 81882.0,
    "l": 76330.1,
-   "v": 4788.07454795
+   "v": 5033.77010514
   },
   "ETH": {
-   "p": 2223.58,
+   "p": 2223.86,
    "o": 2248.91,
    "h": 2376.99,
    "l": 2170.0,
-   "v": 63269.63689168
+   "v": 58620.30949229
   },
   "SOL": {
-   "p": 97.07,
+   "p": 94.28,
    "o": 95.39,
    "h": 103.07,
    "l": 92.15,
-   "v": 542166.26456815
+   "v": 570181.1192529
   }
  },
  "change_7d": {
-  "BTC": -0.04228150268652552,
-  "ETH": -0.06867001113432485,
-  "SOL": -0.06757535035515459
+  "BTC": -0.05655768864652963,
+  "ETH": -0.0717456359102244,
+  "SOL": -0.09887275506304936
  },
  "sentiment": {
-  "score": 30.9,
+  "score": 38.5,
   "label": "Fear",
   "components": {
    "fng": 30.0,
-   "momentum": 39.42962432836862,
-   "crowding": 21.416849999999997
+   "momentum": 35.86057783836759,
+   "crowding": 62.078434
   },
   "weights": {
    "fng": 0.35,
@@ -53,86 +53,70 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": -4.9971e-06,
-   "oi_usd": 3295952849.218276,
-   "premium": -0.0005268413
+   "funding_h": 1.25e-05,
+   "oi_usd": 3176957173.26672,
+   "premium": -0.0001162505
   },
   "ETH": {
-   "funding_h": -6.1777e-05,
-   "oi_usd": 2411036962.105001,
-   "premium": -0.0010058645
+   "funding_h": 8.0916e-06,
+   "oi_usd": 2248626575.4539986,
+   "premium": -0.0005836663
   },
   "SOL": {
-   "funding_h": -1.15359e-05,
-   "oi_usd": 520447883.92939997,
-   "premium": -0.0006169349
+   "funding_h": 1.25e-05,
+   "oi_usd": 504595757.4420596,
+   "premium": -0.0004246842
   }
  },
- "items_24h": 154,
+ "items_24h": 136,
  "top_items": [
   {
-   "id": "649d382eabcda4fd",
-   "ts": 1793272922,
+   "id": "44629479ea46ccd7",
+   "ts": 1793356246,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Aaron Flint has my Complete and Total Endorsement to be the next U.S. Representative from Montana's 1st Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117523934218890356",
+   "title": "INFLATION IS WAY DOWN UNDER \"TRUMP.\" INCOME FOR PEOPLE & COMPANIES IS WAY UP! The Golden Age of America Is Upon Us.",
+   "url": "https://truthsocial.com/@realDonaldTrump/117529394978444089",
    "domain": "truthsocial.com",
    "tags": [
-    "regulation"
+    "macro"
    ],
    "author": "Donald Trump",
-   "score": 8474
+   "score": 9315
   },
   {
-   "id": "ef56f722bd06428e",
-   "ts": 1793272854,
+   "id": "ebe5268f7b2875bd",
+   "ts": 1793359754,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Ralph Alvarado has my Complete and Total Endorsement to be the next U.S. Representative from Kentucky's 6th Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117523929787664257",
+   "title": "https://conservativebrief.com/senate-race-poll-midterm-105503/",
+   "url": "https://truthsocial.com/@realDonaldTrump/117529624881658729",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 7368
+   "score": 8319
   },
   {
-   "id": "ebfa41e820f55a60",
-   "ts": 1793272838,
+   "id": "6dceea9d970badad",
+   "ts": 1793358919,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Rhett Marques has my Complete and Total Endorsement to be the next U.S. Representative from Alabama's 2nd Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117523928716548011",
+   "title": "I will be doing a live radio interview for our GREAT Republican Senator, Roger Marshall of Kansas, with Pete Mundo, KCMO, at 7:30 AM. Roger LOVES KANSAS, as do I. Enjoy!!! President DJT",
+   "url": "https://truthsocial.com/@realDonaldTrump/117529570134101741",
    "domain": "truthsocial.com",
    "tags": [
-    "regulation"
+    "geo"
    ],
    "author": "Donald Trump",
-   "score": 6885
-  },
-  {
-   "id": "abb9e532e38e8d2a",
-   "ts": 1793272832,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Anthony Constantino has my Complete and Total Endorsement to be the next U.S. Representative from New York's 21st Congressional District — HE WILL NEVER LET YOU DOWN! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117523928356184918",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6754
+   "score": 6845
   },
   {
    "id": "543add777b57afe9",
@@ -181,22 +165,6 @@
    ],
    "author": "Donald Trump",
    "score": 5297
-  },
-  {
-   "id": "d9d2e34b7a54d024",
-   "ts": 1793284249,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117524674249671299TO THE GREAT PEOPLE OF KENTUCKY, GET OUT AND VOTE FOR: – Andy Barr for U.S. Senate– James Comer for U.S. Congress (KY-01)– Brett Guthrie for U.S. Congress (KY-02)– Ed Gallrein for U.S. Congress (KY-04)– ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117524676590414089",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4873
   },
   {
    "id": "22a0f18d348a6715",
@@ -261,6 +229,38 @@
    ],
    "author": "Donald Trump",
    "score": 4338
+  },
+  {
+   "id": "305e4ce237421af6",
+   "ts": 1793301421,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congressman Glenn \"GT\" Thompson is a Tremendous Champion for Pennsylvania's 15th Congressional District! As Chairman of the House Agriculture Committee, GT is a strong and effective voice for American Agriculture, and our amazing Farmers and Ranchers. In Congress, he is fighting ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117525801983876789",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3740
+  },
+  {
+   "id": "e91a919e56849650",
+   "ts": 1793300107,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "It is my Great Honor to endorse America First Patriot, David Stumbo, who is running to be the next Attorney General of the wonderful State of South Carolina, a place I love and WON BIG in 2016, 2020, and 2024!A Strong Conservative Fighter who has distinguished himself as a Crimin",
+   "url": "https://truthsocial.com/@realDonaldTrump/117525715840384199",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3501
   }
  ],
  "briefing_ts": 1790465772,
@@ -283,7 +283,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 20
+   "n": 18
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -292,7 +292,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "CFTC": {
    "ok": true,
@@ -304,7 +304,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 8
+   "n": 10
   },
   "Bank of England": {
    "ok": true,
@@ -340,7 +340,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 87
+   "n": 91
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
