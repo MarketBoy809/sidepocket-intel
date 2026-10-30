@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-30T01:51:04Z",
- "generated_ts": 1793325064,
+ "generated_at": "2026-10-30T08:29:55Z",
+ "generated_ts": 1793348995,
  "prices": {
   "BTC": {
-   "p": 76661.0,
+   "p": 77874.3,
    "o": 77800.0,
    "h": 81882.0,
-   "l": 76500.0,
-   "v": 4384.73087749
+   "l": 76330.1,
+   "v": 4788.07454795
   },
   "ETH": {
-   "p": 2192.53,
+   "p": 2223.58,
    "o": 2248.91,
    "h": 2376.99,
    "l": 2170.0,
-   "v": 60731.60760288
+   "v": 63269.63689168
   },
   "SOL": {
-   "p": 93.65,
+   "p": 97.07,
    "o": 95.39,
    "h": 103.07,
    "l": 92.15,
-   "v": 521842.40402532
+   "v": 542166.26456815
   }
  },
  "change_7d": {
-  "BTC": -0.052677408040798956,
-  "ETH": -0.07234482008914002,
-  "SOL": -0.08919465024535754
+  "BTC": -0.04228150268652552,
+  "ETH": -0.06867001113432485,
+  "SOL": -0.06757535035515459
  },
  "sentiment": {
-  "score": 33.3,
+  "score": 30.9,
   "label": "Fear",
   "components": {
    "fng": 30.0,
-   "momentum": 36.83064798980026,
-   "crowding": 36.1741285
+   "momentum": 39.42962432836862,
+   "crowding": 21.416849999999997
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.22168e-05,
-   "oi_usd": 3264834968.59264,
-   "premium": -0.0002471834
+   "funding_h": -4.9971e-06,
+   "oi_usd": 3295952849.218276,
+   "premium": -0.0005268413
   },
   "ETH": {
-   "funding_h": -5.88696e-05,
-   "oi_usd": 2328698245.6762004,
-   "premium": -0.0008645009
+   "funding_h": -6.1777e-05,
+   "oi_usd": 2411036962.105001,
+   "premium": -0.0010058645
   },
   "SOL": {
-   "funding_h": 8.7737e-06,
-   "oi_usd": 523895990.31711984,
-   "premium": -0.0001885285
+   "funding_h": -1.15359e-05,
+   "oi_usd": 520447883.92939997,
+   "premium": -0.0006169349
   }
  },
- "items_24h": 139,
+ "items_24h": 154,
  "top_items": [
   {
    "id": "649d382eabcda4fd",
@@ -135,22 +135,6 @@
    "score": 6754
   },
   {
-   "id": "83e680255037e529",
-   "ts": 1793241809,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117521892279559312East Potomac Golf Course is highly dangerous, dilapidated, and absolutely disgusting. Below are new photos of the deplorable conditions of the driving range building, including excrement in the stairwell",
-   "url": "https://truthsocial.com/@realDonaldTrump/117521895212942057",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6183
-  },
-  {
    "id": "543add777b57afe9",
    "ts": 1793313729,
    "source": "truth",
@@ -181,6 +165,22 @@
    ],
    "author": "Donald Trump",
    "score": 5332
+  },
+  {
+   "id": "f0d448a5d15213d8",
+   "ts": 1793326323,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "GREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story is exposed: https://www.foxnews.com/opinion/gregg-jarrett-trump-framed-russia-collusion-hoax-story-exposed",
+   "url": "https://truthsocial.com/@realDonaldTrump/117527433918621123",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 5297
   },
   {
    "id": "d9d2e34b7a54d024",
@@ -304,7 +304,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "Bank of England": {
    "ok": true,
@@ -312,7 +312,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 3
+   "n": 10
   },
   "BIS": {
    "ok": true,
@@ -340,7 +340,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 90
+   "n": 87
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
