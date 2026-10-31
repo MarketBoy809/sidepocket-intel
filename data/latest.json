@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-10-31T13:33:32Z",
- "generated_ts": 1793453612,
+ "generated_at": "2026-10-31T18:26:21Z",
+ "generated_ts": 1793471181,
  "prices": {
   "BTC": {
-   "p": 77322.1,
+   "p": 77590.5,
    "o": 77204.3,
-   "h": 77946.8,
+   "h": 77636.1,
    "l": 76155.5,
-   "v": 2173.25927865
+   "v": 1515.16910413
   },
   "ETH": {
-   "p": 2245.05,
+   "p": 2253.27,
    "o": 2241.38,
-   "h": 2258.8,
-   "l": 2204.49,
-   "v": 18026.42336509
+   "h": 2255.17,
+   "l": 2215.07,
+   "v": 9185.9606103
   },
   "SOL": {
-   "p": 95.7,
+   "p": 96.01,
    "o": 96.17,
    "h": 96.89,
    "l": 93.42,
-   "v": 258254.78112856
+   "v": 201997.24580684
   }
  },
  "change_7d": {
-  "BTC": -0.04066682053205528,
-  "ETH": -0.049273304341578714,
-  "SOL": -0.05470136014192783
+  "BTC": -0.0325268025508311,
+  "ETH": -0.029525955866193807,
+  "SOL": -0.044829647340107595
  },
  "sentiment": {
-  "score": 40.0,
+  "score": 40.6,
   "label": "Fear",
   "components": {
    "fng": 30.0,
-   "momentum": 39.83329486698618,
+   "momentum": 41.86829936229222,
    "crowding": 63.6875
   },
   "weights": {
@@ -54,22 +54,38 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3174821385.30844,
-   "premium": 0.000133044
+   "oi_usd": 3205144071.8574,
+   "premium": 8.88087e-05
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2199745338.5988803,
-   "premium": -0.0003559194
+   "oi_usd": 2207246440.0064406,
+   "premium": -0.0003811449
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 516645797.4613002,
-   "premium": -0.0002890988
+   "oi_usd": 519473413.2794798,
+   "premium": -0.0001975771
   }
  },
- "items_24h": 103,
+ "items_24h": 129,
  "top_items": [
+  {
+   "id": "85d8f30e34956141",
+   "ts": 1793468010,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "So, in Los Angeles, our Acting U.S. Attorney for the Central District of California (and various other titles which were forced upon us by the ridiculous Blue Slip SCAM where nobody can get confirmed without the Dumocrats' approval — which is IMPOSSIBLE to get in that they are al",
+   "url": "https://truthsocial.com/@realDonaldTrump/117536719518293568",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 13030
+  },
   {
    "id": "2df7037b43dba90b",
    "ts": 1793401274,
@@ -249,22 +265,6 @@
    ],
    "author": "Donald Trump",
    "score": 1992
-  },
-  {
-   "id": "8d4f3daea889977b",
-   "ts": 1793401207,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Nathaniel Moran is doing a fantastic job representing the Great People of Texas' 1st Congressional District! Nathaniel has an incredible Record of Success, and strong support from his Community. In Congress, he is working tirelessly to Grow our Economy, Cut Taxes and ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117532341552582089",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1918
   }
  ],
  "briefing_ts": 1790465772,
@@ -344,7 +344,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 141
+   "n": 170
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
