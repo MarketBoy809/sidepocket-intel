@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-10-31T18:26:21Z",
- "generated_ts": 1793471181,
+ "generated_at": "2026-10-31T22:24:31Z",
+ "generated_ts": 1793485471,
  "prices": {
   "BTC": {
-   "p": 77590.5,
+   "p": 77482.0,
    "o": 77204.3,
    "h": 77636.1,
-   "l": 76155.5,
-   "v": 1515.16910413
+   "l": 76651.0,
+   "v": 859.27137294
   },
   "ETH": {
-   "p": 2253.27,
+   "p": 2257.17,
    "o": 2241.38,
-   "h": 2255.17,
-   "l": 2215.07,
-   "v": 9185.9606103
+   "h": 2265.01,
+   "l": 2231.02,
+   "v": 6690.28385941
   },
   "SOL": {
-   "p": 96.01,
+   "p": 95.74,
    "o": 96.17,
    "h": 96.89,
-   "l": 93.42,
-   "v": 201997.24580684
+   "l": 95.05,
+   "v": 153912.06535763
   }
  },
  "change_7d": {
-  "BTC": -0.0325268025508311,
-  "ETH": -0.029525955866193807,
-  "SOL": -0.044829647340107595
+  "BTC": -0.03468916188445726,
+  "ETH": -0.036147516783692546,
+  "SOL": -0.05432098765432099
  },
  "sentiment": {
-  "score": 40.6,
+  "score": 40.5,
   "label": "Fear",
   "components": {
    "fng": 30.0,
-   "momentum": 41.86829936229222,
+   "momentum": 41.327709528885684,
    "crowding": 63.6875
   },
   "weights": {
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3205144071.8574,
-   "premium": 8.88087e-05
+   "oi_usd": 3140685609.2598,
+   "premium": -0.0001288926
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2207246440.0064406,
-   "premium": -0.0003811449
+   "oi_usd": 2213312752.2770333,
+   "premium": -0.0004159642
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 519473413.2794798,
-   "premium": -0.0001975771
+   "oi_usd": 517714229.99170005,
+   "premium": -0.000187764
   }
  },
- "items_24h": 129,
+ "items_24h": 156,
  "top_items": [
   {
    "id": "85d8f30e34956141",
@@ -85,6 +85,22 @@
    ],
    "author": "Donald Trump",
    "score": 13030
+  },
+  {
+   "id": "69d19b69b888c774",
+   "ts": 1793476372,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117537265869930711TO THE GREAT PEOPLE OF NEW YORK, GET OUT AND VOTE FOR:– Bruce Blakeman for Governor– Saritha Komatireddy for Attorney General– Nick LaLota for U.S. Congress (NY-01)– Andrew Garbarino for U.S. Congress (N",
+   "url": "https://truthsocial.com/@realDonaldTrump/117537267525081582",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3932
   },
   {
    "id": "2df7037b43dba90b",
@@ -104,6 +120,22 @@
    "score": 3664
   },
   {
+   "id": "f461ed5cd34cdd08",
+   "ts": 1793480016,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117537504966149543TO THE GREAT PEOPLE OF MICHIGAN, GET OUT AND VOTE FOR:– Mike Rogers for U.S. Senate– John James for Governor– Jack Bergman for U.S. Congress (MI-01)– John Moolenaar for U.S. Congress (MI-02)– Bill Huizen",
+   "url": "https://truthsocial.com/@realDonaldTrump/117537506331717383",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3359
+  },
+  {
    "id": "3212ffc0afbc486c",
    "ts": 1793401258,
    "source": "truth",
@@ -119,6 +151,22 @@
    ],
    "author": "Donald Trump",
    "score": 2866
+  },
+  {
+   "id": "f96a15470abcb55b",
+   "ts": 1793476323,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "It is my Great Honor to endorse America First Patriot, Bruce Blakeman, who is running to be the next Governor of the Great State of New York! Highly Respected and very popular Nassau County Executive, Bruce is MAGA all the way, and has been with me from the very beginning. As Nas",
+   "url": "https://truthsocial.com/@realDonaldTrump/117537264358690703",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2718
   },
   {
    "id": "8e64dfd372d211bc",
@@ -137,6 +185,23 @@
    "score": 2541
   },
   {
+   "id": "4673cdfdd6d5d292",
+   "ts": 1793479973,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "It is my Great Honor to endorse America First Patriot, Mike Rogers, who is running for U.S. Senate in the Great State of Michigan, a State I love and WON BIG! From the U.S. Army to Congress, Mike has served our Nation with distinction, and will bring that same Fighting Spirit to ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117537503559819896",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2485
+  },
+  {
    "id": "4c11590b4abdd7d0",
    "ts": 1793401241,
    "source": "truth",
@@ -153,36 +218,21 @@
    "score": 2429
   },
   {
-   "id": "86b3f7f17c78ef4b",
-   "ts": 1793395475,
+   "id": "2cc34afcd499d16a",
+   "ts": 1793479962,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Congresswoman Lauren Boebert is an America First Patriot, who is doing an incredible job representing Colorado's 4th Congressional District! A MAGA Warrior, who has been with us from the very beginning, Lauren is working hard to Grow our Economy, Cut Taxes and Regulations, Unleas",
-   "url": "https://truthsocial.com/@realDonaldTrump/117531965901848778",
+   "title": "It is my Great Honor to endorse America First Congressman, John James, who is running to become the next Governor of the Beautiful State of Michigan! A West Point Graduate, Combat Pilot, Brave Iraq War Veteran, Successful Businessman and Job Creator, and now, as a Highly Respecte",
+   "url": "https://truthsocial.com/@realDonaldTrump/117537502814993710",
    "domain": "truthsocial.com",
    "tags": [
+    "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 2359
-  },
-  {
-   "id": "120d119f7f29836f",
-   "ts": 1793394611,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117531908401047469TO THE GREAT PEOPLE OF COLORADO, GET OUT AND VOTE FOR:– Jeff Hurd for U.S. Congress (CO-03)– Lauren Boebert for U.S. Congress (CO-04)– Jeff Crank for U.S. Congress (CO-05)– Gabe Evans for U.S. Congress (",
-   "url": "https://truthsocial.com/@realDonaldTrump/117531909275165087",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2262
+   "score": 2320
   },
   {
    "id": "c87bf472fa39848e",
@@ -216,55 +266,6 @@
    ],
    "author": "Donald Trump",
    "score": 2103
-  },
-  {
-   "id": "d8a30bcc6c3a4663",
-   "ts": 1793394983,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Gabe Evans is an America First Patriot who is doing a fantastic job representing Colorado's 8th Congressional District! A decorated Army Helicopter Pilot and former Police Officer, Gabe has served our Nation with Great Honor and Distinction. In Congress, he is fightin",
-   "url": "https://truthsocial.com/@realDonaldTrump/117531933638600993",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2072
-  },
-  {
-   "id": "2712d11dff0279aa",
-   "ts": 1793401216,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Dr. Dawn Buckingham is the strong and highly popular Land Commissioner for Texas, a place I love and WON BIG three times, including with 6.4 Million Votes in 2024, the most in History (BY FAR)! Dawn is a Ninth Generation Texan, successful Surgeon, avid Hunter, former State Senato",
-   "url": "https://truthsocial.com/@realDonaldTrump/117532342092327819",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2012
-  },
-  {
-   "id": "0e8b87f38c41db76",
-   "ts": 1793394788,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Jeff Hurd is an incredible Representative for the Great People of Colorado's 3rd Congressional District! Jeff has a strong Record of SUCCESS, and resounding support from his Community. In Congress, he is fighting tirelessly to Keep our Border SECURE, Support our Incre",
-   "url": "https://truthsocial.com/@realDonaldTrump/117531920826336994",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1992
   }
  ],
  "briefing_ts": 1790465772,
@@ -320,7 +321,7 @@
   },
   "BIS": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "Strategy (MSTR) filings": {
    "ok": true,
@@ -344,11 +345,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 170
+   "n": 227
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 25
+   "n": 23
   },
   "Reddit r/Bitcoin": {
    "ok": false,
