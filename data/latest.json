@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-31T06:53:36Z",
- "generated_ts": 1793429616,
+ "generated_at": "2026-10-31T13:33:32Z",
+ "generated_ts": 1793453612,
  "prices": {
   "BTC": {
-   "p": 77277.9,
+   "p": 77322.1,
    "o": 77204.3,
-   "h": 78495.8,
+   "h": 77946.8,
    "l": 76155.5,
-   "v": 2689.67338568
+   "v": 2173.25927865
   },
   "ETH": {
-   "p": 2243.78,
+   "p": 2245.05,
    "o": 2241.38,
    "h": 2258.8,
    "l": 2204.49,
-   "v": 20991.1187992
+   "v": 18026.42336509
   },
   "SOL": {
-   "p": 95.92,
+   "p": 95.7,
    "o": 96.17,
-   "h": 98.21,
+   "h": 96.89,
    "l": 93.42,
-   "v": 298493.09063537
+   "v": 258254.78112856
   }
  },
  "change_7d": {
-  "BTC": -0.04383500874218007,
-  "ETH": -0.0571904988483579,
-  "SOL": -0.06320320907934639
+  "BTC": -0.04066682053205528,
+  "ETH": -0.049273304341578714,
+  "SOL": -0.05470136014192783
  },
  "sentiment": {
-  "score": 38.9,
+  "score": 40.0,
   "label": "Fear",
   "components": {
    "fng": 30.0,
-   "momentum": 39.041247814454984,
-   "crowding": 59.470655
+   "momentum": 39.83329486698618,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -54,70 +54,22 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3187001479.4425,
-   "premium": 1.29241e-05
+   "oi_usd": 3174821385.30844,
+   "premium": 0.000133044
   },
   "ETH": {
-   "funding_h": 9.47e-07,
-   "oi_usd": 2215121692.632401,
-   "premium": -0.0004896506
+   "funding_h": 1.25e-05,
+   "oi_usd": 2199745338.5988803,
+   "premium": -0.0003559194
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 516863477.38935983,
-   "premium": -0.000217629
+   "oi_usd": 516645797.4613002,
+   "premium": -0.0002890988
   }
  },
- "items_24h": 130,
+ "items_24h": 103,
  "top_items": [
-  {
-   "id": "44629479ea46ccd7",
-   "ts": 1793356246,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "INFLATION IS WAY DOWN UNDER \"TRUMP.\" INCOME FOR PEOPLE & COMPANIES IS WAY UP! The Golden Age of America Is Upon Us.",
-   "url": "https://truthsocial.com/@realDonaldTrump/117529394978444089",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro"
-   ],
-   "author": "Donald Trump",
-   "score": 9315
-  },
-  {
-   "id": "ebe5268f7b2875bd",
-   "ts": 1793359754,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "https://conservativebrief.com/senate-race-poll-midterm-105503/",
-   "url": "https://truthsocial.com/@realDonaldTrump/117529624881658729",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 8319
-  },
-  {
-   "id": "6dceea9d970badad",
-   "ts": 1793358919,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I will be doing a live radio interview for our GREAT Republican Senator, Roger Marshall of Kansas, with Pete Mundo, KCMO, at 7:30 AM. Roger LOVES KANSAS, as do I. Enjoy!!! President DJT",
-   "url": "https://truthsocial.com/@realDonaldTrump/117529570134101741",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 6845
-  },
   {
    "id": "2df7037b43dba90b",
    "ts": 1793401274,
@@ -264,6 +216,55 @@
    ],
    "author": "Donald Trump",
    "score": 2072
+  },
+  {
+   "id": "2712d11dff0279aa",
+   "ts": 1793401216,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Dr. Dawn Buckingham is the strong and highly popular Land Commissioner for Texas, a place I love and WON BIG three times, including with 6.4 Million Votes in 2024, the most in History (BY FAR)! Dawn is a Ninth Generation Texan, successful Surgeon, avid Hunter, former State Senato",
+   "url": "https://truthsocial.com/@realDonaldTrump/117532342092327819",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2012
+  },
+  {
+   "id": "0e8b87f38c41db76",
+   "ts": 1793394788,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congressman Jeff Hurd is an incredible Representative for the Great People of Colorado's 3rd Congressional District! Jeff has a strong Record of SUCCESS, and resounding support from his Community. In Congress, he is fighting tirelessly to Keep our Border SECURE, Support our Incre",
+   "url": "https://truthsocial.com/@realDonaldTrump/117531920826336994",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1992
+  },
+  {
+   "id": "8d4f3daea889977b",
+   "ts": 1793401207,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congressman Nathaniel Moran is doing a fantastic job representing the Great People of Texas' 1st Congressional District! Nathaniel has an incredible Record of Success, and strong support from his Community. In Congress, he is working tirelessly to Grow our Economy, Cut Taxes and ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117532341552582089",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1918
   }
  ],
  "briefing_ts": 1790465772,
@@ -286,7 +287,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 15
+   "n": 16
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -339,11 +340,11 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 38
+   "n": 39
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 144
+   "n": 141
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
