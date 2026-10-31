@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-31T00:40:33Z",
- "generated_ts": 1793407233,
+ "generated_at": "2026-10-31T06:53:36Z",
+ "generated_ts": 1793429616,
  "prices": {
   "BTC": {
-   "p": 77246.4,
+   "p": 77277.9,
    "o": 77204.3,
-   "h": 78667.3,
+   "h": 78495.8,
    "l": 76155.5,
-   "v": 3461.53601131
+   "v": 2689.67338568
   },
   "ETH": {
-   "p": 2244.29,
+   "p": 2243.78,
    "o": 2241.38,
    "h": 2258.8,
-   "l": 2170.0,
-   "v": 31473.64566331
+   "l": 2204.49,
+   "v": 20991.1187992
   },
   "SOL": {
-   "p": 96.23,
+   "p": 95.92,
    "o": 96.17,
-   "h": 98.39,
-   "l": 92.98,
-   "v": 345316.02510908
+   "h": 98.21,
+   "l": 93.42,
+   "v": 298493.09063537
   }
  },
  "change_7d": {
-  "BTC": -0.04807244970401351,
-  "ETH": -0.06010367474983012,
-  "SOL": -0.06386914613961628
+  "BTC": -0.04383500874218007,
+  "ETH": -0.0571904988483579,
+  "SOL": -0.06320320907934639
  },
  "sentiment": {
-  "score": 39.5,
+  "score": 38.9,
   "label": "Fear",
   "components": {
    "fng": 30.0,
-   "momentum": 37.98188757399662,
-   "crowding": 63.5564285
+   "momentum": 39.041247814454984,
+   "crowding": 59.470655
   },
   "weights": {
    "fng": 0.35,
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3320704457.0668,
-   "premium": 0.0003205368
+   "oi_usd": 3187001479.4425,
+   "premium": 1.29241e-05
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2229875142.0057006,
-   "premium": -0.0003381746
+   "funding_h": 9.47e-07,
+   "oi_usd": 2215121692.632401,
+   "premium": -0.0004896506
   },
   "SOL": {
-   "funding_h": 1.21409e-05,
-   "oi_usd": 516007213.84679985,
-   "premium": 0.0
+   "funding_h": 1.25e-05,
+   "oi_usd": 516863477.38935983,
+   "premium": -0.000217629
   }
  },
- "items_24h": 152,
+ "items_24h": 130,
  "top_items": [
   {
    "id": "44629479ea46ccd7",
@@ -117,22 +117,6 @@
    ],
    "author": "Donald Trump",
    "score": 6845
-  },
-  {
-   "id": "f0d448a5d15213d8",
-   "ts": 1793326323,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "GREGG JARRETT: Trump was framed by the Russia collusion hoax. Now the whole story is exposed: https://www.foxnews.com/opinion/gregg-jarrett-trump-framed-russia-collusion-hoax-story-exposed",
-   "url": "https://truthsocial.com/@realDonaldTrump/117527433918621123",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 5297
   },
   {
    "id": "2df7037b43dba90b",
@@ -264,6 +248,22 @@
    ],
    "author": "Donald Trump",
    "score": 2103
+  },
+  {
+   "id": "d8a30bcc6c3a4663",
+   "ts": 1793394983,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congressman Gabe Evans is an America First Patriot who is doing a fantastic job representing Colorado's 8th Congressional District! A decorated Army Helicopter Pilot and former Police Officer, Gabe has served our Nation with Great Honor and Distinction. In Congress, he is fightin",
+   "url": "https://truthsocial.com/@realDonaldTrump/117531933638600993",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2072
   }
  ],
  "briefing_ts": 1790465772,
@@ -286,7 +286,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -307,7 +307,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 11
+   "n": 10
   },
   "Bank of England": {
    "ok": true,
