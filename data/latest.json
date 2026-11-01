@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-01T09:07:37Z",
- "generated_ts": 1793524057,
+ "generated_at": "2026-11-01T16:44:36Z",
+ "generated_ts": 1793551476,
  "prices": {
   "BTC": {
-   "p": 78070.0,
+   "p": 77971.1,
    "o": 77437.1,
    "h": 78135.2,
-   "l": 77245.2,
-   "v": 707.43056328
+   "l": 77316.8,
+   "v": 756.5671296
   },
   "ETH": {
-   "p": 2271.16,
+   "p": 2265.89,
    "o": 2252.37,
    "h": 2274.59,
-   "l": 2239.77,
-   "v": 6398.37511591
+   "l": 2243.16,
+   "v": 6040.86779186
   },
   "SOL": {
-   "p": 95.65,
+   "p": 94.56,
    "o": 95.31,
-   "h": 96.2,
-   "l": 95.03,
-   "v": 106096.56350199
+   "h": 96.09,
+   "l": 94.21,
+   "v": 143176.74616999
   }
  },
  "change_7d": {
-  "BTC": -0.02726973848069732,
-  "ETH": -0.025259844950603672,
-  "SOL": -0.04915102770330641
+  "BTC": -0.033191667865011557,
+  "ETH": -0.033101127146768265,
+  "SOL": -0.06757954881292483
  },
  "sentiment": {
-  "score": 42.6,
+  "score": 42.1,
   "label": "Fear",
   "components": {
    "fng": 34.0,
-   "momentum": 43.18256537982567,
-   "crowding": 61.835928
+   "momentum": 41.70208303374711,
+   "crowding": 61.6273305
   },
   "weights": {
    "fng": 0.35,
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3164841227.27424,
-   "premium": -2.55813e-05
+   "oi_usd": 3183812975.7394924,
+   "premium": -0.0001818666
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2236462795.69664,
-   "premium": -0.000263829
+   "funding_h": 6.8557e-06,
+   "oi_usd": 2226206031.3183002,
+   "premium": -0.0004407616
   },
   "SOL": {
-   "funding_h": 7.4272e-06,
-   "oi_usd": 554243782.0604999,
-   "premium": -0.000501227
+   "funding_h": 1.25e-05,
+   "oi_usd": 524669509.7207998,
+   "premium": -0.0001056022
   }
  },
- "items_24h": 126,
+ "items_24h": 131,
  "top_items": [
   {
    "id": "85d8f30e34956141",
@@ -152,6 +152,22 @@
    "score": 2485
   },
   {
+   "id": "2629ca54ab02bc65",
+   "ts": 1793548159,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117541971048661320TO THE GREAT PEOPLE OF IOWA, GET OUT AND VOTE FOR:– Ashley Hinson for U.S. Senate– Zach Lahn for Governor– Brenna Bird for Attorney General– Mariannette Miller-Meeks for U.S. Congress (IA-01)– Joe Mitche",
+   "url": "https://truthsocial.com/@realDonaldTrump/117541972192882658",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2376
+  },
+  {
    "id": "2cc34afcd499d16a",
    "ts": 1793479962,
    "source": "truth",
@@ -167,6 +183,24 @@
    ],
    "author": "Donald Trump",
    "score": 2320
+  },
+  {
+   "id": "2fab275d82a52f98",
+   "ts": 1793546595,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Senator Roger Marshall is one of the Best Senators in the United States of America. He loves Kansas more than anyone, with the possible exception of me! Roger is all that stands between the people of Kansas and Communists controlling the United States Senate. His opponent, Adam H",
+   "url": "https://truthsocial.com/@realDonaldTrump/117541869662412381",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro",
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2199
   },
   {
    "id": "c1a1c8c622ae0dde",
@@ -185,6 +219,22 @@
    "score": 2089
   },
   {
+   "id": "e773d39e3952d4f1",
+   "ts": 1793546497,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congressman Tracey Mann is an incredible Representative for the wonderful people of Kansas' \"Big First\" Congressional District! A fifth generation Farmer, Tracey is a strong and effective Voice for American Agriculture. In Congress, he is fighting tirelessly to Cut Taxes and Regu",
+   "url": "https://truthsocial.com/@realDonaldTrump/117541863279659655",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1974
+  },
+  {
    "id": "4c4341751a2b1fec",
    "ts": 1793479943,
    "source": "truth",
@@ -201,68 +251,21 @@
    "score": 1966
   },
   {
-   "id": "b5a4251baf3cb5fd",
-   "ts": 1793479933,
+   "id": "35aa0ab267b28432",
+   "ts": 1793546544,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Bill Huizenga is a Tremendous Champion, and Highly Effective Representative, for the incredible people of Michigan's 4th Congressional District! As a very successful Small Businessman, and Vice Chair of the House Financial Services Committee, Bill knows the America Fi",
-   "url": "https://truthsocial.com/@realDonaldTrump/117537500931561828",
+   "title": "It is my Great Honor to endorse Ty Masterson, a fantastic Candidate running to be the next Governor of the Great State of Kansas, a place I love and WON BIG in 2016, 2020, and 2024! Ty will run on the Republican \"ticket\" with my friend, the Great U.S. Senator Roger Marshall, who,",
+   "url": "https://truthsocial.com/@realDonaldTrump/117541866339909379",
    "domain": "truthsocial.com",
    "tags": [
+    "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 1876
-  },
-  {
-   "id": "0c13ea0042879975",
-   "ts": 1793479924,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Tim Walberg is an incredible Representative of Michigan's 5th Congressional District! As Chair of the House Education Committee, Tim is working hard to Advance School Choice, Deliver the Best Education Solutions for our Children, and Defend Parental Rights. Tim is als",
-   "url": "https://truthsocial.com/@realDonaldTrump/117537500328371936",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1855
-  },
-  {
-   "id": "e3910881d691f16f",
-   "ts": 1793479915,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Tom Barrett is an incredible Representative for the Wonderful People of Michigan's 7th Congressional District! Tom bravely served our Country as an Army Helicopter Pilot and, in Congress, he is fighting hard to Grow our Economy, Cut Taxes, Keep our Border SECURE, Supp",
-   "url": "https://truthsocial.com/@realDonaldTrump/117537499730390947",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1821
-  },
-  {
-   "id": "dd0863e9a9b47c62",
-   "ts": 1793479900,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Congresswoman Lisa McClain is a Fantastic Advocate for the Great People of Michigan's 9th Congressional District! As the Chair of the House Republican Conference, Lisa is doing a truly fantastic job advancing our America First Agenda. She is working tirelessly to Grow our Economy",
-   "url": "https://truthsocial.com/@realDonaldTrump/117537498744192643",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1792
+   "score": 1925
   }
  ],
  "briefing_ts": 1790465772,
@@ -342,11 +345,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 224
+   "n": 238
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 19
   },
   "Reddit r/Bitcoin": {
    "ok": false,
