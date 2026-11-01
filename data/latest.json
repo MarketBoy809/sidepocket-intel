@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-01T16:44:36Z",
- "generated_ts": 1793551476,
+ "generated_at": "2026-11-01T21:05:02Z",
+ "generated_ts": 1793567102,
  "prices": {
   "BTC": {
-   "p": 77971.1,
+   "p": 77839.5,
    "o": 77437.1,
    "h": 78135.2,
-   "l": 77316.8,
-   "v": 756.5671296
+   "l": 77317.2,
+   "v": 775.06923438
   },
   "ETH": {
-   "p": 2265.89,
+   "p": 2262.74,
    "o": 2252.37,
    "h": 2274.59,
-   "l": 2243.16,
-   "v": 6040.86779186
+   "l": 2248.97,
+   "v": 8436.07380789
   },
   "SOL": {
-   "p": 94.56,
+   "p": 94.22,
    "o": 95.31,
-   "h": 96.09,
-   "l": 94.21,
-   "v": 143176.74616999
+   "h": 96.08,
+   "l": 93.55,
+   "v": 164608.92119263
   }
  },
  "change_7d": {
-  "BTC": -0.033191667865011557,
-  "ETH": -0.033101127146768265,
-  "SOL": -0.06757954881292483
+  "BTC": -0.0323034022359129,
+  "ETH": -0.035528426153426135,
+  "SOL": -0.07256079551048529
  },
  "sentiment": {
-  "score": 42.1,
+  "score": 42.6,
   "label": "Fear",
   "components": {
    "fng": 34.0,
-   "momentum": 41.70208303374711,
-   "crowding": 61.6273305
+   "momentum": 41.924149441021775,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -54,102 +54,135 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3183812975.7394924,
-   "premium": -0.0001818666
+   "oi_usd": 3143104176.28012,
+   "premium": -0.0002309558
   },
   "ETH": {
-   "funding_h": 6.8557e-06,
-   "oi_usd": 2226206031.3183002,
-   "premium": -0.0004407616
+   "funding_h": 1.25e-05,
+   "oi_usd": 2207029866.2456,
+   "premium": -0.0003663279
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 524669509.7207998,
-   "premium": -0.0001056022
+   "oi_usd": 526441110.45629996,
+   "premium": -0.0002235975
   }
  },
- "items_24h": 131,
+ "items_24h": 81,
  "top_items": [
   {
-   "id": "85d8f30e34956141",
-   "ts": 1793468010,
+   "id": "1569bb3e8d781c49",
+   "ts": 1793558334,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "So, in Los Angeles, our Acting U.S. Attorney for the Central District of California (and various other titles which were forced upon us by the ridiculous Blue Slip SCAM where nobody can get confirmed without the Dumocrats' approval — which is IMPOSSIBLE to get in that they are al",
-   "url": "https://truthsocial.com/@realDonaldTrump/117536719518293568",
+   "title": "Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has been breathlessly wined and dined by the Dumocrats to help in their Michigan Campaign for the United States Senate against Mike Roge",
+   "url": "https://truthsocial.com/@realDonaldTrump/117542639036452664",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 13030
+   "score": 18330
   },
   {
-   "id": "69d19b69b888c774",
-   "ts": 1793476372,
+   "id": "16ecc97682e65fac",
+   "ts": 1793561355,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117537265869930711TO THE GREAT PEOPLE OF NEW YORK, GET OUT AND VOTE FOR:– Bruce Blakeman for Governor– Saritha Komatireddy for Attorney General– Nick LaLota for U.S. Congress (NY-01)– Andrew Garbarino for U.S. Congress (N",
-   "url": "https://truthsocial.com/@realDonaldTrump/117537267525081582",
+   "title": "The Fake Daniel J. Sullivan, Jr., has DISAPPEARED! Nobody can find him, including Law Enforcement. He knows that he committed a Criminal Act, but he also knows that there are those around him who, in a certain way, were far worse, like Lawyer Marc Elias, and Liberal Radical Left ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117542836979977717",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 3932
+   "score": 9726
   },
   {
-   "id": "f461ed5cd34cdd08",
-   "ts": 1793480016,
+   "id": "53ead674af30129f",
+   "ts": 1793561341,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117537504966149543TO THE GREAT PEOPLE OF MICHIGAN, GET OUT AND VOTE FOR:– Mike Rogers for U.S. Senate– John James for Governor– Jack Bergman for U.S. Congress (MI-01)– John Moolenaar for U.S. Congress (MI-02)– Bill Huizen",
-   "url": "https://truthsocial.com/@realDonaldTrump/117537506331717383",
+   "title": "TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR:– Ken Paxton for U.S. Senate– Greg Abbott for Governor– Dan Patrick for Lieutenant Governor– Mayes Middleton for Attorney General– Don Huffines for Comptroller– Dawn Buckingham for Land Commissioner– Nathaniel Moran for U.S. Cong",
+   "url": "https://truthsocial.com/@realDonaldTrump/117542836089265376",
+   "domain": "truthsocial.com",
+   "tags": [
+    "institution",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3554
+  },
+  {
+   "id": "6b95ffb9629a83a3",
+   "ts": 1793558283,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Heading to lowa, and then, so importantly, Kansas (Will be my last stop!), to make sure our Great Patriots get out and vote for truly incredible Candidates, Ashley Hinson for Senate and Zach Lahn for Governor in lowa, and Roger Marshall for Senate and Ty Masterson for Governor in",
+   "url": "https://truthsocial.com/@realDonaldTrump/117542635687363113",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 3359
+   "score": 3139
   },
   {
-   "id": "f96a15470abcb55b",
-   "ts": 1793476323,
+   "id": "1d50b8710ecfce5c",
+   "ts": 1793561289,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse America First Patriot, Bruce Blakeman, who is running to be the next Governor of the Great State of New York! Highly Respected and very popular Nassau County Executive, Bruce is MAGA all the way, and has been with me from the very beginning. As Nas",
-   "url": "https://truthsocial.com/@realDonaldTrump/117537264358690703",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2718
-  },
-  {
-   "id": "4673cdfdd6d5d292",
-   "ts": 1793479973,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse America First Patriot, Mike Rogers, who is running for U.S. Senate in the Great State of Michigan, a State I love and WON BIG! From the U.S. Army to Congress, Mike has served our Nation with distinction, and will bring that same Fighting Spirit to ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117537503559819896",
+   "title": "It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton, an America First Patriot, and someone who has always been extremely loyal to me and our AMAZING MAGA MOVEMENT, who is running for the United States Senate, to represent a place I love and ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117542832649607144",
    "domain": "truthsocial.com",
    "tags": [
     "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 2485
+   "score": 2935
+  },
+  {
+   "id": "72ce57a3dc0b181a",
+   "ts": 1793561277,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Greg Abbott is the strong and highly respected Governor of Texas, a State I love and WON BIG three times, including with 6.4 Million Votes in 2024 (The most Votes in History, BY FAR)! As Governor, Greg is also fighting tirelessly to Champion Texas Values, Grow the Economy, Cut Ta",
+   "url": "https://truthsocial.com/@realDonaldTrump/117542831858109940",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2587
+  },
+  {
+   "id": "4df0e06370a2d479",
+   "ts": 1793561267,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election! As Texas Chair of our Presidential Campaigns in 2016, 2020, and 2024, Dan has been an incredible friend to our Movement, helping us WIN BIG in the Primaries and General Elections. In his nex",
+   "url": "https://truthsocial.com/@realDonaldTrump/117542831198371222",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2421
   },
   {
    "id": "2629ca54ab02bc65",
@@ -168,21 +201,21 @@
    "score": 2376
   },
   {
-   "id": "2cc34afcd499d16a",
-   "ts": 1793479962,
+   "id": "07c08322b6aa6289",
+   "ts": 1793561255,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse America First Congressman, John James, who is running to become the next Governor of the Beautiful State of Michigan! A West Point Graduate, Combat Pilot, Brave Iraq War Veteran, Successful Businessman and Job Creator, and now, as a Highly Respecte",
-   "url": "https://truthsocial.com/@realDonaldTrump/117537502814993710",
+   "title": "It is my Great Honor to endorse \"MAGA\" Mayes Middleton, who is running to be the next Attorney General of the Wonderful State of Texas, a place I love and WON BIG three times, including with 6.4 Million Votes in 2024 (The most Votes in History, BY FAR)! As a 7th Generation Texan,",
+   "url": "https://truthsocial.com/@realDonaldTrump/117542830409841130",
    "domain": "truthsocial.com",
    "tags": [
     "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 2320
+   "score": 2199
   },
   {
    "id": "2fab275d82a52f98",
@@ -203,69 +236,37 @@
    "score": 2199
   },
   {
-   "id": "c1a1c8c622ae0dde",
-   "ts": 1793479951,
+   "id": "f385795492e29215",
+   "ts": 1793561239,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Jack Bergman is a Tremendous Champion for the Great People of Michigan's 1st Congressional District! A retired Lieutenant General of the U.S. Marine Corps, Jack bravely served our Nation in combat, and continues to make our Country proud in Congress. Jack is fighting ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117537502084587758",
+   "title": "Don Huffines is a MAGA Warrior — He has been with me from the very beginning, and is running for Comptroller of Public Accounts in Texas, which I love and WON BIG in 2016, 2020, and 2024, getting the highest vote in the State's History. As a successful Businessman, Don knows the ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117542829364549863",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 2089
+   "score": 2043
   },
   {
-   "id": "e773d39e3952d4f1",
-   "ts": 1793546497,
+   "id": "112a024aee839b7c",
+   "ts": 1793561230,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Tracey Mann is an incredible Representative for the wonderful people of Kansas' \"Big First\" Congressional District! A fifth generation Farmer, Tracey is a strong and effective Voice for American Agriculture. In Congress, he is fighting tirelessly to Cut Taxes and Regu",
-   "url": "https://truthsocial.com/@realDonaldTrump/117541863279659655",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1974
-  },
-  {
-   "id": "4c4341751a2b1fec",
-   "ts": 1793479943,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Congressman John Moolenaar is an incredible Representative for the fantastic people of Michigan's 2nd Congressional District! As the Chairman of the Select Committee on the CCP, John is fighting tirelessly to put our Country's Interests, FIRST! He is working hard to Grow our Econ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117537501574514953",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1966
-  },
-  {
-   "id": "35aa0ab267b28432",
-   "ts": 1793546544,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse Ty Masterson, a fantastic Candidate running to be the next Governor of the Great State of Kansas, a place I love and WON BIG in 2016, 2020, and 2024! Ty will run on the Republican \"ticket\" with my friend, the Great U.S. Senator Roger Marshall, who,",
-   "url": "https://truthsocial.com/@realDonaldTrump/117541866339909379",
+   "title": "Dr. Dawn Buckingham is the strong and highly popular Land Commissioner for Texas, a place I love and WON BIG three times, including with 6.4 Million Votes in 2024, the most in History (BY FAR)! Dawn is a Ninth Generation Texan, successful Surgeon, avid Hunter, former State Senato",
+   "url": "https://truthsocial.com/@realDonaldTrump/117542828779415652",
    "domain": "truthsocial.com",
    "tags": [
     "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 1925
+   "score": 1998
   }
  ],
  "briefing_ts": 1790465772,
@@ -345,11 +346,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 238
+   "n": 275
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
