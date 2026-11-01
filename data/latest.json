@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-31T22:24:31Z",
- "generated_ts": 1793485471,
+ "generated_at": "2026-11-01T02:05:44Z",
+ "generated_ts": 1793498744,
  "prices": {
   "BTC": {
-   "p": 77482.0,
-   "o": 77204.3,
-   "h": 77636.1,
-   "l": 76651.0,
-   "v": 859.27137294
+   "p": 77684.9,
+   "o": 77437.1,
+   "h": 77742.8,
+   "l": 77000.0,
+   "v": 719.29784742
   },
   "ETH": {
-   "p": 2257.17,
-   "o": 2241.38,
-   "h": 2265.01,
-   "l": 2231.02,
-   "v": 6690.28385941
+   "p": 2268.76,
+   "o": 2252.37,
+   "h": 2272.0,
+   "l": 2233.75,
+   "v": 6483.38134651
   },
   "SOL": {
-   "p": 95.74,
-   "o": 96.17,
-   "h": 96.89,
-   "l": 95.05,
-   "v": 153912.06535763
+   "p": 95.63,
+   "o": 95.31,
+   "h": 96.84,
+   "l": 95.03,
+   "v": 129873.95821796
   }
  },
  "change_7d": {
-  "BTC": -0.03468916188445726,
-  "ETH": -0.036147516783692546,
-  "SOL": -0.05432098765432099
+  "BTC": -0.039671285900267785,
+  "ETH": -0.0400802876125869,
+  "SOL": -0.06682297772567412
  },
  "sentiment": {
-  "score": 40.5,
+  "score": 42.0,
   "label": "Fear",
   "components": {
-   "fng": 30.0,
-   "momentum": 41.327709528885684,
-   "crowding": 63.6875
+   "fng": 34.0,
+   "momentum": 40.082178524933056,
+   "crowding": 63.0086
   },
   "weights": {
    "fng": 0.35,
@@ -46,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 30,
+  "value": 34,
   "label": "Fear",
-  "ts": 1793404800
+  "ts": 1793491200
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3140685609.2598,
-   "premium": -0.0001288926
+   "oi_usd": 3141629891.2745996,
+   "premium": -0.0001285678
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2213312752.2770333,
-   "premium": -0.0004159642
+   "oi_usd": 2223211373.58258,
+   "premium": -0.0003081528
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 517714229.99170005,
-   "premium": -0.000187764
+   "funding_h": 1.064e-05,
+   "oi_usd": 556523728.54992,
+   "premium": -0.0004072044
   }
  },
- "items_24h": 156,
+ "items_24h": 125,
  "top_items": [
   {
    "id": "85d8f30e34956141",
@@ -103,23 +103,6 @@
    "score": 3932
   },
   {
-   "id": "2df7037b43dba90b",
-   "ts": 1793401274,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR:– Ken Paxton for U.S. Senate– Greg Abbott for Governor– Dan Patrick for Lieutenant Governor– Mayes Middleton for Attorney General– Don Huffines for Comptroller– Dawn Buckingham for Land Commissioner– Nathaniel Moran for U.S. Cong",
-   "url": "https://truthsocial.com/@realDonaldTrump/117532345934832213",
-   "domain": "truthsocial.com",
-   "tags": [
-    "institution",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3664
-  },
-  {
    "id": "f461ed5cd34cdd08",
    "ts": 1793480016,
    "source": "truth",
@@ -136,23 +119,6 @@
    "score": 3359
   },
   {
-   "id": "3212ffc0afbc486c",
-   "ts": 1793401258,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton, an America First Patriot, and someone who has always been extremely loyal to me and our AMAZING MAGA MOVEMENT, who is running for the United States Senate, to represent a place I love and ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117532344875423035",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2866
-  },
-  {
    "id": "f96a15470abcb55b",
    "ts": 1793476323,
    "source": "truth",
@@ -167,22 +133,6 @@
    ],
    "author": "Donald Trump",
    "score": 2718
-  },
-  {
-   "id": "8e64dfd372d211bc",
-   "ts": 1793401249,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Greg Abbott is the strong and highly respected Governor of Texas, a State I love and WON BIG three times, including with 6.4 Million Votes in 2024 (The most Votes in History, BY FAR)! As Governor, Greg is also fighting tirelessly to Champion Texas Values, Grow the Economy, Cut Ta",
-   "url": "https://truthsocial.com/@realDonaldTrump/117532344274879590",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2541
   },
   {
    "id": "4673cdfdd6d5d292",
@@ -202,22 +152,6 @@
    "score": 2485
   },
   {
-   "id": "4c11590b4abdd7d0",
-   "ts": 1793401241,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election! As Texas Chair of our Presidential Campaigns in 2016, 2020, and 2024, Dan has been an incredible friend to our Movement, helping us WIN BIG in the Primaries and General Elections. In his nex",
-   "url": "https://truthsocial.com/@realDonaldTrump/117532343779381536",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2429
-  },
-  {
    "id": "2cc34afcd499d16a",
    "ts": 1793479962,
    "source": "truth",
@@ -235,37 +169,100 @@
    "score": 2320
   },
   {
-   "id": "c87bf472fa39848e",
-   "ts": 1793401232,
+   "id": "c1a1c8c622ae0dde",
+   "ts": 1793479951,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse \"MAGA\" Mayes Middleton, who is running to be the next Attorney General of the Wonderful State of Texas, a place I love and WON BIG three times, including with 6.4 Million Votes in 2024 (The most Votes in History, BY FAR)! As a 7th Generation Texan,",
-   "url": "https://truthsocial.com/@realDonaldTrump/117532343202592124",
+   "title": "Congressman Jack Bergman is a Tremendous Champion for the Great People of Michigan's 1st Congressional District! A retired Lieutenant General of the U.S. Marine Corps, Jack bravely served our Nation in combat, and continues to make our Country proud in Congress. Jack is fighting ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117537502084587758",
    "domain": "truthsocial.com",
    "tags": [
-    "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 2209
+   "score": 2089
   },
   {
-   "id": "e4c5ec1c41a2676c",
-   "ts": 1793401224,
+   "id": "4c4341751a2b1fec",
+   "ts": 1793479943,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Don Huffines is a MAGA Warrior — He has been with me from the very beginning, and is running for Comptroller of Public Accounts in Texas, which I love and WON BIG in 2016, 2020, and 2024, getting the highest vote in the State's History. As a successful Businessman, Don knows the ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117532342635483426",
+   "title": "Congressman John Moolenaar is an incredible Representative for the fantastic people of Michigan's 2nd Congressional District! As the Chairman of the Select Committee on the CCP, John is fighting tirelessly to put our Country's Interests, FIRST! He is working hard to Grow our Econ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117537501574514953",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 2103
+   "score": 1966
+  },
+  {
+   "id": "b5a4251baf3cb5fd",
+   "ts": 1793479933,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congressman Bill Huizenga is a Tremendous Champion, and Highly Effective Representative, for the incredible people of Michigan's 4th Congressional District! As a very successful Small Businessman, and Vice Chair of the House Financial Services Committee, Bill knows the America Fi",
+   "url": "https://truthsocial.com/@realDonaldTrump/117537500931561828",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1876
+  },
+  {
+   "id": "0c13ea0042879975",
+   "ts": 1793479924,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congressman Tim Walberg is an incredible Representative of Michigan's 5th Congressional District! As Chair of the House Education Committee, Tim is working hard to Advance School Choice, Deliver the Best Education Solutions for our Children, and Defend Parental Rights. Tim is als",
+   "url": "https://truthsocial.com/@realDonaldTrump/117537500328371936",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1855
+  },
+  {
+   "id": "e3910881d691f16f",
+   "ts": 1793479915,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congressman Tom Barrett is an incredible Representative for the Wonderful People of Michigan's 7th Congressional District! Tom bravely served our Country as an Army Helicopter Pilot and, in Congress, he is fighting hard to Grow our Economy, Cut Taxes, Keep our Border SECURE, Supp",
+   "url": "https://truthsocial.com/@realDonaldTrump/117537499730390947",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1821
+  },
+  {
+   "id": "dd0863e9a9b47c62",
+   "ts": 1793479900,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congresswoman Lisa McClain is a Fantastic Advocate for the Great People of Michigan's 9th Congressional District! As the Chair of the House Republican Conference, Lisa is doing a truly fantastic job advancing our America First Agenda. She is working tirelessly to Grow our Economy",
+   "url": "https://truthsocial.com/@realDonaldTrump/117537498744192643",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 1792
   }
  ],
  "briefing_ts": 1790465772,
@@ -321,7 +318,7 @@
   },
   "BIS": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "Strategy (MSTR) filings": {
    "ok": true,
@@ -349,7 +346,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 23
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
