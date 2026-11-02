@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-11-02T07:34:46Z",
- "generated_ts": 1793604886,
+ "generated_at": "2026-11-02T18:11:34Z",
+ "generated_ts": 1793643094,
  "prices": {
   "BTC": {
-   "p": 77974.7,
+   "p": 77205.3,
    "o": 78239.2,
    "h": 78739.7,
-   "l": 77511.0,
-   "v": 1095.72539635
+   "l": 76712.9,
+   "v": 1645.56238054
   },
   "ETH": {
-   "p": 2278.45,
+   "p": 2262.34,
    "o": 2272.34,
    "h": 2314.32,
-   "l": 2245.34,
-   "v": 11721.38182257
+   "l": 2241.53,
+   "v": 15273.01607275
   },
   "SOL": {
-   "p": 94.24,
+   "p": 92.37,
    "o": 94.4,
-   "h": 95.79,
-   "l": 93.08,
-   "v": 194858.6732916
+   "h": 95.77,
+   "l": 91.46,
+   "v": 231956.98180527
   }
  },
  "change_7d": {
-  "BTC": -0.024541068236647014,
-  "ETH": -0.014940316413633532,
-  "SOL": -0.06532513877874692
+  "BTC": -0.03951046535667547,
+  "ETH": -0.028623957494628708,
+  "SOL": -0.09077439747135518
  },
  "sentiment": {
-  "score": 44.7,
+  "score": 43.6,
   "label": "Fear",
   "components": {
    "fng": 37.0,
-   "momentum": 43.864732940838245,
+   "momentum": 40.12238366083113,
    "crowding": 63.6875
   },
   "weights": {
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3118554486.98658,
-   "premium": -0.0003943672
+   "oi_usd": 3169665707.14252,
+   "premium": -0.0003078005
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2245502337.831519,
-   "premium": -0.0003068022
+   "oi_usd": 2226545338.44456,
+   "premium": -0.000406034
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 530426222.26433,
-   "premium": -0.0002649007
+   "oi_usd": 520748074.1441002,
+   "premium": -0.0005405405
   }
  },
- "items_24h": 88,
+ "items_24h": 133,
  "top_items": [
   {
    "id": "1569bb3e8d781c49",
@@ -136,6 +136,22 @@
    "score": 3139
   },
   {
+   "id": "cbfa7fd648d5aa7f",
+   "ts": 1793637607,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "TO THE GREAT PEOPLE OF NORTH CAROLINA, GET OUT AND VOTE FOR:– Michael Whatley for U.S. Senate– Laurie Buckhout for U.S. Congress (NC-01)– Greg Murphy for U.S. Congress (NC-03)– Virginia Foxx for U.S. Congress (NC-05)– Addison McDowell for U.S. Congress (NC-06)– David Rouzer for U",
+   "url": "https://truthsocial.com/@realDonaldTrump/117547834243669741",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3056
+  },
+  {
    "id": "1d50b8710ecfce5c",
    "ts": 1793561289,
    "source": "truth",
@@ -151,6 +167,55 @@
    ],
    "author": "Donald Trump",
    "score": 2935
+  },
+  {
+   "id": "33739b1627295b54",
+   "ts": 1793635327,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congressman Tom Kean is a Great Representative for the People of New Jersey's 7th Congressional District! A Tremendous Advocate of our America First Agenda, Tom is working tirelessly to Keep our Border SECURE, Stop Migrant Crime, Grow our Economy, Cut Taxes and Regulations, Champ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117547684834396397",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2751
+  },
+  {
+   "id": "17e08aeb52ccff3d",
+   "ts": 1793637569,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "It is my Great Honor to endorse America First Patriot, Michael Whatley, who is running for the United States Senate in the Great State of North Carolina, which I love and WON BIG, six times, including Primaries, in 2016, 2020, and 2024! Michael is fantastic at everything he does,",
+   "url": "https://truthsocial.com/@realDonaldTrump/117547831732392557",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2684
+  },
+  {
+   "id": "e9fd949632f5ca35",
+   "ts": 1793635196,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Congressman Brad Finstad is a tremendous Representative of Minnesota's 1st Congressional District! A Fourth Generation Family Farmer, and Senior Member of the House Agriculture Committee, Brad is a strong and effective voice for our amazing Farmers and Ranchers. His opponent, Jak",
+   "url": "https://truthsocial.com/@realDonaldTrump/117547676252947847",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2612
   },
   {
    "id": "72ce57a3dc0b181a",
@@ -169,6 +234,22 @@
    "score": 2587
   },
   {
+   "id": "0fbf52673d32329b",
+   "ts": 1793635137,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "TO THE GREAT PEOPLE OF NEW YORK, GET OUT AND VOTE FOR:– Bruce Blakeman for Governor– Saritha Komatireddy for Attorney General– Nick LaLota for U.S. Congress (NY-01)– Andrew Garbarino for U.S. Congress (NY-02)– Mike LiPetri for U.S. Congress (NY-03)– Jeanine Driscoll for U.S. Cong",
+   "url": "https://truthsocial.com/@realDonaldTrump/117547672382503691",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2428
+  },
+  {
    "id": "4df0e06370a2d479",
    "ts": 1793561267,
    "source": "truth",
@@ -183,90 +264,6 @@
    ],
    "author": "Donald Trump",
    "score": 2421
-  },
-  {
-   "id": "2629ca54ab02bc65",
-   "ts": 1793548159,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117541971048661320TO THE GREAT PEOPLE OF IOWA, GET OUT AND VOTE FOR:– Ashley Hinson for U.S. Senate– Zach Lahn for Governor– Brenna Bird for Attorney General– Mariannette Miller-Meeks for U.S. Congress (IA-01)– Joe Mitche",
-   "url": "https://truthsocial.com/@realDonaldTrump/117541972192882658",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2376
-  },
-  {
-   "id": "07c08322b6aa6289",
-   "ts": 1793561255,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse \"MAGA\" Mayes Middleton, who is running to be the next Attorney General of the Wonderful State of Texas, a place I love and WON BIG three times, including with 6.4 Million Votes in 2024 (The most Votes in History, BY FAR)! As a 7th Generation Texan,",
-   "url": "https://truthsocial.com/@realDonaldTrump/117542830409841130",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2199
-  },
-  {
-   "id": "2fab275d82a52f98",
-   "ts": 1793546595,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Senator Roger Marshall is one of the Best Senators in the United States of America. He loves Kansas more than anyone, with the possible exception of me! Roger is all that stands between the people of Kansas and Communists controlling the United States Senate. His opponent, Adam H",
-   "url": "https://truthsocial.com/@realDonaldTrump/117541869662412381",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro",
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2199
-  },
-  {
-   "id": "f385795492e29215",
-   "ts": 1793561239,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Don Huffines is a MAGA Warrior — He has been with me from the very beginning, and is running for Comptroller of Public Accounts in Texas, which I love and WON BIG in 2016, 2020, and 2024, getting the highest vote in the State's History. As a successful Businessman, Don knows the ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117542829364549863",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2043
-  },
-  {
-   "id": "112a024aee839b7c",
-   "ts": 1793561230,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Dr. Dawn Buckingham is the strong and highly popular Land Commissioner for Texas, a place I love and WON BIG three times, including with 6.4 Million Votes in 2024, the most in History (BY FAR)! Dawn is a Ninth Generation Texan, successful Surgeon, avid Hunter, former State Senato",
-   "url": "https://truthsocial.com/@realDonaldTrump/117542828779415652",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 1998
   }
  ],
  "briefing_ts": 1790465772,
@@ -289,7 +286,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 16
+   "n": 14
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -302,7 +299,7 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 5
+   "n": 4
   },
   "Federal Reserve": {
    "ok": true,
@@ -322,7 +319,7 @@
   },
   "BIS": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "Strategy (MSTR) filings": {
    "ok": true,
@@ -342,15 +339,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 39
+   "n": 40
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 270
+   "n": 299
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
