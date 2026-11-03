@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-03T17:42:13Z",
- "generated_ts": 1793727733,
+ "generated_at": "2026-11-03T23:12:10Z",
+ "generated_ts": 1793747530,
  "prices": {
   "BTC": {
-   "p": 77608.2,
+   "p": 77740.2,
    "o": 76676.8,
-   "h": 77750.7,
+   "h": 77969.8,
    "l": 76254.4,
-   "v": 2940.66156594
+   "v": 2210.21070813
   },
   "ETH": {
-   "p": 2293.04,
+   "p": 2288.22,
    "o": 2249.46,
    "h": 2304.6,
-   "l": 2233.51,
-   "v": 17283.09190327
+   "l": 2237.46,
+   "v": 17524.09454198
   },
   "SOL": {
-   "p": 93.28,
+   "p": 93.23,
    "o": 91.83,
-   "h": 93.75,
-   "l": 90.71,
-   "v": 301325.94758044
+   "h": 93.83,
+   "l": 91.09,
+   "v": 224062.81277039
   }
  },
  "change_7d": {
-  "BTC": -0.036225619341454185,
-  "ETH": -0.02256068214439339,
-  "SOL": -0.07442275294817155
+  "BTC": -0.037293620672348066,
+  "ETH": -0.024240513609195245,
+  "SOL": -0.07669499901166243
  },
  "sentiment": {
-  "score": 38.1,
+  "score": 38.3,
   "label": "Fear",
   "components": {
    "fng": 26.0,
-   "momentum": 40.943595164636456,
-   "crowding": 62.552094499999995
+   "momentum": 40.676594831912986,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -54,22 +54,39 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3187983201.91594,
-   "premium": -0.0002445114
+   "oi_usd": 3246476552.35536,
+   "premium": -0.0001901422
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2285777023.5020404,
-   "premium": -0.0002003606
+   "oi_usd": 2313328325.216,
+   "premium": -0.0001571531
   },
   "SOL": {
-   "funding_h": 9.3893e-06,
-   "oi_usd": 533785980.9216198,
-   "premium": -0.0003876002
+   "funding_h": 1.25e-05,
+   "oi_usd": 555000092.47768,
+   "premium": 2.35665e-05
   }
  },
- "items_24h": 289,
+ "items_24h": 250,
  "top_items": [
+  {
+   "id": "bf838403dad13c96",
+   "ts": 1793734724,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The Jewish community in Monsey, New York, and its surrounding neighborhoods, voted in very big numbers for me in our Historic 2024 Presidential Campaign. TREMENDOUS SUPPORT! TODAY, the eyes of the Country are on New York again! Congressman Mike Lawler has been a tremendous friend",
+   "url": "https://truthsocial.com/@realDonaldTrump/117554198887656582",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 10462
+  },
   {
    "id": "2d628afe45505bde",
    "ts": 1793714086,
@@ -101,22 +118,6 @@
    ],
    "author": "Donald Trump",
    "score": 6084
-  },
-  {
-   "id": "5e0dfc102bbd630e",
-   "ts": 1793652390,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Oil Prices are DROPPING LIKE A ROCK, down almost $10 a Barrel, A RECORD, because people feel that there will not be a War with Iran. Iran wants a settlement, as soon as possible. It could happen! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117548803071800973",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 5880
   },
   {
    "id": "b6f7389416071d07",
@@ -283,7 +284,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 16
+   "n": 22
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -296,7 +297,7 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 4
+   "n": 2
   },
   "Federal Reserve": {
    "ok": true,
@@ -344,12 +345,11 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 19
   },
   "Reddit r/Bitcoin": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 24
   }
  }
 }
