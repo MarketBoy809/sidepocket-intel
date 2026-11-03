@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-02T18:11:34Z",
- "generated_ts": 1793643094,
+ "generated_at": "2026-11-03T01:30:31Z",
+ "generated_ts": 1793669431,
  "prices": {
   "BTC": {
-   "p": 77205.3,
-   "o": 78239.2,
+   "p": 77163.6,
+   "o": 76676.8,
    "h": 78739.7,
-   "l": 76712.9,
-   "v": 1645.56238054
+   "l": 76537.6,
+   "v": 2550.28467415
   },
   "ETH": {
-   "p": 2262.34,
-   "o": 2272.34,
+   "p": 2258.08,
+   "o": 2249.46,
    "h": 2314.32,
-   "l": 2241.53,
-   "v": 15273.01607275
+   "l": 2233.51,
+   "v": 14717.8327537
   },
   "SOL": {
-   "p": 92.37,
-   "o": 94.4,
+   "p": 92.35,
+   "o": 91.83,
    "h": 95.77,
-   "l": 91.46,
-   "v": 231956.98180527
+   "l": 90.71,
+   "v": 312359.59860837
   }
  },
  "change_7d": {
-  "BTC": -0.03951046535667547,
-  "ETH": -0.028623957494628708,
-  "SOL": -0.09077439747135518
+  "BTC": -0.03850524913783919,
+  "ETH": -0.029360357490335307,
+  "SOL": -0.08373063170441007
  },
  "sentiment": {
-  "score": 43.6,
+  "score": 38.1,
   "label": "Fear",
   "components": {
-   "fng": 37.0,
-   "momentum": 40.12238366083113,
-   "crowding": 63.6875
+   "fng": 26.0,
+   "momentum": 40.3736877155402,
+   "crowding": 63.190552499999995
   },
   "weights": {
    "fng": 0.35,
@@ -46,94 +46,79 @@
   }
  },
  "fear_greed": {
-  "value": 37,
+  "value": 26,
   "label": "Fear",
-  "ts": 1793577600
+  "ts": 1793664000
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3169665707.14252,
-   "premium": -0.0003078005
+   "oi_usd": 3182512886.0956397,
+   "premium": -6.47073e-05
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2226545338.44456,
-   "premium": -0.000406034
+   "oi_usd": 2172675455.862,
+   "premium": -8.8433e-05
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 520748074.1441002,
-   "premium": -0.0005405405
+   "funding_h": 1.11385e-05,
+   "oi_usd": 517522764.63629997,
+   "premium": -0.0003892523
   }
  },
- "items_24h": 133,
+ "items_24h": 194,
  "top_items": [
   {
-   "id": "1569bb3e8d781c49",
-   "ts": 1793558334,
+   "id": "5e0dfc102bbd630e",
+   "ts": 1793652390,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has been breathlessly wined and dined by the Dumocrats to help in their Michigan Campaign for the United States Senate against Mike Roge",
-   "url": "https://truthsocial.com/@realDonaldTrump/117542639036452664",
+   "title": "Oil Prices are DROPPING LIKE A ROCK, down almost $10 a Barrel, A RECORD, because people feel that there will not be a War with Iran. Iran wants a settlement, as soon as possible. It could happen! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117548803071800973",
    "domain": "truthsocial.com",
    "tags": [
-    "regulation"
+    "geo"
    ],
    "author": "Donald Trump",
-   "score": 18330
+   "score": 5880
   },
   {
-   "id": "16ecc97682e65fac",
-   "ts": 1793561355,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The Fake Daniel J. Sullivan, Jr., has DISAPPEARED! Nobody can find him, including Law Enforcement. He knows that he committed a Criminal Act, but he also knows that there are those around him who, in a certain way, were far worse, like Lawyer Marc Elias, and Liberal Radical Left ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117542836979977717",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 9726
-  },
-  {
-   "id": "53ead674af30129f",
-   "ts": 1793561341,
+   "id": "6b93f6cde3c41234",
+   "ts": 1793661371,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
    "title": "TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR:– Ken Paxton for U.S. Senate– Greg Abbott for Governor– Dan Patrick for Lieutenant Governor– Mayes Middleton for Attorney General– Don Huffines for Comptroller– Dawn Buckingham for Land Commissioner– Nathaniel Moran for U.S. Cong",
-   "url": "https://truthsocial.com/@realDonaldTrump/117542836089265376",
+   "url": "https://truthsocial.com/@realDonaldTrump/117549391621954717",
    "domain": "truthsocial.com",
    "tags": [
     "institution",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 3554
+   "score": 3466
   },
   {
-   "id": "6b95ffb9629a83a3",
-   "ts": 1793558283,
+   "id": "e76cb4903b402dca",
+   "ts": 1793661342,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Heading to lowa, and then, so importantly, Kansas (Will be my last stop!), to make sure our Great Patriots get out and vote for truly incredible Candidates, Ashley Hinson for Senate and Zach Lahn for Governor in lowa, and Roger Marshall for Senate and Ty Masterson for Governor in",
-   "url": "https://truthsocial.com/@realDonaldTrump/117542635687363113",
+   "title": "It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton, an America First Patriot, and someone who has always been extremely loyal to me and our AMAZING MAGA MOVEMENT, who is running for the United States Senate, to represent a place I love and ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117549389721806479",
    "domain": "truthsocial.com",
    "tags": [
+    "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 3139
+   "score": 3083
   },
   {
    "id": "cbfa7fd648d5aa7f",
@@ -152,21 +137,52 @@
    "score": 3056
   },
   {
-   "id": "1d50b8710ecfce5c",
-   "ts": 1793561289,
+   "id": "06c7e2b7c2a101d0",
+   "ts": 1793655137,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton, an America First Patriot, and someone who has always been extremely loyal to me and our AMAZING MAGA MOVEMENT, who is running for the United States Senate, to represent a place I love and ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117542832649607144",
+   "title": "TO THE GREAT PEOPLE OF GEORGIA, GET OUT AND VOTE FOR:– Mike Collins for U.S. Senate– Rick Jackson for Governor– Greg Dolezal for Lieutenant Governor– Brian Strickland for Attorney General– Tim Fleming for Secretary of State– Jim Kingston for U.S. Congress (GA-01)– Brian Jack for ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117548983085038041",
    "domain": "truthsocial.com",
    "tags": [
-    "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 2935
+   "score": 3015
+  },
+  {
+   "id": "1a94ce89078e1245",
+   "ts": 1793654916,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I am pleased to inform you that I will be doing the Great Sean Hannity Show tonight at 9 PM ET. This is the Golden Age of America with 25 Trillion Dollars of Growth and Wealth being created just since my Election — A very short period of time. There has never been anything like i",
+   "url": "https://truthsocial.com/@realDonaldTrump/117548968575947811",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro"
+   ],
+   "author": "Donald Trump",
+   "score": 3001
+  },
+  {
+   "id": "d22383a9d28d408e",
+   "ts": 1793651302,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "TO THE GREAT PEOPLE OF SOUTH CAROLINA, GET OUT AND VOTE FOR:– Darline Graham for U.S. Senate– Alan Wilson for Governor– Cody Simpson for Agriculture Commissioner– Jenny Costa Honeycutt for U.S. Congress (SC-01)– Joe Wilson for U.S. Congress (SC-02)– Sheri Biggs for U.S. Congress ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117548731761734326",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2840
   },
   {
    "id": "33739b1627295b54",
@@ -183,6 +199,22 @@
    ],
    "author": "Donald Trump",
    "score": 2751
+  },
+  {
+   "id": "e4897be5cbd376a1",
+   "ts": 1793661328,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Greg Abbott is the strong and highly respected Governor of Texas, a State I love and WON BIG three times, including with 6.4 Million Votes in 2024 (The most Votes in History, BY FAR)! As Governor, Greg is also fighting tirelessly to Champion Texas Values, Grow the Economy, Cut Ta",
+   "url": "https://truthsocial.com/@realDonaldTrump/117549388831184572",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2699
   },
   {
    "id": "17e08aeb52ccff3d",
@@ -218,52 +250,21 @@
    "score": 2612
   },
   {
-   "id": "72ce57a3dc0b181a",
-   "ts": 1793561277,
+   "id": "f01e552279c67517",
+   "ts": 1793655117,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Greg Abbott is the strong and highly respected Governor of Texas, a State I love and WON BIG three times, including with 6.4 Million Votes in 2024 (The most Votes in History, BY FAR)! As Governor, Greg is also fighting tirelessly to Champion Texas Values, Grow the Economy, Cut Ta",
-   "url": "https://truthsocial.com/@realDonaldTrump/117542831858109940",
+   "title": "It is my Great Honor to endorse \"MAGA\" Mike Collins, a Highly Respected Congressman who has been with me from the very beginning, and is running for the United States Senate in Georgia, a very special place to me, and where we just had a BIG Presidential Election Win with the Mos",
+   "url": "https://truthsocial.com/@realDonaldTrump/117548981791269542",
    "domain": "truthsocial.com",
    "tags": [
+    "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 2587
-  },
-  {
-   "id": "0fbf52673d32329b",
-   "ts": 1793635137,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "TO THE GREAT PEOPLE OF NEW YORK, GET OUT AND VOTE FOR:– Bruce Blakeman for Governor– Saritha Komatireddy for Attorney General– Nick LaLota for U.S. Congress (NY-01)– Andrew Garbarino for U.S. Congress (NY-02)– Mike LiPetri for U.S. Congress (NY-03)– Jeanine Driscoll for U.S. Cong",
-   "url": "https://truthsocial.com/@realDonaldTrump/117547672382503691",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2428
-  },
-  {
-   "id": "4df0e06370a2d479",
-   "ts": 1793561267,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I am proud to once again endorse Texas Lieutenant Governor, Dan Patrick, for Re-Election! As Texas Chair of our Presidential Campaigns in 2016, 2020, and 2024, Dan has been an incredible friend to our Movement, helping us WIN BIG in the Primaries and General Elections. In his nex",
-   "url": "https://truthsocial.com/@realDonaldTrump/117542831198371222",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2421
+   "score": 2537
   }
  ],
  "briefing_ts": 1790465772,
@@ -286,7 +287,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -307,7 +308,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "Bank of England": {
    "ok": true,
@@ -315,7 +316,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 12
+   "n": 11
   },
   "BIS": {
    "ok": true,
@@ -339,15 +340,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 40
+   "n": 39
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 299
+   "n": 352
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
