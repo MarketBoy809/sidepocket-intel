@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-03T01:30:31Z",
- "generated_ts": 1793669431,
+ "generated_at": "2026-11-03T09:25:47Z",
+ "generated_ts": 1793697947,
  "prices": {
   "BTC": {
-   "p": 77163.6,
+   "p": 76704.4,
    "o": 76676.8,
-   "h": 78739.7,
-   "l": 76537.6,
-   "v": 2550.28467415
+   "h": 78106.3,
+   "l": 76254.4,
+   "v": 2824.41821212
   },
   "ETH": {
-   "p": 2258.08,
+   "p": 2259.74,
    "o": 2249.46,
-   "h": 2314.32,
+   "h": 2300.0,
    "l": 2233.51,
-   "v": 14717.8327537
+   "v": 15005.92626893
   },
   "SOL": {
-   "p": 92.35,
+   "p": 92.05,
    "o": 91.83,
-   "h": 95.77,
+   "h": 94.8,
    "l": 90.71,
-   "v": 312359.59860837
+   "v": 320387.4152103
   }
  },
  "change_7d": {
-  "BTC": -0.03850524913783919,
-  "ETH": -0.029360357490335307,
-  "SOL": -0.08373063170441007
+  "BTC": -0.04049881513719463,
+  "ETH": -0.02440112047728528,
+  "SOL": -0.08008419364538434
  },
  "sentiment": {
-  "score": 38.1,
+  "score": 38.0,
   "label": "Fear",
   "components": {
    "fng": 26.0,
-   "momentum": 40.3736877155402,
-   "crowding": 63.190552499999995
+   "momentum": 39.87529621570134,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3182512886.0956397,
-   "premium": -6.47073e-05
+   "oi_usd": 3071060935.9374,
+   "premium": -0.0003266736
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2172675455.862,
-   "premium": -8.8433e-05
+   "oi_usd": 2247583075.9804397,
+   "premium": -0.0002032466
   },
   "SOL": {
-   "funding_h": 1.11385e-05,
-   "oi_usd": 517522764.63629997,
-   "premium": -0.0003892523
+   "funding_h": 1.25e-05,
+   "oi_usd": 512729535.16642004,
+   "premium": -0.000459793
   }
  },
- "items_24h": 194,
+ "items_24h": 196,
  "top_items": [
   {
    "id": "5e0dfc102bbd630e",
@@ -85,6 +85,22 @@
    ],
    "author": "Donald Trump",
    "score": 5880
+  },
+  {
+   "id": "87d2ca4667ae9afe",
+   "ts": 1793685127,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Abdul El-Sayed Hates Jews and Hates Blacks. Don't feel bad, he also Hates Whites. Only fools would vote for him in the Michigan race for the U.S. Senate! He will, 100%, do you in! VOTE FOR MIKE ROGERS. President DJT",
+   "url": "https://truthsocial.com/@realDonaldTrump/117550948508562189",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 4985
   },
   {
    "id": "6b93f6cde3c41234",
@@ -248,23 +264,6 @@
    ],
    "author": "Donald Trump",
    "score": 2612
-  },
-  {
-   "id": "f01e552279c67517",
-   "ts": 1793655117,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse \"MAGA\" Mike Collins, a Highly Respected Congressman who has been with me from the very beginning, and is running for the United States Senate in Georgia, a very special place to me, and where we just had a BIG Presidential Election Win with the Mos",
-   "url": "https://truthsocial.com/@realDonaldTrump/117548981791269542",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2537
   }
  ],
  "briefing_ts": 1790465772,
@@ -316,7 +315,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 11
+   "n": 10
   },
   "BIS": {
    "ok": true,
@@ -344,11 +343,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 352
+   "n": 353
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 21
   },
   "Reddit r/Bitcoin": {
    "ok": false,
