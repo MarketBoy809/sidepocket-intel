@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-02T18:16:09Z",
- "generated_ts": 1793643369,
- "items_analysed": 16141,
+ "generated_at": "2026-11-03T17:47:40Z",
+ "generated_ts": 1793728060,
+ "items_analysed": 16428,
  "insights": [
   "BTC: 26 sharp dips in the stored history; buying at the trigger got +1.5% back within 14 days in 92.3% of cases (median 5.0 h), 80.8% within 24 h. Typical extra drop after the trigger: -0.8%.",
   "BTC dips during fear: recovered 90.5% of the time (n=21).",
@@ -12,11 +12,11 @@
   "SOL: 130 sharp dips in the stored history; buying at the trigger got +1.5% back within 14 days in 93.8% of cases (median 3.0 h), 83.1% within 24 h. Typical extra drop after the trigger: -0.3%.",
   "SOL dips during fear: recovered 93.9% of the time (n=66).",
   "SOL dips during greed: recovered 93.6% of the time (n=47).",
-  "Precursor: combo 'Donald Trump (Truth Social) · inflation/CPI' was followed by a BTC dip within 6h 3.9% of the time vs 0.9% by chance (lift 4.43x, n=76, held in both halves of the data).",
-  "After Donald Trump (Truth Social) items (n=4454): BTC median move -0.01% in 4h, big (2%+) moves 5.2% of the time.",
-  "After Cointelegraph items (n=682): BTC median move -0.01% in 4h, big (2%+) moves 4.1% of the time.",
-  "After CoinDesk items (n=626): BTC median move 0.03% in 4h, big (2%+) moves 3.4% of the time.",
-  "After Decrypt items (n=527): BTC median move -0.02% in 4h, big (2%+) moves 3.4% of the time.",
-  "Today's market state most resembles 2025-11-01, 2025-04-01, 2020-07-05; 30 days after those days BTC's median move was 5.2% (up in 60.0% of them)."
+  "Precursor: combo 'Donald Trump (Truth Social) · inflation/CPI' was followed by a BTC dip within 6h 4.0% of the time vs 0.9% by chance (lift 4.49x, n=75, held in both halves of the data).",
+  "After Donald Trump (Truth Social) items (n=4506): BTC median move -0.0% in 4h, big (2%+) moves 5.1% of the time.",
+  "After Cointelegraph items (n=698): BTC median move -0.01% in 4h, big (2%+) moves 4.0% of the time.",
+  "After CoinDesk items (n=647): BTC median move -0.01% in 4h, big (2%+) moves 3.2% of the time.",
+  "After Decrypt items (n=532): BTC median move -0.02% in 4h, big (2%+) moves 3.4% of the time.",
+  "Today's market state most resembles 2025-11-02, 2024-06-27, 2025-08-30; 30 days after those days BTC's median move was 10.1% (up in 70.0% of them)."
  ]
 }

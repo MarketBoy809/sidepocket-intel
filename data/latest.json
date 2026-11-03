@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-03T09:25:47Z",
- "generated_ts": 1793697947,
+ "generated_at": "2026-11-03T17:42:13Z",
+ "generated_ts": 1793727733,
  "prices": {
   "BTC": {
-   "p": 76704.4,
+   "p": 77608.2,
    "o": 76676.8,
-   "h": 78106.3,
+   "h": 77750.7,
    "l": 76254.4,
-   "v": 2824.41821212
+   "v": 2940.66156594
   },
   "ETH": {
-   "p": 2259.74,
+   "p": 2293.04,
    "o": 2249.46,
-   "h": 2300.0,
+   "h": 2304.6,
    "l": 2233.51,
-   "v": 15005.92626893
+   "v": 17283.09190327
   },
   "SOL": {
-   "p": 92.05,
+   "p": 93.28,
    "o": 91.83,
-   "h": 94.8,
+   "h": 93.75,
    "l": 90.71,
-   "v": 320387.4152103
+   "v": 301325.94758044
   }
  },
  "change_7d": {
-  "BTC": -0.04049881513719463,
-  "ETH": -0.02440112047728528,
-  "SOL": -0.08008419364538434
+  "BTC": -0.036225619341454185,
+  "ETH": -0.02256068214439339,
+  "SOL": -0.07442275294817155
  },
  "sentiment": {
-  "score": 38.0,
+  "score": 38.1,
   "label": "Fear",
   "components": {
    "fng": 26.0,
-   "momentum": 39.87529621570134,
-   "crowding": 63.6875
+   "momentum": 40.943595164636456,
+   "crowding": 62.552094499999995
   },
   "weights": {
    "fng": 0.35,
@@ -54,22 +54,54 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3071060935.9374,
-   "premium": -0.0003266736
+   "oi_usd": 3187983201.91594,
+   "premium": -0.0002445114
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2247583075.9804397,
-   "premium": -0.0002032466
+   "oi_usd": 2285777023.5020404,
+   "premium": -0.0002003606
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 512729535.16642004,
-   "premium": -0.000459793
+   "funding_h": 9.3893e-06,
+   "oi_usd": 533785980.9216198,
+   "premium": -0.0003876002
   }
  },
- "items_24h": 196,
+ "items_24h": 289,
  "top_items": [
+  {
+   "id": "2d628afe45505bde",
+   "ts": 1793714086,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "TO THE GREAT PEOPLE OF ALABAMA, GET OUT AND VOTE FOR: – Barry Moore for U.S. Senate– Tommy Tuberville for Governor– John Wahl for Lieutenant Governor– Katherine Robertson for Attorney General– Jerry Carl for U.S. Congress (AL-01)– Rhett Marques for U.S. Congress (AL-02)– Mike Rog",
+   "url": "https://truthsocial.com/@realDonaldTrump/117552846369178812",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6597
+  },
+  {
+   "id": "b70414c49b3d09c3",
+   "ts": 1793714036,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "TO THE GREAT PEOPLE OF ALASKA, GET OUT AND VOTE FOR: – Dan S. Sullivan for U.S. Senate– Bernadette Wilson for Governor– Nick Begich for U.S. Congress (AK-AL) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMPswamp",
+   "url": "https://truthsocial.com/@realDonaldTrump/117552843109770094",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6084
+  },
   {
    "id": "5e0dfc102bbd630e",
    "ts": 1793652390,
@@ -85,6 +117,70 @@
    ],
    "author": "Donald Trump",
    "score": 5880
+  },
+  {
+   "id": "b6f7389416071d07",
+   "ts": 1793713355,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "TO THE GREAT PEOPLE OF FLORIDA, GET OUT AND VOTE FOR: – Ashley Moody for U.S. Senate– Byron Donalds for Governor– James Uthmeier for Attorney General– Wilton Simpson for Agriculture Commissioner– Jimmy Patronis for U.S. Congress (FL-01)– Austin Rogers for U.S. Congress (FL-02)– K",
+   "url": "https://truthsocial.com/@realDonaldTrump/117552798491034798",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 5515
+  },
+  {
+   "id": "b4d751354ca93d37",
+   "ts": 1793713890,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE FOR: – Steve Hilton for Governor– James Gallagher for U.S. Congress (CA-01)– Tom McClintock for U.S. Congress (CA-05)– Kevin Lincoln for U.S. Congress (CA-13)– Vince Fong for U.S. Congress (CA-20)– Jay Obernolte for U.S. Congres",
+   "url": "https://truthsocial.com/@realDonaldTrump/117552833526822724",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 5469
+  },
+  {
+   "id": "45b1643989ec25de",
+   "ts": 1793713966,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE FOR: – Andy Biggs for Governor– Warren Petersen for Attorney General– Alexander Kolodin for Secretary of State– Jay Feely for U.S. Congress (AZ-01)– Eli Crane for U.S. Congress (AZ-02)– Mark Lamb for U.S. Congress (AZ-05)– Juan Cis",
+   "url": "https://truthsocial.com/@realDonaldTrump/117552838497287142",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 5402
+  },
+  {
+   "id": "71cdfde0f5e2d53d",
+   "ts": 1793713325,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "TO THE GREAT PEOPLE OF GEORGIA, GET OUT AND VOTE FOR: – Mike Collins for U.S. Senate– Rick Jackson for Governor– Greg Dolezal for Lieutenant Governor– Brian Strickland for Attorney General– Tim Fleming for Secretary of State– Jim Kingston for U.S. Congress (GA-01)– Brian Jack for",
+   "url": "https://truthsocial.com/@realDonaldTrump/117552796496619021",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 5056
   },
   {
    "id": "87d2ca4667ae9afe",
@@ -103,167 +199,68 @@
    "score": 4985
   },
   {
-   "id": "6b93f6cde3c41234",
-   "ts": 1793661371,
+   "id": "010ee15a0f383756",
+   "ts": 1793713934,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE FOR:– Ken Paxton for U.S. Senate– Greg Abbott for Governor– Dan Patrick for Lieutenant Governor– Mayes Middleton for Attorney General– Don Huffines for Comptroller– Dawn Buckingham for Land Commissioner– Nathaniel Moran for U.S. Cong",
-   "url": "https://truthsocial.com/@realDonaldTrump/117549391621954717",
-   "domain": "truthsocial.com",
-   "tags": [
-    "institution",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3466
-  },
-  {
-   "id": "e76cb4903b402dca",
-   "ts": 1793661342,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton, an America First Patriot, and someone who has always been extremely loyal to me and our AMAZING MAGA MOVEMENT, who is running for the United States Senate, to represent a place I love and ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117549389721806479",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3083
-  },
-  {
-   "id": "cbfa7fd648d5aa7f",
-   "ts": 1793637607,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "TO THE GREAT PEOPLE OF NORTH CAROLINA, GET OUT AND VOTE FOR:– Michael Whatley for U.S. Senate– Laurie Buckhout for U.S. Congress (NC-01)– Greg Murphy for U.S. Congress (NC-03)– Virginia Foxx for U.S. Congress (NC-05)– Addison McDowell for U.S. Congress (NC-06)– David Rouzer for U",
-   "url": "https://truthsocial.com/@realDonaldTrump/117547834243669741",
+   "title": "TO THE GREAT PEOPLE OF ARKANSAS, GET OUT AND VOTE FOR: – Tom Cotton for U.S. Senate– Sarah Huckabee Sanders for Governor– Rick Crawford for U.S. Congress (AR-01)– French Hill for U.S. Congress (AR-02)– Steve Womack for U.S. Congress (AR-03)– Bruce Westerman for U.S. Congress (AR-",
+   "url": "https://truthsocial.com/@realDonaldTrump/117552836387969672",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 3056
+   "score": 4981
   },
   {
-   "id": "06c7e2b7c2a101d0",
-   "ts": 1793655137,
+   "id": "a9d3a73392e401f5",
+   "ts": 1793713852,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "TO THE GREAT PEOPLE OF GEORGIA, GET OUT AND VOTE FOR:– Mike Collins for U.S. Senate– Rick Jackson for Governor– Greg Dolezal for Lieutenant Governor– Brian Strickland for Attorney General– Tim Fleming for Secretary of State– Jim Kingston for U.S. Congress (GA-01)– Brian Jack for ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117548983085038041",
+   "title": "TO THE GREAT PEOPLE OF COLORADO, GET OUT AND VOTE FOR: – Jeff Hurd for U.S. Congress (CO-03)– Lauren Boebert for U.S. Congress (CO-04)– Jeff Crank for U.S. Congress (CO-05)– Gabe Evans for U.S. Congress (CO-08) These Great Patriots have my Complete and Total Endorsement — They wi",
+   "url": "https://truthsocial.com/@realDonaldTrump/117552831025987426",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 3015
+   "score": 4866
   },
   {
-   "id": "1a94ce89078e1245",
-   "ts": 1793654916,
+   "id": "38924418e4271ced",
+   "ts": 1793725673,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "I am pleased to inform you that I will be doing the Great Sean Hannity Show tonight at 9 PM ET. This is the Golden Age of America with 25 Trillion Dollars of Growth and Wealth being created just since my Election — A very short period of time. There has never been anything like i",
-   "url": "https://truthsocial.com/@realDonaldTrump/117548968575947811",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro"
-   ],
-   "author": "Donald Trump",
-   "score": 3001
-  },
-  {
-   "id": "d22383a9d28d408e",
-   "ts": 1793651302,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "TO THE GREAT PEOPLE OF SOUTH CAROLINA, GET OUT AND VOTE FOR:– Darline Graham for U.S. Senate– Alan Wilson for Governor– Cody Simpson for Agriculture Commissioner– Jenny Costa Honeycutt for U.S. Congress (SC-01)– Joe Wilson for U.S. Congress (SC-02)– Sheri Biggs for U.S. Congress ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117548731761734326",
+   "title": "Guam, which has always been considered strongly Democrat, just had an early call for a REPUBLICAN Victory in the top spot, Governor — Congratulations to Tony Ada! Also, the Republicans have the Majority in the State Senate. Wow, hopefully that's an indication for things to come! ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117553605765659226",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 2840
+   "score": 4724
   },
   {
-   "id": "33739b1627295b54",
-   "ts": 1793635327,
+   "id": "e60b14474cd2e8cc",
+   "ts": 1793713282,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Tom Kean is a Great Representative for the People of New Jersey's 7th Congressional District! A Tremendous Advocate of our America First Agenda, Tom is working tirelessly to Keep our Border SECURE, Stop Migrant Crime, Grow our Economy, Cut Taxes and Regulations, Champ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117547684834396397",
+   "title": "TO THE GREAT PEOPLE OF ILLINOIS, GET OUT AND VOTE FOR: – Darren Bailey for Governor– Mike Bost for U.S. Congress (IL-12)– Mary Miller for U.S. Congress (IL-15)– Darin LaHood for U.S. Congress (IL-16) These Great Patriots have my Complete and Total Endorsement — They will never le",
+   "url": "https://truthsocial.com/@realDonaldTrump/117552793703896847",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 2751
-  },
-  {
-   "id": "e4897be5cbd376a1",
-   "ts": 1793661328,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Greg Abbott is the strong and highly respected Governor of Texas, a State I love and WON BIG three times, including with 6.4 Million Votes in 2024 (The most Votes in History, BY FAR)! As Governor, Greg is also fighting tirelessly to Champion Texas Values, Grow the Economy, Cut Ta",
-   "url": "https://truthsocial.com/@realDonaldTrump/117549388831184572",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2699
-  },
-  {
-   "id": "17e08aeb52ccff3d",
-   "ts": 1793637569,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It is my Great Honor to endorse America First Patriot, Michael Whatley, who is running for the United States Senate in the Great State of North Carolina, which I love and WON BIG, six times, including Primaries, in 2016, 2020, and 2024! Michael is fantastic at everything he does,",
-   "url": "https://truthsocial.com/@realDonaldTrump/117547831732392557",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2684
-  },
-  {
-   "id": "e9fd949632f5ca35",
-   "ts": 1793635196,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Congressman Brad Finstad is a tremendous Representative of Minnesota's 1st Congressional District! A Fourth Generation Family Farmer, and Senior Member of the House Agriculture Committee, Brad is a strong and effective voice for our amazing Farmers and Ranchers. His opponent, Jak",
-   "url": "https://truthsocial.com/@realDonaldTrump/117547676252947847",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2612
+   "score": 4635
   }
  ],
  "briefing_ts": 1790465772,
@@ -286,7 +283,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 15
+   "n": 16
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -311,7 +308,7 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "Bank of Japan": {
    "ok": true,
@@ -339,15 +336,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 39
+   "n": 37
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 353
+   "n": 468
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
