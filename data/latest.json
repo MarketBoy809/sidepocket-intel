@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-04T14:19:05Z",
- "generated_ts": 1793801945,
+ "generated_at": "2026-11-04T21:13:53Z",
+ "generated_ts": 1793826833,
  "prices": {
   "BTC": {
-   "p": 78291.1,
+   "p": 80191.9,
    "o": 77331.7,
-   "h": 78618.0,
+   "h": 81179.6,
    "l": 75625.0,
-   "v": 3192.168534
+   "v": 4399.40635262
   },
   "ETH": {
-   "p": 2316.37,
+   "p": 2424.2,
    "o": 2271.67,
-   "h": 2337.16,
+   "h": 2447.27,
    "l": 2223.35,
-   "v": 28866.37054146
+   "v": 45918.09429783
   },
   "SOL": {
-   "p": 92.92,
+   "p": 94.9,
    "o": 92.72,
-   "h": 94.06,
+   "h": 98.01,
    "l": 89.77,
-   "v": 204330.30779934
+   "v": 337020.26814287
   }
  },
  "change_7d": {
-  "BTC": -0.029115046597324497,
-  "ETH": -0.007001251907873269,
-  "SOL": -0.08097406454167484
+  "BTC": -0.014980432269514652,
+  "ETH": 0.02554144124281339,
+  "SOL": -0.07515861395802834
  },
  "sentiment": {
-  "score": 42.9,
+  "score": 43.0,
   "label": "Fear",
   "components": {
    "fng": 34.0,
-   "momentum": 42.72123835066888,
-   "crowding": 63.6875
+   "momentum": 46.254891932621334,
+   "crowding": 59.6688135
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3111210150.3756003,
-   "premium": -0.0003010411
+   "funding_h": 1.4899e-06,
+   "oi_usd": 3129931683.271192,
+   "premium": -0.000484603
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2378168292.0042,
-   "premium": -0.0001293438
+   "oi_usd": 2473407726.0697584,
+   "premium": -0.0002885051
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 533144072.94929945,
-   "premium": -0.0001719968
+   "oi_usd": 557874360.5177599,
+   "premium": -0.0002526236
   }
  },
- "items_24h": 103,
+ "items_24h": 96,
  "top_items": [
   {
    "id": "cc507848c10ba916",
@@ -88,39 +88,6 @@
    "score": 22372
   },
   {
-   "id": "bf838403dad13c96",
-   "ts": 1793734724,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The Jewish community in Monsey, New York, and its surrounding neighborhoods, voted in very big numbers for me in our Historic 2024 Presidential Campaign. TREMENDOUS SUPPORT! TODAY, the eyes of the Country are on New York again! Congressman Mike Lawler has been a tremendous friend",
-   "url": "https://truthsocial.com/@realDonaldTrump/117554198887656582",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 10462
-  },
-  {
-   "id": "38924418e4271ced",
-   "ts": 1793725673,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Guam, which has always been considered strongly Democrat, just had an early call for a REPUBLICAN Victory in the top spot, Governor — Congratulations to Tony Ada! Also, the Republicans have the Majority in the State Senate. Wow, hopefully that's an indication for things to come! ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117553605765659226",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4724
-  },
-  {
    "id": "7121369bc6f542cb",
    "ts": 1793767952,
    "source": "truth",
@@ -137,20 +104,45 @@
    "score": 2338
   },
   {
-   "id": "1ca8b58e430f1a52",
-   "ts": 1793726821,
-   "source": "truth",
+   "id": "d57b4f33a9eba361",
+   "ts": 1793825321,
+   "source": "government",
    "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Lightweight Congressman Ted Lieu, one of the least respected in Washington, D.C., made a knowingly malicious, false, and defamatory statement that I wanted to change the name of the Lincoln Memorial Reflecting Pool to the Trump Reflecting Pool. He posted on X, \"What are Trump and",
-   "url": "https://truthsocial.com/@realDonaldTrump/117553680973466314",
-   "domain": "truthsocial.com",
+   "kind": "official",
+   "title": "First Lady Melania Trump and LSU Establish $5 Million Fostering the Future Endowment Fund",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-5-million-fostering-the-future-endowment-fund/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "fbf83c3d91598e19",
+   "ts": 1793809680,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
+   "domain": "SEC",
+   "org": "SEC",
    "tags": [
+    "crypto",
     "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2165
+   ]
+  },
+  {
+   "id": "e8d32c587300fc55",
+   "ts": 1793803905,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Summary of the RTGS CHAPS Industry Forum - 13 October 2026",
+   "url": "https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "5e1a30f9b58d7fc8",
@@ -269,7 +261,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 20
+   "n": 16
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -278,15 +270,15 @@
   },
   "SEC": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "CFTC": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "European Central Bank": {
    "ok": true,
@@ -294,7 +286,7 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "Bank of Japan": {
    "ok": true,
@@ -306,7 +298,7 @@
   },
   "Strategy (MSTR) filings": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "Coinbase filings": {
    "ok": true,
@@ -322,15 +314,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 35
+   "n": 36
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 468
+   "n": 465
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 25
+   "n": 23
   },
   "Reddit r/Bitcoin": {
    "ok": false,
