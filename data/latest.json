@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-11-04T06:00:41Z",
- "generated_ts": 1793772041,
+ "generated_at": "2026-11-04T14:19:05Z",
+ "generated_ts": 1793801945,
  "prices": {
   "BTC": {
-   "p": 77679.1,
+   "p": 78291.1,
    "o": 77331.7,
-   "h": 78110.5,
+   "h": 78618.0,
    "l": 75625.0,
-   "v": 2988.70453064
+   "v": 3192.168534
   },
   "ETH": {
-   "p": 2291.33,
+   "p": 2316.37,
    "o": 2271.67,
-   "h": 2304.6,
+   "h": 2337.16,
    "l": 2223.35,
-   "v": 25736.14441536
+   "v": 28866.37054146
   },
   "SOL": {
-   "p": 92.64,
+   "p": 92.92,
    "o": 92.72,
-   "h": 93.83,
+   "h": 94.06,
    "l": 89.77,
-   "v": 210814.91618469
+   "v": 204330.30779934
   }
  },
  "change_7d": {
-  "BTC": -0.03900021168317849,
-  "ETH": -0.02498254160208482,
-  "SOL": -0.08910306845003936
+  "BTC": -0.029115046597324497,
+  "ETH": -0.007001251907873269,
+  "SOL": -0.08097406454167484
  },
  "sentiment": {
-  "score": 42.1,
+  "score": 42.9,
   "label": "Fear",
   "components": {
    "fng": 34.0,
-   "momentum": 40.24994707920538,
+   "momentum": 42.72123835066888,
    "crowding": 63.6875
   },
   "weights": {
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3048872855.942,
-   "premium": -0.0002955956
+   "oi_usd": 3111210150.3756003,
+   "premium": -0.0003010411
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2347677648.351041,
-   "premium": 0.0
+   "oi_usd": 2378168292.0042,
+   "premium": -0.0001293438
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 523831212.9945,
-   "premium": -0.0004611165
+   "oi_usd": 533144072.94929945,
+   "premium": -0.0001719968
   }
  },
- "items_24h": 225,
+ "items_24h": 103,
  "top_items": [
   {
    "id": "cc507848c10ba916",
@@ -105,134 +105,6 @@
    "score": 10462
   },
   {
-   "id": "2d628afe45505bde",
-   "ts": 1793714086,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "TO THE GREAT PEOPLE OF ALABAMA, GET OUT AND VOTE FOR: – Barry Moore for U.S. Senate– Tommy Tuberville for Governor– John Wahl for Lieutenant Governor– Katherine Robertson for Attorney General– Jerry Carl for U.S. Congress (AL-01)– Rhett Marques for U.S. Congress (AL-02)– Mike Rog",
-   "url": "https://truthsocial.com/@realDonaldTrump/117552846369178812",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6597
-  },
-  {
-   "id": "b70414c49b3d09c3",
-   "ts": 1793714036,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "TO THE GREAT PEOPLE OF ALASKA, GET OUT AND VOTE FOR: – Dan S. Sullivan for U.S. Senate– Bernadette Wilson for Governor– Nick Begich for U.S. Congress (AK-AL) These Great Patriots have my Complete and Total Endorsement — They will never let you down! President DONALD J. TRUMPswamp",
-   "url": "https://truthsocial.com/@realDonaldTrump/117552843109770094",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6084
-  },
-  {
-   "id": "b6f7389416071d07",
-   "ts": 1793713355,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "TO THE GREAT PEOPLE OF FLORIDA, GET OUT AND VOTE FOR: – Ashley Moody for U.S. Senate– Byron Donalds for Governor– James Uthmeier for Attorney General– Wilton Simpson for Agriculture Commissioner– Jimmy Patronis for U.S. Congress (FL-01)– Austin Rogers for U.S. Congress (FL-02)– K",
-   "url": "https://truthsocial.com/@realDonaldTrump/117552798491034798",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 5515
-  },
-  {
-   "id": "b4d751354ca93d37",
-   "ts": 1793713890,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "TO THE GREAT PEOPLE OF CALIFORNIA, GET OUT AND VOTE FOR: – Steve Hilton for Governor– James Gallagher for U.S. Congress (CA-01)– Tom McClintock for U.S. Congress (CA-05)– Kevin Lincoln for U.S. Congress (CA-13)– Vince Fong for U.S. Congress (CA-20)– Jay Obernolte for U.S. Congres",
-   "url": "https://truthsocial.com/@realDonaldTrump/117552833526822724",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 5469
-  },
-  {
-   "id": "45b1643989ec25de",
-   "ts": 1793713966,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "TO THE GREAT PEOPLE OF ARIZONA, GET OUT AND VOTE FOR: – Andy Biggs for Governor– Warren Petersen for Attorney General– Alexander Kolodin for Secretary of State– Jay Feely for U.S. Congress (AZ-01)– Eli Crane for U.S. Congress (AZ-02)– Mark Lamb for U.S. Congress (AZ-05)– Juan Cis",
-   "url": "https://truthsocial.com/@realDonaldTrump/117552838497287142",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 5402
-  },
-  {
-   "id": "71cdfde0f5e2d53d",
-   "ts": 1793713325,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "TO THE GREAT PEOPLE OF GEORGIA, GET OUT AND VOTE FOR: – Mike Collins for U.S. Senate– Rick Jackson for Governor– Greg Dolezal for Lieutenant Governor– Brian Strickland for Attorney General– Tim Fleming for Secretary of State– Jim Kingston for U.S. Congress (GA-01)– Brian Jack for",
-   "url": "https://truthsocial.com/@realDonaldTrump/117552796496619021",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 5056
-  },
-  {
-   "id": "010ee15a0f383756",
-   "ts": 1793713934,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "TO THE GREAT PEOPLE OF ARKANSAS, GET OUT AND VOTE FOR: – Tom Cotton for U.S. Senate– Sarah Huckabee Sanders for Governor– Rick Crawford for U.S. Congress (AR-01)– French Hill for U.S. Congress (AR-02)– Steve Womack for U.S. Congress (AR-03)– Bruce Westerman for U.S. Congress (AR-",
-   "url": "https://truthsocial.com/@realDonaldTrump/117552836387969672",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4981
-  },
-  {
-   "id": "a9d3a73392e401f5",
-   "ts": 1793713852,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "TO THE GREAT PEOPLE OF COLORADO, GET OUT AND VOTE FOR: – Jeff Hurd for U.S. Congress (CO-03)– Lauren Boebert for U.S. Congress (CO-04)– Jeff Crank for U.S. Congress (CO-05)– Gabe Evans for U.S. Congress (CO-08) These Great Patriots have my Complete and Total Endorsement — They wi",
-   "url": "https://truthsocial.com/@realDonaldTrump/117552831025987426",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4866
-  },
-  {
    "id": "38924418e4271ced",
    "ts": 1793725673,
    "source": "truth",
@@ -249,20 +121,132 @@
    "score": 4724
   },
   {
-   "id": "e60b14474cd2e8cc",
-   "ts": 1793713282,
+   "id": "7121369bc6f542cb",
+   "ts": 1793767952,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "TO THE GREAT PEOPLE OF ILLINOIS, GET OUT AND VOTE FOR: – Darren Bailey for Governor– Mike Bost for U.S. Congress (IL-12)– Mary Miller for U.S. Congress (IL-15)– Darin LaHood for U.S. Congress (IL-16) These Great Patriots have my Complete and Total Endorsement — They will never le",
-   "url": "https://truthsocial.com/@realDonaldTrump/117552793703896847",
+   "title": "Why does FoxNews have Bill de Blasio, the Worst Mayor in the History of New York City, on air, ranting and raving like a Lunatic? He left the City in disgrace, and the damage he caused was incalculable — It has never been the same, and now he's telling us how to run America. FoxN",
+   "url": "https://truthsocial.com/@realDonaldTrump/117556376518256698",
    "domain": "truthsocial.com",
    "tags": [
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 4635
+   "score": 2338
+  },
+  {
+   "id": "1ca8b58e430f1a52",
+   "ts": 1793726821,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Lightweight Congressman Ted Lieu, one of the least respected in Washington, D.C., made a knowingly malicious, false, and defamatory statement that I wanted to change the name of the Lincoln Memorial Reflecting Pool to the Trump Reflecting Pool. He posted on X, \"What are Trump and",
+   "url": "https://truthsocial.com/@realDonaldTrump/117553680973466314",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 2165
+  },
+  {
+   "id": "5e1a30f9b58d7fc8",
+   "ts": 1793800800,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "CFTC and USDA Sign MOU to Protect Integrity of American Agricultural Markets",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9321-26",
+   "domain": "CFTC",
+   "org": "CFTC",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "28286f36f4f3f8ca",
+   "ts": 1793779200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Japanese Government Bonds Held by the Bank of Japan",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261030.xlsx",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "01af30215a29dbe9",
+   "ts": 1793779200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Collateral Accepted by the Bank of Japan (End of Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/col/col2610.xlsx",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "7cd501aeb165ffdb",
+   "ts": 1793754000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Bank of Japan Accounts (October 31)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261031.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "c244f5f62d65c4a8",
+   "ts": 1793750400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "ed07aa0fee8dcc24",
+   "ts": 1793749800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Monetary Base (Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/mb/mb.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "942beb7327de3ae2",
+   "ts": 1793745149,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "ANTI-COMMUNISM WEEK, 2026",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/anti-communism-week-2026/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -285,7 +269,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 21
+   "n": 20
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -298,7 +282,7 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "Federal Reserve": {
    "ok": true,
@@ -306,15 +290,15 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 8
+   "n": 9
   },
   "Bank of England": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 12
+   "n": 14
   },
   "BIS": {
    "ok": true,
@@ -338,7 +322,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 37
+   "n": 35
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
@@ -346,7 +330,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 25
   },
   "Reddit r/Bitcoin": {
    "ok": false,
