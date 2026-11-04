@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-11-03T23:12:10Z",
- "generated_ts": 1793747530,
+ "generated_at": "2026-11-04T06:00:41Z",
+ "generated_ts": 1793772041,
  "prices": {
   "BTC": {
-   "p": 77740.2,
-   "o": 76676.8,
-   "h": 77969.8,
-   "l": 76254.4,
-   "v": 2210.21070813
+   "p": 77679.1,
+   "o": 77331.7,
+   "h": 78110.5,
+   "l": 75625.0,
+   "v": 2988.70453064
   },
   "ETH": {
-   "p": 2288.22,
-   "o": 2249.46,
+   "p": 2291.33,
+   "o": 2271.67,
    "h": 2304.6,
-   "l": 2237.46,
-   "v": 17524.09454198
+   "l": 2223.35,
+   "v": 25736.14441536
   },
   "SOL": {
-   "p": 93.23,
-   "o": 91.83,
+   "p": 92.64,
+   "o": 92.72,
    "h": 93.83,
-   "l": 91.09,
-   "v": 224062.81277039
+   "l": 89.77,
+   "v": 210814.91618469
   }
  },
  "change_7d": {
-  "BTC": -0.037293620672348066,
-  "ETH": -0.024240513609195245,
-  "SOL": -0.07669499901166243
+  "BTC": -0.03900021168317849,
+  "ETH": -0.02498254160208482,
+  "SOL": -0.08910306845003936
  },
  "sentiment": {
-  "score": 38.3,
+  "score": 42.1,
   "label": "Fear",
   "components": {
-   "fng": 26.0,
-   "momentum": 40.676594831912986,
+   "fng": 34.0,
+   "momentum": 40.24994707920538,
    "crowding": 63.6875
   },
   "weights": {
@@ -46,30 +46,47 @@
   }
  },
  "fear_greed": {
-  "value": 26,
+  "value": 34,
   "label": "Fear",
-  "ts": 1793664000
+  "ts": 1793750400
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3246476552.35536,
-   "premium": -0.0001901422
+   "oi_usd": 3048872855.942,
+   "premium": -0.0002955956
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2313328325.216,
-   "premium": -0.0001571531
+   "oi_usd": 2347677648.351041,
+   "premium": 0.0
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 555000092.47768,
-   "premium": 2.35665e-05
+   "oi_usd": 523831212.9945,
+   "premium": -0.0004611165
   }
  },
- "items_24h": 250,
+ "items_24h": 225,
  "top_items": [
+  {
+   "id": "cc507848c10ba916",
+   "ts": 1793750440,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "FoxNews Ratings are way down (27%!) because they're spending too much time covering the Trump Deranged Dumocrats! All of those people who used to watch Fox, and no longer do, get it. It's them, not me — My numbers are better than they have ever been. The new CNN Poll stated that ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117555228889927200",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 22372
+  },
   {
    "id": "bf838403dad13c96",
    "ts": 1793734724,
@@ -184,22 +201,6 @@
    "score": 5056
   },
   {
-   "id": "87d2ca4667ae9afe",
-   "ts": 1793685127,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Abdul El-Sayed Hates Jews and Hates Blacks. Don't feel bad, he also Hates Whites. Only fools would vote for him in the Michigan race for the U.S. Senate! He will, 100%, do you in! VOTE FOR MIKE ROGERS. President DJT",
-   "url": "https://truthsocial.com/@realDonaldTrump/117550948508562189",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 4985
-  },
-  {
    "id": "010ee15a0f383756",
    "ts": 1793713934,
    "source": "truth",
@@ -284,7 +285,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 22
+   "n": 21
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -313,7 +314,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 10
+   "n": 12
   },
   "BIS": {
    "ok": true,
@@ -348,8 +349,9 @@
    "n": 19
   },
   "Reddit r/Bitcoin": {
-   "ok": true,
-   "n": 24
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
