@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-05T10:42:25Z",
- "generated_ts": 1793875345,
+ "generated_at": "2026-11-05T18:39:33Z",
+ "generated_ts": 1793903973,
  "prices": {
   "BTC": {
-   "p": 80294.1,
+   "p": 76058.1,
    "o": 80440.8,
-   "h": 81179.6,
-   "l": 77904.3,
-   "v": 3640.67093941
+   "h": 80883.3,
+   "l": 75420.5,
+   "v": 4665.11062379
   },
   "ETH": {
-   "p": 2417.01,
+   "p": 2249.87,
    "o": 2422.33,
-   "h": 2447.27,
-   "l": 2307.45,
-   "v": 34827.34957345
+   "h": 2443.03,
+   "l": 2233.99,
+   "v": 47366.13623925
   },
   "SOL": {
-   "p": 96.66,
+   "p": 89.28,
    "o": 95.52,
-   "h": 98.01,
-   "l": 92.36,
-   "v": 309601.39275607
+   "h": 96.99,
+   "l": 88.64,
+   "v": 368959.66310449
   }
  },
  "change_7d": {
-  "BTC": 0.0035288164200149887,
-  "ETH": 0.04279417219457083,
-  "SOL": -0.03374600638977631
+  "BTC": -0.06186353235066658,
+  "ETH": -0.03710846464689666,
+  "SOL": -0.11803148826616498
  },
  "sentiment": {
-  "score": 53.2,
+  "score": 47.4,
   "label": "Neutral",
   "components": {
    "fng": 50.0,
-   "momentum": 50.882204105003744,
-   "crowding": 63.6875
+   "momentum": 34.53411691233335,
+   "crowding": 58.481797
   },
   "weights": {
    "fng": 0.35,
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3081539121.87706,
-   "premium": 0.0001368977
+   "oi_usd": 3148135786.7987523,
+   "premium": 9.18876e-05
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2508697583.75832,
-   "premium": -6.61414e-05
+   "funding_h": 7.9209e-06,
+   "oi_usd": 2147135702.3222394,
+   "premium": -0.0003550191
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 569563950.09444,
-   "premium": -0.0001798543
+   "funding_h": 2.8169e-06,
+   "oi_usd": 510777221.07612056,
+   "premium": -0.000458613
   }
  },
- "items_24h": 81,
+ "items_24h": 91,
  "top_items": [
   {
    "id": "5fbaefd59684b7f4",
@@ -86,6 +86,63 @@
    ],
    "author": "Donald Trump",
    "score": 26304
+  },
+  {
+   "id": "f998e537e8ad823f",
+   "ts": 1793902426,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "CFTC Staff Addresses Use of Trust Companies for Daily Settlements",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9322-26",
+   "domain": "CFTC",
+   "org": "CFTC",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "772f3a398f217a5e",
+   "ts": 1793896267,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "First Lady Melania Trump Unites Russia and Ukraine at The White House Following Historic Ceasefire",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "geo",
+    "regulation"
+   ]
+  },
+  {
+   "id": "0224349908e0b1c1",
+   "ts": 1793894400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "26d3012260db32ae",
+   "ts": 1793880000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+   "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "ae12e9ef0f2f5cc2",
@@ -180,64 +237,6 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
-  },
-  {
-   "id": "fbf83c3d91598e19",
-   "ts": 1793809680,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
-   "domain": "SEC",
-   "org": "SEC",
-   "tags": [
-    "crypto",
-    "regulation"
-   ]
-  },
-  {
-   "id": "e8d32c587300fc55",
-   "ts": 1793803905,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Summary of the RTGS CHAPS Industry Forum - 13 October 2026",
-   "url": "https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "5e1a30f9b58d7fc8",
-   "ts": 1793800800,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "CFTC and USDA Sign MOU to Protect Integrity of American Agricultural Markets",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9321-26",
-   "domain": "CFTC",
-   "org": "CFTC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "bc53d9ac8214fe11",
-   "ts": 1793875494,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
-   "url": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto",
-    "BTC"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -260,7 +259,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 17
+   "n": 15
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -269,19 +268,19 @@
   },
   "SEC": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "CFTC": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "European Central Bank": {
    "ok": true,
-   "n": 10
+   "n": 7
   },
   "Bank of England": {
    "ok": true,
@@ -313,15 +312,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 36
+   "n": 37
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 462
+   "n": 456
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 21
   },
   "Reddit r/Bitcoin": {
    "ok": false,
