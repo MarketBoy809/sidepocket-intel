@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-04T21:13:53Z",
- "generated_ts": 1793826833,
+ "generated_at": "2026-11-05T02:14:45Z",
+ "generated_ts": 1793844885,
  "prices": {
   "BTC": {
-   "p": 80191.9,
-   "o": 77331.7,
+   "p": 80646.2,
+   "o": 80440.8,
    "h": 81179.6,
    "l": 75625.0,
-   "v": 4399.40635262
+   "v": 4350.69076407
   },
   "ETH": {
-   "p": 2424.2,
-   "o": 2271.67,
+   "p": 2429.24,
+   "o": 2422.33,
    "h": 2447.27,
    "l": 2223.35,
-   "v": 45918.09429783
+   "v": 44220.54716243
   },
   "SOL": {
-   "p": 94.9,
-   "o": 92.72,
+   "p": 96.12,
+   "o": 95.52,
    "h": 98.01,
    "l": 89.77,
-   "v": 337020.26814287
+   "v": 331530.68983014
   }
  },
  "change_7d": {
-  "BTC": -0.014980432269514652,
-  "ETH": 0.02554144124281339,
-  "SOL": -0.07515861395802834
+  "BTC": 0.008781053598780179,
+  "ETH": 0.05041129559193246,
+  "SOL": -0.038388293074070344
  },
  "sentiment": {
-  "score": 43.0,
-  "label": "Fear",
+  "score": 53.6,
+  "label": "Neutral",
   "components": {
-   "fng": 34.0,
-   "momentum": 46.254891932621334,
-   "crowding": 59.6688135
+   "fng": 50.0,
+   "momentum": 52.195263399695044,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -46,46 +46,46 @@
   }
  },
  "fear_greed": {
-  "value": 34,
-  "label": "Fear",
-  "ts": 1793750400
+  "value": 50,
+  "label": "Neutral",
+  "ts": 1793836800
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.4899e-06,
-   "oi_usd": 3129931683.271192,
-   "premium": -0.000484603
+   "funding_h": 1.25e-05,
+   "oi_usd": 3097270582.3820796,
+   "premium": -0.0003480458
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2473407726.0697584,
-   "premium": -0.0002885051
+   "oi_usd": 2486673290.9071183,
+   "premium": -0.0002672763
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 557874360.5177599,
-   "premium": -0.0002526236
+   "oi_usd": 561322831.42824,
+   "premium": -0.000135093
   }
  },
- "items_24h": 96,
+ "items_24h": 87,
  "top_items": [
   {
-   "id": "cc507848c10ba916",
-   "ts": 1793750440,
+   "id": "5fbaefd59684b7f4",
+   "ts": 1793835227,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "FoxNews Ratings are way down (27%!) because they're spending too much time covering the Trump Deranged Dumocrats! All of those people who used to watch Fox, and no longer do, get it. It's them, not me — My numbers are better than they have ever been. The new CNN Poll stated that ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117555228889927200",
+   "title": "Too bad the Senate has not yet approved the Sunshine Protection Act or, the I Don't Want to Change My Clocks Anymore Act. It's so dark outside, so early (Sunset was 5:06 P.M., and it was dark by 5:31 P.M. — Isn't that ridiculous?). Just a few days ago it was so nice and sunny at ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117560785494219046",
    "domain": "truthsocial.com",
    "tags": [
     "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 22372
+   "score": 26304
   },
   {
    "id": "7121369bc6f542cb",
@@ -102,6 +102,46 @@
    ],
    "author": "Donald Trump",
    "score": 2338
+  },
+  {
+   "id": "cd062be41215102f",
+   "ts": 1793836200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Sources of Changes in Current Account Balances (Projections for Nov.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2611.xlsx",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "feb50052b7aa1fe1",
+   "ts": 1793836200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Minutes of the Monetary Policy Meeting on September 17 and 18, 2026",
+   "url": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260918.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "2a10cbdf6ca3a8d5",
+   "ts": 1793831943,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Will Again Defy the Odds, the Fake News, and the Radical Left",
+   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-will-again-defy-the-odds-the-fake-news-and-the-radical-left/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "d57b4f33a9eba361",
@@ -187,58 +227,18 @@
    ]
   },
   {
-   "id": "7cd501aeb165ffdb",
-   "ts": 1793754000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Bank of Japan Accounts (October 31)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261031.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
+   "id": "fa4ce69cccb225f5",
+   "ts": 1793843481,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
+   "url": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": [
-    "macro"
+    "crypto"
    ]
-  },
-  {
-   "id": "c244f5f62d65c4a8",
-   "ts": 1793750400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "ed07aa0fee8dcc24",
-   "ts": 1793749800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Monetary Base (Oct.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mb/mb.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "942beb7327de3ae2",
-   "ts": 1793745149,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "ANTI-COMMUNISM WEEK, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/anti-communism-week-2026/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -261,7 +261,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 16
+   "n": 17
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -290,7 +290,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 14
+   "n": 16
   },
   "BIS": {
    "ok": true,
@@ -318,11 +318,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 465
+   "n": 463
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 23
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
