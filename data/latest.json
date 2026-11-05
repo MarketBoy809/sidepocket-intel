@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-11-05T02:14:45Z",
- "generated_ts": 1793844885,
+ "generated_at": "2026-11-05T10:42:25Z",
+ "generated_ts": 1793875345,
  "prices": {
   "BTC": {
-   "p": 80646.2,
+   "p": 80294.1,
    "o": 80440.8,
    "h": 81179.6,
-   "l": 75625.0,
-   "v": 4350.69076407
+   "l": 77904.3,
+   "v": 3640.67093941
   },
   "ETH": {
-   "p": 2429.24,
+   "p": 2417.01,
    "o": 2422.33,
    "h": 2447.27,
-   "l": 2223.35,
-   "v": 44220.54716243
+   "l": 2307.45,
+   "v": 34827.34957345
   },
   "SOL": {
-   "p": 96.12,
+   "p": 96.66,
    "o": 95.52,
    "h": 98.01,
-   "l": 89.77,
-   "v": 331530.68983014
+   "l": 92.36,
+   "v": 309601.39275607
   }
  },
  "change_7d": {
-  "BTC": 0.008781053598780179,
-  "ETH": 0.05041129559193246,
-  "SOL": -0.038388293074070344
+  "BTC": 0.0035288164200149887,
+  "ETH": 0.04279417219457083,
+  "SOL": -0.03374600638977631
  },
  "sentiment": {
-  "score": 53.6,
+  "score": 53.2,
   "label": "Neutral",
   "components": {
    "fng": 50.0,
-   "momentum": 52.195263399695044,
+   "momentum": 50.882204105003744,
    "crowding": 63.6875
   },
   "weights": {
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3097270582.3820796,
-   "premium": -0.0003480458
+   "oi_usd": 3081539121.87706,
+   "premium": 0.0001368977
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2486673290.9071183,
-   "premium": -0.0002672763
+   "oi_usd": 2508697583.75832,
+   "premium": -6.61414e-05
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 561322831.42824,
-   "premium": -0.000135093
+   "oi_usd": 569563950.09444,
+   "premium": -0.0001798543
   }
  },
- "items_24h": 87,
+ "items_24h": 81,
  "top_items": [
   {
    "id": "5fbaefd59684b7f4",
@@ -88,20 +88,46 @@
    "score": 26304
   },
   {
-   "id": "7121369bc6f542cb",
-   "ts": 1793767952,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Why does FoxNews have Bill de Blasio, the Worst Mayor in the History of New York City, on air, ranting and raving like a Lunatic? He left the City in disgrace, and the damage he caused was incalculable — It has never been the same, and now he's telling us how to run America. FoxN",
-   "url": "https://truthsocial.com/@realDonaldTrump/117556376518256698",
-   "domain": "truthsocial.com",
+   "id": "ae12e9ef0f2f5cc2",
+   "ts": 1793865600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
    "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 2338
+    "macro"
+   ]
+  },
+  {
+   "id": "6e6b7cd9500f3532",
+   "ts": 1793863800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Piero Cipollone: Shaping the future of money",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "baf9f62d63a17357",
+   "ts": 1793862000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Holding the Twenty-fifth Round of the \"Bond Market Group\" Meetings",
+   "url": "http://www.boj.or.jp/en/paym/bond/mbond_list/mbond261105.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "cd062be41215102f",
@@ -199,45 +225,18 @@
    ]
   },
   {
-   "id": "28286f36f4f3f8ca",
-   "ts": 1793779200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Japanese Government Bonds Held by the Bank of Japan",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261030.xlsx",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "01af30215a29dbe9",
-   "ts": 1793779200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Collateral Accepted by the Bank of Japan (End of Oct.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/col/col2610.xlsx",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "fa4ce69cccb225f5",
-   "ts": 1793843481,
+   "id": "bc53d9ac8214fe11",
+   "ts": 1793875494,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
-   "url": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
+   "url": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
    "tags": [
-    "crypto"
+    "crypto",
+    "BTC"
    ]
   }
  ],
@@ -282,15 +281,15 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 9
+   "n": 10
   },
   "Bank of England": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 16
+   "n": 17
   },
   "BIS": {
    "ok": true,
@@ -318,11 +317,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 463
+   "n": 462
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
