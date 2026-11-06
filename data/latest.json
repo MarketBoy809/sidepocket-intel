@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-11-05T18:39:33Z",
- "generated_ts": 1793903973,
+ "generated_at": "2026-11-06T00:04:12Z",
+ "generated_ts": 1793923452,
  "prices": {
   "BTC": {
-   "p": 76058.1,
-   "o": 80440.8,
-   "h": 80883.3,
-   "l": 75420.5,
-   "v": 4665.11062379
+   "p": 76199.2,
+   "o": 75979.9,
+   "h": 80827.6,
+   "l": 75100.0,
+   "v": 5117.20287744
   },
   "ETH": {
-   "p": 2249.87,
-   "o": 2422.33,
-   "h": 2443.03,
-   "l": 2233.99,
-   "v": 47366.13623925
+   "p": 2242.79,
+   "o": 2235.09,
+   "h": 2434.14,
+   "l": 2202.12,
+   "v": 53723.74398199
   },
   "SOL": {
-   "p": 89.28,
-   "o": 95.52,
+   "p": 89.73,
+   "o": 89.22,
    "h": 96.99,
-   "l": 88.64,
-   "v": 368959.66310449
+   "l": 88.1,
+   "v": 420743.89768905
   }
  },
  "change_7d": {
-  "BTC": -0.06186353235066658,
-  "ETH": -0.03710846464689666,
-  "SOL": -0.11803148826616498
+  "BTC": -0.02328699299681557,
+  "ETH": -0.006106727630162705,
+  "SOL": -0.06469539687532769
  },
  "sentiment": {
-  "score": 47.4,
-  "label": "Neutral",
+  "score": 40.0,
+  "label": "Fear",
   "components": {
-   "fng": 50.0,
-   "momentum": 34.53411691233335,
-   "crowding": 58.481797
+   "fng": 28.0,
+   "momentum": 44.17825175079611,
+   "news_tone": 38.71666666666667,
+   "crowding": 63.6875
   },
   "weights": {
    "fng": 0.35,
@@ -46,46 +47,134 @@
   }
  },
  "fear_greed": {
-  "value": 50,
-  "label": "Neutral",
-  "ts": 1793836800
+  "value": 28,
+  "label": "Fear",
+  "ts": 1793923200
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.677,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3148135786.7987523,
-   "premium": 9.18876e-05
+   "oi_usd": 3080010748.2359595,
+   "premium": -0.0001310307
   },
   "ETH": {
-   "funding_h": 7.9209e-06,
-   "oi_usd": 2147135702.3222394,
-   "premium": -0.0003550191
+   "funding_h": 1.25e-05,
+   "oi_usd": 2159022956.3587346,
+   "premium": -0.0003206384
   },
   "SOL": {
-   "funding_h": 2.8169e-06,
-   "oi_usd": 510777221.07612056,
-   "premium": -0.000458613
+   "funding_h": 1.25e-05,
+   "oi_usd": 482203359.9631998,
+   "premium": -0.0002670078
   }
  },
- "items_24h": 91,
+ "items_24h": 153,
  "top_items": [
   {
-   "id": "5fbaefd59684b7f4",
-   "ts": 1793835227,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Too bad the Senate has not yet approved the Sunshine Protection Act or, the I Don't Want to Change My Clocks Anymore Act. It's so dark outside, so early (Sunset was 5:06 P.M., and it was dark by 5:31 P.M. — Isn't that ridiculous?). Just a few days ago it was so nice and sunny at ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117560785494219046",
-   "domain": "truthsocial.com",
+   "id": "916c9f406706e922",
+   "ts": 1793921400,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "How Much Will One Bitcoin Be Worth in 2030 ?",
+   "url": "https://247wallst.com/investing/cryptocurrency/2026/11/05/how-much-will-one-bitcoin-be-worth-in-2030-2/",
+   "domain": "247wallst.com",
    "tags": [
-    "geo",
+    "crypto",
+    "BTC",
+    "institution"
+   ]
+  },
+  {
+   "id": "038a42d25e87d1e3",
+   "ts": 1793919224,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Fact Sheet: President Donald J. Trump Establishes the Oval Office as a National Monument",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-establishes-the-oval-office-as-a-national-monument/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "0d039f10a6623c9d",
+   "ts": 1793919116,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "2381f5d108ea98ef",
+   "ts": 1793917800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Nasdaq 100 suffers worst day since 2020",
+   "url": "https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/",
+   "domain": "investinglive.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "ca15d219cb8d8881",
+   "ts": 1793917800,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Keel Infrastructure ( KEEL ) Q3 2026 Earnings Call Transcript",
+   "url": "https://www.aol.com/articles/keel-infrastructure-keel-q3-2026-215015000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "70b09e083b84dff3",
+   "ts": 1793916003,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "CFTC Issues Impartial Access Requirements Interpretation",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9323-26",
+   "domain": "CFTC",
+   "org": "CFTC",
+   "tags": [
     "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 26304
+   ]
+  },
+  {
+   "id": "9860cc0c1d8be293",
+   "ts": 1793916000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Nasdaq Selloff Fails To Deter Retail Buyers As united kingdom Banking Stocks And Space Trusts Also Draw Demand",
+   "url": "https://www.foreignpolicyjournal.com/2026/11/05/nasdaq-selloff-fails-to-deter-retail-buyers-as-uk-banking-stocks-and-space-trusts-also-draw-demand/",
+   "domain": "foreignpolicyjournal.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "71dc9dfe84e24ca6",
+   "ts": 1793916000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Keel Infrastructure ( KEEL ) Q3 2026 Earnings Call Transcript",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/11/05/keel-infrastructure-keel-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+   "domain": "fool.com",
+   "tags": [
+    "institution"
+   ]
   },
   {
    "id": "f998e537e8ad823f",
@@ -143,111 +232,17 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "ae12e9ef0f2f5cc2",
-   "ts": 1793865600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "6e6b7cd9500f3532",
-   "ts": 1793863800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Piero Cipollone: Shaping the future of money",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "baf9f62d63a17357",
-   "ts": 1793862000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Holding the Twenty-fifth Round of the \"Bond Market Group\" Meetings",
-   "url": "http://www.boj.or.jp/en/paym/bond/mbond_list/mbond261105.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "cd062be41215102f",
-   "ts": 1793836200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Sources of Changes in Current Account Balances (Projections for Nov.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2611.xlsx",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "feb50052b7aa1fe1",
-   "ts": 1793836200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Minutes of the Monetary Policy Meeting on September 17 and 18, 2026",
-   "url": "http://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260918.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "2a10cbdf6ca3a8d5",
-   "ts": 1793831943,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "President Trump Will Again Defy the Odds, the Fake News, and the Radical Left",
-   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-will-again-defy-the-odds-the-fake-news-and-the-radical-left/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "d57b4f33a9eba361",
-   "ts": 1793825321,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "First Lady Melania Trump and LSU Establish $5 Million Fostering the Future Endowment Fund",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-5-million-fostering-the-future-endowment-fund/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 24
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -255,11 +250,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 5
   },
   "White House": {
    "ok": true,
-   "n": 15
+   "n": 17
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -272,11 +267,11 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "European Central Bank": {
    "ok": true,
@@ -296,11 +291,11 @@
   },
   "Strategy (MSTR) filings": {
    "ok": true,
-   "n": 3
+   "n": 1
   },
   "Coinbase filings": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "CoinDesk": {
    "ok": true,
@@ -316,7 +311,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 456
+   "n": 438
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
