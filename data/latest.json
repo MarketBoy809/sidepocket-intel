@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-11-06T14:56:21Z",
- "generated_ts": 1793976981,
+ "generated_at": "2026-11-06T20:48:33Z",
+ "generated_ts": 1793998113,
  "prices": {
   "BTC": {
-   "p": 75426.7,
+   "p": 75794.0,
    "o": 75979.9,
-   "h": 78307.5,
-   "l": 75100.0,
-   "v": 5010.44975992
+   "h": 76300.7,
+   "l": 74790.0,
+   "v": 2957.85722581
   },
   "ETH": {
-   "p": 2224.45,
+   "p": 2230.7,
    "o": 2235.09,
-   "h": 2344.76,
-   "l": 2202.12,
-   "v": 61572.30703761
+   "h": 2251.77,
+   "l": 2201.26,
+   "v": 42139.32313319
   },
   "SOL": {
-   "p": 90.72,
+   "p": 89.85,
    "o": 89.22,
-   "h": 93.09,
+   "h": 91.47,
    "l": 88.1,
-   "v": 422586.53476247
+   "v": 250983.83242689
   }
  },
  "change_7d": {
-  "BTC": -0.015421105820064547,
-  "ETH": 0.005224881416343451,
-  "SOL": -0.05079932688262514
+  "BTC": -0.01231134817781047,
+  "ETH": -0.0012975217334890766,
+  "SOL": -0.04819786491914176
  },
  "sentiment": {
-  "score": 40.3,
+  "score": 35.7,
   "label": "Fear",
   "components": {
    "fng": 28.0,
-   "momentum": 46.14472354498386,
-   "crowding": 61.429975
+   "momentum": 46.922162955547385,
+   "news_tone": 18.78333333333333,
+   "crowding": 55.7872575
   },
   "weights": {
    "fng": 0.35,
@@ -50,26 +51,42 @@
   "label": "Fear",
   "ts": 1793923200
  },
- "news_tone_24h": null,
+ "news_tone_24h": -1.873,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3194281227.97896,
-   "premium": -0.0001601841
+   "oi_usd": 3212503733.328552,
+   "premium": -6.71856e-05
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2160018712.3334394,
-   "premium": -0.0003904549
+   "oi_usd": 2194358116.7635202,
+   "premium": -0.0003043895
   },
   "SOL": {
-   "funding_h": 6.315e-06,
-   "oi_usd": 487960870.7200004,
-   "premium": -0.0005074851
+   "funding_h": -9.1445e-06,
+   "oi_usd": 513368444.4798001,
+   "premium": -0.0006668519
   }
  },
- "items_24h": 314,
+ "items_24h": 301,
  "top_items": [
+  {
+   "id": "087c061a690d7112",
+   "ts": 1793988581,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Israel and, in fact, the entire Middle East, WOULD NOT EXIST TODAY if I did not stop Iran from having a Nuclear Weapon. Nobody wants to say that, but everybody knows it's true! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117570835652141710",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 16008
+  },
   {
    "id": "7637531486d8983c",
    "ts": 1793965712,
@@ -85,6 +102,64 @@
    ],
    "author": "Donald Trump",
    "score": 12302
+  },
+  {
+   "id": "310eae0a7ac09052",
+   "ts": 1793988327,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "MAGA Warrior Joe Gruters, who has been with us from the very beginning, is running to continue as Chairman of the Republican National Committee. As Chairman, Joe turned the RNC into an efficient, focused, and powerful machine that will continue to empower the America First Agenda",
+   "url": "https://truthsocial.com/@realDonaldTrump/117570819049322754",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 9230
+  },
+  {
+   "id": "9c670e6c7840ddd8",
+   "ts": 1793987490,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "What They Are Saying: Blowout October Jobs Report Smashes Expectations",
+   "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "c6980d7a214f9603",
+   "ts": 1793980800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Speech by Governor UEDA at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund",
+   "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261107a.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "6c82aec322ef3fa5",
+   "ts": 1793980591,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Was Right: Tariffs and Tax Cuts Are Reshoring Manufacturing, Creating Jobs",
+   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-was-right-tariffs-and-tax-cuts-are-reshoring-manufacturing-creating-jobs/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "geo"
+   ]
   },
   {
    "id": "46e9c7984e27c263",
@@ -166,83 +241,17 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
-  },
-  {
-   "id": "2381f5d108ea98ef",
-   "ts": 1793917800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Nasdaq 100 suffers worst day since 2020",
-   "url": "https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/",
-   "domain": "investinglive.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "ca15d219cb8d8881",
-   "ts": 1793917800,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Keel Infrastructure ( KEEL ) Q3 2026 Earnings Call Transcript",
-   "url": "https://www.aol.com/articles/keel-infrastructure-keel-q3-2026-215015000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "70b09e083b84dff3",
-   "ts": 1793916003,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "CFTC Issues Impartial Access Requirements Interpretation",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9323-26",
-   "domain": "CFTC",
-   "org": "CFTC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "9860cc0c1d8be293",
-   "ts": 1793916000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Nasdaq Selloff Fails To Deter Retail Buyers As united kingdom Banking Stocks And Space Trusts Also Draw Demand",
-   "url": "https://www.foreignpolicyjournal.com/2026/11/05/nasdaq-selloff-fails-to-deter-retail-buyers-as-uk-banking-stocks-and-space-trusts-also-draw-demand/",
-   "domain": "foreignpolicyjournal.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "71dc9dfe84e24ca6",
-   "ts": 1793916000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Keel Infrastructure ( KEEL ) Q3 2026 Earnings Call Transcript",
-   "url": "https://www.fool.com/earnings/call-transcripts/2026/11/05/keel-infrastructure-keel-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
-   "domain": "fool.com",
-   "tags": [
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 9
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -254,7 +263,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 17
+   "n": 18
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -263,7 +272,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "CFTC": {
    "ok": true,
@@ -275,7 +284,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 6
+   "n": 5
   },
   "Bank of England": {
    "ok": true,
@@ -283,7 +292,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 11
+   "n": 12
   },
   "BIS": {
    "ok": true,
@@ -307,15 +316,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 38
+   "n": 39
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 434
+   "n": 436
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
