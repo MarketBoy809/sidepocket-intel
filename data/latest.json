@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-06T00:04:12Z",
- "generated_ts": 1793923452,
+ "generated_at": "2026-11-06T06:26:28Z",
+ "generated_ts": 1793946388,
  "prices": {
   "BTC": {
-   "p": 76199.2,
+   "p": 75532.9,
    "o": 75979.9,
-   "h": 80827.6,
+   "h": 80725.9,
    "l": 75100.0,
-   "v": 5117.20287744
+   "v": 5347.75859427
   },
   "ETH": {
-   "p": 2242.79,
+   "p": 2224.23,
    "o": 2235.09,
-   "h": 2434.14,
+   "h": 2432.44,
    "l": 2202.12,
-   "v": 53723.74398199
+   "v": 58438.89031819
   },
   "SOL": {
-   "p": 89.73,
+   "p": 89.61,
    "o": 89.22,
    "h": 96.99,
    "l": 88.1,
-   "v": 420743.89768905
+   "v": 420656.03596116
   }
  },
  "change_7d": {
-  "BTC": -0.02328699299681557,
-  "ETH": -0.006106727630162705,
-  "SOL": -0.06469539687532769
+  "BTC": -0.03567753793896825,
+  "ETH": -0.005423789492526578,
+  "SOL": -0.08657875907185934
  },
  "sentiment": {
-  "score": 40.0,
+  "score": 37.1,
   "label": "Fear",
   "components": {
    "fng": 28.0,
-   "momentum": 44.17825175079611,
-   "news_tone": 38.71666666666667,
-   "crowding": 63.6875
+   "momentum": 41.08061551525794,
+   "news_tone": 26.583333333333332,
+   "crowding": 63.4592655
   },
   "weights": {
    "fng": 0.35,
@@ -51,26 +51,40 @@
   "label": "Fear",
   "ts": 1793923200
  },
- "news_tone_24h": -0.677,
+ "news_tone_24h": -1.405,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3080010748.2359595,
-   "premium": -0.0001310307
+   "oi_usd": 3080575680.03782,
+   "premium": -6.47789e-05
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2159022956.3587346,
-   "premium": -0.0003206384
+   "oi_usd": 2146873098.5315998,
+   "premium": -0.0002289357
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 482203359.9631998,
-   "premium": -0.0002670078
+   "funding_h": 1.18747e-05,
+   "oi_usd": 480628045.5258,
+   "premium": -0.0004011813
   }
  },
- "items_24h": 153,
+ "items_24h": 274,
  "top_items": [
+  {
+   "id": "559b4014ef2996f8",
+   "ts": 1793930400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "IMES Discussion Paper Series (2026)",
+   "url": "http://www.boj.or.jp/en/research/imes/dps/dps26.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
   {
    "id": "916c9f406706e922",
    "ts": 1793921400,
@@ -218,27 +232,13 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "26d3012260db32ae",
-   "ts": 1793880000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
-   "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 24
+   "n": 32
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -250,7 +250,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 5
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -283,7 +283,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 17
+   "n": 12
   },
   "BIS": {
    "ok": true,
@@ -311,16 +311,15 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 438
+   "n": 437
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 20
   },
   "Reddit r/Bitcoin": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 24
   }
  }
 }
