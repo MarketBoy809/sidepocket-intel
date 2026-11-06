@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-11-06T06:26:28Z",
- "generated_ts": 1793946388,
+ "generated_at": "2026-11-06T14:56:21Z",
+ "generated_ts": 1793976981,
  "prices": {
   "BTC": {
-   "p": 75532.9,
+   "p": 75426.7,
    "o": 75979.9,
-   "h": 80725.9,
+   "h": 78307.5,
    "l": 75100.0,
-   "v": 5347.75859427
+   "v": 5010.44975992
   },
   "ETH": {
-   "p": 2224.23,
+   "p": 2224.45,
    "o": 2235.09,
-   "h": 2432.44,
+   "h": 2344.76,
    "l": 2202.12,
-   "v": 58438.89031819
+   "v": 61572.30703761
   },
   "SOL": {
-   "p": 89.61,
+   "p": 90.72,
    "o": 89.22,
-   "h": 96.99,
+   "h": 93.09,
    "l": 88.1,
-   "v": 420656.03596116
+   "v": 422586.53476247
   }
  },
  "change_7d": {
-  "BTC": -0.03567753793896825,
-  "ETH": -0.005423789492526578,
-  "SOL": -0.08657875907185934
+  "BTC": -0.015421105820064547,
+  "ETH": 0.005224881416343451,
+  "SOL": -0.05079932688262514
  },
  "sentiment": {
-  "score": 37.1,
+  "score": 40.3,
   "label": "Fear",
   "components": {
    "fng": 28.0,
-   "momentum": 41.08061551525794,
-   "news_tone": 26.583333333333332,
-   "crowding": 63.4592655
+   "momentum": 46.14472354498386,
+   "crowding": 61.429975
   },
   "weights": {
    "fng": 0.35,
@@ -51,26 +50,70 @@
   "label": "Fear",
   "ts": 1793923200
  },
- "news_tone_24h": -1.405,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3080575680.03782,
-   "premium": -6.47789e-05
+   "oi_usd": 3194281227.97896,
+   "premium": -0.0001601841
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2146873098.5315998,
-   "premium": -0.0002289357
+   "oi_usd": 2160018712.3334394,
+   "premium": -0.0003904549
   },
   "SOL": {
-   "funding_h": 1.18747e-05,
-   "oi_usd": 480628045.5258,
-   "premium": -0.0004011813
+   "funding_h": 6.315e-06,
+   "oi_usd": 487960870.7200004,
+   "premium": -0.0005074851
   }
  },
- "items_24h": 274,
+ "items_24h": 314,
  "top_items": [
+  {
+   "id": "7637531486d8983c",
+   "ts": 1793965712,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "NEWSMAX: \"Trump is a Winner, and he's right on Iran!\"",
+   "url": "https://truthsocial.com/@realDonaldTrump/117569336938341217",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 12302
+  },
+  {
+   "id": "46e9c7984e27c263",
+   "ts": 1793955600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "ECB publishes consolidated banking data for end-June 2026",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "0cd226d6c2f69325",
+   "ts": 1793948400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "(IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop",
+   "url": "http://www.boj.or.jp/en/about/release_2026/rel261106b.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
   {
    "id": "559b4014ef2996f8",
    "ts": 1793930400,
@@ -189,56 +232,13 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "f998e537e8ad823f",
-   "ts": 1793902426,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "CFTC Staff Addresses Use of Trust Companies for Daily Settlements",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9322-26",
-   "domain": "CFTC",
-   "org": "CFTC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "772f3a398f217a5e",
-   "ts": 1793896267,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "First Lady Melania Trump Unites Russia and Ukraine at The White House Following Historic Ceasefire",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": [
-    "geo",
-    "regulation"
-   ]
-  },
-  {
-   "id": "0224349908e0b1c1",
-   "ts": 1793894400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 32
+   "n": 9
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -275,7 +275,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 7
+   "n": 6
   },
   "Bank of England": {
    "ok": true,
@@ -283,7 +283,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 12
+   "n": 11
   },
   "BIS": {
    "ok": true,
@@ -307,19 +307,20 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 37
+   "n": 38
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 437
+   "n": 434
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 22
   },
   "Reddit r/Bitcoin": {
-   "ok": true,
-   "n": 24
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
