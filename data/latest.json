@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-07T18:39:32Z",
- "generated_ts": 1794076772,
+ "generated_at": "2026-11-07T22:38:56Z",
+ "generated_ts": 1794091136,
  "prices": {
   "BTC": {
-   "p": 75714.2,
+   "p": 75676.9,
    "o": 75741.6,
    "h": 76146.9,
-   "l": 75525.0,
-   "v": 910.14947246
+   "l": 75467.1,
+   "v": 847.21020403
   },
   "ETH": {
-   "p": 2233.2,
+   "p": 2231.65,
    "o": 2235.4,
-   "h": 2250.6,
-   "l": 2222.56,
-   "v": 11372.15468048
+   "h": 2249.2,
+   "l": 2220.01,
+   "v": 12052.26716448
   },
   "SOL": {
-   "p": 89.57,
+   "p": 89.22,
    "o": 90.02,
-   "h": 90.6,
-   "l": 89.1,
-   "v": 104467.48117916
+   "h": 90.55,
+   "l": 88.62,
+   "v": 103098.55551466
   }
  },
  "change_7d": {
-  "BTC": -0.023519699264716854,
-  "ETH": -0.008724996114823653,
-  "SOL": -0.06518564872757614
+  "BTC": -0.024320232475314323,
+  "ETH": -0.010285846196190229,
+  "SOL": -0.06903394255874673
  },
  "sentiment": {
-  "score": 36.3,
+  "score": 37.0,
   "label": "Fear",
   "components": {
    "fng": 25.0,
-   "momentum": 44.12007518382079,
-   "news_tone": 28.733333333333334,
-   "crowding": 59.7723275
+   "momentum": 43.91994188117142,
+   "news_tone": 31.783333333333335,
+   "crowding": 60.831776500000004
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +51,25 @@
   "label": "Extreme Fear",
   "ts": 1794009600
  },
- "news_tone_24h": -1.276,
+ "news_tone_24h": -1.093,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3132128498.85936,
-   "premium": -0.0001938777
+   "oi_usd": 3144823633.5542197,
+   "premium": -0.0002850183
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2166417989.8128,
-   "premium": -0.0003934755
+   "oi_usd": 2191074815.9360003,
+   "premium": -0.0003579739
   },
   "SOL": {
-   "funding_h": 1.7735e-06,
-   "oi_usd": 500496112.06957614,
-   "premium": -0.0005129635
+   "funding_h": 4.6761e-06,
+   "oi_usd": 497779413.6756003,
+   "premium": -0.0006066372
   }
  },
- "items_24h": 172,
+ "items_24h": 165,
  "top_items": [
   {
    "id": "2435e6dbbd07ea29",
@@ -87,6 +87,38 @@
    ],
    "author": "Donald Trump",
    "score": 28202
+  },
+  {
+   "id": "f50d14f9721114ac",
+   "ts": 1794077115,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The threats being made by the Democrat Party against innocent Republican Donors and Party Members are absolutely unprecedented, and totally illegal. Please report them to the Department of Justice, IMMEDIATELY! If you would like, send them directly to me, your President. These SL",
+   "url": "https://truthsocial.com/@realDonaldTrump/117576637813209602",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 17944
+  },
+  {
+   "id": "63f8a20469e3c454",
+   "ts": 1794081309,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Daniel Sullivan is leading substantially in the Alaska Senatorial Race. When you add Daniel (3,600, 1.68%) into Dan, and Gerald Heikes (4,846, 2.27%), Senator Dan Sullivan is up by thousands of Votes. Remember, Heikes was also fraudulently put into the Race. I don't know what tak",
+   "url": "https://truthsocial.com/@realDonaldTrump/117576912671985823",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 10300
   },
   {
    "id": "71240352f25b849c",
@@ -145,18 +177,58 @@
    ]
   },
   {
-   "id": "27bf9b212c8b474d",
-   "ts": 1794002215,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "President Trump Names Stephen Miller as 33rd White House Chief of Staff",
-   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/",
-   "domain": "White House",
-   "org": "White House",
+   "id": "09cdf5ed86b02315",
+   "ts": 1794088800,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "River Valley Capital : What Traders Should Know About Xaura Evaluation Limited",
+   "url": "https://gisuser.com/2026/11/river-valley-capital-what-traders-should-know-about-xaura-evaluation-limited/",
+   "domain": "gisuser.com",
    "tags": [
-    "regulation"
+    "crypto"
    ]
+  },
+  {
+   "id": "09cdf5ed86b02315",
+   "ts": 1794088800,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "River Valley Capital : What Traders Should Know About Xaura Evaluation Limited",
+   "url": "https://gisuser.com/2026/11/river-valley-capital-what-traders-should-know-about-xaura-evaluation-limited/",
+   "domain": "gisuser.com",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "2a70a9bf3c53b7cb",
+   "ts": 1794078796,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+   "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "0c755c7ce720989c",
+   "ts": 1794077331,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "the “EU entity” zachxbt was tracking turned out to be credit mutuel arkea, $133M taken from the bank’s own account",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xqdrnk/the_eu_entity_zachxbt_was_tracking_turned_out_to/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
   },
   {
    "id": "61273f9b5f4c343d",
@@ -171,84 +243,17 @@
     "crypto"
    ],
    "score": 0
-  },
-  {
-   "id": "5eb35dafcf2b422b",
-   "ts": 1794074400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Inflation , housing , jobs and corporate earnings will dominate the business calendar this week",
-   "url": "https://abcnews.com/Business/wireStory/inflation-housing-jobs-corporate-earnings-dominate-business-calendar-137941014",
-   "domain": "abcnews.com",
-   "tags": [
-    "macro",
-    "geo"
-   ]
-  },
-  {
-   "id": "2e192f3a888a01ca",
-   "ts": 1794074400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "From high - flying AI stocks to tariff - hit alcohol companies , the midterms shook up Wall Street",
-   "url": "https://abcnews.com/Business/wireStory/high-flying-ai-stocks-tariff-hit-alcohol-companies-137938660",
-   "domain": "abcnews.com",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "328abc971fe05298",
-   "ts": 1794074400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Inflation , housing , jobs and corporate earnings will dominate the business calendar this week",
-   "url": "http://www.wdtimes.com/news/national/inflation-housing-jobs-and-corporate-earnings-will-dominate-the-business-calendar-this-week/article_b5a029a8-f4e0-5459-9cc3-0710f814d2b9.html",
-   "domain": "wdtimes.com",
-   "tags": [
-    "macro",
-    "geo"
-   ]
-  },
-  {
-   "id": "a0f31330349e6ba8",
-   "ts": 1794074400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Gold at $3 , 800 – 4 , 000 : Could an AI spending crash trigger the next bullion rally ? Jefferies explains",
-   "url": "https://www.businesstoday.in/markets/story/gold-at-3800-4000-could-an-ai-spending-crash-trigger-the-next-bullion-rally-jefferies-explains-566338-2026-11-07",
-   "domain": "businesstoday.in",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "ab1f6137b1be9184",
-   "ts": 1794074400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "From high - flying AI stocks to tariff - hit alcohol companies , the midterms shook up Wall Street",
-   "url": "https://www.nvdaily.com/associated_press_national/from-high-flying-ai-stocks-to-tariff-hit-alcohol-companies-the-midterms-shook-up-wall/article_47c0ae4b-6079-5863-8d8a-28761a1271f9.html",
-   "domain": "nvdaily.com",
-   "tags": [
-    "geo"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 3
+   "n": 1
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -317,11 +322,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 352
+   "n": 297
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 16
+   "n": 15
   },
   "Reddit r/Bitcoin": {
    "ok": false,
