@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-06T20:48:33Z",
- "generated_ts": 1793998113,
+ "generated_at": "2026-11-07T00:50:23Z",
+ "generated_ts": 1794012623,
  "prices": {
   "BTC": {
-   "p": 75794.0,
-   "o": 75979.9,
-   "h": 76300.7,
+   "p": 75785.2,
+   "o": 75741.6,
+   "h": 76270.9,
    "l": 74790.0,
-   "v": 2957.85722581
+   "v": 2282.32766035
   },
   "ETH": {
-   "p": 2230.7,
-   "o": 2235.09,
-   "h": 2251.77,
+   "p": 2237.34,
+   "o": 2235.4,
+   "h": 2250.6,
    "l": 2201.26,
-   "v": 42139.32313319
+   "v": 31756.06283486
   },
   "SOL": {
-   "p": 89.85,
-   "o": 89.22,
+   "p": 90.07,
+   "o": 90.02,
    "h": 91.47,
-   "l": 88.1,
-   "v": 250983.83242689
+   "l": 88.82,
+   "v": 201446.77068368
   }
  },
  "change_7d": {
-  "BTC": -0.01231134817781047,
-  "ETH": -0.0012975217334890766,
-  "SOL": -0.04819786491914176
+  "BTC": -0.01877911522119217,
+  "ETH": -0.0025434279161294705,
+  "SOL": -0.06375455018200737
  },
  "sentiment": {
-  "score": 35.7,
+  "score": 33.4,
   "label": "Fear",
   "components": {
-   "fng": 28.0,
-   "momentum": 46.922162955547385,
-   "news_tone": 18.78333333333333,
-   "crowding": 55.7872575
+   "fng": 25.0,
+   "momentum": 45.30522119470196,
+   "news_tone": 14.133333333333331,
+   "crowding": 56.637087
   },
   "weights": {
    "fng": 0.35,
@@ -47,29 +47,29 @@
   }
  },
  "fear_greed": {
-  "value": 28,
-  "label": "Fear",
-  "ts": 1793923200
+  "value": 25,
+  "label": "Extreme Fear",
+  "ts": 1794009600
  },
- "news_tone_24h": -1.873,
+ "news_tone_24h": -2.152,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3212503733.328552,
-   "premium": -6.71856e-05
+   "oi_usd": 3203953213.29248,
+   "premium": -0.0002358587
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2194358116.7635202,
-   "premium": -0.0003043895
+   "oi_usd": 2193217079.352,
+   "premium": -0.0001517559
   },
   "SOL": {
-   "funding_h": -9.1445e-06,
-   "oi_usd": 513368444.4798001,
-   "premium": -0.0006668519
+   "funding_h": -6.8162e-06,
+   "oi_usd": 512970300.82060003,
+   "premium": -0.0004545707
   }
  },
- "items_24h": 301,
+ "items_24h": 272,
  "top_items": [
   {
    "id": "087c061a690d7112",
@@ -148,6 +148,20 @@
    ]
   },
   {
+   "id": "d1a1c4e473bcf6e4",
+   "ts": 1793980800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Speech by Governor UEDA at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund",
+   "url": "https://www.boj.or.jp/en/about/press/koen_2026/ko261107a.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
    "id": "6c82aec322ef3fa5",
    "ts": 1793980591,
    "source": "government",
@@ -190,6 +204,20 @@
    ]
   },
   {
+   "id": "32a0edddd171c326",
+   "ts": 1793948400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "(IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop",
+   "url": "https://www.boj.or.jp/en/about/release_2026/rel261106b.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
    "id": "559b4014ef2996f8",
    "ts": 1793930400,
    "source": "central_bank",
@@ -204,43 +232,18 @@
    ]
   },
   {
-   "id": "916c9f406706e922",
-   "ts": 1793921400,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "How Much Will One Bitcoin Be Worth in 2030 ?",
-   "url": "https://247wallst.com/investing/cryptocurrency/2026/11/05/how-much-will-one-bitcoin-be-worth-in-2030-2/",
-   "domain": "247wallst.com",
+   "id": "bf8a55cdd10f858f",
+   "ts": 1793930400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "IMES Discussion Paper Series (2026)",
+   "url": "https://www.boj.or.jp/en/research/imes/dps/dps26.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
    "tags": [
-    "crypto",
-    "BTC",
-    "institution"
+    "macro"
    ]
-  },
-  {
-   "id": "038a42d25e87d1e3",
-   "ts": 1793919224,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Fact Sheet: President Donald J. Trump Establishes the Oval Office as a National Monument",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-establishes-the-oval-office-as-a-national-monument/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "0d039f10a6623c9d",
-   "ts": 1793919116,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -251,7 +254,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -263,7 +266,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 18
+   "n": 16
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -320,11 +323,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 436
+   "n": 383
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 18
   },
   "Reddit r/Bitcoin": {
    "ok": false,
