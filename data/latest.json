@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-11-07T13:53:52Z",
- "generated_ts": 1794059632,
+ "generated_at": "2026-11-07T18:39:32Z",
+ "generated_ts": 1794076772,
  "prices": {
   "BTC": {
-   "p": 75836.3,
+   "p": 75714.2,
    "o": 75741.6,
    "h": 76146.9,
-   "l": 74790.0,
-   "v": 1670.23074532
+   "l": 75525.0,
+   "v": 910.14947246
   },
   "ETH": {
-   "p": 2242.47,
+   "p": 2233.2,
    "o": 2235.4,
    "h": 2250.6,
-   "l": 2201.26,
-   "v": 20303.71780544
+   "l": 2222.56,
+   "v": 11372.15468048
   },
   "SOL": {
-   "p": 89.87,
+   "p": 89.57,
    "o": 90.02,
-   "h": 91.47,
-   "l": 89.52,
-   "v": 145846.4297928
+   "h": 90.6,
+   "l": 89.1,
+   "v": 104467.48117916
   }
  },
  "change_7d": {
-  "BTC": -0.0206352495977814,
-  "ETH": -0.004787517780938826,
-  "SOL": -0.06537378792618076
+  "BTC": -0.023519699264716854,
+  "ETH": -0.008724996114823653,
+  "SOL": -0.06518564872757614
  },
  "sentiment": {
-  "score": 38.3,
+  "score": 36.3,
   "label": "Fear",
   "components": {
    "fng": 25.0,
-   "momentum": 44.84118760055465,
-   "crowding": 60.8145485
+   "momentum": 44.12007518382079,
+   "news_tone": 28.733333333333334,
+   "crowding": 59.7723275
   },
   "weights": {
    "fng": 0.35,
@@ -50,57 +51,56 @@
   "label": "Extreme Fear",
   "ts": 1794009600
  },
- "news_tone_24h": null,
+ "news_tone_24h": -1.276,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3170443225.7505603,
-   "premium": -0.0003028866
+   "oi_usd": 3132128498.85936,
+   "premium": -0.0001938777
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2185558726.203,
-   "premium": -0.0003117485
+   "oi_usd": 2166417989.8128,
+   "premium": -0.0003934755
   },
   "SOL": {
-   "funding_h": 4.6289e-06,
-   "oi_usd": 504604193.44380003,
-   "premium": -0.0004001111
+   "funding_h": 1.7735e-06,
+   "oi_usd": 500496112.06957614,
+   "premium": -0.0005129635
   }
  },
- "items_24h": 144,
+ "items_24h": 172,
  "top_items": [
   {
-   "id": "087c061a690d7112",
-   "ts": 1793988581,
+   "id": "2435e6dbbd07ea29",
+   "ts": 1794073504,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "Israel and, in fact, the entire Middle East, WOULD NOT EXIST TODAY if I did not stop Iran from having a Nuclear Weapon. Nobody wants to say that, but everybody knows it's true! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117570835652141710",
+   "title": "The Democrats are going around threatening a lot of people, including the Attorney General of the United States, and others, with Impeachment and many other forms of punishment, even though they admit they have no reason to do so, and there have been no impeachable acts committed",
+   "url": "https://truthsocial.com/@realDonaldTrump/117576401180733840",
    "domain": "truthsocial.com",
    "tags": [
-    "geo"
+    "geo",
+    "regulation"
    ],
    "author": "Donald Trump",
-   "score": 16008
+   "score": 28202
   },
   {
-   "id": "310eae0a7ac09052",
-   "ts": 1793988327,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "MAGA Warrior Joe Gruters, who has been with us from the very beginning, is running to continue as Chairman of the Republican National Committee. As Chairman, Joe turned the RNC into an efficient, focused, and powerful machine that will continue to empower the America First Agenda",
-   "url": "https://truthsocial.com/@realDonaldTrump/117570819049322754",
-   "domain": "truthsocial.com",
+   "id": "71240352f25b849c",
+   "ts": 1794060000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
    "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 9230
+    "macro"
+   ]
   },
   {
    "id": "2b23d86a43cfe085",
@@ -159,85 +159,82 @@
    ]
   },
   {
-   "id": "9c670e6c7840ddd8",
-   "ts": 1793987490,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "What They Are Saying: Blowout October Jobs Report Smashes Expectations",
-   "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/",
-   "domain": "White House",
-   "org": "White House",
+   "id": "61273f9b5f4c343d",
+   "ts": 1794074991,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "FTX: Descent into Madness is a biting mockumentary about a crypto company's downfall",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xqcu7a/ftx_descent_into_madness_is_a_biting_mockumentary/",
+   "domain": "r/CryptoCurrency",
    "tags": [
-    "macro"
+    "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "5eb35dafcf2b422b",
+   "ts": 1794074400,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Inflation , housing , jobs and corporate earnings will dominate the business calendar this week",
+   "url": "https://abcnews.com/Business/wireStory/inflation-housing-jobs-corporate-earnings-dominate-business-calendar-137941014",
+   "domain": "abcnews.com",
+   "tags": [
+    "macro",
+    "geo"
    ]
   },
   {
-   "id": "c6980d7a214f9603",
-   "ts": 1793980800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Speech by Governor UEDA at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund",
-   "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261107a.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "d1a1c4e473bcf6e4",
-   "ts": 1793980800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Speech by Governor UEDA at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund",
-   "url": "https://www.boj.or.jp/en/about/press/koen_2026/ko261107a.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "6c82aec322ef3fa5",
-   "ts": 1793980591,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "President Trump Was Right: Tariffs and Tax Cuts Are Reshoring Manufacturing, Creating Jobs",
-   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-was-right-tariffs-and-tax-cuts-are-reshoring-manufacturing-creating-jobs/",
-   "domain": "White House",
-   "org": "White House",
+   "id": "2e192f3a888a01ca",
+   "ts": 1794074400,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "From high - flying AI stocks to tariff - hit alcohol companies , the midterms shook up Wall Street",
+   "url": "https://abcnews.com/Business/wireStory/high-flying-ai-stocks-tariff-hit-alcohol-companies-137938660",
+   "domain": "abcnews.com",
    "tags": [
     "geo"
    ]
   },
   {
-   "id": "f09d7416022d4031",
-   "ts": 1794058200,
+   "id": "328abc971fe05298",
+   "ts": 1794074400,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Bitcoin holders have received eCash — What can you do with it?",
-   "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "title": "Inflation , housing , jobs and corporate earnings will dominate the business calendar this week",
+   "url": "http://www.wdtimes.com/news/national/inflation-housing-jobs-and-corporate-earnings-will-dominate-the-business-calendar-this-week/article_b5a029a8-f4e0-5459-9cc3-0710f814d2b9.html",
+   "domain": "wdtimes.com",
    "tags": [
-    "crypto",
-    "BTC"
+    "macro",
+    "geo"
    ]
   },
   {
-   "id": "92caab3582cb90fb",
-   "ts": 1794051000,
+   "id": "a0f31330349e6ba8",
+   "ts": 1794074400,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "U . S . job growth beats expectations in October , but labor market concerns persist",
-   "url": "http://www.iranherald.com/news/279418268/us-job-growth-beats-expectations-in-october-but-labor-market-concerns-persist",
-   "domain": "iranherald.com",
+   "title": "Gold at $3 , 800 – 4 , 000 : Could an AI spending crash trigger the next bullion rally ? Jefferies explains",
+   "url": "https://www.businesstoday.in/markets/story/gold-at-3800-4000-could-an-ai-spending-crash-trigger-the-next-bullion-rally-jefferies-explains-566338-2026-11-07",
+   "domain": "businesstoday.in",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
+   "id": "ab1f6137b1be9184",
+   "ts": 1794074400,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "From high - flying AI stocks to tariff - hit alcohol companies , the midterms shook up Wall Street",
+   "url": "https://www.nvdaily.com/associated_press_national/from-high-flying-ai-stocks-to-tariff-hit-alcohol-companies-the-midterms-shook-up-wall/article_47c0ae4b-6079-5863-8d8a-28761a1271f9.html",
+   "domain": "nvdaily.com",
    "tags": [
     "geo"
    ]
@@ -247,7 +244,7 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 3
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -259,7 +256,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 3
+   "n": 0
   },
   "White House": {
    "ok": true,
@@ -284,7 +281,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "Bank of England": {
    "ok": true,
@@ -320,11 +317,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 383
+   "n": 352
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 18
+   "n": 16
   },
   "Reddit r/Bitcoin": {
    "ok": false,
