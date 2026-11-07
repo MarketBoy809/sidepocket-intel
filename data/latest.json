@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-11-07T00:50:23Z",
- "generated_ts": 1794012623,
+ "generated_at": "2026-11-07T06:59:58Z",
+ "generated_ts": 1794034798,
  "prices": {
   "BTC": {
-   "p": 75785.2,
+   "p": 75950.5,
    "o": 75741.6,
-   "h": 76270.9,
+   "h": 76258.1,
    "l": 74790.0,
-   "v": 2282.32766035
+   "v": 2063.31269799
   },
   "ETH": {
-   "p": 2237.34,
+   "p": 2243.84,
    "o": 2235.4,
    "h": 2250.6,
    "l": 2201.26,
-   "v": 31756.06283486
+   "v": 28476.31175247
   },
   "SOL": {
-   "p": 90.07,
+   "p": 90.13,
    "o": 90.02,
    "h": 91.47,
-   "l": 88.82,
-   "v": 201446.77068368
+   "l": 89.03,
+   "v": 179580.13571619
   }
  },
  "change_7d": {
-  "BTC": -0.01877911522119217,
-  "ETH": -0.0025434279161294705,
-  "SOL": -0.06375455018200737
+  "BTC": -0.015416089045263823,
+  "ETH": 0.0029432125231681695,
+  "SOL": -0.058485639686684014
  },
  "sentiment": {
-  "score": 33.4,
+  "score": 38.0,
   "label": "Fear",
   "components": {
    "fng": 25.0,
-   "momentum": 45.30522119470196,
-   "news_tone": 14.133333333333331,
-   "crowding": 56.637087
+   "momentum": 46.145977738684046,
+   "crowding": 57.405156500000004
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +50,25 @@
   "label": "Extreme Fear",
   "ts": 1794009600
  },
- "news_tone_24h": -2.152,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3203953213.29248,
-   "premium": -0.0002358587
+   "oi_usd": 3199426880.968073,
+   "premium": -0.0002445772
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2193217079.352,
-   "premium": -0.0001517559
+   "oi_usd": 2193328850.0632,
+   "premium": -0.0002225585
   },
   "SOL": {
-   "funding_h": -6.8162e-06,
-   "oi_usd": 512970300.82060003,
-   "premium": -0.0004545707
+   "funding_h": -4.7119e-06,
+   "oi_usd": 509210502.1290001,
+   "premium": -0.0005540473
   }
  },
- "items_24h": 272,
+ "items_24h": 176,
  "top_items": [
   {
    "id": "087c061a690d7112",
@@ -118,6 +117,20 @@
    ],
    "author": "Donald Trump",
    "score": 9230
+  },
+  {
+   "id": "27bf9b212c8b474d",
+   "ts": 1794002215,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Names Stephen Miller as 33rd White House Chief of Staff",
+   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "regulation"
+   ]
   },
   {
    "id": "9c670e6c7840ddd8",
@@ -218,32 +231,18 @@
    ]
   },
   {
-   "id": "559b4014ef2996f8",
-   "ts": 1793930400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "IMES Discussion Paper Series (2026)",
-   "url": "http://www.boj.or.jp/en/research/imes/dps/dps26.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
+   "id": "38e53a03315a8207",
+   "ts": 1794034845,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Daily Discussion, November 07, 2026",
+   "url": "https://www.reddit.com/r/Bitcoin/comments/1xq02qr/daily_discussion_november_07_2026/",
+   "domain": "r/Bitcoin",
    "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "bf8a55cdd10f858f",
-   "ts": 1793930400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "IMES Discussion Paper Series (2026)",
-   "url": "https://www.boj.or.jp/en/research/imes/dps/dps26.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
+    "crypto"
+   ],
+   "score": 0
   }
  ],
  "briefing_ts": 1790465772,
@@ -254,7 +253,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -266,7 +265,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 16
+   "n": 19
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -327,12 +326,11 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 18
+   "n": 17
   },
   "Reddit r/Bitcoin": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 24
   }
  }
 }
