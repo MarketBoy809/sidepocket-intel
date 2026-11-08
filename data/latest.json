@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-07T22:38:56Z",
- "generated_ts": 1794091136,
+ "generated_at": "2026-11-08T02:18:06Z",
+ "generated_ts": 1794104286,
  "prices": {
   "BTC": {
-   "p": 75676.9,
-   "o": 75741.6,
+   "p": 75589.9,
+   "o": 75750.2,
    "h": 76146.9,
    "l": 75467.1,
-   "v": 847.21020403
+   "v": 674.15682065
   },
   "ETH": {
-   "p": 2231.65,
-   "o": 2235.4,
+   "p": 2229.41,
+   "o": 2236.62,
    "h": 2249.2,
    "l": 2220.01,
-   "v": 12052.26716448
+   "v": 11707.66097157
   },
   "SOL": {
-   "p": 89.22,
-   "o": 90.02,
-   "h": 90.55,
+   "p": 88.84,
+   "o": 89.68,
+   "h": 90.52,
    "l": 88.62,
-   "v": 103098.55551466
+   "v": 106142.26921257
   }
  },
  "change_7d": {
-  "BTC": -0.024320232475314323,
-  "ETH": -0.010285846196190229,
-  "SOL": -0.06903394255874673
+  "BTC": -0.025171264591372016,
+  "ETH": -0.01588099838543183,
+  "SOL": -0.06867671691792297
  },
  "sentiment": {
-  "score": 37.0,
+  "score": 39.0,
   "label": "Fear",
   "components": {
-   "fng": 25.0,
-   "momentum": 43.91994188117142,
-   "news_tone": 31.783333333333335,
-   "crowding": 60.831776500000004
+   "fng": 28.0,
+   "momentum": 43.707183852156994,
+   "news_tone": 41.166666666666664,
+   "crowding": 56.04294
   },
   "weights": {
    "fng": 0.35,
@@ -47,29 +47,29 @@
   }
  },
  "fear_greed": {
-  "value": 25,
-  "label": "Extreme Fear",
-  "ts": 1794009600
+  "value": 28,
+  "label": "Fear",
+  "ts": 1794096000
  },
- "news_tone_24h": -1.093,
+ "news_tone_24h": -0.53,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3144823633.5542197,
-   "premium": -0.0002850183
+   "oi_usd": 3143243879.66266,
+   "premium": -0.0002034308
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2191074815.9360003,
-   "premium": -0.0003579739
+   "funding_h": 7.8517e-06,
+   "oi_usd": 2180502173.41376,
+   "premium": -0.0004478681
   },
   "SOL": {
-   "funding_h": 4.6761e-06,
-   "oi_usd": 497779413.6756003,
-   "premium": -0.0006066372
+   "funding_h": -3.7957e-06,
+   "oi_usd": 490588699.36858004,
+   "premium": -0.0005508403
   }
  },
- "items_24h": 165,
+ "items_24h": 116,
  "top_items": [
   {
    "id": "2435e6dbbd07ea29",
@@ -119,6 +119,18 @@
    ],
    "author": "Donald Trump",
    "score": 10300
+  },
+  {
+   "id": "a08b2bfcd82b772e",
+   "ts": 1794079919,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "First Lady Melania Trump and LSU Establish $7.2 Million Fostering the Future Endowment Fund",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-7-2-million-fostering-the-future-endowment-fund/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "71240352f25b849c",
@@ -177,14 +189,27 @@
    ]
   },
   {
-   "id": "09cdf5ed86b02315",
-   "ts": 1794088800,
+   "id": "335adaad4df935b6",
+   "ts": 1794096000,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "River Valley Capital : What Traders Should Know About Xaura Evaluation Limited",
-   "url": "https://gisuser.com/2026/11/river-valley-capital-what-traders-should-know-about-xaura-evaluation-limited/",
-   "domain": "gisuser.com",
+   "title": "Dick Spotswood : Election results prove Marin Republicans are in strange spot",
+   "url": "https://www.marinij.com/2026/11/07/dick-spotswood-election-results-prove-marin-republicans-are-in-strange-spot/",
+   "domain": "marinij.com",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "ac3bc7a681e61ae5",
+   "ts": 1794096000,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "3 Men Charged in Alleged $129M Scheme to Impersonate CEOs With Superintelligence",
+   "url": "https://wcbm.com/national-headline/3-men-charged-in-alleged-129m-scheme-to-impersonate-ceos-with-superintelligence/",
+   "domain": "wcbm.com",
    "tags": [
     "crypto"
    ]
@@ -203,53 +228,24 @@
    ]
   },
   {
-   "id": "2a70a9bf3c53b7cb",
-   "ts": 1794078796,
+   "id": "09cdf5ed86b02315",
+   "ts": 1794088800,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-   "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
+   "title": "River Valley Capital : What Traders Should Know About Xaura Evaluation Limited",
+   "url": "https://gisuser.com/2026/11/river-valley-capital-what-traders-should-know-about-xaura-evaluation-limited/",
+   "domain": "gisuser.com",
    "tags": [
     "crypto"
    ]
-  },
-  {
-   "id": "0c755c7ce720989c",
-   "ts": 1794077331,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "the “EU entity” zachxbt was tracking turned out to be credit mutuel arkea, $133M taken from the bank’s own account",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xqdrnk/the_eu_entity_zachxbt_was_tracking_turned_out_to/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "61273f9b5f4c343d",
-   "ts": 1794074991,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "FTX: Descent into Madness is a biting mockumentary about a crypto company's downfall",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xqcu7a/ftx_descent_into_madness_is_a_biting_mockumentary/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -265,7 +261,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 18
+   "n": 19
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -325,8 +321,9 @@
    "n": 297
   },
   "Reddit r/CryptoCurrency": {
-   "ok": true,
-   "n": 15
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   },
   "Reddit r/Bitcoin": {
    "ok": false,
