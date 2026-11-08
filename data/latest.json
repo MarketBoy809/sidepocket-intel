@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-08T10:09:01Z",
- "generated_ts": 1794132541,
+ "generated_at": "2026-11-08T16:59:30Z",
+ "generated_ts": 1794157170,
  "prices": {
   "BTC": {
-   "p": 75788.0,
+   "p": 75663.2,
    "o": 75750.2,
-   "h": 75980.4,
+   "h": 76096.2,
    "l": 75467.1,
-   "v": 615.03871159
+   "v": 703.60970884
   },
   "ETH": {
-   "p": 2232.77,
+   "p": 2226.84,
    "o": 2236.62,
-   "h": 2246.19,
+   "h": 2242.86,
    "l": 2220.01,
-   "v": 9384.57801252
+   "v": 9782.57758093
   },
   "SOL": {
-   "p": 89.1,
+   "p": 88.91,
    "o": 89.68,
-   "h": 90.04,
+   "h": 89.83,
    "l": 88.62,
-   "v": 98130.47122057
+   "v": 146744.87652063
   }
  },
  "change_7d": {
-  "BTC": -0.027716209284431876,
-  "ETH": -0.014840655899656918,
-  "SOL": -0.06502359727320386
+  "BTC": -0.024258206517278433,
+  "ETH": -0.010950565639342508,
+  "SOL": -0.053354463814051886
  },
  "sentiment": {
-  "score": 41.2,
+  "score": 39.1,
   "label": "Fear",
   "components": {
    "fng": 28.0,
-   "momentum": 43.07094767889203,
-   "news_tone": 47.083333333333336,
-   "crowding": 63.4964955
+   "momentum": 43.93544837068039,
+   "news_tone": 37.733333333333334,
+   "crowding": 60.043194
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +51,25 @@
   "label": "Fear",
   "ts": 1794096000
  },
- "news_tone_24h": -0.175,
+ "news_tone_24h": -0.736,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3188322894.8186,
-   "premium": -0.0002608771
+   "oi_usd": 3145500940.06664,
+   "premium": -0.0003431573
   },
   "ETH": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2183431754.7571197,
-   "premium": -0.0003890929
+   "oi_usd": 2200796075.8644805,
+   "premium": -0.0003901223
   },
   "SOL": {
-   "funding_h": 1.19767e-05,
-   "oi_usd": 494814744.86080045,
-   "premium": -0.0002802219
+   "funding_h": 2.5156e-06,
+   "oi_usd": 493193547.82988447,
+   "premium": -0.0004829561
   }
  },
- "items_24h": 155,
+ "items_24h": 130,
  "top_items": [
   {
    "id": "2435e6dbbd07ea29",
@@ -105,6 +105,22 @@
    "score": 17944
   },
   {
+   "id": "c21db37348247bf6",
+   "ts": 1794145772,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "America took a giant step back in History with the results of the last Election — Even the Stock Market, which has been a \"ROCKETSHIP\" under \"TRUMP,\" took a one day, 3 Trillion Dollar loss. But have no fear, we will be back, BIGGER AND STRONGER THAN EVER BEFORE! President DONALD ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117581137343877006",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro"
+   ],
+   "author": "Donald Trump",
+   "score": 16637
+  },
+  {
    "id": "63f8a20469e3c454",
    "ts": 1794081309,
    "source": "truth",
@@ -121,6 +137,22 @@
    "score": 10300
   },
   {
+   "id": "46e3fc70903845a4",
+   "ts": 1794153692,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I will be interviewed tonight on \"60 Minutes.\" Hopefully, they will show all the good things we've done over the past 2 years, not even including the First Term, which was incredible. If we get help from the Republican Senate, we can still do things that are unbelievable! Preside",
+   "url": "https://truthsocial.com/@realDonaldTrump/117581656360570548",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6479
+  },
+  {
    "id": "a08b2bfcd82b772e",
    "ts": 1794079919,
    "source": "government",
@@ -133,110 +165,82 @@
    "tags": []
   },
   {
-   "id": "71240352f25b849c",
-   "ts": 1794060000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
+   "id": "e2abda1f94651ee4",
+   "ts": 1794156986,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "The $6.34 Billion Wake-Up Call: Why Every Place You Store Your Money Is Under Siege, and How to Survive the Custody Crisis.",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xr32eq/the_634_billion_wakeup_call_why_every_place_you/",
+   "domain": "r/CryptoCurrency",
    "tags": [
-    "macro"
-   ]
+    "crypto"
+   ],
+   "score": 0
   },
   {
-   "id": "2b23d86a43cfe085",
-   "ts": 1794051000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Vanguard FTSE Europe ETF ( NYSEARCA : VGK ) Share Price Crosses Below Two Hundred Day Moving Average – Here Why",
-   "url": "https://www.tickerreport.com/banking-finance/13653542/vanguard-ftse-europe-etf-nysearcavgk-share-price-crosses-below-two-hundred-day-moving-average-heres-why.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "d0a43a387495566f",
-   "ts": 1794051000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "iShares Robotics and Artificial Intelligence Multisector ETF ( NYSEARCA : IRBO ) Share Price Cross Below 200 - Day Moving Average – Here What Happened",
-   "url": "https://www.tickerreport.com/banking-finance/13653541/ishares-robotics-and-artificial-intelligence-multisector-etf-nysearcairbo-share-price-cross-below-200-day-moving-average-heres-what-happened.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "ed74f40654ef8c55",
-   "ts": 1794051000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Asset Dedication LLC Acquires 78 , 819 Shares of iShares Core MSCI EAFE ETF $IEFA",
-   "url": "https://www.tickerreport.com/banking-finance/13653549/asset-dedication-llc-acquires-78819-shares-of-ishares-core-msci-eafe-etf-iefa.html",
-   "domain": "tickerreport.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "cce0d75cdc0ec5ab",
-   "ts": 1794131328,
+   "id": "01f336af3b94d714",
+   "ts": 1794153600,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
-   "url": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": []
-  },
-  {
-   "id": "288087a74f36e5bc",
-   "ts": 1794130200,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Gold Rally Takes a Pause , But the Long - Term Story Remains Strong say Motilal Oswal Financial Services Precious Metals Report",
-   "url": "https://www.equitybulls.com/news/378742/gold-s-rally-takes-a-pause-but-the-long-term-story-remains-strong-say-s-motilal",
-   "domain": "equitybulls.com",
+   "title": "The Altruists actor Julia Garner on surprising herself",
+   "url": "https://www.cbsnews.com/news/the-altruists-actor-julia-garner-on-surprising-herself/",
+   "domain": "cbsnews.com",
    "tags": [
-    "geo"
+    "crypto"
    ]
   },
   {
-   "id": "af8989dae9d43d1c",
-   "ts": 1794130200,
+   "id": "7c2909402a9e7686",
+   "ts": 1794153600,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Kremlin hopes US election shake - up wont shift Trump negotiations on Ukraine",
-   "url": "https://www.asiaone.com/world/kremlin-hopes-us-election-shake-wont-shift-trumps-negotiations-ukraine",
-   "domain": "asiaone.com",
+   "title": "A Hedge Fund Drawdown Is Not a Credit Recalibration",
+   "url": "https://hedgeco.net/news/11/2026/a-hedge-fund-drawdown-is-not-a-credit-recalibration.html",
+   "domain": "hedgeco.net",
    "tags": [
-    "geo"
+    "crypto"
    ]
   },
   {
-   "id": "c925799509cd50aa",
-   "ts": 1794130200,
+   "id": "1da011a821d6d39d",
+   "ts": 1794153600,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "The Kremlin hopes the US election shake - up wont shift Trump negotiations on Ukraine",
-   "url": "https://www.therecord.com/news/world/europe/the-kremlin-hopes-the-us-election-shake-up-won-t-shift-trump-s-negotiations-on-ukraine/article_6dfa9f04-b4be-5efd-9201-be95888f0c76.html",
-   "domain": "therecord.com",
+   "title": "Hackers steal €100 million from French lender Credit Mutuel Arkea",
+   "url": "http://www.argentinastar.com/news/279414663/hackers-steal-100-million-from-french-lender-credit-mutuel-arkea",
+   "domain": "argentinastar.com",
    "tags": [
-    "geo"
+    "crypto"
+   ]
+  },
+  {
+   "id": "80701b3bb28b6f64",
+   "ts": 1794153600,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Hackers steal €100 million from French lender Credit Mutuel Arkea",
+   "url": "http://www.heraldglobe.com/news/279414663/hackers-steal-100-million-from-french-lender-credit-mutuel-arkea",
+   "domain": "heraldglobe.com",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "1b00510692edcbf5",
+   "ts": 1794153600,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Hackers steal €100 million from French lender Credit Mutuel Arkea",
+   "url": "http://www.sanantoniopost.com/news/279414663/hackers-steal-100-million-from-french-lender-credit-mutuel-arkea",
+   "domain": "sanantoniopost.com",
+   "tags": [
+    "crypto"
    ]
   }
  ],
@@ -244,11 +248,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 2
+   "n": 10
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -260,7 +264,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 19
+   "n": 18
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -317,11 +321,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 297
+   "n": 285
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 13
+   "n": 17
   },
   "Reddit r/Bitcoin": {
    "ok": false,
