@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-08T02:18:06Z",
- "generated_ts": 1794104286,
+ "generated_at": "2026-11-08T10:09:01Z",
+ "generated_ts": 1794132541,
  "prices": {
   "BTC": {
-   "p": 75589.9,
+   "p": 75788.0,
    "o": 75750.2,
-   "h": 76146.9,
+   "h": 75980.4,
    "l": 75467.1,
-   "v": 674.15682065
+   "v": 615.03871159
   },
   "ETH": {
-   "p": 2229.41,
+   "p": 2232.77,
    "o": 2236.62,
-   "h": 2249.2,
+   "h": 2246.19,
    "l": 2220.01,
-   "v": 11707.66097157
+   "v": 9384.57801252
   },
   "SOL": {
-   "p": 88.84,
+   "p": 89.1,
    "o": 89.68,
-   "h": 90.52,
+   "h": 90.04,
    "l": 88.62,
-   "v": 106142.26921257
+   "v": 98130.47122057
   }
  },
  "change_7d": {
-  "BTC": -0.025171264591372016,
-  "ETH": -0.01588099838543183,
-  "SOL": -0.06867671691792297
+  "BTC": -0.027716209284431876,
+  "ETH": -0.014840655899656918,
+  "SOL": -0.06502359727320386
  },
  "sentiment": {
-  "score": 39.0,
+  "score": 41.2,
   "label": "Fear",
   "components": {
    "fng": 28.0,
-   "momentum": 43.707183852156994,
-   "news_tone": 41.166666666666664,
-   "crowding": 56.04294
+   "momentum": 43.07094767889203,
+   "news_tone": 47.083333333333336,
+   "crowding": 63.4964955
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +51,25 @@
   "label": "Fear",
   "ts": 1794096000
  },
- "news_tone_24h": -0.53,
+ "news_tone_24h": -0.175,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3143243879.66266,
-   "premium": -0.0002034308
+   "oi_usd": 3188322894.8186,
+   "premium": -0.0002608771
   },
   "ETH": {
-   "funding_h": 7.8517e-06,
-   "oi_usd": 2180502173.41376,
-   "premium": -0.0004478681
+   "funding_h": 1.25e-05,
+   "oi_usd": 2183431754.7571197,
+   "premium": -0.0003890929
   },
   "SOL": {
-   "funding_h": -3.7957e-06,
-   "oi_usd": 490588699.36858004,
-   "premium": -0.0005508403
+   "funding_h": 1.19767e-05,
+   "oi_usd": 494814744.86080045,
+   "premium": -0.0002802219
   }
  },
- "items_24h": 116,
+ "items_24h": 155,
  "top_items": [
   {
    "id": "2435e6dbbd07ea29",
@@ -189,55 +189,54 @@
    ]
   },
   {
-   "id": "335adaad4df935b6",
-   "ts": 1794096000,
+   "id": "cce0d75cdc0ec5ab",
+   "ts": 1794131328,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Dick Spotswood : Election results prove Marin Republicans are in strange spot",
-   "url": "https://www.marinij.com/2026/11/07/dick-spotswood-election-results-prove-marin-republicans-are-in-strange-spot/",
-   "domain": "marinij.com",
+   "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
+   "url": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": []
+  },
+  {
+   "id": "288087a74f36e5bc",
+   "ts": 1794130200,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Gold Rally Takes a Pause , But the Long - Term Story Remains Strong say Motilal Oswal Financial Services Precious Metals Report",
+   "url": "https://www.equitybulls.com/news/378742/gold-s-rally-takes-a-pause-but-the-long-term-story-remains-strong-say-s-motilal",
+   "domain": "equitybulls.com",
    "tags": [
-    "crypto"
+    "geo"
    ]
   },
   {
-   "id": "ac3bc7a681e61ae5",
-   "ts": 1794096000,
+   "id": "af8989dae9d43d1c",
+   "ts": 1794130200,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "3 Men Charged in Alleged $129M Scheme to Impersonate CEOs With Superintelligence",
-   "url": "https://wcbm.com/national-headline/3-men-charged-in-alleged-129m-scheme-to-impersonate-ceos-with-superintelligence/",
-   "domain": "wcbm.com",
+   "title": "Kremlin hopes US election shake - up wont shift Trump negotiations on Ukraine",
+   "url": "https://www.asiaone.com/world/kremlin-hopes-us-election-shake-wont-shift-trumps-negotiations-ukraine",
+   "domain": "asiaone.com",
    "tags": [
-    "crypto"
+    "geo"
    ]
   },
   {
-   "id": "09cdf5ed86b02315",
-   "ts": 1794088800,
+   "id": "c925799509cd50aa",
+   "ts": 1794130200,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "River Valley Capital : What Traders Should Know About Xaura Evaluation Limited",
-   "url": "https://gisuser.com/2026/11/river-valley-capital-what-traders-should-know-about-xaura-evaluation-limited/",
-   "domain": "gisuser.com",
+   "title": "The Kremlin hopes the US election shake - up wont shift Trump negotiations on Ukraine",
+   "url": "https://www.therecord.com/news/world/europe/the-kremlin-hopes-the-us-election-shake-up-won-t-shift-trump-s-negotiations-on-ukraine/article_6dfa9f04-b4be-5efd-9201-be95888f0c76.html",
+   "domain": "therecord.com",
    "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "09cdf5ed86b02315",
-   "ts": 1794088800,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "River Valley Capital : What Traders Should Know About Xaura Evaluation Limited",
-   "url": "https://gisuser.com/2026/11/river-valley-capital-what-traders-should-know-about-xaura-evaluation-limited/",
-   "domain": "gisuser.com",
-   "tags": [
-    "crypto"
+    "geo"
    ]
   }
  ],
@@ -249,7 +248,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -321,9 +320,8 @@
    "n": 297
   },
   "Reddit r/CryptoCurrency": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 13
   },
   "Reddit r/Bitcoin": {
    "ok": false,
