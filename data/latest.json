@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-11-08T21:03:19Z",
- "generated_ts": 1794171799,
+ "generated_at": "2026-11-09T00:44:57Z",
+ "generated_ts": 1794185097,
  "prices": {
   "BTC": {
-   "p": 75626.5,
-   "o": 75750.2,
+   "p": 74867.5,
+   "o": 74742.4,
    "h": 76096.2,
-   "l": 75467.1,
-   "v": 627.69446664
+   "l": 73444.3,
+   "v": 1679.03475142
   },
   "ETH": {
-   "p": 2222.47,
-   "o": 2236.62,
+   "p": 2134.37,
+   "o": 2124.81,
    "h": 2242.86,
-   "l": 2220.01,
-   "v": 8757.81385771
+   "l": 2071.0,
+   "v": 25618.78253561
   },
   "SOL": {
-   "p": 88.96,
-   "o": 89.68,
+   "p": 86.83,
+   "o": 86.45,
    "h": 89.88,
-   "l": 88.62,
-   "v": 139100.62026436
+   "l": 85.0,
+   "v": 281894.6928681
   }
  },
  "change_7d": {
-  "BTC": -0.02758287073710206,
-  "ETH": -0.0164128737787646,
-  "SOL": -0.05530785562632705
+  "BTC": -0.0444387774341354,
+  "ETH": -0.06465454641475549,
+  "SOL": -0.08411908041106046
  },
  "sentiment": {
-  "score": 38.0,
+  "score": 36.3,
   "label": "Fear",
   "components": {
-   "fng": 28.0,
-   "momentum": 43.10428231572448,
-   "news_tone": 31.4,
-   "crowding": 61.067092
+   "fng": 29.0,
+   "momentum": 38.89030564146615,
+   "crowding": 49.8729435
   },
   "weights": {
    "fng": 0.35,
@@ -47,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 28,
+  "value": 29,
   "label": "Fear",
-  "ts": 1794096000
+  "ts": 1794182400
  },
- "news_tone_24h": -1.116,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3161350757.1676726,
-   "premium": -0.0002113132
+   "oi_usd": 3133958255.7259197,
+   "premium": -0.0003068508
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2206258888.3165193,
-   "premium": -0.0002246383
+   "funding_h": -1.56352e-05,
+   "oi_usd": 1933246895.42494,
+   "premium": -0.0007020171
   },
   "SOL": {
-   "funding_h": 5.3208e-06,
-   "oi_usd": 483423296.4153601,
-   "premium": -0.0002188491
+   "funding_h": 2.7871e-06,
+   "oi_usd": 468486237.99600005,
+   "premium": -0.0007821036
   }
  },
- "items_24h": 110,
+ "items_24h": 108,
  "top_items": [
   {
    "id": "c21db37348247bf6",
@@ -86,6 +85,23 @@
    ],
    "author": "Donald Trump",
    "score": 16637
+  },
+  {
+   "id": "99f07cb1b68b7b52",
+   "ts": 1794182749,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I am urging all Senators to vote for The American Affordability and Jobs Act (S. 5653)! This Bill is a BIG WIN for U.S. ENERGY INDEPENDENCE and DOMINANCE.This Landmark Permitting Reform Legislation will codify our America First Energy Agenda, and ensure that we can build Pipeline",
+   "url": "https://truthsocial.com/@realDonaldTrump/117583560661477967",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 6498
   },
   {
    "id": "46e3fc70903845a4",
@@ -120,6 +136,48 @@
    "score": 3504
   },
   {
+   "id": "855cc16692176084",
+   "ts": 1794181800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Market Operations by the Bank of Japan (Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "078acd819a61e833",
+   "ts": 1794181800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Monetary Base and the Bank of Japan's Transactions (Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2610.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "027e35cea32d227d",
+   "ts": 1794181800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Bank of Japan's Transactions with the Government (Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
    "id": "a6f54b38c766dbee",
    "ts": 1794165042,
    "source": "government",
@@ -144,16 +202,33 @@
    "tags": []
   },
   {
-   "id": "7305d6aa8d33f5e5",
-   "ts": 1794088800,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on Honoring the American Flag",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-honoring-the-american-flag/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
+   "id": "4c7fc304258822b1",
+   "ts": 1794178746,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+   "url": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": [
+    "crypto",
+    "ETH"
+   ]
+  },
+  {
+   "id": "d830a657769f0e2d",
+   "ts": 1794178462,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Binance names new CFO days after $6.3 billion cryptocurrency hack",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xrblcf/binance_names_new_cfo_days_after_63_billion/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
   },
   {
    "id": "f66e410a11114153",
@@ -168,77 +243,6 @@
     "crypto"
    ],
    "score": 0
-  },
-  {
-   "id": "4666307bb28eb5f1",
-   "ts": 1794170257,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Japan's Shinkin Joint Center Outage Halts ATMs, Counters at 128 Shinkin Banks in Western Japan",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xr8gzl/japans_shinkin_joint_center_outage_halts_atms/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "5e399b3e897811a6",
-   "ts": 1794169656,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "I built X39 Mining, an independent Bitcoin solo pool with a public dashboard",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1xr88kx/i_built_x39_mining_an_independent_bitcoin_solo/",
-   "domain": "r/Bitcoin",
-   "tags": [
-    "crypto",
-    "BTC"
-   ],
-   "score": 0
-  },
-  {
-   "id": "910bfc42f9f5013f",
-   "ts": 1794166200,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "What the election results mean for crypto: State of Crypto",
-   "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "4f52a479be0b5191",
-   "ts": 1794165731,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Crypto Currently puts $120k in the \"very expensive\" region now, which is less than the ATH. Do you agree?",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1xr6n28/crypto_currently_puts_120k_in_the_very_expensive/",
-   "domain": "r/Bitcoin",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "441262094ea5a138",
-   "ts": 1794165402,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Stablecoin growth has stalled. The payments boom hasn't",
-   "url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -290,7 +294,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 12
+   "n": 15
   },
   "BIS": {
    "ok": true,
@@ -318,15 +322,16 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 248
+   "n": 249
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
    "n": 20
   },
   "Reddit r/Bitcoin": {
-   "ok": true,
-   "n": 24
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
