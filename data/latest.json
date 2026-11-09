@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-09T07:51:22Z",
- "generated_ts": 1794210682,
+ "generated_at": "2026-11-09T18:40:19Z",
+ "generated_ts": 1794249619,
  "prices": {
   "BTC": {
-   "p": 73931.3,
+   "p": 74580.0,
    "o": 74742.4,
-   "h": 76096.2,
+   "h": 75866.5,
    "l": 73444.3,
-   "v": 2748.18659592
+   "v": 3564.43331494
   },
   "ETH": {
-   "p": 2091.51,
+   "p": 2124.26,
    "o": 2124.81,
-   "h": 2242.86,
+   "h": 2234.08,
    "l": 2071.0,
-   "v": 33685.28303961
+   "v": 45430.92478255
   },
   "SOL": {
-   "p": 85.56,
+   "p": 86.58,
    "o": 86.45,
-   "h": 89.88,
+   "h": 89.66,
    "l": 85.0,
-   "v": 329284.44806321
+   "v": 338835.66719486
   }
  },
  "change_7d": {
-  "BTC": -0.049193152693269085,
-  "ETH": -0.07530447735038985,
-  "SOL": -0.08845052497613748
+  "BTC": -0.030329997938421695,
+  "ETH": -0.05884178098889652,
+  "SOL": -0.06007604562737644
  },
  "sentiment": {
-  "score": 33.9,
+  "score": 36.0,
   "label": "Fear",
   "components": {
    "fng": 29.0,
-   "momentum": 37.701711826682725,
-   "news_tone": 32.016666666666666,
-   "crowding": 42.171516499999996
+   "momentum": 42.41750051539458,
+   "news_tone": 31.53333333333333,
+   "crowding": 47.9656725
   },
   "weights": {
    "fng": 0.35,
@@ -51,42 +51,26 @@
   "label": "Fear",
   "ts": 1794182400
  },
- "news_tone_24h": -1.079,
+ "news_tone_24h": -1.108,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3011353039.1309,
-   "premium": -0.0003363688
+   "funding_h": 8.1071e-06,
+   "oi_usd": 3147666469.5591803,
+   "premium": -0.0003762917
   },
   "ETH": {
-   "funding_h": -3.20298e-05,
-   "oi_usd": 1845082733.2124994,
-   "premium": -0.0007021499
+   "funding_h": 6.1289e-06,
+   "oi_usd": 1713021435.117,
+   "premium": -0.0004419557
   },
   "SOL": {
-   "funding_h": -1.9181e-06,
-   "oi_usd": 456245042.02956015,
-   "premium": -0.0005967117
+   "funding_h": -1.98095e-05,
+   "oi_usd": 434026167.97764003,
+   "premium": -0.0004637481
   }
  },
- "items_24h": 136,
+ "items_24h": 95,
  "top_items": [
-  {
-   "id": "c21db37348247bf6",
-   "ts": 1794145772,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "America took a giant step back in History with the results of the last Election — Even the Stock Market, which has been a \"ROCKETSHIP\" under \"TRUMP,\" took a one day, 3 Trillion Dollar loss. But have no fear, we will be back, BIGGER AND STRONGER THAN EVER BEFORE! President DONALD ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117581137343877006",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro"
-   ],
-   "author": "Donald Trump",
-   "score": 16637
-  },
   {
    "id": "99f07cb1b68b7b52",
    "ts": 1794182749,
@@ -105,22 +89,6 @@
    "score": 6498
   },
   {
-   "id": "46e3fc70903845a4",
-   "ts": 1794153692,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I will be interviewed tonight on \"60 Minutes.\" Hopefully, they will show all the good things we've done over the past 2 years, not even including the First Term, which was incredible. If we get help from the Republican Senate, we can still do things that are unbelievable! Preside",
-   "url": "https://truthsocial.com/@realDonaldTrump/117581656360570548",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 6479
-  },
-  {
    "id": "adabc6064d2c2fd6",
    "ts": 1794170811,
    "source": "truth",
@@ -135,6 +103,20 @@
    ],
    "author": "Donald Trump",
    "score": 3504
+  },
+  {
+   "id": "28ab8008807862d8",
+   "ts": 1794229215,
+   "source": "institution",
+   "group": "institution",
+   "kind": "official",
+   "title": "8-K - Current report",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526452693/0001193125-26-452693-index.htm",
+   "domain": "Strategy (MSTR) filings",
+   "org": "Strategy (MSTR) filings",
+   "tags": [
+    "institution"
+   ]
   },
   {
    "id": "8a3d3e93de4336f3",
@@ -219,28 +201,45 @@
    "tags": []
   },
   {
-   "id": "6d6a9b1743d8c46f",
-   "ts": 1794160047,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on Diwali",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "efd67f81bed0fd71",
-   "ts": 1794207600,
+   "id": "8fd6ede03685e60f",
+   "ts": 1794249063,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Semiconductor startups outpace AI firms in $2 . 5bn valuation",
-   "url": "https://punchng.com/semiconductor-startups-outpace-ai-firms-in-2-5bn-valuation/",
-   "domain": "punchng.com",
+   "title": "Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves?",
+   "url": "https://decrypt.co/382838/nvidias-350-billion-scare-what-happens-if-jensen-huang-leaves",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": []
+  },
+  {
+   "id": "97baf26109e8246e",
+   "ts": 1794248729,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
+   "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": [
-    "crypto"
+    "crypto",
+    "BTC"
+   ]
+  },
+  {
+   "id": "5ecb39e6948150e2",
+   "ts": 1794246515,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "PNC Bank tests turning USDC payments into dollar deposits",
+   "url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": [
+    "crypto",
+    "macro"
    ]
   }
  ],
@@ -248,7 +247,7 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 25
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -264,7 +263,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 21
+   "n": 20
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -285,7 +284,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 6
+   "n": 5
   },
   "Bank of England": {
    "ok": true,
@@ -321,11 +320,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 249
+   "n": 220
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
