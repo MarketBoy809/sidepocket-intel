@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-11-09T00:44:57Z",
- "generated_ts": 1794185097,
+ "generated_at": "2026-11-09T07:51:22Z",
+ "generated_ts": 1794210682,
  "prices": {
   "BTC": {
-   "p": 74867.5,
+   "p": 73931.3,
    "o": 74742.4,
    "h": 76096.2,
    "l": 73444.3,
-   "v": 1679.03475142
+   "v": 2748.18659592
   },
   "ETH": {
-   "p": 2134.37,
+   "p": 2091.51,
    "o": 2124.81,
    "h": 2242.86,
    "l": 2071.0,
-   "v": 25618.78253561
+   "v": 33685.28303961
   },
   "SOL": {
-   "p": 86.83,
+   "p": 85.56,
    "o": 86.45,
    "h": 89.88,
    "l": 85.0,
-   "v": 281894.6928681
+   "v": 329284.44806321
   }
  },
  "change_7d": {
-  "BTC": -0.0444387774341354,
-  "ETH": -0.06465454641475549,
-  "SOL": -0.08411908041106046
+  "BTC": -0.049193152693269085,
+  "ETH": -0.07530447735038985,
+  "SOL": -0.08845052497613748
  },
  "sentiment": {
-  "score": 36.3,
+  "score": 33.9,
   "label": "Fear",
   "components": {
    "fng": 29.0,
-   "momentum": 38.89030564146615,
-   "crowding": 49.8729435
+   "momentum": 37.701711826682725,
+   "news_tone": 32.016666666666666,
+   "crowding": 42.171516499999996
   },
   "weights": {
    "fng": 0.35,
@@ -50,25 +51,25 @@
   "label": "Fear",
   "ts": 1794182400
  },
- "news_tone_24h": null,
+ "news_tone_24h": -1.079,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3133958255.7259197,
-   "premium": -0.0003068508
+   "oi_usd": 3011353039.1309,
+   "premium": -0.0003363688
   },
   "ETH": {
-   "funding_h": -1.56352e-05,
-   "oi_usd": 1933246895.42494,
-   "premium": -0.0007020171
+   "funding_h": -3.20298e-05,
+   "oi_usd": 1845082733.2124994,
+   "premium": -0.0007021499
   },
   "SOL": {
-   "funding_h": 2.7871e-06,
-   "oi_usd": 468486237.99600005,
-   "premium": -0.0007821036
+   "funding_h": -1.9181e-06,
+   "oi_usd": 456245042.02956015,
+   "premium": -0.0005967117
   }
  },
- "items_24h": 108,
+ "items_24h": 136,
  "top_items": [
   {
    "id": "c21db37348247bf6",
@@ -134,6 +135,34 @@
    ],
    "author": "Donald Trump",
    "score": 3504
+  },
+  {
+   "id": "8a3d3e93de4336f3",
+   "ts": 1794204000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Amounts Outstanding in the Call Money Market (Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "93f8de4196e944c3",
+   "ts": 1794200400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Consumption Activity Index",
+   "url": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "855cc16692176084",
@@ -202,54 +231,24 @@
    "tags": []
   },
   {
-   "id": "4c7fc304258822b1",
-   "ts": 1794178746,
+   "id": "efd67f81bed0fd71",
+   "ts": 1794207600,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
-   "url": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "title": "Semiconductor startups outpace AI firms in $2 . 5bn valuation",
+   "url": "https://punchng.com/semiconductor-startups-outpace-ai-firms-in-2-5bn-valuation/",
+   "domain": "punchng.com",
    "tags": [
-    "crypto",
-    "ETH"
+    "crypto"
    ]
-  },
-  {
-   "id": "d830a657769f0e2d",
-   "ts": 1794178462,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Binance names new CFO days after $6.3 billion cryptocurrency hack",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xrblcf/binance_names_new_cfo_days_after_63_billion/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "f66e410a11114153",
-   "ts": 1794171578,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "The Mother Of All Black Swans. Hinton Warns of AI 'Chernobyl' Blackout This Year or Next",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xr8ze8/the_mother_of_all_black_swans_hinton_warns_of_ai/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 25
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -326,7 +325,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 19
   },
   "Reddit r/Bitcoin": {
    "ok": false,
