@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-11-10T01:58:33Z",
- "generated_ts": 1794275913,
+ "generated_at": "2026-11-10T09:37:55Z",
+ "generated_ts": 1794303475,
  "prices": {
   "BTC": {
-   "p": 74986.7,
+   "p": 74282.2,
    "o": 75253.1,
-   "h": 75500.0,
-   "l": 73601.8,
-   "v": 2793.80644793
+   "h": 75473.9,
+   "l": 73960.0,
+   "v": 2270.09515681
   },
   "ETH": {
-   "p": 2123.53,
+   "p": 2095.45,
    "o": 2132.13,
-   "h": 2157.51,
-   "l": 2080.85,
-   "v": 32648.11320117
+   "h": 2149.31,
+   "l": 2087.87,
+   "v": 28923.66599326
   },
   "SOL": {
-   "p": 86.18,
+   "p": 85.2,
    "o": 86.62,
-   "h": 88.37,
-   "l": 85.05,
-   "v": 202642.85564416
+   "h": 87.95,
+   "l": 84.83,
+   "v": 169960.49167879
   }
  },
  "change_7d": {
-  "BTC": -0.026164054711571638,
-  "ETH": -0.05828373235875913,
-  "SOL": -0.0635230352303523
+  "BTC": -0.02450871071940726,
+  "ETH": -0.061059657313268435,
+  "SOL": -0.06504685116583132
  },
  "sentiment": {
-  "score": 40.0,
+  "score": 41.2,
   "label": "Fear",
   "components": {
    "fng": 32.0,
-   "momentum": 43.458986322107094,
-   "news_tone": 40.7,
-   "crowding": 53.5358645
+   "momentum": 43.87282232014819,
+   "crowding": 58.929433
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +50,25 @@
   "label": "Fear",
   "ts": 1794268800
  },
- "news_tone_24h": -0.558,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.17496e-05,
-   "oi_usd": 3175807699.38936,
-   "premium": -0.0004607951
+   "funding_h": 1.25e-05,
+   "oi_usd": 3124660990.413593,
+   "premium": -0.0002823795
   },
   "ETH": {
-   "funding_h": -1.6689e-06,
-   "oi_usd": 1681051641.8127,
-   "premium": -0.0004703005
+   "funding_h": 4.4105e-06,
+   "oi_usd": 1687632834.0860782,
+   "premium": -0.0004480031
   },
   "SOL": {
-   "funding_h": -3.934e-07,
-   "oi_usd": 409333826.5482398,
-   "premium": -0.0005098789
+   "funding_h": 7.5537e-06,
+   "oi_usd": 406513272.66444004,
+   "premium": -0.0004313932
   }
  },
- "items_24h": 160,
+ "items_24h": 133,
  "top_items": [
   {
    "id": "92a2965d335886c2",
@@ -215,31 +214,32 @@
    ]
   },
   {
-   "id": "8a3d3e93de4336f3",
-   "ts": 1794204000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Amounts Outstanding in the Call Money Market (Oct.)",
-   "url": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
+   "id": "dc219a194b56cbb2",
+   "ts": 1794302070,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
+   "url": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
    "tags": [
-    "macro"
+    "crypto",
+    "regulation"
    ]
   },
   {
-   "id": "93f8de4196e944c3",
-   "ts": 1794200400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Consumption Activity Index",
-   "url": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
+   "id": "37c41e51e6156172",
+   "ts": 1794301516,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
+   "url": "https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": [
-    "macro"
+    "crypto"
    ]
   }
  ],
@@ -247,11 +247,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 19
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 39
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -320,11 +320,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 136
+   "n": 135
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 23
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
