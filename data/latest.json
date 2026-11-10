@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-11-10T17:39:25Z",
- "generated_ts": 1794332365,
+ "generated_at": "2026-11-10T23:09:26Z",
+ "generated_ts": 1794352166,
  "prices": {
   "BTC": {
-   "p": 72746.7,
+   "p": 73488.8,
    "o": 75253.1,
    "h": 75323.5,
    "l": 72584.6,
-   "v": 3348.01866515
+   "v": 3586.30296151
   },
   "ETH": {
-   "p": 2015.05,
+   "p": 2042.2,
    "o": 2132.13,
-   "h": 2141.0,
+   "h": 2133.92,
    "l": 2002.0,
-   "v": 40987.01922877
+   "v": 37996.39554399
   },
   "SOL": {
-   "p": 81.92,
+   "p": 82.58,
    "o": 86.62,
-   "h": 87.01,
+   "h": 86.71,
    "l": 81.26,
-   "v": 297374.6905754
+   "v": 321337.58147842
   }
  },
  "change_7d": {
-  "BTC": -0.06220785938215584,
-  "ETH": -0.12128091611036557,
-  "SOL": -0.1234475374732334
+  "BTC": -0.05366477186162435,
+  "ETH": -0.10662283172008498,
+  "SOL": -0.11335902376364808
  },
  "sentiment": {
-  "score": 39.0,
+  "score": 37.2,
   "label": "Fear",
   "components": {
    "fng": 32.0,
-   "momentum": 34.44803515446104,
-   "news_tone": 49.65,
-   "crowding": 50.982872
+   "momentum": 36.58380703459392,
+   "crowding": 50.0300395
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +50,25 @@
   "label": "Fear",
   "ts": 1794268800
  },
- "news_tone_24h": -0.021,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 8.7071e-06,
-   "oi_usd": 3090375271.36624,
-   "premium": -0.0003982258
+   "funding_h": 1.25e-05,
+   "oi_usd": 3005316531.11144,
+   "premium": -0.0001128024
   },
   "ETH": {
-   "funding_h": 8.6909e-06,
-   "oi_usd": 1581207298.6646075,
-   "premium": -0.0003619183
+   "funding_h": 5.3123e-06,
+   "oi_usd": 1579821401.9507804,
+   "premium": -0.0002983454
   },
   "SOL": {
-   "funding_h": -1.47052e-05,
-   "oi_usd": 388343801.2110997,
-   "premium": -0.0004037324
+   "funding_h": -1.773e-05,
+   "oi_usd": 388365503.2180201,
+   "premium": -0.0003870578
   }
  },
- "items_24h": 147,
+ "items_24h": 176,
  "top_items": [
   {
    "id": "08b708b59ee71bdd",
@@ -102,38 +101,6 @@
    ],
    "author": "Donald Trump",
    "score": 18335
-  },
-  {
-   "id": "92a2965d335886c2",
-   "ts": 1794265460,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Very important for the U.S. Senate to confirm all of our pending 161 Nominations, including 25 Federal Judges. Thank you for your attention to this matter! President DONALD J. TRUMP",
-   "url": "https://truthsocial.com/@realDonaldTrump/117588981207857769",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 17631
-  },
-  {
-   "id": "12a78fa7b602bfb6",
-   "ts": 1794259768,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I had an excellent conversation with Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, the Prime Minister of Qatar, wherein much was discussed with respect to the Islamic Republic of Iran. Most importantly, Qatar, Saudi Arabia, UAE, Bahrain, Kuwait, and others, would prefer th",
-   "url": "https://truthsocial.com/@realDonaldTrump/117588608183719347",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 16635
   },
   {
    "id": "c2efcf9a4e9b7643",
@@ -202,60 +169,80 @@
    "score": 3379
   },
   {
-   "id": "380ce0e2b07203cc",
-   "ts": 1794329100,
-   "source": "central_bank",
-   "group": "central_bank",
+   "id": "23592d19865770d3",
+   "ts": 1794347809,
+   "source": "government",
+   "group": "government",
    "kind": "official",
-   "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
+   "title": "Nominations and Withdrawals Sent to the Senate",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4/",
+   "domain": "White House",
+   "org": "White House",
    "tags": [
-    "macro"
+    "regulation"
    ]
   },
   {
-   "id": "53de149036135d09",
-   "ts": 1794319200,
-   "source": "central_bank",
-   "group": "central_bank",
+   "id": "3e6728e2680188eb",
+   "ts": 1794345135,
+   "source": "government",
+   "group": "government",
    "kind": "official",
-   "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
+   "title": "VETERANS DAY, 2026",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "3556f1e5761fe236",
+   "ts": 1794345067,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Determination Concerning Wildfire Suppression Activities in the United States",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "11953d9c5ebcb858",
+   "ts": 1794344619,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Congressional Bills H.R. 997, H.R. 1703, H.R. 1945, and H.R. 7730 Signed into Law",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-997-h-r-1703-h-r-1945-and-h-r-7730-signed-into-law/",
+   "domain": "White House",
+   "org": "White House",
    "tags": [
-    "macro"
+    "regulation"
    ]
   },
   {
-   "id": "05b2880fa0f0efb2",
-   "ts": 1794312000,
-   "source": "central_bank",
-   "group": "central_bank",
+   "id": "d2dd751221116e8e",
+   "ts": 1794344582,
+   "source": "government",
+   "group": "government",
    "kind": "official",
-   "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
-   "url": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
+   "title": "Fact Sheet: President Donald J. Trump Advances Wildfire Suppression",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-advances-wildfire-suppression/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
-   "id": "a724b41c39ee3054",
-   "ts": 1794268800,
-   "source": "central_bank",
-   "group": "central_bank",
+   "id": "07e26049a1a0a69c",
+   "ts": 1794337040,
+   "source": "government",
+   "group": "government",
    "kind": "official",
-   "title": "Appointments to BIS global payments standard-setting body and Consultative Council for the Americas",
-   "url": "https://www.bis.org/media-releases/20261110-appointments-bis-global-payments-standard-setting-body-and-consultative-council-americas",
-   "domain": "BIS",
-   "org": "BIS",
-   "tags": [
-    "macro"
-   ]
+   "title": "Secretary Hegseth Torches Baseless Impeachment Stunt: “This Is Not Patriotism; This Is Sabotage”",
+   "url": "https://www.whitehouse.gov/releases/2026/11/secretary-hegseth-torches-baseless-impeachment-stunt-this-is-not-patriotism-this-is-sabotage/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -266,7 +253,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 30
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -278,7 +265,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 21
+   "n": 22
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -287,7 +274,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "CFTC": {
    "ok": true,
@@ -335,11 +322,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 22
+   "n": 21
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": false,
