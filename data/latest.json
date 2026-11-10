@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-09T18:40:19Z",
- "generated_ts": 1794249619,
+ "generated_at": "2026-11-10T01:58:33Z",
+ "generated_ts": 1794275913,
  "prices": {
   "BTC": {
-   "p": 74580.0,
-   "o": 74742.4,
-   "h": 75866.5,
-   "l": 73444.3,
-   "v": 3564.43331494
+   "p": 74986.7,
+   "o": 75253.1,
+   "h": 75500.0,
+   "l": 73601.8,
+   "v": 2793.80644793
   },
   "ETH": {
-   "p": 2124.26,
-   "o": 2124.81,
-   "h": 2234.08,
-   "l": 2071.0,
-   "v": 45430.92478255
+   "p": 2123.53,
+   "o": 2132.13,
+   "h": 2157.51,
+   "l": 2080.85,
+   "v": 32648.11320117
   },
   "SOL": {
-   "p": 86.58,
-   "o": 86.45,
-   "h": 89.66,
-   "l": 85.0,
-   "v": 338835.66719486
+   "p": 86.18,
+   "o": 86.62,
+   "h": 88.37,
+   "l": 85.05,
+   "v": 202642.85564416
   }
  },
  "change_7d": {
-  "BTC": -0.030329997938421695,
-  "ETH": -0.05884178098889652,
-  "SOL": -0.06007604562737644
+  "BTC": -0.026164054711571638,
+  "ETH": -0.05828373235875913,
+  "SOL": -0.0635230352303523
  },
  "sentiment": {
-  "score": 36.0,
+  "score": 40.0,
   "label": "Fear",
   "components": {
-   "fng": 29.0,
-   "momentum": 42.41750051539458,
-   "news_tone": 31.53333333333333,
-   "crowding": 47.9656725
+   "fng": 32.0,
+   "momentum": 43.458986322107094,
+   "news_tone": 40.7,
+   "crowding": 53.5358645
   },
   "weights": {
    "fng": 0.35,
@@ -47,62 +47,158 @@
   }
  },
  "fear_greed": {
-  "value": 29,
+  "value": 32,
   "label": "Fear",
-  "ts": 1794182400
+  "ts": 1794268800
  },
- "news_tone_24h": -1.108,
+ "news_tone_24h": -0.558,
  "derivatives": {
   "BTC": {
-   "funding_h": 8.1071e-06,
-   "oi_usd": 3147666469.5591803,
-   "premium": -0.0003762917
+   "funding_h": 1.17496e-05,
+   "oi_usd": 3175807699.38936,
+   "premium": -0.0004607951
   },
   "ETH": {
-   "funding_h": 6.1289e-06,
-   "oi_usd": 1713021435.117,
-   "premium": -0.0004419557
+   "funding_h": -1.6689e-06,
+   "oi_usd": 1681051641.8127,
+   "premium": -0.0004703005
   },
   "SOL": {
-   "funding_h": -1.98095e-05,
-   "oi_usd": 434026167.97764003,
-   "premium": -0.0004637481
+   "funding_h": -3.934e-07,
+   "oi_usd": 409333826.5482398,
+   "premium": -0.0005098789
   }
  },
- "items_24h": 95,
+ "items_24h": 160,
  "top_items": [
   {
-   "id": "99f07cb1b68b7b52",
-   "ts": 1794182749,
+   "id": "92a2965d335886c2",
+   "ts": 1794265460,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "I am urging all Senators to vote for The American Affordability and Jobs Act (S. 5653)! This Bill is a BIG WIN for U.S. ENERGY INDEPENDENCE and DOMINANCE.This Landmark Permitting Reform Legislation will codify our America First Energy Agenda, and ensure that we can build Pipeline",
-   "url": "https://truthsocial.com/@realDonaldTrump/117583560661477967",
+   "title": "Very important for the U.S. Senate to confirm all of our pending 161 Nominations, including 25 Federal Judges. Thank you for your attention to this matter! President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117588981207857769",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 17631
+  },
+  {
+   "id": "12a78fa7b602bfb6",
+   "ts": 1794259768,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I had an excellent conversation with Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, the Prime Minister of Qatar, wherein much was discussed with respect to the Islamic Republic of Iran. Most importantly, Qatar, Saudi Arabia, UAE, Bahrain, Kuwait, and others, would prefer th",
+   "url": "https://truthsocial.com/@realDonaldTrump/117588608183719347",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 16635
+  },
+  {
+   "id": "c2efcf9a4e9b7643",
+   "ts": 1794274616,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Defeated Republican Congressman Thomas Massie, a total loser, is trying to Impeach perhaps the most popular and successful military official in the Country, Secretary of War, Pete Hegseth. With recruitment at an ALL-TIME HIGH, from an all-time low under Sleepy Joe Biden, and TWO ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117589581287691662",
    "domain": "truthsocial.com",
    "tags": [
     "geo",
     "regulation"
    ],
    "author": "Donald Trump",
-   "score": 6498
+   "score": 5033
   },
   {
-   "id": "adabc6064d2c2fd6",
-   "ts": 1794170811,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Task Force Iron Gate is in full force and effect in the Islamic Republic of Iran. Coupled with history's greatest Naval Blockade, very little gets into, or out of, Iran! President DJT",
-   "url": "https://truthsocial.com/@realDonaldTrump/117582778301201947",
-   "domain": "truthsocial.com",
+   "id": "2a95eea37d145a5a",
+   "ts": 1794268200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Principal Figures of Financial Institutions (Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/dl/depo/kashi/kasi2610.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
    "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 3504
+    "macro"
+   ]
+  },
+  {
+   "id": "01d5a2b51e3ea25d",
+   "ts": 1794268200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Summary of Opinions at the Monetary Policy Meeting on October 29 and 30, 2026",
+   "url": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi261030.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "76e2a96ff3df3f2b",
+   "ts": 1794264809,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Nominations and Withdrawals Sent to the Senate",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "6e4cb5ab08bc01e5",
+   "ts": 1794258000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "08f7291a256c9dcf",
+   "ts": 1794251675,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on National American History and Founders Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-american-history-and-founders-month/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "31bcd048a966f639",
+   "ts": 1794251015,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "ICYMI: President Trump on 60 Minutes: “We Have Historically Good Numbers”",
+   "url": "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-on-60-minutes-we-have-historically-good-numbers/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "28ab8008807862d8",
@@ -145,113 +241,17 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "855cc16692176084",
-   "ts": 1794181800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Market Operations by the Bank of Japan (Oct.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "078acd819a61e833",
-   "ts": 1794181800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Monetary Base and the Bank of Japan's Transactions (Oct.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2610.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "027e35cea32d227d",
-   "ts": 1794181800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Bank of Japan's Transactions with the Government (Oct.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "a6f54b38c766dbee",
-   "ts": 1794165042,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "ICYMI: AG Todd Blanche Dismantles Democrats’ “Oversight” Charade on the Sunday Shows",
-   "url": "https://www.whitehouse.gov/releases/2026/11/icymi-ag-todd-blanche-dismantles-democrats-oversight-charade-on-the-sunday-shows/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "8fd6ede03685e60f",
-   "ts": 1794249063,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves?",
-   "url": "https://decrypt.co/382838/nvidias-350-billion-scare-what-happens-if-jensen-huang-leaves",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": []
-  },
-  {
-   "id": "97baf26109e8246e",
-   "ts": 1794248729,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
-   "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto",
-    "BTC"
-   ]
-  },
-  {
-   "id": "5ecb39e6948150e2",
-   "ts": 1794246515,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "PNC Bank tests turning USDC payments into dollar deposits",
-   "url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto",
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 19
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 39
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -263,7 +263,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 20
+   "n": 22
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -280,7 +280,7 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "European Central Bank": {
    "ok": true,
@@ -292,7 +292,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 15
+   "n": 17
   },
   "BIS": {
    "ok": true,
@@ -320,11 +320,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 220
+   "n": 136
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 23
   },
   "Reddit r/Bitcoin": {
    "ok": false,
