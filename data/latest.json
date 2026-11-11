@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-11-10T23:09:26Z",
- "generated_ts": 1794352166,
+ "generated_at": "2026-11-11T05:56:05Z",
+ "generated_ts": 1794376565,
  "prices": {
   "BTC": {
-   "p": 73488.8,
-   "o": 75253.1,
-   "h": 75323.5,
+   "p": 73850.0,
+   "o": 73699.4,
+   "h": 74888.7,
    "l": 72584.6,
-   "v": 3586.30296151
+   "v": 3652.3841453
   },
   "ETH": {
-   "p": 2042.2,
-   "o": 2132.13,
-   "h": 2133.92,
+   "p": 2068.77,
+   "o": 2050.65,
+   "h": 2125.73,
    "l": 2002.0,
-   "v": 37996.39554399
+   "v": 38951.21136549
   },
   "SOL": {
-   "p": 82.58,
-   "o": 86.62,
-   "h": 86.71,
+   "p": 83.27,
+   "o": 83.24,
+   "h": 86.39,
    "l": 81.26,
-   "v": 321337.58147842
+   "v": 328612.50511975
   }
  },
  "change_7d": {
-  "BTC": -0.05366477186162435,
-  "ETH": -0.10662283172008498,
-  "SOL": -0.11335902376364808
+  "BTC": -0.04698899860387458,
+  "ETH": -0.09441818788762586,
+  "SOL": -0.1030257022014966
  },
  "sentiment": {
-  "score": 37.2,
+  "score": 36.8,
   "label": "Fear",
   "components": {
-   "fng": 32.0,
-   "momentum": 36.58380703459392,
-   "crowding": 50.0300395
+   "fng": 29.0,
+   "momentum": 38.25275034903136,
+   "news_tone": 31.233333333333334,
+   "crowding": 58.459386
   },
   "weights": {
    "fng": 0.35,
@@ -46,30 +47,46 @@
   }
  },
  "fear_greed": {
-  "value": 32,
+  "value": 29,
   "label": "Fear",
-  "ts": 1794268800
+  "ts": 1794355200
  },
- "news_tone_24h": null,
+ "news_tone_24h": -1.126,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 3005316531.11144,
-   "premium": -0.0001128024
+   "oi_usd": 3004621395.9179997,
+   "premium": -0.0002392936
   },
   "ETH": {
-   "funding_h": 5.3123e-06,
-   "oi_usd": 1579821401.9507804,
-   "premium": -0.0002983454
+   "funding_h": 1.25e-05,
+   "oi_usd": 1594384245.3830001,
+   "premium": -0.0003665725
   },
   "SOL": {
-   "funding_h": -1.773e-05,
-   "oi_usd": 388365503.2180201,
-   "premium": -0.0003870578
+   "funding_h": -1.8236e-06,
+   "oi_usd": 391713849.8931199,
+   "premium": -0.0005670762
   }
  },
- "items_24h": 176,
+ "items_24h": 143,
  "top_items": [
+  {
+   "id": "6059cccd512b71e8",
+   "ts": 1794353048,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The Democrats' attempt to impeach Secretary of War Pete Hegseth has miserably FAILED! Every single Republican, except Thomas Massie, a major LOSER, voted in favor of Pete. Again, Victories in Venezuela and Iran, the Best Recruitment Numbers in the History of the Military (Long wa",
+   "url": "https://truthsocial.com/@realDonaldTrump/117594721408592840",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 23042
+  },
   {
    "id": "08b708b59ee71bdd",
    "ts": 1794317639,
@@ -101,23 +118,6 @@
    ],
    "author": "Donald Trump",
    "score": 18335
-  },
-  {
-   "id": "c2efcf9a4e9b7643",
-   "ts": 1794274616,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Defeated Republican Congressman Thomas Massie, a total loser, is trying to Impeach perhaps the most popular and successful military official in the Country, Secretary of War, Pete Hegseth. With recruitment at an ALL-TIME HIGH, from an all-time low under Sleepy Joe Biden, and TWO ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117589581287691662",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 5033
   },
   {
    "id": "c9bba373bcab6e49",
@@ -169,6 +169,68 @@
    "score": 3379
   },
   {
+   "id": "0f05b132485b262b",
+   "ts": 1794367074,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on National Diabetes Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-diabetes-month-a726/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "1ba650eaeef60228",
+   "ts": 1794366982,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on the Birthday of the United States Marine Corps",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-the-birthday-of-the-united-states-marine-corps/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "c46014ef938b5075",
+   "ts": 1794366887,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on National Alzheimer’s Disease Awareness Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-alzheimers-disease-awareness-month-59dc/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "5cee5dcbd564ecbf",
+   "ts": 1794366775,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on Critical Infrastructure Security and Resilience Month",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-critical-infrastructure-security-and-resilience-month-aa39/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "0683e0ff412f8061",
+   "ts": 1794354600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Money Stock (Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/money/ms/ms2610.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
    "id": "23592d19865770d3",
    "ts": 1794347809,
    "source": "government",
@@ -181,79 +243,17 @@
    "tags": [
     "regulation"
    ]
-  },
-  {
-   "id": "3e6728e2680188eb",
-   "ts": 1794345135,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "VETERANS DAY, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "3556f1e5761fe236",
-   "ts": 1794345067,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Determination Concerning Wildfire Suppression Activities in the United States",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "11953d9c5ebcb858",
-   "ts": 1794344619,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Congressional Bills H.R. 997, H.R. 1703, H.R. 1945, and H.R. 7730 Signed into Law",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-997-h-r-1703-h-r-1945-and-h-r-7730-signed-into-law/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "d2dd751221116e8e",
-   "ts": 1794344582,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Fact Sheet: President Donald J. Trump Advances Wildfire Suppression",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-advances-wildfire-suppression/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "07e26049a1a0a69c",
-   "ts": 1794337040,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Secretary Hegseth Torches Baseless Impeachment Stunt: “This Is Not Patriotism; This Is Sabotage”",
-   "url": "https://www.whitehouse.gov/releases/2026/11/secretary-hegseth-torches-baseless-impeachment-stunt-this-is-not-patriotism-this-is-sabotage/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 12
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 30
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -265,7 +265,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 22
+   "n": 26
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -286,7 +286,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 7
+   "n": 6
   },
   "Bank of England": {
    "ok": true,
@@ -294,7 +294,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 17
+   "n": 16
   },
   "BIS": {
    "ok": true,
@@ -322,11 +322,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 21
+   "n": 20
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 19
   },
   "Reddit r/Bitcoin": {
    "ok": false,
