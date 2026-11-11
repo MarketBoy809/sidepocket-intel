@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-11T14:01:25Z",
- "generated_ts": 1794405685,
+ "generated_at": "2026-11-11T21:15:45Z",
+ "generated_ts": 1794431745,
  "prices": {
   "BTC": {
-   "p": 73769.1,
+   "p": 74594.3,
    "o": 73699.4,
-   "h": 74752.0,
-   "l": 72584.6,
-   "v": 3463.90382092
+   "h": 74754.1,
+   "l": 73113.6,
+   "v": 2306.06505159
   },
   "ETH": {
-   "p": 2057.37,
+   "p": 2077.47,
    "o": 2050.65,
-   "h": 2093.76,
-   "l": 2002.0,
-   "v": 29242.37290341
+   "h": 2105.22,
+   "l": 2040.73,
+   "v": 21422.45885255
   },
   "SOL": {
-   "p": 84.58,
+   "p": 84.87,
    "o": 83.24,
-   "h": 84.97,
-   "l": 81.26,
-   "v": 271354.56805731
+   "h": 85.77,
+   "l": 82.18,
+   "v": 178018.39596013
   }
  },
  "change_7d": {
-  "BTC": -0.057922804436739445,
-  "ETH": -0.11233922395741136,
-  "SOL": -0.08993968117190874
+  "BTC": -0.06796036330513668,
+  "ETH": -0.14006350361342182,
+  "SOL": -0.10332453825857527
  },
  "sentiment": {
-  "score": 38.3,
+  "score": 36.2,
   "label": "Fear",
   "components": {
    "fng": 29.0,
-   "momentum": 35.519298890815136,
-   "crowding": 63.6875
+   "momentum": 33.009909173715826,
+   "crowding": 57.2238975
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 3038941946.61996,
-   "premium": -0.000278971
+   "funding_h": 8.3975e-06,
+   "oi_usd": 3032657771.394474,
+   "premium": -0.0002919278
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 1599913588.7113595,
-   "premium": -0.0001213828
+   "funding_h": 9.3182e-06,
+   "oi_usd": 1612600976.1708002,
+   "premium": -0.0004471304
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 383688762.03812,
-   "premium": -0.0002007914
+   "funding_h": 2.0758e-06,
+   "oi_usd": 378942999.40257984,
+   "premium": -0.0004614208
   }
  },
- "items_24h": 140,
+ "items_24h": 117,
  "top_items": [
   {
    "id": "6059cccd512b71e8",
@@ -103,53 +103,18 @@
    "score": 13611
   },
   {
-   "id": "c9bba373bcab6e49",
-   "ts": 1794329673,
-   "source": "truth",
+   "id": "0503ffc4c57ded34",
+   "ts": 1794425408,
+   "source": "government",
    "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I am pleased to nominate James Sullivan to serve as Judge on the United States District Court for the Western District of Texas. James is a Justice on the Supreme Court of Texas and, previously, was General Counsel to Governor Greg Abbott, and Assistant Solicitor General of Texas",
-   "url": "https://truthsocial.com/@realDonaldTrump/117593189461758553",
-   "domain": "truthsocial.com",
+   "kind": "official",
+   "title": "Presidential Message on Victory Day for World War I",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-victory-day-for-world-war-i-dd1e/",
+   "domain": "White House",
+   "org": "White House",
    "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3741
-  },
-  {
-   "id": "432a00a9b3a9ca22",
-   "ts": 1794329544,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I am pleased to nominate Elliot Gaiser to serve as Judge on the United States District Court for the Northern District of Texas. Elliot is currently Assistant Attorney General for the U.S. Department of Justice Office of Legal Counsel and, previously, was Solicitor General of Ohi",
-   "url": "https://truthsocial.com/@realDonaldTrump/117593181041469747",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3518
-  },
-  {
-   "id": "593f7b640e08cff1",
-   "ts": 1794329474,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I am pleased to nominate Grayson Lambert to serve as Judge on the United States District Court for the District of South Carolina. Grayson is currently Chief Legal Counsel to Governor Henry McMaster and, previously, was a partner at a respected law firm, and clerked for Judge Den",
-   "url": "https://truthsocial.com/@realDonaldTrump/117593176457954743",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3379
+    "geo"
+   ]
   },
   {
    "id": "0f05b132485b262b",
@@ -228,15 +193,45 @@
    ]
   },
   {
-   "id": "3e6728e2680188eb",
-   "ts": 1794345135,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "VETERANS DAY, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026/",
-   "domain": "White House",
-   "org": "White House",
+   "id": "7a441f3d21f3f8a7",
+   "ts": 1794431763,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
+   "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": [
+    "crypto",
+    "BTC"
+   ]
+  },
+  {
+   "id": "9e66d683b936403f",
+   "ts": 1794429799,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
+   "url": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": [
+    "crypto",
+    "BTC"
+   ]
+  },
+  {
+   "id": "a4ca1ae853ebf2c2",
+   "ts": 1794428162,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
+   "url": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
+   "domain": "Decrypt",
+   "org": "Decrypt",
    "tags": []
   }
  ],
@@ -269,7 +264,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "CFTC": {
    "ok": true,
@@ -285,7 +280,7 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "Bank of Japan": {
    "ok": true,
@@ -321,7 +316,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 14
   },
   "Reddit r/Bitcoin": {
    "ok": false,
