@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-12T02:50:08Z",
- "generated_ts": 1794451808,
+ "generated_at": "2026-11-12T10:53:19Z",
+ "generated_ts": 1794480799,
  "prices": {
   "BTC": {
-   "p": 73807.9,
+   "p": 73374.0,
    "o": 73928.5,
    "h": 74754.1,
-   "l": 73303.9,
-   "v": 2414.73551532
+   "l": 73168.4,
+   "v": 2086.97854056
   },
   "ETH": {
-   "p": 2057.24,
+   "p": 2043.54,
    "o": 2053.71,
    "h": 2105.22,
    "l": 2033.49,
-   "v": 22505.47069605
+   "v": 23309.0142089
   },
   "SOL": {
-   "p": 83.43,
+   "p": 82.92,
    "o": 83.18,
    "h": 85.77,
    "l": 82.1,
-   "v": 190840.81741575
+   "v": 176210.86919532
   }
  },
  "change_7d": {
-  "BTC": -0.08667499352410672,
-  "ETH": -0.15585234130727624,
-  "SOL": -0.1343548050865124
+  "BTC": -0.08670869318979212,
+  "ETH": -0.15445288200648544,
+  "SOL": -0.14166150030998148
  },
  "sentiment": {
-  "score": 34.6,
+  "score": 35.3,
   "label": "Fear",
   "components": {
    "fng": 28.0,
-   "momentum": 28.33125161897332,
-   "crowding": 58.3810935
+   "momentum": 28.32282670255197,
+   "crowding": 61.4308875
   },
   "weights": {
    "fng": 0.35,
@@ -53,38 +53,66 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 8.9004e-06,
-   "oi_usd": 2970033563.30558,
-   "premium": -0.0004194631
+   "funding_h": 6.3175e-06,
+   "oi_usd": 2919915314.4936004,
+   "premium": -0.0003811287
   },
   "ETH": {
-   "funding_h": 1.1131e-05,
-   "oi_usd": 1586409431.9673598,
-   "premium": -0.0003883307
+   "funding_h": 1.25e-05,
+   "oi_usd": 1573894264.332701,
+   "premium": -0.0001564073
   },
   "SOL": {
-   "funding_h": 2.9305e-06,
-   "oi_usd": 370919266.6644,
-   "premium": -0.0004309829
+   "funding_h": 1.25e-05,
+   "oi_usd": 361827766.6512803,
+   "premium": -0.0001915086
   }
  },
- "items_24h": 101,
+ "items_24h": 96,
  "top_items": [
   {
-   "id": "b8b729da881c8393",
-   "ts": 1794378325,
+   "id": "4eccd0a729f3cca8",
+   "ts": 1794480623,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "The New York Times incorrectly reported that \"Mr. Trump called into the premier of a C-Span show, APPARENTLY WITHOUT NOTICE.\" This is WRONG. It was a fully scheduled call, as a favor to C-Span, set up through White House Communications. It was done at C-Span's request, not mine. ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117596377951333382",
+   "title": "The Democrat Party, lead by one of the most Corrupt and anti-American groups of political leaders and hacks in the history of our Country, and even the World, is doing everything in their power to get away from MASSIVE BLUE STATE CORRUPTION by saying, over and over again, that th",
+   "url": "https://truthsocial.com/@realDonaldTrump/117603082123932016",
    "domain": "truthsocial.com",
    "tags": [
-    "regulation"
+    "macro"
    ],
    "author": "Donald Trump",
-   "score": 13611
+   "score": 186
+  },
+  {
+   "id": "3fb5382870533c2c",
+   "ts": 1794470400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Japanese Government Bonds Held by the Bank of Japan",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261110.xlsx",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "ed17c609191fde50",
+   "ts": 1794468600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Basic Figures on Fails (Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/set/bffail/sjgb2610.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "48e832fa5173d399",
@@ -169,65 +197,40 @@
    ]
   },
   {
-   "id": "0f05b132485b262b",
-   "ts": 1794367074,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on National Diabetes Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-diabetes-month-a726/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "1ba650eaeef60228",
-   "ts": 1794366982,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on the Birthday of the United States Marine Corps",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-the-birthday-of-the-united-states-marine-corps/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "c46014ef938b5075",
-   "ts": 1794366887,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on National Alzheimer’s Disease Awareness Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-alzheimers-disease-awareness-month-59dc/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "5cee5dcbd564ecbf",
-   "ts": 1794366775,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on Critical Infrastructure Security and Resilience Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-critical-infrastructure-security-and-resilience-month-aa39/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "c288a52bd6fe9c13",
-   "ts": 1794447000,
+   "id": "e60ef7368d1484bc",
+   "ts": 1794480126,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "MARKETS LIVE : US stocks close higher as CoreWeave results revive AI optimism",
-   "url": "https://www.proactiveinvestors.com/companies/news/1101567/markets-live-us-stocks-close-higher-as-coreweave-results-revive-ai-optimism-1101567.html",
-   "domain": "proactiveinvestors.com",
-   "tags": [
-    "crypto"
-   ]
+   "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
+   "url": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": []
+  },
+  {
+   "id": "eef4c7c19933c66e",
+   "ts": 1794479555,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
+   "url": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": []
+  },
+  {
+   "id": "44befa2f5312e155",
+   "ts": 1794479429,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
+   "url": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -271,7 +274,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 6
+   "n": 4
   },
   "Bank of England": {
    "ok": true,
@@ -279,7 +282,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 15
+   "n": 16
   },
   "BIS": {
    "ok": true,
@@ -307,16 +310,15 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 20
+   "n": 21
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
    "n": 16
   },
   "Reddit r/Bitcoin": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 23
   }
  }
 }
