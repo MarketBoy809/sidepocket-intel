@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-11T21:15:45Z",
- "generated_ts": 1794431745,
+ "generated_at": "2026-11-12T02:50:08Z",
+ "generated_ts": 1794451808,
  "prices": {
   "BTC": {
-   "p": 74594.3,
-   "o": 73699.4,
+   "p": 73807.9,
+   "o": 73928.5,
    "h": 74754.1,
-   "l": 73113.6,
-   "v": 2306.06505159
+   "l": 73303.9,
+   "v": 2414.73551532
   },
   "ETH": {
-   "p": 2077.47,
-   "o": 2050.65,
+   "p": 2057.24,
+   "o": 2053.71,
    "h": 2105.22,
-   "l": 2040.73,
-   "v": 21422.45885255
+   "l": 2033.49,
+   "v": 22505.47069605
   },
   "SOL": {
-   "p": 84.87,
-   "o": 83.24,
+   "p": 83.43,
+   "o": 83.18,
    "h": 85.77,
-   "l": 82.18,
-   "v": 178018.39596013
+   "l": 82.1,
+   "v": 190840.81741575
   }
  },
  "change_7d": {
-  "BTC": -0.06796036330513668,
-  "ETH": -0.14006350361342182,
-  "SOL": -0.10332453825857527
+  "BTC": -0.08667499352410672,
+  "ETH": -0.15585234130727624,
+  "SOL": -0.1343548050865124
  },
  "sentiment": {
-  "score": 36.2,
+  "score": 34.6,
   "label": "Fear",
   "components": {
-   "fng": 29.0,
-   "momentum": 33.009909173715826,
-   "crowding": 57.2238975
+   "fng": 28.0,
+   "momentum": 28.33125161897332,
+   "crowding": 58.3810935
   },
   "weights": {
    "fng": 0.35,
@@ -46,46 +46,30 @@
   }
  },
  "fear_greed": {
-  "value": 29,
+  "value": 28,
   "label": "Fear",
-  "ts": 1794355200
+  "ts": 1794441600
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 8.3975e-06,
-   "oi_usd": 3032657771.394474,
-   "premium": -0.0002919278
+   "funding_h": 8.9004e-06,
+   "oi_usd": 2970033563.30558,
+   "premium": -0.0004194631
   },
   "ETH": {
-   "funding_h": 9.3182e-06,
-   "oi_usd": 1612600976.1708002,
-   "premium": -0.0004471304
+   "funding_h": 1.1131e-05,
+   "oi_usd": 1586409431.9673598,
+   "premium": -0.0003883307
   },
   "SOL": {
-   "funding_h": 2.0758e-06,
-   "oi_usd": 378942999.40257984,
-   "premium": -0.0004614208
+   "funding_h": 2.9305e-06,
+   "oi_usd": 370919266.6644,
+   "premium": -0.0004309829
   }
  },
- "items_24h": 117,
+ "items_24h": 101,
  "top_items": [
-  {
-   "id": "6059cccd512b71e8",
-   "ts": 1794353048,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The Democrats' attempt to impeach Secretary of War Pete Hegseth has miserably FAILED! Every single Republican, except Thomas Massie, a major LOSER, voted in favor of Pete. Again, Victories in Venezuela and Iran, the Best Recruitment Numbers in the History of the Military (Long wa",
-   "url": "https://truthsocial.com/@realDonaldTrump/117594721408592840",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 23042
-  },
   {
    "id": "b8b729da881c8393",
    "ts": 1794378325,
@@ -101,6 +85,74 @@
    ],
    "author": "Donald Trump",
    "score": 13611
+  },
+  {
+   "id": "48e832fa5173d399",
+   "ts": 1794447000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Speech by Board Member ASADA in Nagasaki (Economic Activity, Prices, and Monetary Policy in Japan)",
+   "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261112a.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "e22e3326c2b298ee",
+   "ts": 1794445200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Bank of Japan Accounts (November 10)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261110.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "e587f5bac6590db6",
+   "ts": 1794441000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Corporate Goods Price Index (Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2610.pdf",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "1d61c661648da1e2",
+   "ts": 1794441000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Release of Latest \"Amounts Outstanding of Deposits by Depositor\" Data",
+   "url": "http://www.boj.or.jp/en/statistics/outline/notice_2026/not261112a.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "57dd77ca350ebb17",
+   "ts": 1794435471,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "“We Render You the Highest Salute”: President Trump Honors America’s Veterans on Hallowed Ground at Arlington",
+   "url": "https://www.whitehouse.gov/releases/2026/11/we-render-you-the-highest-salute-president-trump-honors-americas-veterans-on-hallowed-ground-at-arlington/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "0503ffc4c57ded34",
@@ -165,74 +217,17 @@
    "tags": []
   },
   {
-   "id": "0683e0ff412f8061",
-   "ts": 1794354600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Money Stock (Oct.)",
-   "url": "http://www.boj.or.jp/en/statistics/money/ms/ms2610.pdf",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "23592d19865770d3",
-   "ts": 1794347809,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Nominations and Withdrawals Sent to the Senate",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "7a441f3d21f3f8a7",
-   "ts": 1794431763,
+   "id": "c288a52bd6fe9c13",
+   "ts": 1794447000,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
-   "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
-   "domain": "Decrypt",
-   "org": "Decrypt",
+   "title": "MARKETS LIVE : US stocks close higher as CoreWeave results revive AI optimism",
+   "url": "https://www.proactiveinvestors.com/companies/news/1101567/markets-live-us-stocks-close-higher-as-coreweave-results-revive-ai-optimism-1101567.html",
+   "domain": "proactiveinvestors.com",
    "tags": [
-    "crypto",
-    "BTC"
+    "crypto"
    ]
-  },
-  {
-   "id": "9e66d683b936403f",
-   "ts": 1794429799,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
-   "url": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto",
-    "BTC"
-   ]
-  },
-  {
-   "id": "a4ca1ae853ebf2c2",
-   "ts": 1794428162,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
-   "url": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -284,7 +279,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "BIS": {
    "ok": true,
@@ -312,11 +307,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 21
+   "n": 20
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 14
+   "n": 16
   },
   "Reddit r/Bitcoin": {
    "ok": false,
