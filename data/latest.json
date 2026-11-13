@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-13T16:07:20Z",
- "generated_ts": 1794586040,
+ "generated_at": "2026-11-13T22:28:59Z",
+ "generated_ts": 1794608939,
  "prices": {
   "BTC": {
-   "p": 68589.3,
+   "p": 68257.9,
    "o": 71370.7,
-   "h": 72129.0,
+   "h": 71446.0,
    "l": 67500.0,
-   "v": 6458.0656427
+   "v": 5506.41218471
   },
   "ETH": {
-   "p": 1929.63,
+   "p": 1926.15,
    "o": 2017.16,
-   "h": 2024.91,
+   "h": 2018.36,
    "l": 1890.36,
-   "v": 51357.40844325
+   "v": 57362.51873722
   },
   "SOL": {
-   "p": 79.88,
+   "p": 78.51,
    "o": 81.62,
    "h": 82.31,
    "l": 77.85,
-   "v": 414108.15658261
+   "v": 422513.24342522
   }
  },
  "change_7d": {
-  "BTC": -0.09144560334854232,
-  "ETH": -0.13229669796922405,
-  "SOL": -0.1175366957289483
+  "BTC": -0.09881383925868496,
+  "ETH": -0.1390675205233969,
+  "SOL": -0.1296686246259559
  },
  "sentiment": {
-  "score": 30.9,
+  "score": 28.4,
   "label": "Fear",
   "components": {
    "fng": 20.0,
-   "momentum": 27.13859916286442,
-   "crowding": 61.4308875
+   "momentum": 25.29654018532876,
+   "crowding": 52.014362
   },
   "weights": {
    "fng": 0.35,
@@ -53,56 +53,64 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2705076297.1096134,
-   "premium": -0.0003349645
+   "funding_h": -2.9506e-06,
+   "oi_usd": 2751092360.0235286,
+   "premium": -0.0006482076
   },
   "ETH": {
-   "funding_h": 6.3175e-06,
-   "oi_usd": 1402037485.5233617,
-   "premium": -0.0006264529
+   "funding_h": -4.0306e-06,
+   "oi_usd": 1381905195.3689992,
+   "premium": -0.0008037543
   },
   "SOL": {
    "funding_h": 1.25e-05,
-   "oi_usd": 319885872.0891399,
-   "premium": -0.0005015754
+   "oi_usd": 317361365.7170001,
+   "premium": -0.0005726284
   }
  },
- "items_24h": 73,
+ "items_24h": 68,
  "top_items": [
   {
-   "id": "70570147ff16f25c",
-   "ts": 1794504293,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I rebuilt our Military in my First Term, and we're doing it AGAIN, bigger and better than ever before! The Radical Democrat Majority in the next Congress has already made it clear that their Number One Agenda is to BLOCK and RESIST this historic investment in our National Securit",
-   "url": "https://truthsocial.com/@realDonaldTrump/117604633389956053",
-   "domain": "truthsocial.com",
+   "id": "4532bcae0da2463f",
+   "ts": 1794604500,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Agencies extend comment period for proposed third-party risk management guidance",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
    "tags": [
-    "macro",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 9465
+    "macro"
+   ]
   },
   {
-   "id": "f6d4ca908883b38b",
-   "ts": 1794508863,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Senator Chuck Schumer just stated that he wants to end corruption in the United States. I assume he's referring to Democrat run Blue States such as California, Minnesota, Illinois, Maine, and New York. Billions of Dollars are being stolen on an hourly basis. Hopefully his words w",
-   "url": "https://truthsocial.com/@realDonaldTrump/117604932901982469",
-   "domain": "truthsocial.com",
+   "id": "864d97a81cf5e736",
+   "ts": 1794589020,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
+   "domain": "SEC",
+   "org": "SEC",
    "tags": [
-    "macro",
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 2557
+    "regulation"
+   ]
+  },
+  {
+   "id": "323769a6246bdeb6",
+   "ts": 1794584774,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "CFTC Files Lawsuit Against Arkansas as the Agency Defends its Federal Jurisdiction Over Prediction Markets",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9325-26",
+   "domain": "CFTC",
+   "org": "CFTC",
+   "tags": [
+    "regulation"
+   ]
   },
   {
    "id": "c677e2f6ebd63f4b",
@@ -157,80 +165,69 @@
    "tags": []
   },
   {
-   "id": "569f4ccc1c9878a6",
-   "ts": 1794521081,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Nominations Sent to the Senate",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6/",
-   "domain": "White House",
-   "org": "White House",
+   "id": "54ab18e0f858e90f",
+   "ts": 1794608163,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
+   "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": []
+  },
+  {
+   "id": "2feca863a4629bb4",
+   "ts": 1794607263,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+   "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": []
+  },
+  {
+   "id": "24677f3980d19d3f",
+   "ts": 1794606567,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+   "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": [
+    "crypto",
+    "BTC"
+   ]
+  },
+  {
+   "id": "499b884ad48dbfe1",
+   "ts": 1794605763,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+   "url": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
+   "domain": "Decrypt",
+   "org": "Decrypt",
    "tags": [
     "regulation"
    ]
   },
   {
-   "id": "bb11c35f33817174",
-   "ts": 1794520013,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "“Democrats Will Help Us”: Caravans March North as Dems Vow to Reopen the Border. President Trump Won’t Let It Happen.",
-   "url": "https://www.whitehouse.gov/releases/2026/11/democrats-will-help-us-caravans-march-north-as-dems-vow-to-reopen-the-border-president-trump-wont-let-it-happen/",
-   "domain": "White House",
-   "org": "White House",
+   "id": "5be016a1fd4568d8",
+   "ts": 1794603699,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
+   "url": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": []
-  },
-  {
-   "id": "245bc6fd4da22d83",
-   "ts": 1794519341,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on National Native American Heritage Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-native-american-heritage-month-39c4/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "1db9d3230968a6fa",
-   "ts": 1794519291,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on National Military Families Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-military-families-month/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "9b275a2b48765a72",
-   "ts": 1794519217,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on National Entrepreneurship Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-entrepreneurship-month-bfcb/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "82ba770a292c7512",
-   "ts": 1794508200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -253,7 +250,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 30
+   "n": 28
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -262,15 +259,15 @@
   },
   "SEC": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "CFTC": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "European Central Bank": {
    "ok": true,
@@ -306,15 +303,15 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 38
+   "n": 40
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 25
+   "n": 23
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 18
+   "n": 21
   },
   "Reddit r/Bitcoin": {
    "ok": false,
