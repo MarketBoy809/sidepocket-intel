@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-13T00:07:11Z",
- "generated_ts": 1794528431,
+ "generated_at": "2026-11-13T07:47:26Z",
+ "generated_ts": 1794556046,
  "prices": {
   "BTC": {
-   "p": 71372.7,
+   "p": 68737.4,
    "o": 71370.7,
-   "h": 74115.6,
-   "l": 71022.7,
-   "v": 4141.80348963
+   "h": 73594.1,
+   "l": 67500.0,
+   "v": 6791.84597063
   },
   "ETH": {
-   "p": 2016.39,
+   "p": 1940.15,
    "o": 2017.16,
-   "h": 2063.36,
-   "l": 1981.12,
-   "v": 25873.72010014
+   "h": 2050.53,
+   "l": 1890.36,
+   "v": 50082.66431036
   },
   "SOL": {
-   "p": 81.64,
+   "p": 80.04,
    "o": 81.62,
-   "h": 83.8,
-   "l": 80.37,
-   "v": 183726.98563957
+   "h": 83.4,
+   "l": 77.85,
+   "v": 369960.31137417
   }
  },
  "change_7d": {
-  "BTC": -0.060539909273591166,
-  "ETH": -0.09722054407704263,
-  "SOL": -0.0849775784753363
+  "BTC": -0.0870686422970076,
+  "ETH": -0.12917204209239294,
+  "SOL": -0.10505140813589635
  },
  "sentiment": {
-  "score": 33.6,
+  "score": 29.4,
   "label": "Fear",
   "components": {
    "fng": 20.0,
-   "momentum": 34.86502268160221,
-   "crowding": 63.6875
+   "momentum": 28.2328394257481,
+   "crowding": 52.723411
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2826884406.2911997,
-   "premium": -0.0003918495
+   "funding_h": 2.7206e-06,
+   "oi_usd": 2568490277.08236,
+   "premium": -0.0004403603
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 1479088248.5917213,
-   "premium": -0.0004755159
+   "funding_h": 4.469e-07,
+   "oi_usd": 1437416967.0836,
+   "premium": -0.0005354642
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 336460049.3982,
-   "premium": -0.0005016211
+   "funding_h": 4.2939e-06,
+   "oi_usd": 327738159.07149994,
+   "premium": -0.000474407
   }
  },
- "items_24h": 110,
+ "items_24h": 97,
  "top_items": [
   {
    "id": "95cdacf3df923edd",
@@ -172,6 +172,20 @@
    "score": 186
   },
   {
+   "id": "b0a1c9bf225c3bdb",
+   "ts": 1794554400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Isabel Schnabel: Made in Europe",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
    "id": "e04494bc7d3c0d80",
    "ts": 1794522997,
    "source": "government",
@@ -232,18 +246,6 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
-  },
-  {
-   "id": "9b275a2b48765a72",
-   "ts": 1794519217,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on National Entrepreneurship Month",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-entrepreneurship-month-bfcb/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -287,7 +289,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "Bank of England": {
    "ok": true,
@@ -295,7 +297,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 16
+   "n": 14
   },
   "BIS": {
    "ok": true,
@@ -327,7 +329,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 13
+   "n": 16
   },
   "Reddit r/Bitcoin": {
    "ok": false,
