@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-14T10:05:27Z",
- "generated_ts": 1794650727,
+ "generated_at": "2026-11-14T16:33:40Z",
+ "generated_ts": 1794674020,
  "prices": {
   "BTC": {
-   "p": 67341.7,
+   "p": 65314.3,
    "o": 68237.4,
-   "h": 70190.1,
-   "l": 66402.4,
-   "v": 3643.7329632
+   "h": 69073.2,
+   "l": 65010.1,
+   "v": 3659.63676338
   },
   "ETH": {
-   "p": 1910.14,
+   "p": 1822.49,
    "o": 1928.19,
-   "h": 1987.13,
-   "l": 1875.0,
-   "v": 41396.07328217
+   "h": 1954.31,
+   "l": 1814.74,
+   "v": 43545.89734558
   },
   "SOL": {
-   "p": 75.85,
+   "p": 72.61,
    "o": 78.13,
-   "h": 82.31,
-   "l": 74.74,
-   "v": 371896.1793224
+   "h": 80.52,
+   "l": 72.36,
+   "v": 407958.31778745
   }
  },
  "change_7d": {
-  "BTC": -0.11336132384868268,
-  "ETH": -0.14774024398944127,
-  "SOL": -0.15673632725655842
+  "BTC": -0.13182644033138013,
+  "ETH": -0.17659932509241943,
+  "SOL": -0.17493852000894247
  },
  "sentiment": {
-  "score": 23.7,
+  "score": 20.8,
   "label": "Extreme fear",
   "components": {
    "fng": 13.0,
-   "momentum": 21.65966903782933,
-   "crowding": 51.246183
+   "momentum": 17.04338991715497,
+   "crowding": 43.8797895
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 6.0236e-06,
-   "oi_usd": 2567042718.73152,
-   "premium": -0.0004747563
+   "funding_h": 1.08121e-05,
+   "oi_usd": 2481350797.8797536,
+   "premium": -0.0005002394
   },
   "ETH": {
-   "funding_h": -6.3286e-06,
-   "oi_usd": 1336601275.3301766,
-   "premium": -0.0005805713
+   "funding_h": -1.55332e-05,
+   "oi_usd": 1255797671.9435015,
+   "premium": -0.000811279
   },
   "SOL": {
-   "funding_h": 3.7192e-06,
-   "oi_usd": 311649796.8584,
-   "premium": -0.0004465521
+   "funding_h": -1.20466e-05,
+   "oi_usd": 302583096.3846799,
+   "premium": -0.0005918381
   }
  },
- "items_24h": 73,
+ "items_24h": 67,
  "top_items": [
   {
    "id": "0c15633c82297dc9",
@@ -147,98 +147,104 @@
    ]
   },
   {
-   "id": "323769a6246bdeb6",
-   "ts": 1794584774,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "CFTC Files Lawsuit Against Arkansas as the Agency Defends its Federal Jurisdiction Over Prediction Markets",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9325-26",
-   "domain": "CFTC",
-   "org": "CFTC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "c677e2f6ebd63f4b",
-   "ts": 1794575400,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Trump Administration Delivers Record-Setting Results Through Executive Action",
-   "url": "https://www.whitehouse.gov/releases/2026/11/trump-administration-delivers-record-setting-results-through-executive-action/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "211f79585a1fdbf3",
-   "ts": 1794650603,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Me, sold everything to Buy the Dip ..",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1xvytdr/me_sold_everything_to_buy_the_dip/",
-   "domain": "r/Bitcoin",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "dc03f635481665ff",
-   "ts": 1794649710,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Ueno Bank Fallout and Binance Hack",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1xvykwt/ueno_bank_fallout_and_binance_hack/",
-   "domain": "r/Bitcoin",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "654f65066a51e45c",
-   "ts": 1794646024,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Is all crypto essentially digital beanie babies?",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xvxmxf/is_all_crypto_essentially_digital_beanie_babies/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "efc138c587ee6818",
-   "ts": 1794643950,
+   "id": "6639c3891073cda7",
+   "ts": 1794674009,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
-   "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": []
+   "title": "Bitcoin drifts back to $65,000; 'deep value zone,' says analyst",
+   "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto",
+    "BTC"
+   ]
   },
   {
-   "id": "9fc12fd25463d857",
-   "ts": 1794639641,
+   "id": "487c7aec411ff10d",
+   "ts": 1794674003,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+   "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto",
+    "ETH"
+   ]
+  },
+  {
+   "id": "27620c2032a689e4",
+   "ts": 1794673624,
    "source": "reddit",
    "group": "social",
    "kind": "post",
-   "title": "Daily Discussion, November 14, 2026",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1xvvwc1/daily_discussion_november_14_2026/",
-   "domain": "r/Bitcoin",
+   "title": "Congratz, you guys are roughly halfway the lost decade with bitcoin",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xw6ij6/congratz_you_guys_are_roughly_halfway_the_lost/",
+   "domain": "r/CryptoCurrency",
    "tags": [
-    "crypto"
+    "crypto",
+    "BTC"
    ],
    "score": 0
+  },
+  {
+   "id": "9aa29a9320bec7c3",
+   "ts": 1794672062,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+   "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "b918d6c7270c0261",
+   "ts": 1794670707,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+   "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": []
+  },
+  {
+   "id": "8c0c1b4471d9df29",
+   "ts": 1794669438,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Latin America May Have Found Crypto’s Killer App. It’s the Dollar",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xw4ujz/latin_america_may_have_found_cryptos_killer_app/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto",
+    "macro"
+   ],
+   "score": 0
+  },
+  {
+   "id": "c6edf19e65a23c78",
+   "ts": 1794668400,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+   "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -282,7 +288,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "Bank of England": {
    "ok": true,
@@ -322,11 +328,12 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 21
   },
   "Reddit r/Bitcoin": {
-   "ok": true,
-   "n": 24
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
