@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-14T03:02:04Z",
- "generated_ts": 1794625324,
+ "generated_at": "2026-11-14T10:05:27Z",
+ "generated_ts": 1794650727,
  "prices": {
   "BTC": {
-   "p": 67644.9,
+   "p": 67341.7,
    "o": 68237.4,
-   "h": 70242.2,
-   "l": 66839.5,
-   "v": 5262.72340184
+   "h": 70190.1,
+   "l": 66402.4,
+   "v": 3643.7329632
   },
   "ETH": {
-   "p": 1909.3,
+   "p": 1910.14,
    "o": 1928.19,
-   "h": 1991.3,
+   "h": 1987.13,
    "l": 1875.0,
-   "v": 62793.50470391
+   "v": 41396.07328217
   },
   "SOL": {
-   "p": 76.08,
+   "p": 75.85,
    "o": 78.13,
    "h": 82.31,
-   "l": 74.96,
-   "v": 462972.45334778
+   "l": 74.74,
+   "v": 371896.1793224
   }
  },
  "change_7d": {
-  "BTC": -0.10948461313985504,
-  "ETH": -0.14856722670350733,
-  "SOL": -0.1566998892580287
+  "BTC": -0.11336132384868268,
+  "ETH": -0.14774024398944127,
+  "SOL": -0.15673632725655842
  },
  "sentiment": {
-  "score": 23.4,
+  "score": 23.7,
   "label": "Extreme fear",
   "components": {
    "fng": 13.0,
-   "momentum": 22.62884671503624,
-   "crowding": 48.5321525
+   "momentum": 21.65966903782933,
+   "crowding": 51.246183
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": -2.8438e-06,
-   "oi_usd": 2647016173.04926,
-   "premium": -0.0006646383
+   "funding_h": 6.0236e-06,
+   "oi_usd": 2567042718.73152,
+   "premium": -0.0004747563
   },
   "ETH": {
-   "funding_h": -8.5203e-06,
-   "oi_usd": 1371470182.4388006,
-   "premium": -0.0006279435
+   "funding_h": -6.3286e-06,
+   "oi_usd": 1336601275.3301766,
+   "premium": -0.0005805713
   },
   "SOL": {
-   "funding_h": 7.3426e-06,
-   "oi_usd": 307440228.5011199,
-   "premium": -0.0006302107
+   "funding_h": 3.7192e-06,
+   "oi_usd": 311649796.8584,
+   "premium": -0.0004465521
   }
  },
- "items_24h": 87,
+ "items_24h": 73,
  "top_items": [
   {
    "id": "0c15633c82297dc9",
@@ -173,41 +173,41 @@
    "tags": []
   },
   {
-   "id": "9d84fa0dc0409878",
-   "ts": 1794560400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
-   "url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "b0a1c9bf225c3bdb",
-   "ts": 1794554400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Isabel Schnabel: Made in Europe",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "ffaa86c78054870f",
-   "ts": 1794625380,
+   "id": "211f79585a1fdbf3",
+   "ts": 1794650603,
    "source": "reddit",
    "group": "social",
    "kind": "post",
-   "title": "There is No “Reason” Only Cycles",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xvrlkj/there_is_no_reason_only_cycles/",
+   "title": "Me, sold everything to Buy the Dip ..",
+   "url": "https://www.reddit.com/r/Bitcoin/comments/1xvytdr/me_sold_everything_to_buy_the_dip/",
+   "domain": "r/Bitcoin",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "dc03f635481665ff",
+   "ts": 1794649710,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Ueno Bank Fallout and Binance Hack",
+   "url": "https://www.reddit.com/r/Bitcoin/comments/1xvykwt/ueno_bank_fallout_and_binance_hack/",
+   "domain": "r/Bitcoin",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "654f65066a51e45c",
+   "ts": 1794646024,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Is all crypto essentially digital beanie babies?",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xvxmxf/is_all_crypto_essentially_digital_beanie_babies/",
    "domain": "r/CryptoCurrency",
    "tags": [
     "crypto"
@@ -215,31 +215,28 @@
    "score": 0
   },
   {
-   "id": "06a5857b027d7d1b",
-   "ts": 1794624473,
+   "id": "efc138c587ee6818",
+   "ts": 1794643950,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+   "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": []
+  },
+  {
+   "id": "9fc12fd25463d857",
+   "ts": 1794639641,
    "source": "reddit",
    "group": "social",
    "kind": "post",
-   "title": "JP Morgan is buying the DIP when you are freaking out",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1xvrav5/jp_morgan_is_buying_the_dip_when_you_are_freaking/",
+   "title": "Daily Discussion, November 14, 2026",
+   "url": "https://www.reddit.com/r/Bitcoin/comments/1xvvwc1/daily_discussion_november_14_2026/",
    "domain": "r/Bitcoin",
    "tags": [
     "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "36949420c7c1138f",
-   "ts": 1794620904,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "bITCOIN SHORT",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1xvq4gl/bitcoin_short/",
-   "domain": "r/Bitcoin",
-   "tags": [
-    "crypto",
-    "BTC"
    ],
    "score": 0
   }
@@ -325,7 +322,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 20
+   "n": 19
   },
   "Reddit r/Bitcoin": {
    "ok": true,
