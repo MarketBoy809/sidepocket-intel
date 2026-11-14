@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-13T22:28:59Z",
- "generated_ts": 1794608939,
+ "generated_at": "2026-11-14T03:02:04Z",
+ "generated_ts": 1794625324,
  "prices": {
   "BTC": {
-   "p": 68257.9,
-   "o": 71370.7,
-   "h": 71446.0,
-   "l": 67500.0,
-   "v": 5506.41218471
+   "p": 67644.9,
+   "o": 68237.4,
+   "h": 70242.2,
+   "l": 66839.5,
+   "v": 5262.72340184
   },
   "ETH": {
-   "p": 1926.15,
-   "o": 2017.16,
-   "h": 2018.36,
-   "l": 1890.36,
-   "v": 57362.51873722
+   "p": 1909.3,
+   "o": 1928.19,
+   "h": 1991.3,
+   "l": 1875.0,
+   "v": 62793.50470391
   },
   "SOL": {
-   "p": 78.51,
-   "o": 81.62,
+   "p": 76.08,
+   "o": 78.13,
    "h": 82.31,
-   "l": 77.85,
-   "v": 422513.24342522
+   "l": 74.96,
+   "v": 462972.45334778
   }
  },
  "change_7d": {
-  "BTC": -0.09881383925868496,
-  "ETH": -0.1390675205233969,
-  "SOL": -0.1296686246259559
+  "BTC": -0.10948461313985504,
+  "ETH": -0.14856722670350733,
+  "SOL": -0.1566998892580287
  },
  "sentiment": {
-  "score": 28.4,
-  "label": "Fear",
+  "score": 23.4,
+  "label": "Extreme fear",
   "components": {
-   "fng": 20.0,
-   "momentum": 25.29654018532876,
-   "crowding": 52.014362
+   "fng": 13.0,
+   "momentum": 22.62884671503624,
+   "crowding": 48.5321525
   },
   "weights": {
    "fng": 0.35,
@@ -46,30 +46,64 @@
   }
  },
  "fear_greed": {
-  "value": 20,
+  "value": 13,
   "label": "Extreme Fear",
-  "ts": 1794528000
+  "ts": 1794614400
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": -2.9506e-06,
-   "oi_usd": 2751092360.0235286,
-   "premium": -0.0006482076
+   "funding_h": -2.8438e-06,
+   "oi_usd": 2647016173.04926,
+   "premium": -0.0006646383
   },
   "ETH": {
-   "funding_h": -4.0306e-06,
-   "oi_usd": 1381905195.3689992,
-   "premium": -0.0008037543
+   "funding_h": -8.5203e-06,
+   "oi_usd": 1371470182.4388006,
+   "premium": -0.0006279435
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 317361365.7170001,
-   "premium": -0.0005726284
+   "funding_h": 7.3426e-06,
+   "oi_usd": 307440228.5011199,
+   "premium": -0.0006302107
   }
  },
- "items_24h": 68,
+ "items_24h": 87,
  "top_items": [
+  {
+   "id": "0c15633c82297dc9",
+   "ts": 1794610728,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Thank you to the United States Coast Guard for doing such an incredible job of rescue, and other work, having to do with the crash of the two ships in Louisiana. Likewise, all of Law Enforcement and First Responders were fantastic! Incredibly, nobody was killed by this major coll",
+   "url": "https://truthsocial.com/@realDonaldTrump/117611608680849019",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 19804
+  },
+  {
+   "id": "17f07cf9b1ac889b",
+   "ts": 1794610354,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I am working with Senator Tim Scott and, believe it or not, Senator Adam Schiff, and, additionally, Senators John Cornyn, Raphael Warnock, Steve Daines, Bernie Moreno, Tim Sheehy, Alex Padilla, Mark Warner, Thom Tillis, Chris Coons, Katie Britt, and Dick Durbin, together with Rep",
+   "url": "https://truthsocial.com/@realDonaldTrump/117611584206041319",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro",
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 12535
+  },
   {
    "id": "4532bcae0da2463f",
    "ts": 1794604500,
@@ -82,6 +116,20 @@
    "org": "Federal Reserve",
    "tags": [
     "macro"
+   ]
+  },
+  {
+   "id": "2bb1180d8c023150",
+   "ts": 1794603640,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "CFTC Sues Louisiana After State Court Blocks CFTC-Regulated Exchanges",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9326-26",
+   "domain": "CFTC",
+   "org": "CFTC",
+   "tags": [
+    "regulation"
    ]
   },
   {
@@ -153,81 +201,47 @@
    ]
   },
   {
-   "id": "e04494bc7d3c0d80",
-   "ts": 1794522997,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "First Lady Melania Trump Honors America’s Fallen Heroes at the Tomb of The Unknown Soldier",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-honors-americas-fallen-heroes-at-the-tomb-of-the-unknown-soldier/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
+   "id": "ffaa86c78054870f",
+   "ts": 1794625380,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "There is No “Reason” Only Cycles",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xvrlkj/there_is_no_reason_only_cycles/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
   },
   {
-   "id": "54ab18e0f858e90f",
-   "ts": 1794608163,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
-   "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": []
+   "id": "06a5857b027d7d1b",
+   "ts": 1794624473,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "JP Morgan is buying the DIP when you are freaking out",
+   "url": "https://www.reddit.com/r/Bitcoin/comments/1xvrav5/jp_morgan_is_buying_the_dip_when_you_are_freaking/",
+   "domain": "r/Bitcoin",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
   },
   {
-   "id": "2feca863a4629bb4",
-   "ts": 1794607263,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-   "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": []
-  },
-  {
-   "id": "24677f3980d19d3f",
-   "ts": 1794606567,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
-   "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "id": "36949420c7c1138f",
+   "ts": 1794620904,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "bITCOIN SHORT",
+   "url": "https://www.reddit.com/r/Bitcoin/comments/1xvq4gl/bitcoin_short/",
+   "domain": "r/Bitcoin",
    "tags": [
     "crypto",
     "BTC"
-   ]
-  },
-  {
-   "id": "499b884ad48dbfe1",
-   "ts": 1794605763,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
-   "url": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "5be016a1fd4568d8",
-   "ts": 1794603699,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
-   "url": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": []
+   ],
+   "score": 0
   }
  ],
  "briefing_ts": 1790465772,
@@ -263,7 +277,7 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "Federal Reserve": {
    "ok": true,
@@ -307,16 +321,15 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 23
+   "n": 25
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 21
+   "n": 20
   },
   "Reddit r/Bitcoin": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 24
   }
  }
 }
