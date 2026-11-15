@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-15T09:10:33Z",
- "generated_ts": 1794733833,
+ "generated_at": "2026-11-15T16:57:27Z",
+ "generated_ts": 1794761847,
  "prices": {
   "BTC": {
-   "p": 65802.9,
+   "p": 64649.5,
    "o": 64115.1,
-   "h": 67451.5,
+   "h": 66127.4,
    "l": 61970.3,
-   "v": 6753.78014208
+   "v": 6128.28097137
   },
   "ETH": {
-   "p": 1832.33,
+   "p": 1813.28,
    "o": 1768.17,
-   "h": 1917.15,
+   "h": 1856.63,
    "l": 1710.0,
-   "v": 77177.12737689
+   "v": 66231.5258747
   },
   "SOL": {
-   "p": 72.03,
+   "p": 71.33,
    "o": 70.26,
-   "h": 76.14,
+   "h": 73.59,
    "l": 67.37,
-   "v": 774286.6842864
+   "v": 718202.79857067
   }
  },
  "change_7d": {
-  "BTC": -0.14042323584465682,
-  "ETH": -0.1906074011782125,
-  "SOL": -0.20309521139396658
+  "BTC": -0.1482227572842527,
+  "ETH": -0.19168207519361152,
+  "SOL": -0.20535714285714277
  },
  "sentiment": {
-  "score": 22.8,
+  "score": 18.7,
   "label": "Extreme fear",
   "components": {
    "fng": 10.0,
-   "momentum": 14.894191038835793,
-   "crowding": 63.3508605
+   "momentum": 12.94431067893683,
+   "crowding": 46.5015115
   },
   "weights": {
    "fng": 0.35,
@@ -53,23 +53,39 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2568766576.16432,
-   "premium": 0.0
+   "funding_h": 1.568e-06,
+   "oi_usd": 2351145674.763,
+   "premium": -0.000545719
   },
   "ETH": {
-   "funding_h": 1.15777e-05,
-   "oi_usd": 1106338202.0992804,
-   "premium": -0.0003272608
+   "funding_h": -7.5181e-06,
+   "oi_usd": 1066894097.2612802,
+   "premium": -0.0005622251
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 323577718.6509999,
-   "premium": -0.000554939
+   "funding_h": -3.6348e-06,
+   "oi_usd": 324351016.8509998,
+   "premium": -0.0006260443
   }
  },
- "items_24h": 81,
+ "items_24h": 74,
  "top_items": [
+  {
+   "id": "2e342bf494c6cb4e",
+   "ts": 1794750125,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I am in the White House having meetings on many subjects. Very exciting times for the USA. Great things are happening - We are the \"hottest\" Country anywhere in the World! President DJT",
+   "url": "https://truthsocial.com/@realDonaldTrump/117620744239777031",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 13847
+  },
   {
    "id": "206bbdf29f8e25eb",
    "ts": 1794677955,
@@ -102,6 +118,38 @@
    ],
    "author": "Donald Trump",
    "score": 12677
+  },
+  {
+   "id": "de8b07488eb4eecc",
+   "ts": 1794749745,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "If Congress approves the desperately needed money for Air Traffic Control, we can get it built quickly and efficiently. It will be the BEST SYSTEM anywhere in the World. Much of our current air control system is 50 years old - RIDICULOUS! We have already started the work, but it ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117620719333478761",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 12469
+  },
+  {
+   "id": "19cd5141378bb889",
+   "ts": 1794748591,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The Biden Administration was an FAA disaster. Everything they touched turned bad. Big money spent unwisely, making an old and broken system worse than when they began. We have the knowledge and plan for the Flight Control Systems, we need Congress to give the money, FAST! Our FAA",
+   "url": "https://truthsocial.com/@realDonaldTrump/117620643696909295",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 9761
   },
   {
    "id": "e066654c0cdb011a",
@@ -152,95 +200,60 @@
    ]
   },
   {
-   "id": "bfd4ef0724ce4fb6",
-   "ts": 1794730078,
+   "id": "240c338b0a4f1289",
+   "ts": 1794761877,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Binance targets full reopening of withdrawals by next week",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xx0i5g/binance_targets_full_reopening_of_withdrawals_by/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "3368737bc3df901b",
+   "ts": 1794758462,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Coinone warns of phishing, identity theft after customer data breach",
-   "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+   "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "2bed2cca4d10f984",
+   "ts": 1794753000,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Enterprise blockchain is going to come back from the dead",
+   "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "domain": "Cointelegraph",
    "org": "Cointelegraph",
-   "tags": []
-  },
-  {
-   "id": "8231e814599192b0",
-   "ts": 1794728700,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bitcoin tumbles to four - month low as liquidations accelerate",
-   "url": "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/bitcoin-tumbles-to-four-month-low-as-liquidations-accelerate/article71704128.ece",
-   "domain": "thehindubusinessline.com",
-   "tags": [
-    "crypto",
-    "BTC"
-   ]
-  },
-  {
-   "id": "a08f919303707b3f",
-   "ts": 1794728700,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Blockchain Record Shows 1 . 78 Million Solana ( SOL ) Left Staking ; Wallet Owner Unknown",
-   "url": "https://econotimes.com/Blockchain-Record-Shows-1-78-Million-Solana-SOL-Left-Staking-Wallet-Owner-Unknown-1777158",
-   "domain": "econotimes.com",
-   "tags": [
-    "crypto",
-    "SOL"
-   ]
-  },
-  {
-   "id": "f6c00e77421ffcd1",
-   "ts": 1794728700,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "SEBI to issue AI norms for capital markets , safeguard investor interests : Pandey",
-   "url": "https://www.thehindubusinessline.com/markets/sebi-to-issue-ai-norms-for-capital-markets-safeguard-investor-interests-pandey/article71704258.ece",
-   "domain": "thehindubusinessline.com",
    "tags": [
     "crypto"
    ]
   },
   {
-   "id": "1ec2227890506836",
-   "ts": 1794728700,
+   "id": "bddcae0d0eff9f2a",
+   "ts": 1794751262,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Repeal budget tax changes now to avoid housing supply crash : Coalition",
-   "url": "https://www.brisbanetimes.com.au/politics/federal/repeal-budget-tax-changes-now-to-avoid-housing-supply-crash-coalition-20261115-p61e8c.html",
-   "domain": "brisbanetimes.com.au",
+   "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+   "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+   "domain": "Decrypt",
+   "org": "Decrypt",
    "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "05504eba612fae95",
-   "ts": 1794728700,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Russian economy growth slows to 1 percent in third quarter",
-   "url": "https://www.hurriyetdailynews.com/russian-economy-growth-slows-to-1-percent-in-third-quarter-229399",
-   "domain": "hurriyetdailynews.com",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "ff11c638dd244dae",
-   "ts": 1794728700,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "India - US trade deal could be sealed soon : Jaishankar",
-   "url": "https://nagalandpost.com/india-us-trade-deal-could-be-sealed-soon-jaishankar/",
-   "domain": "nagalandpost.com",
-   "tags": [
-    "geo"
+    "crypto",
+    "BTC"
    ]
   }
  ],
@@ -252,7 +265,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 32
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -321,12 +334,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 26
+   "n": 27
   },
   "Reddit r/CryptoCurrency": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 23
   },
   "Reddit r/Bitcoin": {
    "ok": false,
