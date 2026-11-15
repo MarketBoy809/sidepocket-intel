@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-15T16:57:27Z",
- "generated_ts": 1794761847,
+ "generated_at": "2026-11-15T21:39:23Z",
+ "generated_ts": 1794778763,
  "prices": {
   "BTC": {
-   "p": 64649.5,
+   "p": 65009.3,
    "o": 64115.1,
-   "h": 66127.4,
+   "h": 66086.7,
    "l": 61970.3,
-   "v": 6128.28097137
+   "v": 5196.41282987
   },
   "ETH": {
-   "p": 1813.28,
+   "p": 1817.76,
    "o": 1768.17,
-   "h": 1856.63,
+   "h": 1843.58,
    "l": 1710.0,
-   "v": 66231.5258747
+   "v": 53103.5812352
   },
   "SOL": {
-   "p": 71.33,
+   "p": 71.87,
    "o": 70.26,
-   "h": 73.59,
+   "h": 73.24,
    "l": 67.37,
-   "v": 718202.79857067
+   "v": 525944.11120955
   }
  },
  "change_7d": {
-  "BTC": -0.1482227572842527,
-  "ETH": -0.19168207519361152,
-  "SOL": -0.20535714285714277
+  "BTC": -0.13947636263069027,
+  "ETH": -0.179349976617864,
+  "SOL": -0.19271828295314072
  },
  "sentiment": {
-  "score": 18.7,
+  "score": 21.5,
   "label": "Extreme fear",
   "components": {
    "fng": 10.0,
-   "momentum": 12.94431067893683,
-   "crowding": 46.5015115
+   "momentum": 15.130909342327435,
+   "crowding": 56.671178
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.568e-06,
-   "oi_usd": 2351145674.763,
-   "premium": -0.000545719
+   "funding_h": 1.25e-05,
+   "oi_usd": 2389916607.8645997,
+   "premium": -0.0002459949
   },
   "ETH": {
-   "funding_h": -7.5181e-06,
-   "oi_usd": 1066894097.2612802,
-   "premium": -0.0005622251
+   "funding_h": 2.9354e-06,
+   "oi_usd": 1068114466.0879997,
+   "premium": -0.0004949134
   },
   "SOL": {
-   "funding_h": -3.6348e-06,
-   "oi_usd": 324351016.8509998,
-   "premium": -0.0006260443
+   "funding_h": 2.8418e-06,
+   "oi_usd": 326277474.68064,
+   "premium": -0.0004866451
   }
  },
- "items_24h": 74,
+ "items_24h": 65,
  "top_items": [
   {
    "id": "2e342bf494c6cb4e",
@@ -85,39 +85,6 @@
    ],
    "author": "Donald Trump",
    "score": 13847
-  },
-  {
-   "id": "206bbdf29f8e25eb",
-   "ts": 1794677955,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "\"I'm going to fight and get all of the President's Nominees confirmed. Get the Permitting Bill passed. I want to do a Reconciliation Bill, which we can pass with no Democrat votes, provide money for the Military, money for Air Control, a Bill to ban Stock Trading, pass a Bill on ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117616014481394036",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 13316
-  },
-  {
-   "id": "1ce7b49eb9de0788",
-   "ts": 1794678049,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "\"Some people worry about losing, I worry about not trying. I can explain a loss, I can't explain to my people why I didn't try!\"Highly Respected Senator John Kennedy, of Louisiana, being interviewed by Kayleigh McEnany on FoxNews",
-   "url": "https://truthsocial.com/@realDonaldTrump/117616020655749477",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 12677
   },
   {
    "id": "de8b07488eb4eecc",
@@ -168,36 +135,90 @@
    "score": 7899
   },
   {
-   "id": "d45b48fe7608f2a3",
-   "ts": 1794677899,
+   "id": "0416bc3948d40f58",
+   "ts": 1794770461,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "I am working with Senator Tim Scott and, believe it or not, Senator Adam Schiff, and, additionally, Senators John Cornyn, Raphael Warnock, Steve Daines, Bernie Moreno, Tim Sheehy, Alex Padilla, Mark Warner, Thom Tillis, Chris Coons, Katie Britt, and Dick Durbin, together with Rep",
-   "url": "https://truthsocial.com/@realDonaldTrump/117616010798312169",
+   "title": "Exclusive — Iraqi President Nizar Amedi: President Trump 'Very Significantly Important Man' in History Who Can Bring Peace, Prosperity to World with End of Iran War: https://www.breitbart.com/politics/2026/11/15/exclusive-iraqi-president-nizar-amedi-president-trump-very-significa",
+   "url": "https://truthsocial.com/@realDonaldTrump/117622076975145007",
    "domain": "truthsocial.com",
    "tags": [
-    "macro",
-    "geo",
-    "regulation"
+    "geo"
    ],
    "author": "Donald Trump",
-   "score": 7028
+   "score": 6670
   },
   {
-   "id": "1302a3e925ecbc8f",
-   "ts": 1794690000,
+   "id": "2fadd5964da098c9",
+   "ts": 1794776854,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "ICYMI: Secretary Duffy’s Full Sunday Circuit Outlines Ground Stop Response and the Path Forward",
+   "url": "https://www.whitehouse.gov/releases/2026/11/icymi-secretary-duffys-full-sunday-circuit-outlines-ground-stop-response-and-the-path-forward/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "a672f528b43195cf",
+   "ts": 1794771000,
    "source": "news",
-   "group": "institution",
+   "group": "news",
    "kind": "news",
-   "title": "Corporate Yield vs . Government Safety : Comparing Returns , Dividends , and Risk of VCLT and VGLT",
-   "url": "https://www.fool.com/coverage/etfs/2026/11/14/corporate-yield-vs-government-safety-comparing-returns-dividends-and-risk-of-vclt-and-vglt/",
-   "domain": "fool.com",
+   "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+   "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
    "tags": [
-    "macro",
-    "institution"
+    "crypto"
    ]
+  },
+  {
+   "id": "a767ce36aa5308a8",
+   "ts": 1794766743,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "The Only Real \"Fundamental\" Bitcoin Indicator I Know Of Says It May Be Time To Buy.",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xx2lsc/the_only_real_fundamental_bitcoin_indicator_i/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto",
+    "BTC"
+   ],
+   "score": 0
+  },
+  {
+   "id": "4e5d55b42ab2a9a3",
+   "ts": 1794766408,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Crypto is getting obliterated by online gambling.",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xx2gmv/crypto_is_getting_obliterated_by_online_gambling/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "fee0ef91f3e80493",
+   "ts": 1794765292,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Who Pays to Mine Bitcoin’s Play Money? Inside the Launch of Testnet5.",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xx1zdf/who_pays_to_mine_bitcoins_play_money_inside_the/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto",
+    "BTC"
+   ],
+   "score": 0
   },
   {
    "id": "240c338b0a4f1289",
@@ -225,35 +246,6 @@
    "org": "Decrypt",
    "tags": [
     "macro"
-   ]
-  },
-  {
-   "id": "2bed2cca4d10f984",
-   "ts": 1794753000,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Enterprise blockchain is going to come back from the dead",
-   "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "bddcae0d0eff9f2a",
-   "ts": 1794751262,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
-   "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": [
-    "crypto",
-    "BTC"
    ]
   }
  ],
@@ -338,7 +330,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 23
+   "n": 22
   },
   "Reddit r/Bitcoin": {
    "ok": false,
