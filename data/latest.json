@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-14T21:20:04Z",
- "generated_ts": 1794691204,
+ "generated_at": "2026-11-15T01:44:51Z",
+ "generated_ts": 1794707091,
  "prices": {
   "BTC": {
-   "p": 64456.6,
-   "o": 68237.4,
-   "h": 68438.3,
-   "l": 63854.3,
-   "v": 4616.90822022
+   "p": 62105.1,
+   "o": 64115.1,
+   "h": 68323.5,
+   "l": 62067.2,
+   "v": 6295.64784746
   },
   "ETH": {
-   "p": 1771.41,
-   "o": 1928.19,
-   "h": 1934.9,
-   "l": 1750.67,
-   "v": 54491.68405485
+   "p": 1714.31,
+   "o": 1768.17,
+   "h": 1929.81,
+   "l": 1711.0,
+   "v": 68255.69073112
   },
   "SOL": {
-   "p": 69.84,
-   "o": 78.13,
-   "h": 79.36,
-   "l": 68.61,
-   "v": 536385.33613052
+   "p": 67.61,
+   "o": 70.26,
+   "h": 77.36,
+   "l": 67.61,
+   "v": 703584.50198271
   }
  },
  "change_7d": {
-  "BTC": -0.14386596527149245,
-  "ETH": -0.1992910223116805,
-  "SOL": -0.20775716694772348
+  "BTC": -0.16244920271278188,
+  "ETH": -0.22092528666156244,
+  "SOL": -0.22352809491828965
  },
  "sentiment": {
-  "score": 13.3,
+  "score": 13.4,
   "label": "Extreme fear",
   "components": {
-   "fng": 13.0,
-   "momentum": 14.033508682126886,
+   "fng": 10.0,
+   "momentum": 9.387699321804533,
    "news_tone": 6.799999999999999,
-   "crowding": 19.554072500000004
+   "crowding": 33.053561
   },
   "weights": {
    "fng": 0.35,
@@ -47,46 +47,30 @@
   }
  },
  "fear_greed": {
-  "value": 13,
+  "value": 10,
   "label": "Extreme Fear",
-  "ts": 1794614400
+  "ts": 1794700800
  },
  "news_tone_24h": -2.592,
  "derivatives": {
   "BTC": {
-   "funding_h": -1.21455e-05,
-   "oi_usd": 2362138493.07282,
-   "premium": -0.0004246219
+   "funding_h": -9.97e-06,
+   "oi_usd": 2272816264.4604597,
+   "premium": -0.0007930584
   },
   "ETH": {
-   "funding_h": -3.67778e-05,
-   "oi_usd": 1176707215.9115238,
-   "premium": -0.0004400366
+   "funding_h": -2.64108e-05,
+   "oi_usd": 1101188912.0713212,
+   "premium": -0.0011655012
   },
   "SOL": {
-   "funding_h": -3.44902e-05,
-   "oi_usd": 285862655.45640004,
-   "premium": -0.0006410156
+   "funding_h": -1.00478e-05,
+   "oi_usd": 314727174.22695976,
+   "premium": -0.0013360922
   }
  },
- "items_24h": 66,
+ "items_24h": 57,
  "top_items": [
-  {
-   "id": "0c15633c82297dc9",
-   "ts": 1794610728,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Thank you to the United States Coast Guard for doing such an incredible job of rescue, and other work, having to do with the crash of the two ships in Louisiana. Likewise, all of Law Enforcement and First Responders were fantastic! Incredibly, nobody was killed by this major coll",
-   "url": "https://truthsocial.com/@realDonaldTrump/117611608680849019",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 19804
-  },
   {
    "id": "206bbdf29f8e25eb",
    "ts": 1794677955,
@@ -121,22 +105,20 @@
    "score": 12677
   },
   {
-   "id": "17f07cf9b1ac889b",
-   "ts": 1794610354,
+   "id": "e066654c0cdb011a",
+   "ts": 1794703804,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "I am working with Senator Tim Scott and, believe it or not, Senator Adam Schiff, and, additionally, Senators John Cornyn, Raphael Warnock, Steve Daines, Bernie Moreno, Tim Sheehy, Alex Padilla, Mark Warner, Thom Tillis, Chris Coons, Katie Britt, and Dick Durbin, together with Rep",
-   "url": "https://truthsocial.com/@realDonaldTrump/117611584206041319",
+   "title": "Has anyone noticed that immediately after the Election the Stock Market lost 3 Trillion Dollars in Value? In other words, Investors throughout the World hated seeing what took place on Election Day. But have no fear, the Market has since gone up, and America will soon be GREATER ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117617708553644602",
    "domain": "truthsocial.com",
    "tags": [
-    "macro",
-    "geo",
-    "regulation"
+    "macro"
    ],
    "author": "Donald Trump",
-   "score": 12535
+   "score": 7899
   },
   {
    "id": "d45b48fe7608f2a3",
@@ -169,6 +151,63 @@
     "macro",
     "institution"
    ]
+  },
+  {
+   "id": "773c908641e5ca28",
+   "ts": 1794700477,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "McDonald'S sees record job applications as crypto market crashes.",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xwh06s/mcdonalds_sees_record_job_applications_as_crypto/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "1658823d35544c91",
+   "ts": 1794699150,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Just one day at a time. I got no money left but I will build a Minecraft empire out of my grief.",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xwgjit/just_one_day_at_a_time_i_got_no_money_left_but_i/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "45b12ea8f66a8c22",
+   "ts": 1794695751,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Eric Trump loses $600M in risky Bitcoin bet as value of Trump-backed company plummets",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xwfax6/eric_trump_loses_600m_in_risky_bitcoin_bet_as/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto",
+    "BTC"
+   ],
+   "score": 0
+  },
+  {
+   "id": "85d0e038c5124db9",
+   "ts": 1794695446,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "TRON, Tether and Chainalysis Launch Digital Crime Task Force to Proactively Identify and Disrupt Financial Crime - TRON DAO: Moving Trillions, Empowering Billions",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xwf727/tron_tether_and_chainalysis_launch_digital_crime/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
   },
   {
    "id": "d0f216ebfb3f4846",
@@ -213,49 +252,6 @@
     "BTC"
    ],
    "score": 0
-  },
-  {
-   "id": "14f4de810218c211",
-   "ts": 1794684530,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Pursuit of Happyness",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1xwb19j/pursuit_of_happyness/",
-   "domain": "r/Bitcoin",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "3610b612ff50bd62",
-   "ts": 1794682602,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Bitcoiners ☺️",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1xwa8rk/bitcoiners/",
-   "domain": "r/Bitcoin",
-   "tags": [
-    "crypto",
-    "BTC"
-   ],
-   "score": 0
-  },
-  {
-   "id": "d8cfa02596f1cfad",
-   "ts": 1794681520,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "The REAL Plan",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xw9svc/the_real_plan/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
   }
  ],
  "briefing_ts": 1790465772,
@@ -274,11 +270,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "White House": {
    "ok": true,
-   "n": 27
+   "n": 26
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -335,15 +331,16 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 25
+   "n": 26
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 23
   },
   "Reddit r/Bitcoin": {
-   "ok": true,
-   "n": 24
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   }
  }
 }
