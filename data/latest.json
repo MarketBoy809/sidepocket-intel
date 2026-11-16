@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-15T21:39:23Z",
- "generated_ts": 1794778763,
+ "generated_at": "2026-11-16T01:50:34Z",
+ "generated_ts": 1794793834,
  "prices": {
   "BTC": {
-   "p": 65009.3,
-   "o": 64115.1,
+   "p": 64805.6,
+   "o": 65314.6,
    "h": 66086.7,
-   "l": 61970.3,
-   "v": 5196.41282987
+   "l": 62148.3,
+   "v": 3392.01794981
   },
   "ETH": {
-   "p": 1817.76,
-   "o": 1768.17,
+   "p": 1809.52,
+   "o": 1834.56,
    "h": 1843.58,
-   "l": 1710.0,
-   "v": 53103.5812352
+   "l": 1720.77,
+   "v": 36922.74922821
   },
   "SOL": {
-   "p": 71.87,
-   "o": 70.26,
+   "p": 71.31,
+   "o": 72.73,
    "h": 73.24,
    "l": 67.37,
-   "v": 525944.11120955
+   "v": 416264.01696174
   }
  },
  "change_7d": {
-  "BTC": -0.13947636263069027,
-  "ETH": -0.179349976617864,
-  "SOL": -0.19271828295314072
+  "BTC": -0.1365262388315598,
+  "ETH": -0.15338611938486818,
+  "SOL": -0.17806495882891119
  },
  "sentiment": {
-  "score": 21.5,
+  "score": 20.5,
   "label": "Extreme fear",
   "components": {
    "fng": 10.0,
-   "momentum": 15.130909342327435,
-   "crowding": 56.671178
+   "momentum": 15.868440292110051,
+   "crowding": 50.9808645
   },
   "weights": {
    "fng": 0.35,
@@ -48,27 +48,27 @@
  "fear_greed": {
   "value": 10,
   "label": "Extreme Fear",
-  "ts": 1794700800
+  "ts": 1794787200
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2389916607.8645997,
-   "premium": -0.0002459949
+   "oi_usd": 2358826102.539706,
+   "premium": -0.0002560401
   },
   "ETH": {
-   "funding_h": 2.9354e-06,
-   "oi_usd": 1068114466.0879997,
-   "premium": -0.0004949134
+   "funding_h": -1.3924e-06,
+   "oi_usd": 1056889032.96272,
+   "premium": -0.0003259308
   },
   "SOL": {
-   "funding_h": 2.8418e-06,
-   "oi_usd": 326277474.68064,
-   "premium": -0.0004866451
+   "funding_h": -8.4203e-06,
+   "oi_usd": 328190748.5400001,
+   "premium": -0.0004302733
   }
  },
- "items_24h": 65,
+ "items_24h": 83,
  "top_items": [
   {
    "id": "2e342bf494c6cb4e",
@@ -119,22 +119,6 @@
    "score": 9761
   },
   {
-   "id": "e066654c0cdb011a",
-   "ts": 1794703804,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Has anyone noticed that immediately after the Election the Stock Market lost 3 Trillion Dollars in Value? In other words, Investors throughout the World hated seeing what took place on Election Day. But have no fear, the Market has since gone up, and America will soon be GREATER ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117617708553644602",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro"
-   ],
-   "author": "Donald Trump",
-   "score": 7899
-  },
-  {
    "id": "0416bc3948d40f58",
    "ts": 1794770461,
    "source": "truth",
@@ -151,6 +135,22 @@
    "score": 6670
   },
   {
+   "id": "20a2b7a4af9c91e3",
+   "ts": 1794793212,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "A must read!!!If You Think War Is Unpopular, Wait Till You See Defeat:https://www.wsj.com/opinion/if-you-think-war-is-unpopular-wait-till-you-see-defeat-04608ab0",
+   "url": "https://truthsocial.com/@realDonaldTrump/117623567982116164",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 1207
+  },
+  {
    "id": "2fadd5964da098c9",
    "ts": 1794776854,
    "source": "government",
@@ -163,90 +163,88 @@
    "tags": []
   },
   {
-   "id": "a672f528b43195cf",
-   "ts": 1794771000,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
-   "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "a767ce36aa5308a8",
-   "ts": 1794766743,
+   "id": "f5590ba0ca632cf0",
+   "ts": 1794792945,
    "source": "reddit",
    "group": "social",
    "kind": "post",
-   "title": "The Only Real \"Fundamental\" Bitcoin Indicator I Know Of Says It May Be Time To Buy.",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xx2lsc/the_only_real_fundamental_bitcoin_indicator_i/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto",
-    "BTC"
-   ],
-   "score": 0
-  },
-  {
-   "id": "4e5d55b42ab2a9a3",
-   "ts": 1794766408,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Crypto is getting obliterated by online gambling.",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xx2gmv/crypto_is_getting_obliterated_by_online_gambling/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "fee0ef91f3e80493",
-   "ts": 1794765292,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Who Pays to Mine Bitcoin’s Play Money? Inside the Launch of Testnet5.",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xx1zdf/who_pays_to_mine_bitcoins_play_money_inside_the/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto",
-    "BTC"
-   ],
-   "score": 0
-  },
-  {
-   "id": "240c338b0a4f1289",
-   "ts": 1794761877,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Binance targets full reopening of withdrawals by next week",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xx0i5g/binance_targets_full_reopening_of_withdrawals_by/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "3368737bc3df901b",
-   "ts": 1794758462,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
-   "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
-   "domain": "Decrypt",
-   "org": "Decrypt",
+   "title": "Thank God we invested in this great asset and didn't keep our money in the bank so we could protect ourselves from the inflation",
+   "url": "https://www.reddit.com/r/Bitcoin/comments/1xxcre2/thank_god_we_invested_in_this_great_asset_and/",
+   "domain": "r/Bitcoin",
    "tags": [
     "macro"
-   ]
+   ],
+   "score": 0
+  },
+  {
+   "id": "d9f653c0660293a2",
+   "ts": 1794791220,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Bitcoin smells like suits",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xxc63h/bitcoin_smells_like_suits/",
+   "domain": "r/CryptoCurrency",
+   "tags": [
+    "crypto",
+    "BTC"
+   ],
+   "score": 0
+  },
+  {
+   "id": "e0e1d3a029ef8aef",
+   "ts": 1794788830,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Bitcoin bears keep talking about 5 year CAGR. What about 4 year?",
+   "url": "https://www.reddit.com/r/Bitcoin/comments/1xxbcnp/bitcoin_bears_keep_talking_about_5_year_cagr_what/",
+   "domain": "r/Bitcoin",
+   "tags": [
+    "crypto",
+    "BTC"
+   ],
+   "score": 0
+  },
+  {
+   "id": "dee72bd49d6b7a74",
+   "ts": 1794786465,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+   "url": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": []
+  },
+  {
+   "id": "7721e056370ec104",
+   "ts": 1794785799,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Hmm. Thoughts?",
+   "url": "https://www.reddit.com/r/Bitcoin/comments/1xxa81v/hmm_thoughts/",
+   "domain": "r/Bitcoin",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
+  },
+  {
+   "id": "0f78c78ef872b7df",
+   "ts": 1794784543,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Inverse head and shoulders",
+   "url": "https://www.reddit.com/r/Bitcoin/comments/1xx9rgg/inverse_head_and_shoulders/",
+   "domain": "r/Bitcoin",
+   "tags": [
+    "crypto"
+   ],
+   "score": 0
   }
  ],
  "briefing_ts": 1790465772,
@@ -269,7 +267,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 26
+   "n": 24
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -298,7 +296,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 14
+   "n": 11
   },
   "BIS": {
    "ok": true,
@@ -333,9 +331,8 @@
    "n": 22
   },
   "Reddit r/Bitcoin": {
-   "ok": false,
-   "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "n": 24
   }
  }
 }
