@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-16T01:50:34Z",
- "generated_ts": 1794793834,
+ "generated_at": "2026-11-16T09:26:15Z",
+ "generated_ts": 1794821175,
  "prices": {
   "BTC": {
-   "p": 64805.6,
+   "p": 64367.4,
    "o": 65314.6,
-   "h": 66086.7,
-   "l": 62148.3,
-   "v": 3392.01794981
+   "h": 65781.6,
+   "l": 64065.9,
+   "v": 2316.20439612
   },
   "ETH": {
-   "p": 1809.52,
+   "p": 1800.42,
    "o": 1834.56,
-   "h": 1843.58,
-   "l": 1720.77,
-   "v": 36922.74922821
+   "h": 1842.15,
+   "l": 1790.2,
+   "v": 22081.94807325
   },
   "SOL": {
-   "p": 71.31,
+   "p": 70.87,
    "o": 72.73,
    "h": 73.24,
-   "l": 67.37,
-   "v": 416264.01696174
+   "l": 70.4,
+   "v": 292228.26630428
   }
  },
  "change_7d": {
-  "BTC": -0.1365262388315598,
-  "ETH": -0.15338611938486818,
-  "SOL": -0.17806495882891119
+  "BTC": -0.13499582146100852,
+  "ETH": -0.14911767757269376,
+  "SOL": -0.1844257574012211
  },
  "sentiment": {
-  "score": 20.5,
+  "score": 18.8,
   "label": "Extreme fear",
   "components": {
    "fng": 10.0,
-   "momentum": 15.868440292110051,
-   "crowding": 50.9808645
+   "momentum": 16.25104463474787,
+   "crowding": 42.763291
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2358826102.539706,
-   "premium": -0.0002560401
+   "funding_h": -8.2217e-06,
+   "oi_usd": 2409313482.99228,
+   "premium": -0.0006208095
   },
   "ETH": {
-   "funding_h": -1.3924e-06,
-   "oi_usd": 1056889032.96272,
-   "premium": -0.0003259308
+   "funding_h": -1.94086e-05,
+   "oi_usd": 1097931188.8092804,
+   "premium": -0.0007213006
   },
   "SOL": {
-   "funding_h": -8.4203e-06,
-   "oi_usd": 328190748.5400001,
-   "premium": -0.0004302733
+   "funding_h": 7.8037e-06,
+   "oi_usd": 324255535.55456024,
+   "premium": -0.0004792445
   }
  },
- "items_24h": 83,
+ "items_24h": 100,
  "top_items": [
   {
    "id": "2e342bf494c6cb4e",
@@ -151,6 +151,62 @@
    "score": 1207
   },
   {
+   "id": "9e0b3a4febf411a2",
+   "ts": 1794817800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "0a4358e494f31477",
+   "ts": 1794816000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Highlights of the Outlook for Economic Activity and Prices (October 2026)",
+   "url": "http://www.boj.or.jp/en/mopo/outlook/highlight/ten202610.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "36b701317c9a636f",
+   "ts": 1794816000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "BOJ Current Account Balances by Sector (Oct.)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "13667c9f68788129",
+   "ts": 1794801600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic Activity, Prices, and Monetary Policy in Japan: Japan's Money and Capital Market Transformation -- Will a Paradigm Shift Occur?)",
+   "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261116a.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
    "id": "2fadd5964da098c9",
    "ts": 1794776854,
    "source": "government",
@@ -163,99 +219,42 @@
    "tags": []
   },
   {
-   "id": "f5590ba0ca632cf0",
-   "ts": 1794792945,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Thank God we invested in this great asset and didn't keep our money in the bank so we could protect ourselves from the inflation",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1xxcre2/thank_god_we_invested_in_this_great_asset_and/",
-   "domain": "r/Bitcoin",
-   "tags": [
-    "macro"
-   ],
-   "score": 0
-  },
-  {
-   "id": "d9f653c0660293a2",
-   "ts": 1794791220,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Bitcoin smells like suits",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xxc63h/bitcoin_smells_like_suits/",
-   "domain": "r/CryptoCurrency",
-   "tags": [
-    "crypto",
-    "BTC"
-   ],
-   "score": 0
-  },
-  {
-   "id": "e0e1d3a029ef8aef",
-   "ts": 1794788830,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Bitcoin bears keep talking about 5 year CAGR. What about 4 year?",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1xxbcnp/bitcoin_bears_keep_talking_about_5_year_cagr_what/",
-   "domain": "r/Bitcoin",
-   "tags": [
-    "crypto",
-    "BTC"
-   ],
-   "score": 0
-  },
-  {
-   "id": "dee72bd49d6b7a74",
-   "ts": 1794786465,
+   "id": "2f8bc8dd8db789ae",
+   "ts": 1794821101,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
-   "url": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "title": "Elon Musk Joins 160,000 Backing Petition to Bring Jensen Huang Back to Nvidia",
+   "url": "https://decrypt.co/383286/elon-musk-joins-160000-backing-petition-to-bring-jensen-huang-back-to-nvidia",
+   "domain": "Decrypt",
+   "org": "Decrypt",
    "tags": []
   },
   {
-   "id": "7721e056370ec104",
-   "ts": 1794785799,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Hmm. Thoughts?",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1xxa81v/hmm_thoughts/",
-   "domain": "r/Bitcoin",
+   "id": "ef1d4da9302d6b52",
+   "ts": 1794820987,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
+   "url": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
    "tags": [
-    "crypto"
-   ],
-   "score": 0
-  },
-  {
-   "id": "0f78c78ef872b7df",
-   "ts": 1794784543,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Inverse head and shoulders",
-   "url": "https://www.reddit.com/r/Bitcoin/comments/1xx9rgg/inverse_head_and_shoulders/",
-   "domain": "r/Bitcoin",
-   "tags": [
-    "crypto"
-   ],
-   "score": 0
+    "crypto",
+    "geo"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 2
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 32
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -267,7 +266,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 24
+   "n": 26
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -288,7 +287,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "Bank of England": {
    "ok": true,
@@ -296,7 +295,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 11
+   "n": 12
   },
   "BIS": {
    "ok": true,
@@ -328,7 +327,7 @@
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 22
+   "n": 20
   },
   "Reddit r/Bitcoin": {
    "ok": true,
