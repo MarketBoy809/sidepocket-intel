@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-17T03:41:20Z",
- "generated_ts": 1794886880,
+ "generated_at": "2026-11-17T13:05:40Z",
+ "generated_ts": 1794920740,
  "prices": {
   "BTC": {
-   "p": 64930.0,
+   "p": 65050.1,
    "o": 64813.7,
    "h": 65633.5,
-   "l": 63840.0,
-   "v": 4619.71284199
+   "l": 63944.9,
+   "v": 4292.39306955
   },
   "ETH": {
-   "p": 1829.78,
+   "p": 1824.11,
    "o": 1818.75,
    "h": 1864.27,
-   "l": 1785.09,
-   "v": 31325.23413325
+   "l": 1784.52,
+   "v": 36982.66475338
   },
   "SOL": {
-   "p": 72.53,
+   "p": 73.88,
    "o": 71.52,
-   "h": 72.84,
+   "h": 73.89,
    "l": 69.85,
-   "v": 276470.01890552
+   "v": 294936.22814985
   }
  },
  "change_7d": {
-  "BTC": -0.13810031446078191,
-  "ETH": -0.14494729146522659,
-  "SOL": -0.1669571279191355
+  "BTC": -0.12514083372488397,
+  "ETH": -0.13124627452850443,
+  "SOL": -0.13245345274569875
  },
  "sentiment": {
-  "score": 21.7,
+  "score": 24.5,
   "label": "Extreme fear",
   "components": {
    "fng": 12.0,
-   "momentum": 15.474921384804524,
-   "crowding": 52.5780315
+   "momentum": 18.71479156877901,
+   "crowding": 61.386175
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 9.7805e-06,
-   "oi_usd": 2441966641.290048,
-   "premium": -0.0004461744
+   "funding_h": 1.25e-05,
+   "oi_usd": 2512933457.526,
+   "premium": 0.0001289875
   },
   "ETH": {
-   "funding_h": 7.9387e-06,
-   "oi_usd": 1105243495.4084394,
-   "premium": -0.0004203585
+   "funding_h": 6.195e-06,
+   "oi_usd": 1104979161.2496002,
+   "premium": -0.0001642342
   },
   "SOL": {
-   "funding_h": -1.06561e-05,
-   "oi_usd": 323296920.3974999,
-   "premium": -0.0007300778
+   "funding_h": 1.25e-05,
+   "oi_usd": 333797149.5939,
+   "premium": 0.0
   }
  },
- "items_24h": 124,
+ "items_24h": 87,
  "top_items": [
   {
    "id": "2cb989d5d6f934fc",
@@ -172,74 +172,75 @@
    "tags": []
   },
   {
-   "id": "c00ec1e84d45bd32",
-   "ts": 1794834018,
-   "source": "institution",
-   "group": "institution",
-   "kind": "official",
-   "title": "8-K - Current report",
-   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526462151/0001193125-26-462151-index.htm",
-   "domain": "Strategy (MSTR) filings",
-   "org": "Strategy (MSTR) filings",
+   "id": "4f11c6cfd92ae155",
+   "ts": 1794920576,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+   "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
    "tags": [
-    "institution"
+    "crypto",
+    "ETH"
    ]
   },
   {
-   "id": "60ad73d5fe2b7312",
-   "ts": 1794834000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Frank Elderson: Smart supervision for small banks",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
+   "id": "664d0b263c2dddfa",
+   "ts": 1794920400,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
+   "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": []
+  },
+  {
+   "id": "a05f2770eb152f2e",
+   "ts": 1794920184,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack",
+   "url": "https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack",
+   "domain": "Decrypt",
+   "org": "Decrypt",
    "tags": [
-    "macro"
+    "regulation"
    ]
   },
   {
-   "id": "9e0b3a4febf411a2",
-   "ts": 1794817800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
+   "id": "fb416e51acd1a7e5",
+   "ts": 1794919855,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
+   "url": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents",
+   "domain": "Decrypt",
+   "org": "Decrypt",
    "tags": [
-    "macro"
+    "crypto",
+    "SOL"
    ]
   },
   {
-   "id": "0a4358e494f31477",
-   "ts": 1794816000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Highlights of the Outlook for Economic Activity and Prices (October 2026)",
-   "url": "http://www.boj.or.jp/en/mopo/outlook/highlight/ten202610.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
+   "id": "e19fc2b878414c18",
+   "ts": 1794918944,
+   "source": "reddit",
+   "group": "social",
+   "kind": "post",
+   "title": "Mori Finance offers covered calls on Solana",
+   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xyjc3u/mori_finance_offers_covered_calls_on_solana/",
+   "domain": "r/CryptoCurrency",
    "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "36b701317c9a636f",
-   "ts": 1794816000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "BOJ Current Account Balances by Sector (Oct.)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/cabs/cabs.xlsx",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
+    "crypto",
+    "SOL"
+   ],
+   "score": 0
   }
  ],
  "briefing_ts": 1790465772,
@@ -287,7 +288,7 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "Bank of Japan": {
    "ok": true,
@@ -319,11 +320,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 27
+   "n": 26
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 17
+   "n": 19
   },
   "Reddit r/Bitcoin": {
    "ok": false,
