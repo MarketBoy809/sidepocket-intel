@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-17T13:05:40Z",
- "generated_ts": 1794920740,
+ "generated_at": "2026-11-17T21:43:26Z",
+ "generated_ts": 1794951806,
  "prices": {
   "BTC": {
-   "p": 65050.1,
+   "p": 64307.3,
    "o": 64813.7,
-   "h": 65633.5,
-   "l": 63944.9,
-   "v": 4292.39306955
+   "h": 65471.3,
+   "l": 63272.3,
+   "v": 4317.38560869
   },
   "ETH": {
-   "p": 1824.11,
+   "p": 1805.81,
    "o": 1818.75,
-   "h": 1864.27,
-   "l": 1784.52,
-   "v": 36982.66475338
+   "h": 1841.74,
+   "l": 1749.17,
+   "v": 48527.8644064
   },
   "SOL": {
-   "p": 73.88,
+   "p": 73.44,
    "o": 71.52,
-   "h": 73.89,
-   "l": 69.85,
-   "v": 294936.22814985
+   "h": 74.26,
+   "l": 70.93,
+   "v": 327718.86225732
   }
  },
  "change_7d": {
-  "BTC": -0.12514083372488397,
-  "ETH": -0.13124627452850443,
-  "SOL": -0.13245345274569875
+  "BTC": -0.13260002988366942,
+  "ETH": -0.12594349480682965,
+  "SOL": -0.12223557692307693
  },
  "sentiment": {
-  "score": 24.5,
+  "score": 23.3,
   "label": "Extreme fear",
   "components": {
    "fng": 12.0,
-   "momentum": 18.71479156877901,
-   "crowding": 61.386175
+   "momentum": 16.84999252908264,
+   "crowding": 58.10519
   },
   "weights": {
    "fng": 0.35,
@@ -54,38 +54,22 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2512933457.526,
-   "premium": 0.0001289875
+   "oi_usd": 2418009868.9890003,
+   "premium": -0.0003805796
   },
   "ETH": {
-   "funding_h": 6.195e-06,
-   "oi_usd": 1104979161.2496002,
-   "premium": -0.0001642342
+   "funding_h": 1.25e-05,
+   "oi_usd": 1136664581.1698809,
+   "premium": -0.0002765487
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 333797149.5939,
-   "premium": 0.0
+   "funding_h": -2.794e-06,
+   "oi_usd": 323248517.17704016,
+   "premium": -0.000299279
   }
  },
- "items_24h": 87,
+ "items_24h": 76,
  "top_items": [
-  {
-   "id": "2cb989d5d6f934fc",
-   "ts": 1794838630,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The new people running 60 Minutes are even worse than their predecessors. A recent study on an attack in the early stages of Iran was not correctly stated. Since February 28, 2026, the start of Epic Fury, Iran has fired between 8,000-9,000 One-way Attack Drones. Only 2 of them go",
-   "url": "https://truthsocial.com/@realDonaldTrump/117626544494395657",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 31282
-  },
   {
    "id": "de58e0b136c164ae",
    "ts": 1794876277,
@@ -120,6 +104,46 @@
    "score": 11061
   },
   {
+   "id": "8481a1d7c53f5178",
+   "ts": 1794940200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "457e8cc2fc02d172",
+   "ts": 1794928699,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "CFTC Announces Agenda for December Roundtable on 24/7 Trading",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9327-26",
+   "domain": "CFTC",
+   "org": "CFTC",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "0fc6a428564630a3",
+   "ts": 1794919407,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Joint Statement on an Agreement Between the United States of America and the Kingdom of Thailand on Reciprocal Trade",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
    "id": "78538303f002f21f",
    "ts": 1794873000,
    "source": "central_bank",
@@ -134,113 +158,86 @@
    ]
   },
   {
-   "id": "09bb57871116f0a2",
-   "ts": 1794862209,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Nominations Sent to the Senate",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "f3d420e573fcd4be",
-   "ts": 1794861632,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "President Trump’s Immigration Policies Are Saving American Lives",
-   "url": "https://www.whitehouse.gov/releases/2026/11/president-trumps-immigration-policies-are-saving-american-lives/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "5472a8244bd58b69",
-   "ts": 1794860990,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "ICYMI: “Trump border crackdown drives encounters to record October low as zero-release streak hits 18 months”",
-   "url": "https://www.whitehouse.gov/releases/2026/11/icymi-trump-border-crackdown-drives-encounters-to-record-october-low-as-zero-release-streak-hits-18-months/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "4f11c6cfd92ae155",
-   "ts": 1794920576,
+   "id": "7b2de7abb68ef28b",
+   "ts": 1794951962,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
-   "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto",
-    "ETH"
-   ]
+   "title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
+   "url": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": []
   },
   {
-   "id": "664d0b263c2dddfa",
-   "ts": 1794920400,
+   "id": "f4fb60cc37868744",
+   "ts": 1794950750,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
-   "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
+   "title": "Nvidia tops estimates, issues strong guidance; shares rise",
+   "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
    "domain": "CoinDesk",
    "org": "CoinDesk",
    "tags": []
   },
   {
-   "id": "a05f2770eb152f2e",
-   "ts": 1794920184,
+   "id": "0e1f0acab308990d",
+   "ts": 1794948963,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack",
-   "url": "https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack",
+   "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
+   "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
    "domain": "Decrypt",
    "org": "Decrypt",
    "tags": [
-    "regulation"
+    "crypto"
    ]
   },
   {
-   "id": "fb416e51acd1a7e5",
-   "ts": 1794919855,
+   "id": "082cd7a1ed5d6ce7",
+   "ts": 1794947763,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
-   "url": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents",
+   "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
+   "url": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
    "domain": "Decrypt",
    "org": "Decrypt",
    "tags": [
     "crypto",
-    "SOL"
+    "BTC"
    ]
   },
   {
-   "id": "e19fc2b878414c18",
-   "ts": 1794918944,
-   "source": "reddit",
-   "group": "social",
-   "kind": "post",
-   "title": "Mori Finance offers covered calls on Solana",
-   "url": "https://www.reddit.com/r/CryptoCurrency/comments/1xyjc3u/mori_finance_offers_covered_calls_on_solana/",
-   "domain": "r/CryptoCurrency",
+   "id": "80e194434d4ff45e",
+   "ts": 1794945904,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
+   "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": [
     "crypto",
-    "SOL"
-   ],
-   "score": 0
+    "geo"
+   ]
+  },
+  {
+   "id": "2dab591e8ff9d1e6",
+   "ts": 1794944763,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
+   "url": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": [
+    "crypto"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -263,7 +260,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 26
+   "n": 21
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -272,11 +269,11 @@
   },
   "SEC": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "CFTC": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "Federal Reserve": {
    "ok": true,
@@ -284,7 +281,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 5
+   "n": 4
   },
   "Bank of England": {
    "ok": true,
@@ -316,15 +313,16 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 39
+   "n": 37
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 26
+   "n": 22
   },
   "Reddit r/CryptoCurrency": {
-   "ok": true,
-   "n": 19
+   "ok": false,
+   "n": 0,
+   "err": "HTTP Error 429: Too Many Requests"
   },
   "Reddit r/Bitcoin": {
    "ok": false,
