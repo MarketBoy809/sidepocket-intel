@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-16T20:17:37Z",
- "generated_ts": 1794860257,
+ "generated_at": "2026-11-17T03:41:20Z",
+ "generated_ts": 1794886880,
  "prices": {
   "BTC": {
-   "p": 65023.0,
-   "o": 65314.6,
+   "p": 64930.0,
+   "o": 64813.7,
    "h": 65633.5,
    "l": 63840.0,
-   "v": 3334.67831812
+   "v": 4619.71284199
   },
   "ETH": {
-   "p": 1820.22,
-   "o": 1834.56,
+   "p": 1829.78,
+   "o": 1818.75,
    "h": 1864.27,
    "l": 1785.09,
-   "v": 29057.75761934
+   "v": 31325.23413325
   },
   "SOL": {
-   "p": 71.43,
-   "o": 72.73,
-   "h": 72.9,
+   "p": 72.53,
+   "o": 71.52,
+   "h": 72.84,
    "l": 69.85,
-   "v": 289293.11390158
+   "v": 276470.01890552
   }
  },
  "change_7d": {
-  "BTC": -0.13075932156879896,
-  "ETH": -0.1430009454685713,
-  "SOL": -0.17306802406293376
+  "BTC": -0.13810031446078191,
+  "ETH": -0.14494729146522659,
+  "SOL": -0.1669571279191355
  },
  "sentiment": {
-  "score": 22.1,
+  "score": 21.7,
   "label": "Extreme fear",
   "components": {
-   "fng": 10.0,
-   "momentum": 17.310169607800262,
-   "crowding": 56.8419615
+   "fng": 12.0,
+   "momentum": 15.474921384804524,
+   "crowding": 52.5780315
   },
   "weights": {
    "fng": 0.35,
@@ -46,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 10,
+  "value": 12,
   "label": "Extreme Fear",
-  "ts": 1794787200
+  "ts": 1794873600
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2419246893.9045596,
-   "premium": -0.0003380091
+   "funding_h": 9.7805e-06,
+   "oi_usd": 2441966641.290048,
+   "premium": -0.0004461744
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 1091463808.8090808,
-   "premium": -0.0003841299
+   "funding_h": 7.9387e-06,
+   "oi_usd": 1105243495.4084394,
+   "premium": -0.0004203585
   },
   "SOL": {
-   "funding_h": -6.2549e-06,
-   "oi_usd": 323210695.8867198,
-   "premium": -0.0005733865
+   "funding_h": -1.06561e-05,
+   "oi_usd": 323296920.3974999,
+   "premium": -0.0007300778
   }
  },
- "items_24h": 117,
+ "items_24h": 124,
  "top_items": [
   {
    "id": "2cb989d5d6f934fc",
@@ -87,20 +87,89 @@
    "score": 31282
   },
   {
-   "id": "20a2b7a4af9c91e3",
-   "ts": 1794793212,
+   "id": "de58e0b136c164ae",
+   "ts": 1794876277,
    "source": "truth",
    "group": "government",
    "kind": "post",
    "org": "Donald Trump (Truth Social)",
-   "title": "A must read!!!If You Think War Is Unpopular, Wait Till You See Defeat:https://www.wsj.com/opinion/if-you-think-war-is-unpopular-wait-till-you-see-defeat-04608ab0",
-   "url": "https://truthsocial.com/@realDonaldTrump/117623567982116164",
+   "title": "Despite the United States having the MOST ABUNDANT Supply, and LOWEST COST Natural Gas in the World, Citizens in Blue States like New York have been paying 3X-7X more for Natural Gas due to the costly Anti-Energy Policies pushed by Blue State Governors and Political leaders. We m",
+   "url": "https://truthsocial.com/@realDonaldTrump/117629011695762969",
    "domain": "truthsocial.com",
    "tags": [
-    "geo"
+    "geo",
+    "regulation"
    ],
    "author": "Donald Trump",
-   "score": 1207
+   "score": 13904
+  },
+  {
+   "id": "bf91c384406232ae",
+   "ts": 1794876126,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Under my leadership, our Economy is booming! New Businesses created in America have reached ALL-TIME HIGHS — Over 500,000 new Businesses formed every month this year. Unlike the Communists that want to tax our Small Business Owners to \"death,\" my Administration and Republicans in",
+   "url": "https://truthsocial.com/@realDonaldTrump/117629001831609398",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 11061
+  },
+  {
+   "id": "78538303f002f21f",
+   "ts": 1794873000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Release of Latest \"Loans and Bills Discounted by Sector\" and \"Loans to Households\" Data",
+   "url": "http://www.boj.or.jp/en/statistics/outline/notice_2026/not261117a.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "09bb57871116f0a2",
+   "ts": 1794862209,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Nominations Sent to the Senate",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "f3d420e573fcd4be",
+   "ts": 1794861632,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump’s Immigration Policies Are Saving American Lives",
+   "url": "https://www.whitehouse.gov/releases/2026/11/president-trumps-immigration-policies-are-saving-american-lives/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "5472a8244bd58b69",
+   "ts": 1794860990,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "ICYMI: “Trump border crackdown drives encounters to record October low as zero-release streak hits 18 months”",
+   "url": "https://www.whitehouse.gov/releases/2026/11/icymi-trump-border-crackdown-drives-encounters-to-record-october-low-as-zero-release-streak-hits-18-months/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "c00ec1e84d45bd32",
@@ -171,75 +240,6 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "13667c9f68788129",
-   "ts": 1794801600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic Activity, Prices, and Monetary Policy in Japan: Japan's Money and Capital Market Transformation -- Will a Paradigm Shift Occur?)",
-   "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261116a.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "2fadd5964da098c9",
-   "ts": 1794776854,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "ICYMI: Secretary Duffy’s Full Sunday Circuit Outlines Ground Stop Response and the Path Forward",
-   "url": "https://www.whitehouse.gov/releases/2026/11/icymi-secretary-duffys-full-sunday-circuit-outlines-ground-stop-response-and-the-path-forward/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "30975b01017a5418",
-   "ts": 1794860282,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
-   "url": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "561bb9b93abe92e7",
-   "ts": 1794858978,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
-   "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "5871a52638e28a54",
-   "ts": 1794857763,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief",
-   "url": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": [
-    "crypto",
-    "regulation"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -262,7 +262,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 24
+   "n": 26
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -279,7 +279,7 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 5
+   "n": 4
   },
   "European Central Bank": {
    "ok": true,
@@ -291,11 +291,11 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 12
+   "n": 11
   },
   "BIS": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "Strategy (MSTR) filings": {
    "ok": true,
@@ -319,11 +319,11 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 28
+   "n": 27
   },
   "Reddit r/CryptoCurrency": {
    "ok": true,
-   "n": 19
+   "n": 17
   },
   "Reddit r/Bitcoin": {
    "ok": false,
