@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-18T03:36:48Z",
- "generated_ts": 1794973008,
+ "generated_at": "2026-11-18T12:55:48Z",
+ "generated_ts": 1795006548,
  "prices": {
   "BTC": {
-   "p": 64494.6,
+   "p": 64085.1,
    "o": 64876.9,
    "h": 65378.7,
    "l": 63272.3,
-   "v": 3573.38703244
+   "v": 3662.118681
   },
   "ETH": {
-   "p": 1806.75,
+   "p": 1795.79,
    "o": 1822.67,
-   "h": 1841.74,
+   "h": 1833.48,
    "l": 1749.17,
-   "v": 53997.54044995
+   "v": 49777.93857206
   },
   "SOL": {
-   "p": 75.04,
+   "p": 74.27,
    "o": 75.1,
    "h": 75.69,
    "l": 71.0,
-   "v": 356652.16787571
+   "v": 332299.32903598
   }
  },
  "change_7d": {
-  "BTC": -0.12633892026989182,
-  "ETH": -0.12365342995404031,
-  "SOL": -0.10428193408708206
+  "BTC": -0.13205416721572222,
+  "ETH": -0.12461559422320834,
+  "SOL": -0.11362823417193275
  },
  "sentiment": {
-  "score": 22.7,
+  "score": 21.4,
   "label": "Extreme fear",
   "components": {
    "fng": 11.0,
-   "momentum": 18.415269932527043,
-   "crowding": 55.554205
+   "momentum": 16.986458196069442,
+   "crowding": 51.714186
   },
   "weights": {
    "fng": 0.35,
@@ -53,23 +53,67 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2615291415.5845203,
-   "premium": -0.000292706
+   "funding_h": 1.12779e-05,
+   "oi_usd": 2425693749.2704396,
+   "premium": -0.0004676029
   },
   "ETH": {
-   "funding_h": 1.00888e-05,
-   "oi_usd": 1098475412.4991605,
-   "premium": -0.0004423066
+   "funding_h": 2.611e-07,
+   "oi_usd": 1095281769.6338398,
+   "premium": -0.0005563282
   },
   "SOL": {
-   "funding_h": -7.3718e-06,
-   "oi_usd": 328497655.94390005,
-   "premium": -0.0009705119
+   "funding_h": -6.8426e-06,
+   "oi_usd": 323799112.45889986,
+   "premium": -0.0006147431
   }
  },
- "items_24h": 120,
+ "items_24h": 110,
  "top_items": [
+  {
+   "id": "ed3b83a66cfb9725",
+   "ts": 1794987852,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to announce that we made a new and completely different Trade Deal with the Philippines, one that will be a true landmark and, in partic",
+   "url": "https://truthsocial.com/@realDonaldTrump/117636323928351024",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 9920
+  },
+  {
+   "id": "f3082e5740a67342",
+   "ts": 1794992400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Boris Vujčić: Financial Stability Review - November 2026",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "dcfaa3a193e227a3",
+   "ts": 1794992400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
   {
    "id": "ec1031db7128f2fc",
    "ts": 1794964500,
@@ -82,6 +126,18 @@
    "tags": [
     "institution"
    ]
+  },
+  {
+   "id": "ed8bea0001306a3b",
+   "ts": 1794956200,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Presidential Message on American Education Week",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-american-education-week-ddcb/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "8481a1d7c53f5178",
@@ -124,117 +180,68 @@
    ]
   },
   {
-   "id": "0fc6a428564630a3",
-   "ts": 1794919407,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Joint Statement on an Agreement Between the United States of America and the Kingdom of Thailand on Reciprocal Trade",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade/",
-   "domain": "White House",
-   "org": "White House",
+   "id": "7385bda8fbde2d5e",
+   "ts": 1795006414,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+   "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto",
+    "BTC"
+   ]
+  },
+  {
+   "id": "af856958e4496445",
+   "ts": 1795005937,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "'Doomed From the Start': President Trump's Meme Coin Hits New Lows After Midterms",
+   "url": "https://decrypt.co/383524/doomed-from-the-start-president-trumps-meme-coin-hits-new-lows-after-midterms",
+   "domain": "Decrypt",
+   "org": "Decrypt",
    "tags": []
   },
   {
-   "id": "c62ab588a59bafac",
-   "ts": 1794969592,
+   "id": "fe9984c7f4e36fcb",
+   "ts": 1795005669,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
-   "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
+   "url": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "478a12905b3111f8",
+   "ts": 1795004714,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
+   "url": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
    "tags": []
-  },
-  {
-   "id": "7cbcd2415eab535e",
-   "ts": 1794964500,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Websites compromised in bid to steal crypto , target iPhone users",
-   "url": "https://www.bnnbloomberg.ca/markets/crypto/2026/11/17/popular-websites-compromised-in-bid-to-steal-crypto-target-iphone-users/",
-   "domain": "bnnbloomberg.ca",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "8410d4118b484ea6",
-   "ts": 1794964500,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Stock Market Today , Nov . 17 : Stocks Slide on AI Chip and Tech Pressures , Salesforce Plummets 9 %",
-   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/",
-   "domain": "fool.com",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "4468a62c7a04c250",
-   "ts": 1794964500,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Experts warn GTA VI scramble could cause more cyber chaos",
-   "url": "https://nypost.com/2026/11/17/tech/experts-warn-gta-vi-scramble-could-cause-more-cyber-chaos-and-open-door-for-scams/",
-   "domain": "nypost.com",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "69fa81e1022c6ee7",
-   "ts": 1794964500,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Opinion | Im standing with Jen Affleck",
-   "url": "https://pittnews.com/article/204665/opinions/opinion-im-standing-with-jen-affleck/",
-   "domain": "pittnews.com",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "7cbcd2415eab535e",
-   "ts": 1794964500,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Websites compromised in bid to steal crypto , target iPhone users",
-   "url": "https://www.bnnbloomberg.ca/markets/crypto/2026/11/17/popular-websites-compromised-in-bid-to-steal-crypto-target-iphone-users/",
-   "domain": "bnnbloomberg.ca",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "8410d4118b484ea6",
-   "ts": 1794964500,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Stock Market Today , Nov . 17 : Stocks Slide on AI Chip and Tech Pressures , Salesforce Plummets 9 %",
-   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/",
-   "domain": "fool.com",
-   "tags": [
-    "crypto"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 4
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -242,11 +249,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "White House": {
    "ok": true,
-   "n": 17
+   "n": 18
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -267,7 +274,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 4
+   "n": 6
   },
   "Bank of England": {
    "ok": true,
@@ -299,7 +306,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 37
+   "n": 36
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
