@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-17T21:43:26Z",
- "generated_ts": 1794951806,
+ "generated_at": "2026-11-18T03:36:48Z",
+ "generated_ts": 1794973008,
  "prices": {
   "BTC": {
-   "p": 64307.3,
-   "o": 64813.7,
-   "h": 65471.3,
+   "p": 64494.6,
+   "o": 64876.9,
+   "h": 65378.7,
    "l": 63272.3,
-   "v": 4317.38560869
+   "v": 3573.38703244
   },
   "ETH": {
-   "p": 1805.81,
-   "o": 1818.75,
+   "p": 1806.75,
+   "o": 1822.67,
    "h": 1841.74,
    "l": 1749.17,
-   "v": 48527.8644064
+   "v": 53997.54044995
   },
   "SOL": {
-   "p": 73.44,
-   "o": 71.52,
-   "h": 74.26,
-   "l": 70.93,
-   "v": 327718.86225732
+   "p": 75.04,
+   "o": 75.1,
+   "h": 75.69,
+   "l": 71.0,
+   "v": 356652.16787571
   }
  },
  "change_7d": {
-  "BTC": -0.13260002988366942,
-  "ETH": -0.12594349480682965,
-  "SOL": -0.12223557692307693
+  "BTC": -0.12633892026989182,
+  "ETH": -0.12365342995404031,
+  "SOL": -0.10428193408708206
  },
  "sentiment": {
-  "score": 23.3,
+  "score": 22.7,
   "label": "Extreme fear",
   "components": {
-   "fng": 12.0,
-   "momentum": 16.84999252908264,
-   "crowding": 58.10519
+   "fng": 11.0,
+   "momentum": 18.415269932527043,
+   "crowding": 55.554205
   },
   "weights": {
    "fng": 0.35,
@@ -46,62 +46,42 @@
   }
  },
  "fear_greed": {
-  "value": 12,
+  "value": 11,
   "label": "Extreme Fear",
-  "ts": 1794873600
+  "ts": 1794960000
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2418009868.9890003,
-   "premium": -0.0003805796
+   "oi_usd": 2615291415.5845203,
+   "premium": -0.000292706
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 1136664581.1698809,
-   "premium": -0.0002765487
+   "funding_h": 1.00888e-05,
+   "oi_usd": 1098475412.4991605,
+   "premium": -0.0004423066
   },
   "SOL": {
-   "funding_h": -2.794e-06,
-   "oi_usd": 323248517.17704016,
-   "premium": -0.000299279
+   "funding_h": -7.3718e-06,
+   "oi_usd": 328497655.94390005,
+   "premium": -0.0009705119
   }
  },
- "items_24h": 76,
+ "items_24h": 120,
  "top_items": [
   {
-   "id": "de58e0b136c164ae",
-   "ts": 1794876277,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Despite the United States having the MOST ABUNDANT Supply, and LOWEST COST Natural Gas in the World, Citizens in Blue States like New York have been paying 3X-7X more for Natural Gas due to the costly Anti-Energy Policies pushed by Blue State Governors and Political leaders. We m",
-   "url": "https://truthsocial.com/@realDonaldTrump/117629011695762969",
-   "domain": "truthsocial.com",
+   "id": "ec1031db7128f2fc",
+   "ts": 1794964500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "The Nasdaq - 100 Is Down More Than 10 % From Its High , but the Broad Market Is Down Far Less . Here How Gaps Like This Have Ended Since 1986 .",
+   "url": "https://www.fool.com/investing/2026/11/17/the-nasdaq-100-is-down-more-than-10-from-its-high-but-the-broad-market-is-down-far-less-here-s-how-gaps-like-this-have-ended-since-1986/",
+   "domain": "fool.com",
    "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 13904
-  },
-  {
-   "id": "bf91c384406232ae",
-   "ts": 1794876126,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "Under my leadership, our Economy is booming! New Businesses created in America have reached ALL-TIME HIGHS — Over 500,000 new Businesses formed every month this year. Unlike the Communists that want to tax our Small Business Owners to \"death,\" my Administration and Republicans in",
-   "url": "https://truthsocial.com/@realDonaldTrump/117629001831609398",
-   "domain": "truthsocial.com",
-   "tags": [
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 11061
+    "institution"
+   ]
   },
   {
    "id": "8481a1d7c53f5178",
@@ -116,6 +96,18 @@
    "tags": [
     "macro"
    ]
+  },
+  {
+   "id": "fb30ad85a2ee345c",
+   "ts": 1794928856,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Quad Leaders’ Summit Joint Press Release",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "457e8cc2fc02d172",
@@ -144,97 +136,91 @@
    "tags": []
   },
   {
-   "id": "78538303f002f21f",
-   "ts": 1794873000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Release of Latest \"Loans and Bills Discounted by Sector\" and \"Loans to Households\" Data",
-   "url": "http://www.boj.or.jp/en/statistics/outline/notice_2026/not261117a.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "7b2de7abb68ef28b",
-   "ts": 1794951962,
+   "id": "c62ab588a59bafac",
+   "ts": 1794969592,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
-   "url": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
-   "domain": "Decrypt",
-   "org": "Decrypt",
+   "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
+   "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": []
   },
   {
-   "id": "f4fb60cc37868744",
-   "ts": 1794950750,
+   "id": "7cbcd2415eab535e",
+   "ts": 1794964500,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Nvidia tops estimates, issues strong guidance; shares rise",
-   "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": []
-  },
-  {
-   "id": "0e1f0acab308990d",
-   "ts": 1794948963,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
-   "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
-   "domain": "Decrypt",
-   "org": "Decrypt",
+   "title": "Websites compromised in bid to steal crypto , target iPhone users",
+   "url": "https://www.bnnbloomberg.ca/markets/crypto/2026/11/17/popular-websites-compromised-in-bid-to-steal-crypto-target-iphone-users/",
+   "domain": "bnnbloomberg.ca",
    "tags": [
     "crypto"
    ]
   },
   {
-   "id": "082cd7a1ed5d6ce7",
-   "ts": 1794947763,
+   "id": "8410d4118b484ea6",
+   "ts": 1794964500,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
-   "url": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
-   "domain": "Decrypt",
-   "org": "Decrypt",
+   "title": "Stock Market Today , Nov . 17 : Stocks Slide on AI Chip and Tech Pressures , Salesforce Plummets 9 %",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/",
+   "domain": "fool.com",
    "tags": [
-    "crypto",
-    "BTC"
+    "crypto"
    ]
   },
   {
-   "id": "80e194434d4ff45e",
-   "ts": 1794945904,
+   "id": "4468a62c7a04c250",
+   "ts": 1794964500,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
-   "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "title": "Experts warn GTA VI scramble could cause more cyber chaos",
+   "url": "https://nypost.com/2026/11/17/tech/experts-warn-gta-vi-scramble-could-cause-more-cyber-chaos-and-open-door-for-scams/",
+   "domain": "nypost.com",
    "tags": [
-    "crypto",
-    "geo"
+    "crypto"
    ]
   },
   {
-   "id": "2dab591e8ff9d1e6",
-   "ts": 1794944763,
+   "id": "69fa81e1022c6ee7",
+   "ts": 1794964500,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
-   "url": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks",
-   "domain": "Decrypt",
-   "org": "Decrypt",
+   "title": "Opinion | Im standing with Jen Affleck",
+   "url": "https://pittnews.com/article/204665/opinions/opinion-im-standing-with-jen-affleck/",
+   "domain": "pittnews.com",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "7cbcd2415eab535e",
+   "ts": 1794964500,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Websites compromised in bid to steal crypto , target iPhone users",
+   "url": "https://www.bnnbloomberg.ca/markets/crypto/2026/11/17/popular-websites-compromised-in-bid-to-steal-crypto-target-iphone-users/",
+   "domain": "bnnbloomberg.ca",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "8410d4118b484ea6",
+   "ts": 1794964500,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Stock Market Today , Nov . 17 : Stocks Slide on AI Chip and Tech Pressures , Salesforce Plummets 9 %",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/",
+   "domain": "fool.com",
    "tags": [
     "crypto"
    ]
@@ -244,11 +230,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 4
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -256,11 +242,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "White House": {
    "ok": true,
-   "n": 21
+   "n": 17
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -289,7 +275,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 11
+   "n": 10
   },
   "BIS": {
    "ok": true,
@@ -317,7 +303,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 22
+   "n": 21
   },
   "Reddit r/CryptoCurrency": {
    "ok": false,
