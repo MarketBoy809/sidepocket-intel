@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-18T12:55:48Z",
- "generated_ts": 1795006548,
+ "generated_at": "2026-11-18T21:19:25Z",
+ "generated_ts": 1795036765,
  "prices": {
   "BTC": {
-   "p": 64085.1,
+   "p": 62510.0,
    "o": 64876.9,
-   "h": 65378.7,
-   "l": 63272.3,
-   "v": 3662.118681
+   "h": 65184.1,
+   "l": 62212.7,
+   "v": 4170.95164126
   },
   "ETH": {
-   "p": 1795.79,
+   "p": 1757.49,
    "o": 1822.67,
    "h": 1833.48,
-   "l": 1749.17,
-   "v": 49777.93857206
+   "l": 1730.92,
+   "v": 45995.05211234
   },
   "SOL": {
-   "p": 74.27,
+   "p": 73.01,
    "o": 75.1,
    "h": 75.69,
-   "l": 71.0,
-   "v": 332299.32903598
+   "l": 72.14,
+   "v": 379333.38643016
   }
  },
  "change_7d": {
-  "BTC": -0.13205416721572222,
-  "ETH": -0.12461559422320834,
-  "SOL": -0.11362823417193275
+  "BTC": -0.16178648947197208,
+  "ETH": -0.1576794007634689,
+  "SOL": -0.1407721280602636
  },
  "sentiment": {
-  "score": 21.4,
+  "score": 18.9,
   "label": "Extreme fear",
   "components": {
    "fng": 11.0,
-   "momentum": 16.986458196069442,
-   "crowding": 51.714186
+   "momentum": 9.553377632006978,
+   "crowding": 50.0277765
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.12779e-05,
-   "oi_usd": 2425693749.2704396,
-   "premium": -0.0004676029
+   "funding_h": 8.996e-07,
+   "oi_usd": 2508151707.2687263,
+   "premium": -0.0003050967
   },
   "ETH": {
-   "funding_h": 2.611e-07,
-   "oi_usd": 1095281769.6338398,
-   "premium": -0.0005563282
+   "funding_h": 7.305e-07,
+   "oi_usd": 1076120916.1120186,
+   "premium": -0.0004542873
   },
   "SOL": {
-   "funding_h": -6.8426e-06,
-   "oi_usd": 323799112.45889986,
-   "premium": -0.0006147431
+   "funding_h": -1.554e-06,
+   "oi_usd": 313345798.96620005,
+   "premium": -0.0005444611
   }
  },
- "items_24h": 110,
+ "items_24h": 114,
  "top_items": [
   {
    "id": "ed3b83a66cfb9725",
@@ -85,6 +85,44 @@
    ],
    "author": "Donald Trump",
    "score": 9920
+  },
+  {
+   "id": "dbea10a75a84833c",
+   "ts": 1795028400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "1c4172c4407006ad",
+   "ts": 1795017062,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Fact Sheet: President Donald J. Trump Secures Historic Economic Deals for American Workers and Strengthens America’s Leadership in Asia",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "a86bb17aece32dd8",
+   "ts": 1795016603,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "“No Indication of a Cyberattack”: DNI Clayton and Secretary Rubio on Recent Tech Outages",
+   "url": "https://www.whitehouse.gov/releases/2026/11/no-indication-of-a-cyberattack-dni-clayton-and-secretary-rubio-on-recent-tech-outages/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "f3082e5740a67342",
@@ -128,6 +166,20 @@
    ]
   },
   {
+   "id": "088aad5e29f59c7a",
+   "ts": 1794960000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Basel Committee discusses risks and vulnerabilities faced by global banking system",
+   "url": "https://www.bis.org/media-releases/20261118-basel-committee-discusses-risks-and-vulnerabilities-faced-global-banking-system",
+   "domain": "BIS",
+   "org": "BIS",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
    "id": "ed8bea0001306a3b",
    "ts": 1794956200,
    "source": "government",
@@ -140,97 +192,42 @@
    "tags": []
   },
   {
-   "id": "8481a1d7c53f5178",
-   "ts": 1794940200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "fb30ad85a2ee345c",
-   "ts": 1794928856,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Quad Leaders’ Summit Joint Press Release",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "457e8cc2fc02d172",
-   "ts": 1794928699,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "CFTC Announces Agenda for December Roundtable on 24/7 Trading",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9327-26",
-   "domain": "CFTC",
-   "org": "CFTC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "7385bda8fbde2d5e",
-   "ts": 1795006414,
+   "id": "782d2204748a04e2",
+   "ts": 1795036562,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
-   "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto",
-    "BTC"
-   ]
-  },
-  {
-   "id": "af856958e4496445",
-   "ts": 1795005937,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "'Doomed From the Start': President Trump's Meme Coin Hits New Lows After Midterms",
-   "url": "https://decrypt.co/383524/doomed-from-the-start-president-trumps-meme-coin-hits-new-lows-after-midterms",
+   "title": "Palmer Luckey Says He’s Building an Offshore Haven for Industry—And 'Illegal' Medicine",
+   "url": "https://decrypt.co/383576/palmer-luckey-offshore-haven-industry-illegal-medicine",
    "domain": "Decrypt",
    "org": "Decrypt",
    "tags": []
   },
   {
-   "id": "fe9984c7f4e36fcb",
-   "ts": 1795005669,
+   "id": "77d23c397eec21d5",
+   "ts": 1795036438,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
-   "url": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
+   "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
+   "url": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": []
+  },
+  {
+   "id": "53a143325f92382c",
+   "ts": 1795033926,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
+   "url": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": [
     "crypto"
    ]
-  },
-  {
-   "id": "478a12905b3111f8",
-   "ts": 1795004714,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
-   "url": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -253,7 +250,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 18
+   "n": 19
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -270,7 +267,7 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "European Central Bank": {
    "ok": true,
@@ -286,7 +283,7 @@
   },
   "BIS": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "Strategy (MSTR) filings": {
    "ok": true,
@@ -306,7 +303,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 36
+   "n": 37
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
@@ -315,7 +312,7 @@
   "Reddit r/CryptoCurrency": {
    "ok": false,
    "n": 0,
-   "err": "HTTP Error 429: Too Many Requests"
+   "err": "HTTP Error 404: Not Found"
   },
   "Reddit r/Bitcoin": {
    "ok": false,
