@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-19T03:10:15Z",
- "generated_ts": 1795057815,
+ "generated_at": "2026-11-19T12:49:11Z",
+ "generated_ts": 1795092551,
  "prices": {
   "BTC": {
-   "p": 62418.2,
+   "p": 63863.8,
    "o": 62984.5,
-   "h": 64874.5,
+   "h": 64119.0,
    "l": 62000.0,
-   "v": 4358.51044781
+   "v": 4486.59117439
   },
   "ETH": {
-   "p": 1763.73,
+   "p": 1803.31,
    "o": 1774.76,
-   "h": 1817.64,
+   "h": 1811.44,
    "l": 1730.92,
-   "v": 42297.55439702
+   "v": 40658.9337671
   },
   "SOL": {
-   "p": 72.89,
+   "p": 74.67,
    "o": 73.54,
-   "h": 75.57,
+   "h": 75.24,
    "l": 72.14,
-   "v": 325076.83772307
+   "v": 344936.53420264
   }
  },
  "change_7d": {
-  "BTC": -0.15173099221467617,
-  "ETH": -0.13988548411420462,
-  "SOL": -0.12267434881766894
+  "BTC": -0.12316435145405158,
+  "ETH": -0.10641278200698893,
+  "SOL": -0.09258585123164659
  },
  "sentiment": {
-  "score": 21.3,
+  "score": 22.0,
   "label": "Extreme fear",
   "components": {
    "fng": 10.0,
-   "momentum": 12.067251946330956,
-   "crowding": 60.1238955
+   "momentum": 19.208912136487104,
+   "crowding": 53.6683595
   },
   "weights": {
    "fng": 0.35,
@@ -53,38 +53,64 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2446338089.39212,
-   "premium": -0.0003520901
+   "funding_h": 3.0986e-06,
+   "oi_usd": 2368601760.04644,
+   "premium": -0.0007038729
   },
   "ETH": {
-   "funding_h": 9.6251e-06,
-   "oi_usd": 1059839958.5047802,
-   "premium": -0.0004530268
+   "funding_h": 4.4197e-06,
+   "oi_usd": 1081511896.0176597,
+   "premium": -0.0004709272
   },
   "SOL": {
-   "funding_h": 5.6116e-06,
-   "oi_usd": 313158504.2586,
-   "premium": -0.0005481705
+   "funding_h": 2.532e-06,
+   "oi_usd": 319128981.28159994,
+   "premium": -0.0006609014
   }
  },
- "items_24h": 61,
+ "items_24h": 67,
  "top_items": [
   {
-   "id": "ed3b83a66cfb9725",
-   "ts": 1794987852,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to announce that we made a new and completely different Trade Deal with the Philippines, one that will be a true landmark and, in partic",
-   "url": "https://truthsocial.com/@realDonaldTrump/117636323928351024",
-   "domain": "truthsocial.com",
+   "id": "3e0ac5bced96e804",
+   "ts": 1795075200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Cyber resilience guidance consultation and AI and quantum effective practices",
+   "url": "https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices",
+   "domain": "Bank of England",
+   "org": "Bank of England",
    "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 9920
+    "macro"
+   ]
+  },
+  {
+   "id": "2d9adea4acffddf4",
+   "ts": 1795073400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Minutes of the Market Participants Group meeting – 18 November 2026",
+   "url": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "050a70da6a7d16fd",
+   "ts": 1795071600,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Developments in Real Exports and Real Imports",
+   "url": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "3e5da690e0caa6d3",
@@ -140,97 +166,75 @@
    "tags": []
   },
   {
-   "id": "f3082e5740a67342",
-   "ts": 1794992400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Boris Vujčić: Financial Stability Review - November 2026",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "dcfaa3a193e227a3",
-   "ts": 1794992400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "8682e18d5c14ba33",
-   "ts": 1795052733,
+   "id": "9dcc5787a22040fe",
+   "ts": 1795092246,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Trump administration unveils new center to choke off scam payments",
-   "url": "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
+   "url": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "domain": "Cointelegraph",
    "org": "Cointelegraph",
-   "tags": []
-  },
-  {
-   "id": "d40f6ab0a64134a0",
-   "ts": 1795048549,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
-   "url": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "f7f4ac0143a936f7",
-   "ts": 1795048426,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
-   "url": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": []
-  },
-  {
-   "id": "62997b2b7198b17d",
-   "ts": 1795041000,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
-   "url": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
    "tags": [
     "crypto"
    ]
   },
   {
-   "id": "9596fee44e5da67e",
-   "ts": 1795040162,
+   "id": "84b76442fef5c3dd",
+   "ts": 1795092012,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
-   "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
-   "domain": "Decrypt",
-   "org": "Decrypt",
+   "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
+   "url": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
    "tags": [
     "crypto",
+    "BTC"
+   ]
+  },
+  {
+   "id": "0d7e04752e16bd69",
+   "ts": 1795091626,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
+   "url": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": []
+  },
+  {
+   "id": "1eb4dc18b52a4856",
+   "ts": 1795090839,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto",
+    "institution",
+    "BTC"
+   ]
+  },
+  {
+   "id": "1c2121bcb1346e57",
+   "ts": 1795090086,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
+   "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto",
+    "macro",
     "BTC"
    ]
   }
@@ -280,11 +284,11 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 1
+   "n": 3
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 7
+   "n": 6
   },
   "BIS": {
    "ok": true,
@@ -308,11 +312,11 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 37
+   "n": 36
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 21
+   "n": 18
   },
   "Reddit r/CryptoCurrency": {
    "ok": false,
