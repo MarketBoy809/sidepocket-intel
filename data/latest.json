@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-11-19T12:49:11Z",
- "generated_ts": 1795092551,
+ "generated_at": "2026-11-19T21:21:58Z",
+ "generated_ts": 1795123318,
  "prices": {
   "BTC": {
-   "p": 63863.8,
+   "p": 61619.2,
    "o": 62984.5,
-   "h": 64119.0,
-   "l": 62000.0,
-   "v": 4486.59117439
+   "h": 64014.3,
+   "l": 61478.1,
+   "v": 4280.80837834
   },
   "ETH": {
-   "p": 1803.31,
+   "p": 1745.24,
    "o": 1774.76,
-   "h": 1811.44,
-   "l": 1730.92,
-   "v": 40658.9337671
+   "h": 1815.52,
+   "l": 1740.24,
+   "v": 37326.37728066
   },
   "SOL": {
-   "p": 74.67,
+   "p": 72.48,
    "o": 73.54,
-   "h": 75.24,
-   "l": 72.14,
-   "v": 344936.53420264
+   "h": 75.56,
+   "l": 72.22,
+   "v": 310717.37134968
   }
  },
  "change_7d": {
-  "BTC": -0.12316435145405158,
-  "ETH": -0.10641278200698893,
-  "SOL": -0.09258585123164659
+  "BTC": -0.13025705863471146,
+  "ETH": -0.12672902578768108,
+  "SOL": -0.10144035454881212
  },
  "sentiment": {
-  "score": 22.0,
-  "label": "Extreme fear",
+  "score": 25.2,
+  "label": "Fear",
   "components": {
    "fng": 10.0,
-   "momentum": 19.208912136487104,
-   "crowding": 53.6683595
+   "momentum": 17.435735341322136,
+   "news_tone": 47.85,
+   "crowding": 48.562119
   },
   "weights": {
    "fng": 0.35,
@@ -50,26 +51,145 @@
   "label": "Extreme Fear",
   "ts": 1795046400
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.129,
  "derivatives": {
   "BTC": {
-   "funding_h": 3.0986e-06,
-   "oi_usd": 2368601760.04644,
-   "premium": -0.0007038729
+   "funding_h": -1.39665e-05,
+   "oi_usd": 2511509547.23404,
+   "premium": -0.0008397667
   },
   "ETH": {
-   "funding_h": 4.4197e-06,
-   "oi_usd": 1081511896.0176597,
-   "premium": -0.0004709272
+   "funding_h": 7.5086e-06,
+   "oi_usd": 1067642670.0635803,
+   "premium": -0.0002347176
   },
   "SOL": {
-   "funding_h": 2.532e-06,
-   "oi_usd": 319128981.28159994,
-   "premium": -0.0006609014
+   "funding_h": 2.5185e-06,
+   "oi_usd": 309223410.4439997,
+   "premium": -0.0003789053
   }
  },
- "items_24h": 67,
+ "items_24h": 115,
  "top_items": [
+  {
+   "id": "50cbbd10b143ad0b",
+   "ts": 1795095607,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "There has been no greater President that stands with American Farmers and Ranchers than President Donald J. Trump!As l've stated before, I was the last President to get a Farm Bill done in 2018. IT IS TIME TO DO IT AGAIN, and FAST. Our Great Farmers and Ranchers NEED and DESERVE ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117643385705539849",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 28440
+  },
+  {
+   "id": "a40721b8a5a23d0c",
+   "ts": 1795107663,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Heading back to Washington, D.C., from China. It was a Great and Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M., the White House. Also, will be discussing the Trade Deals with Thailand, the Philippines, and others. President DONALD J. TRUMP",
+   "url": "https://truthsocial.com/@realDonaldTrump/117644175826027343",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 23302
+  },
+  {
+   "id": "fec11db56d3a954d",
+   "ts": 1795116600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Tale of two markets : Our 3 biggest winners and losers over the past five weeks",
+   "url": "https://balticbusinessnews.com/tale-of-two-markets-our-3-biggest-winners-and-losers-over-the-past-five-weeks/",
+   "domain": "balticbusinessnews.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "bbd28ee0df4756d3",
+   "ts": 1795116020,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "ICYMI: President Trump Talks China, Iran, Super Intelligence, and the Path Ahead in Exclusive Interview from Shenzhen",
+   "url": "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-talks-china-iran-super-intelligence-and-the-path-ahead-in-exclusive-interview-from-shenzhen/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
+   "id": "241d9c35f2a8e1cf",
+   "ts": 1795104000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "3a68823c8daed0c3",
+   "ts": 1795099142,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+   "domain": "SEC",
+   "org": "SEC",
+   "tags": [
+    "crypto",
+    "regulation"
+   ]
+  },
+  {
+   "id": "4d5fce18066850a1",
+   "ts": 1795096384,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "U.S.-Russia-China Heads of State Declaration toward Peace",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
+   "id": "ccdec6139f95ecdc",
+   "ts": 1795094747,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT @SebGorkaPresident @realDonaldTrump was and is right. This is the fate of incumbents and his results are better than most Presidents, especially Obama and Clinton. Being a Chicken Little may get you clicks, but I prefer the Truth. Here's data from the American Presidency Proje",
+   "url": "https://truthsocial.com/@realDonaldTrump/117643329378079202",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 0
+  },
   {
    "id": "3e0ac5bced96e804",
    "ts": 1795075200,
@@ -126,128 +246,17 @@
     "regulation",
     "macro"
    ]
-  },
-  {
-   "id": "dbea10a75a84833c",
-   "ts": 1795028400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "1c4172c4407006ad",
-   "ts": 1795017062,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Fact Sheet: President Donald J. Trump Secures Historic Economic Deals for American Workers and Strengthens America’s Leadership in Asia",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "a86bb17aece32dd8",
-   "ts": 1795016603,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "“No Indication of a Cyberattack”: DNI Clayton and Secretary Rubio on Recent Tech Outages",
-   "url": "https://www.whitehouse.gov/releases/2026/11/no-indication-of-a-cyberattack-dni-clayton-and-secretary-rubio-on-recent-tech-outages/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "9dcc5787a22040fe",
-   "ts": 1795092246,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
-   "url": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "84b76442fef5c3dd",
-   "ts": 1795092012,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
-   "url": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto",
-    "BTC"
-   ]
-  },
-  {
-   "id": "0d7e04752e16bd69",
-   "ts": 1795091626,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
-   "url": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": []
-  },
-  {
-   "id": "1eb4dc18b52a4856",
-   "ts": 1795090839,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto",
-    "institution",
-    "BTC"
-   ]
-  },
-  {
-   "id": "1c2121bcb1346e57",
-   "ts": 1795090086,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
-   "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto",
-    "macro",
-    "BTC"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 4
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -255,11 +264,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "White House": {
    "ok": true,
-   "n": 18
+   "n": 19
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -268,7 +277,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 1
+   "n": 2
   },
   "CFTC": {
    "ok": true,
@@ -276,7 +285,7 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 5
+   "n": 3
   },
   "European Central Bank": {
    "ok": true,
@@ -312,7 +321,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 36
+   "n": 37
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
