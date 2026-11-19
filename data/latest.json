@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-18T21:19:25Z",
- "generated_ts": 1795036765,
+ "generated_at": "2026-11-19T03:10:15Z",
+ "generated_ts": 1795057815,
  "prices": {
   "BTC": {
-   "p": 62510.0,
-   "o": 64876.9,
-   "h": 65184.1,
-   "l": 62212.7,
-   "v": 4170.95164126
+   "p": 62418.2,
+   "o": 62984.5,
+   "h": 64874.5,
+   "l": 62000.0,
+   "v": 4358.51044781
   },
   "ETH": {
-   "p": 1757.49,
-   "o": 1822.67,
-   "h": 1833.48,
+   "p": 1763.73,
+   "o": 1774.76,
+   "h": 1817.64,
    "l": 1730.92,
-   "v": 45995.05211234
+   "v": 42297.55439702
   },
   "SOL": {
-   "p": 73.01,
-   "o": 75.1,
-   "h": 75.69,
+   "p": 72.89,
+   "o": 73.54,
+   "h": 75.57,
    "l": 72.14,
-   "v": 379333.38643016
+   "v": 325076.83772307
   }
  },
  "change_7d": {
-  "BTC": -0.16178648947197208,
-  "ETH": -0.1576794007634689,
-  "SOL": -0.1407721280602636
+  "BTC": -0.15173099221467617,
+  "ETH": -0.13988548411420462,
+  "SOL": -0.12267434881766894
  },
  "sentiment": {
-  "score": 18.9,
+  "score": 21.3,
   "label": "Extreme fear",
   "components": {
-   "fng": 11.0,
-   "momentum": 9.553377632006978,
-   "crowding": 50.0277765
+   "fng": 10.0,
+   "momentum": 12.067251946330956,
+   "crowding": 60.1238955
   },
   "weights": {
    "fng": 0.35,
@@ -46,29 +46,29 @@
   }
  },
  "fear_greed": {
-  "value": 11,
+  "value": 10,
   "label": "Extreme Fear",
-  "ts": 1794960000
+  "ts": 1795046400
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 8.996e-07,
-   "oi_usd": 2508151707.2687263,
-   "premium": -0.0003050967
+   "funding_h": 1.25e-05,
+   "oi_usd": 2446338089.39212,
+   "premium": -0.0003520901
   },
   "ETH": {
-   "funding_h": 7.305e-07,
-   "oi_usd": 1076120916.1120186,
-   "premium": -0.0004542873
+   "funding_h": 9.6251e-06,
+   "oi_usd": 1059839958.5047802,
+   "premium": -0.0004530268
   },
   "SOL": {
-   "funding_h": -1.554e-06,
-   "oi_usd": 313345798.96620005,
-   "premium": -0.0005444611
+   "funding_h": 5.6116e-06,
+   "oi_usd": 313158504.2586,
+   "premium": -0.0005481705
   }
  },
- "items_24h": 114,
+ "items_24h": 61,
  "top_items": [
   {
    "id": "ed3b83a66cfb9725",
@@ -85,6 +85,21 @@
    ],
    "author": "Donald Trump",
    "score": 9920
+  },
+  {
+   "id": "3e5da690e0caa6d3",
+   "ts": 1795050780,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Statement by Governor UEDA concerning the Bank's Semiannual Report on Currency and Monetary Control (Committee on Financial Affairs, Senate)",
+   "url": "http://www.boj.or.jp/en/mopo/diet/d_state/dst261119a.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "regulation",
+    "macro"
+   ]
   },
   {
    "id": "dbea10a75a84833c",
@@ -153,80 +168,70 @@
    ]
   },
   {
-   "id": "ec1031db7128f2fc",
-   "ts": 1794964500,
+   "id": "8682e18d5c14ba33",
+   "ts": 1795052733,
    "source": "news",
-   "group": "institution",
+   "group": "news",
    "kind": "news",
-   "title": "The Nasdaq - 100 Is Down More Than 10 % From Its High , but the Broad Market Is Down Far Less . Here How Gaps Like This Have Ended Since 1986 .",
-   "url": "https://www.fool.com/investing/2026/11/17/the-nasdaq-100-is-down-more-than-10-from-its-high-but-the-broad-market-is-down-far-less-here-s-how-gaps-like-this-have-ended-since-1986/",
-   "domain": "fool.com",
-   "tags": [
-    "institution"
-   ]
+   "title": "Trump administration unveils new center to choke off scam payments",
+   "url": "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": []
   },
   {
-   "id": "088aad5e29f59c7a",
-   "ts": 1794960000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Basel Committee discusses risks and vulnerabilities faced by global banking system",
-   "url": "https://www.bis.org/media-releases/20261118-basel-committee-discusses-risks-and-vulnerabilities-faced-global-banking-system",
-   "domain": "BIS",
-   "org": "BIS",
+   "id": "d40f6ab0a64134a0",
+   "ts": 1795048549,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
+   "url": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": [
     "macro"
    ]
   },
   {
-   "id": "ed8bea0001306a3b",
-   "ts": 1794956200,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Presidential Message on American Education Week",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-american-education-week-ddcb/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "782d2204748a04e2",
-   "ts": 1795036562,
+   "id": "f7f4ac0143a936f7",
+   "ts": 1795048426,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Palmer Luckey Says He’s Building an Offshore Haven for Industry—And 'Illegal' Medicine",
-   "url": "https://decrypt.co/383576/palmer-luckey-offshore-haven-industry-illegal-medicine",
-   "domain": "Decrypt",
-   "org": "Decrypt",
+   "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+   "url": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
    "tags": []
   },
   {
-   "id": "77d23c397eec21d5",
-   "ts": 1795036438,
+   "id": "62997b2b7198b17d",
+   "ts": 1795041000,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
-   "url": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": []
-  },
-  {
-   "id": "53a143325f92382c",
-   "ts": 1795033926,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
-   "url": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+   "url": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
    "tags": [
     "crypto"
+   ]
+  },
+  {
+   "id": "9596fee44e5da67e",
+   "ts": 1795040162,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
+   "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": [
+    "crypto",
+    "BTC"
    ]
   }
  ],
@@ -250,7 +255,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 19
+   "n": 18
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -279,7 +284,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 10
+   "n": 7
   },
   "BIS": {
    "ok": true,
@@ -312,7 +317,7 @@
   "Reddit r/CryptoCurrency": {
    "ok": false,
    "n": 0,
-   "err": "HTTP Error 404: Not Found"
+   "err": "HTTP Error 429: Too Many Requests"
   },
   "Reddit r/Bitcoin": {
    "ok": false,
