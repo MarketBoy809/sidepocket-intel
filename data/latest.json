@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-19T21:21:58Z",
- "generated_ts": 1795123318,
+ "generated_at": "2026-11-20T02:58:52Z",
+ "generated_ts": 1795143532,
  "prices": {
   "BTC": {
-   "p": 61619.2,
-   "o": 62984.5,
+   "p": 62030.5,
+   "o": 61913.5,
    "h": 64014.3,
-   "l": 61478.1,
-   "v": 4280.80837834
+   "l": 61213.1,
+   "v": 4535.43034789
   },
   "ETH": {
-   "p": 1745.24,
-   "o": 1774.76,
+   "p": 1744.81,
+   "o": 1755.36,
    "h": 1815.52,
-   "l": 1740.24,
-   "v": 37326.37728066
+   "l": 1721.93,
+   "v": 44012.92661625
   },
   "SOL": {
-   "p": 72.48,
-   "o": 73.54,
+   "p": 72.67,
+   "o": 73.07,
    "h": 75.56,
-   "l": 72.22,
-   "v": 310717.37134968
+   "l": 71.52,
+   "v": 335535.65381516
   }
  },
  "change_7d": {
-  "BTC": -0.13025705863471146,
-  "ETH": -0.12672902578768108,
-  "SOL": -0.10144035454881212
+  "BTC": -0.13204352107401127,
+  "ETH": -0.13710375715352077,
+  "SOL": -0.11304026597709634
  },
  "sentiment": {
-  "score": 25.2,
-  "label": "Fear",
+  "score": 18.1,
+  "label": "Extreme fear",
   "components": {
-   "fng": 10.0,
-   "momentum": 17.435735341322136,
-   "news_tone": 47.85,
-   "crowding": 48.562119
+   "fng": 12.0,
+   "momentum": 16.989119731497183,
+   "news_tone": 0.0,
+   "crowding": 51.7732065
   },
   "weights": {
    "fng": 0.35,
@@ -47,29 +47,29 @@
   }
  },
  "fear_greed": {
-  "value": 10,
+  "value": 12,
   "label": "Extreme Fear",
-  "ts": 1795046400
+  "ts": 1795132800
  },
- "news_tone_24h": -0.129,
+ "news_tone_24h": -3.332,
  "derivatives": {
   "BTC": {
-   "funding_h": -1.39665e-05,
-   "oi_usd": 2511509547.23404,
-   "premium": -0.0008397667
+   "funding_h": 1.25e-05,
+   "oi_usd": 2458130960.11056,
+   "premium": -0.0002576324
   },
   "ETH": {
-   "funding_h": 7.5086e-06,
-   "oi_usd": 1067642670.0635803,
-   "premium": -0.0002347176
+   "funding_h": -4.961e-07,
+   "oi_usd": 1059957692.2164428,
+   "premium": -0.0005724754
   },
   "SOL": {
-   "funding_h": 2.5185e-06,
-   "oi_usd": 309223410.4439997,
-   "premium": -0.0003789053
+   "funding_h": -7.1458e-06,
+   "oi_usd": 305238223.2708001,
+   "premium": -0.0006594765
   }
  },
- "items_24h": 115,
+ "items_24h": 153,
  "top_items": [
   {
    "id": "50cbbd10b143ad0b",
@@ -103,6 +103,32 @@
    ],
    "author": "Donald Trump",
    "score": 23302
+  },
+  {
+   "id": "886ce809313ca7f3",
+   "ts": 1795140759,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History",
+   "url": "https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "3b9bb6f33db273bd",
+   "ts": 1795140000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Monetary and Economic Studies (2026)",
+   "url": "http://www.boj.or.jp/en/research/imes/mes/mes26.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "fec11db56d3a954d",
@@ -217,42 +243,13 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "050a70da6a7d16fd",
-   "ts": 1795071600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Developments in Real Exports and Real Imports",
-   "url": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "3e5da690e0caa6d3",
-   "ts": 1795050780,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Statement by Governor UEDA concerning the Bank's Semiannual Report on Currency and Monetary Control (Committee on Financial Affairs, Senate)",
-   "url": "http://www.boj.or.jp/en/mopo/diet/d_state/dst261119a.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "regulation",
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 4
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -264,11 +261,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "White House": {
    "ok": true,
-   "n": 19
+   "n": 14
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -297,7 +294,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 6
+   "n": 7
   },
   "BIS": {
    "ok": true,
