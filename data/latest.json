@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-20T02:58:52Z",
- "generated_ts": 1795143532,
+ "generated_at": "2026-11-20T11:19:27Z",
+ "generated_ts": 1795173567,
  "prices": {
   "BTC": {
-   "p": 62030.5,
+   "p": 61669.8,
    "o": 61913.5,
    "h": 64014.3,
    "l": 61213.1,
-   "v": 4535.43034789
+   "v": 4891.20967568
   },
   "ETH": {
-   "p": 1744.81,
+   "p": 1747.09,
    "o": 1755.36,
    "h": 1815.52,
-   "l": 1721.93,
-   "v": 44012.92661625
+   "l": 1716.09,
+   "v": 48966.42488922
   },
   "SOL": {
-   "p": 72.67,
+   "p": 71.94,
    "o": 73.07,
    "h": 75.56,
    "l": 71.52,
-   "v": 335535.65381516
+   "v": 329292.72927459
   }
  },
  "change_7d": {
-  "BTC": -0.13204352107401127,
-  "ETH": -0.13710375715352077,
-  "SOL": -0.11304026597709634
+  "BTC": -0.10519094898725602,
+  "ETH": -0.09985177890952363,
+  "SOL": -0.10000000000000007
  },
  "sentiment": {
-  "score": 18.1,
+  "score": 20.8,
   "label": "Extreme fear",
   "components": {
    "fng": 12.0,
-   "momentum": 16.989119731497183,
-   "news_tone": 0.0,
-   "crowding": 51.7732065
+   "momentum": 23.702262753185995,
+   "news_tone": 2.8833333333333337,
+   "crowding": 55.1617205
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +51,25 @@
   "label": "Extreme Fear",
   "ts": 1795132800
  },
- "news_tone_24h": -3.332,
+ "news_tone_24h": -2.827,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2458130960.11056,
-   "premium": -0.0002576324
+   "funding_h": -5.6402e-06,
+   "oi_usd": 2461286823.28892,
+   "premium": -0.0005458754
   },
   "ETH": {
-   "funding_h": -4.961e-07,
-   "oi_usd": 1059957692.2164428,
-   "premium": -0.0005724754
+   "funding_h": 1.25e-05,
+   "oi_usd": 1072960466.3531604,
+   "premium": -0.0004231134
   },
   "SOL": {
-   "funding_h": -7.1458e-06,
-   "oi_usd": 305238223.2708001,
-   "premium": -0.0006594765
+   "funding_h": 7.2819e-06,
+   "oi_usd": 301247545.1478,
+   "premium": -0.0002235956
   }
  },
- "items_24h": 153,
+ "items_24h": 151,
  "top_items": [
   {
    "id": "50cbbd10b143ad0b",
@@ -103,6 +103,20 @@
    ],
    "author": "Donald Trump",
    "score": 23302
+  },
+  {
+   "id": "5a2f925a88ecedd9",
+   "ts": 1795163400,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Christine Lagarde: Acting in time",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
   },
   {
    "id": "886ce809313ca7f3",
@@ -217,31 +231,18 @@
    "score": 0
   },
   {
-   "id": "3e0ac5bced96e804",
-   "ts": 1795075200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Cyber resilience guidance consultation and AI and quantum effective practices",
-   "url": "https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices",
-   "domain": "Bank of England",
-   "org": "Bank of England",
+   "id": "4047b8272f690cd3",
+   "ts": 1795173780,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
+   "url": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
+   "domain": "Decrypt",
+   "org": "Decrypt",
    "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "2d9adea4acffddf4",
-   "ts": 1795073400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Minutes of the Market Participants Group meeting – 18 November 2026",
-   "url": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
+    "crypto",
+    "regulation"
    ]
   }
  ],
@@ -253,7 +254,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -290,7 +291,7 @@
   },
   "Bank of England": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "Bank of Japan": {
    "ok": true,
