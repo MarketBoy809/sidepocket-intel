@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-21T17:20:09Z",
- "generated_ts": 1795281609,
+ "generated_at": "2026-11-21T23:02:05Z",
+ "generated_ts": 1795302125,
  "prices": {
   "BTC": {
-   "p": 60090.8,
+   "p": 59972.4,
    "o": 58806.4,
    "h": 60883.4,
    "l": 55100.0,
-   "v": 8922.53230898
+   "v": 5945.20427348
   },
   "ETH": {
-   "p": 1682.53,
+   "p": 1675.67,
    "o": 1619.32,
    "h": 1715.84,
    "l": 1536.0,
-   "v": 73942.73108583
+   "v": 47224.63334064
   },
   "SOL": {
-   "p": 70.67,
+   "p": 70.07,
    "o": 68.71,
    "h": 71.05,
    "l": 64.79,
-   "v": 683307.08705503
+   "v": 525549.14446471
   }
  },
  "change_7d": {
-  "BTC": -0.0820313810059141,
-  "ETH": -0.07862655674443071,
-  "SOL": -0.0250103634102529
+  "BTC": -0.05465957949444839,
+  "ETH": -0.038158966066902875,
+  "SOL": 0.014327062228654257
  },
  "sentiment": {
-  "score": 25.1,
-  "label": "Fear",
+  "score": 24.2,
+  "label": "Extreme fear",
   "components": {
    "fng": 12.0,
-   "momentum": 29.492154748521475,
-   "crowding": 49.999197
+   "momentum": 36.3351051263879,
+   "crowding": 36.271547
   },
   "weights": {
    "fng": 0.35,
@@ -53,22 +53,22 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 7.9772e-06,
-   "oi_usd": 2278500021.37632,
-   "premium": -0.0002375111
+   "funding_h": -1.48335e-05,
+   "oi_usd": 2229933504.6384,
+   "premium": -0.0005324193
   },
   "ETH": {
-   "funding_h": 4.8296e-06,
-   "oi_usd": 986943819.2501998,
-   "premium": -0.0001424045
+   "funding_h": -2.37475e-05,
+   "oi_usd": 1043251704.3918053,
+   "premium": -0.0006431711
   },
   "SOL": {
-   "funding_h": -1.2809e-05,
-   "oi_usd": 295870120.69824,
-   "premium": -0.0002965892
+   "funding_h": 9.688e-07,
+   "oi_usd": 291066665.99348,
+   "premium": -0.0004044875
   }
  },
- "items_24h": 75,
+ "items_24h": 88,
  "top_items": [
   {
    "id": "d7d2be678beefa7c",
@@ -133,100 +133,99 @@
    "tags": []
   },
   {
-   "id": "402a6aa6529474b1",
-   "ts": 1795215463,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President Trump’s Desk",
-   "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "137217fbade893d4",
-   "ts": 1795209300,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Federal Reserve announces College Fed Challenge winners",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "6e84d8e5549af364",
-   "ts": 1795203698,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "H.R. 10167 – Common Cents Act",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/h-r-10167-common-cents-act/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "31dfa678a4d112a5",
-   "ts": 1795197804,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
-   "domain": "SEC",
-   "org": "SEC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "79f4104b0e57176f",
-   "ts": 1795280462,
+   "id": "19983e76cb391b51",
+   "ts": 1795293000,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
-   "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
-   "domain": "Decrypt",
-   "org": "Decrypt",
+   "title": "President Donald Trump cites India growth , slams US high interest rates",
+   "url": "https://www.tribuneindia.com/news/india/president-donald-trump-cites-indias-growth-slams-us-high-interest-rates/",
+   "domain": "tribuneindia.com",
    "tags": [
-    "crypto",
-    "regulation"
+    "macro",
+    "geo"
    ]
   },
   {
-   "id": "c1d289258c9e8b15",
-   "ts": 1795279260,
+   "id": "74b68336a2a6d559",
+   "ts": 1795293000,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
-   "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": []
+   "title": "Trump pledges to work with Democrats to cap credit card interest rates",
+   "url": "https://www.fox5ny.com/money/trump-pledges-work-democrats-cap-credit-card-interest-rates",
+   "domain": "fox5ny.com",
+   "tags": [
+    "macro",
+    "geo"
+   ]
   },
   {
-   "id": "fcb3b80f74855754",
-   "ts": 1795278600,
+   "id": "bfeba24fbb88999a",
+   "ts": 1795293000,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Bitcoin price crash : ​Falls to lowest level in two years - What behind plunge of world largest cryptocurrency",
-   "url": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html",
-   "domain": "livemint.com",
+   "title": "Trump vows to work with Democrats to cap credit card interest rates at 10 %",
+   "url": "http://www.dailyadvance.com/news/national/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10/article_b94a5afd-12a7-5515-bdee-8015538a1e11.html",
+   "domain": "dailyadvance.com",
    "tags": [
-    "crypto",
-    "BTC"
+    "macro",
+    "geo"
+   ]
+  },
+  {
+   "id": "9d234fb9cbe331c1",
+   "ts": 1795293000,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Trump vows to work with Democrats to cap credit card interest rates at 10 %",
+   "url": "https://www.thepeterboroughexaminer.com/business/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10/article_3b2f854b-4297-5805-8180-4ad5228de423.html",
+   "domain": "thepeterboroughexaminer.com",
+   "tags": [
+    "macro",
+    "geo"
+   ]
+  },
+  {
+   "id": "4c056e09ba7cf0ad",
+   "ts": 1795293000,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Trump wants to work with Democrats to cap credit card interest rates",
+   "url": "https://www.wdbo.com/news/business/trump-vows-work-with/ETUSCQV3HU46TFCRSXIB6C2VAQ/",
+   "domain": "wdbo.com",
+   "tags": [
+    "macro",
+    "geo"
+   ]
+  },
+  {
+   "id": "c9473e8762fc306c",
+   "ts": 1795293000,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "A 10 % drop for the stock market is unnerving , but it not that unusual",
+   "url": "https://www.kob.com/ap-top-news/a-10-drop-for-the-stock-market-is-unnerving-but-its-not-that-unusual/",
+   "domain": "kob.com",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
+   "id": "3d43a2454a2d5556",
+   "ts": 1795293000,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Iran strikes tankers and Israeli hit on food truck in Gaza kills 3",
+   "url": "https://www.wdbo.com/news/world/iran-strikes-3/5DOQKPG6KUZP3LICC6KBHJWPF4/",
+   "domain": "wdbo.com",
+   "tags": [
+    "geo"
    ]
   }
  ],
@@ -238,7 +237,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 26
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -307,7 +306,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 17
+   "n": 14
   },
   "Reddit r/CryptoCurrency": {
    "ok": false,
