@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-11-21T09:36:07Z",
- "generated_ts": 1795253767,
+ "generated_at": "2026-11-21T17:20:09Z",
+ "generated_ts": 1795281609,
  "prices": {
   "BTC": {
-   "p": 57886.3,
+   "p": 60090.8,
    "o": 58806.4,
-   "h": 62273.0,
+   "h": 60883.4,
    "l": 55100.0,
-   "v": 11016.30102339
+   "v": 8922.53230898
   },
   "ETH": {
-   "p": 1635.63,
+   "p": 1682.53,
    "o": 1619.32,
-   "h": 1761.0,
+   "h": 1715.84,
    "l": 1536.0,
-   "v": 95352.1359727
+   "v": 73942.73108583
   },
   "SOL": {
-   "p": 67.86,
+   "p": 70.67,
    "o": 68.71,
-   "h": 72.68,
+   "h": 71.05,
    "l": 64.79,
-   "v": 828715.7634758
+   "v": 683307.08705503
   }
  },
  "change_7d": {
-  "BTC": -0.13808539780278617,
-  "ETH": -0.1415984829677209,
-  "SOL": -0.10641127959563713
+  "BTC": -0.0820313810059141,
+  "ETH": -0.07862655674443071,
+  "SOL": -0.0250103634102529
  },
  "sentiment": {
-  "score": 18.1,
-  "label": "Extreme fear",
+  "score": 25.1,
+  "label": "Fear",
   "components": {
    "fng": 12.0,
-   "momentum": 15.47865054930346,
-   "news_tone": 18.9,
-   "crowding": 35.10143
+   "momentum": 29.492154748521475,
+   "crowding": 49.999197
   },
   "weights": {
    "fng": 0.35,
@@ -51,42 +50,26 @@
   "label": "Extreme Fear",
   "ts": 1795219200
  },
- "news_tone_24h": -1.866,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": -3.0809e-06,
-   "oi_usd": 2128867822.3692598,
-   "premium": -0.0004431363
+   "funding_h": 7.9772e-06,
+   "oi_usd": 2278500021.37632,
+   "premium": -0.0002375111
   },
   "ETH": {
-   "funding_h": 2.805e-07,
-   "oi_usd": 972612722.2800608,
-   "premium": -0.0007138194
+   "funding_h": 4.8296e-06,
+   "oi_usd": 986943819.2501998,
+   "premium": -0.0001424045
   },
   "SOL": {
-   "funding_h": -3.80176e-05,
-   "oi_usd": 287198686.3120001,
-   "premium": -0.0006691176
+   "funding_h": -1.2809e-05,
+   "oi_usd": 295870120.69824,
+   "premium": -0.0002965892
   }
  },
- "items_24h": 96,
+ "items_24h": 75,
  "top_items": [
-  {
-   "id": "b43ad4565548cdb2",
-   "ts": 1795179787,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT @SchoenlawBy engaging in an unprecedented tripartite summit with the leaders of China and Russia, countries with which we have profound differences, President Trump not only continues his well-founded policy of always seeking to keep dialogue open, but that policy is consisten",
-   "url": "https://truthsocial.com/@realDonaldTrump/117648902586194402",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 4
-  },
   {
    "id": "d7d2be678beefa7c",
    "ts": 1795229186,
@@ -206,28 +189,45 @@
    ]
   },
   {
-   "id": "26377587c90752a8",
-   "ts": 1795193592,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director",
-   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/",
-   "domain": "White House",
-   "org": "White House",
+   "id": "79f4104b0e57176f",
+   "ts": 1795280462,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+   "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": [
+    "crypto",
+    "regulation"
+   ]
+  },
+  {
+   "id": "c1d289258c9e8b15",
+   "ts": 1795279260,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+   "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
    "tags": []
   },
   {
-   "id": "31e86b284b99369a",
-   "ts": 1795189193,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "President Trump Brings Home Billions in Economic Growth and Strengthens America’s Security",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
+   "id": "fcb3b80f74855754",
+   "ts": 1795278600,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bitcoin price crash : ​Falls to lowest level in two years - What behind plunge of world largest cryptocurrency",
+   "url": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html",
+   "domain": "livemint.com",
+   "tags": [
+    "crypto",
+    "BTC"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
