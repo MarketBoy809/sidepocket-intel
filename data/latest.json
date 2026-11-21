@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-11-20T19:58:06Z",
- "generated_ts": 1795204686,
+ "generated_at": "2026-11-21T01:21:30Z",
+ "generated_ts": 1795224090,
  "prices": {
   "BTC": {
-   "p": 58553.1,
-   "o": 61913.5,
-   "h": 62550.0,
+   "p": 58968.2,
+   "o": 58806.4,
+   "h": 62446.8,
    "l": 57661.1,
-   "v": 8287.97077379
+   "v": 8704.42742403
   },
   "ETH": {
-   "p": 1608.3,
-   "o": 1755.36,
-   "h": 1769.16,
+   "p": 1620.81,
+   "o": 1619.32,
+   "h": 1764.5,
    "l": 1577.65,
-   "v": 80756.76191605
+   "v": 83464.00067881
   },
   "SOL": {
-   "p": 68.23,
-   "o": 73.07,
-   "h": 73.51,
-   "l": 67.36,
-   "v": 533154.14019605
+   "p": 68.75,
+   "o": 68.71,
+   "h": 73.22,
+   "l": 67.01,
+   "v": 579836.42278111
   }
  },
  "change_7d": {
-  "BTC": -0.1535605874952319,
-  "ETH": -0.16910455289406773,
-  "SOL": -0.14100162357936796
+  "BTC": -0.1371571481476273,
+  "ETH": -0.16081401734553258,
+  "SOL": -0.11301546391752573
  },
  "sentiment": {
-  "score": 18.9,
+  "score": 16.7,
   "label": "Extreme fear",
   "components": {
    "fng": 12.0,
-   "momentum": 11.609853126192021,
-   "crowding": 44.8901095
+   "momentum": 15.710712963093172,
+   "news_tone": 7.266666666666666,
+   "crowding": 38.5756095
   },
   "weights": {
    "fng": 0.35,
@@ -48,27 +49,27 @@
  "fear_greed": {
   "value": 12,
   "label": "Extreme Fear",
-  "ts": 1795132800
+  "ts": 1795219200
  },
- "news_tone_24h": null,
+ "news_tone_24h": -2.564,
  "derivatives": {
   "BTC": {
-   "funding_h": 3.8096e-06,
-   "oi_usd": 2242310389.529188,
-   "premium": -0.0005628134
+   "funding_h": 1.1105e-06,
+   "oi_usd": 2225739818.2381,
+   "premium": -0.0003857737
   },
   "ETH": {
-   "funding_h": -1.7153e-05,
-   "oi_usd": 995065114.4335195,
-   "premium": -0.0007449252
+   "funding_h": -2.17308e-05,
+   "oi_usd": 962153494.4212002,
+   "premium": -0.0005540166
   },
   "SOL": {
-   "funding_h": -6.563e-07,
-   "oi_usd": 291145044.17503977,
-   "premium": -0.0007816846
+   "funding_h": -1.06794e-05,
+   "oi_usd": 295205556.6179999,
+   "premium": -0.0003773311
   }
  },
- "items_24h": 102,
+ "items_24h": 112,
  "top_items": [
   {
    "id": "b43ad4565548cdb2",
@@ -87,6 +88,48 @@
    "score": 4
   },
   {
+   "id": "402a6aa6529474b1",
+   "ts": 1795215463,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President Trump’s Desk",
+   "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "137217fbade893d4",
+   "ts": 1795209300,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Federal Reserve announces College Fed Challenge winners",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "6e84d8e5549af364",
+   "ts": 1795203698,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "H.R. 10167 – Common Cents Act",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/h-r-10167-common-cents-act/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
    "id": "31dfa678a4d112a5",
    "ts": 1795197804,
    "source": "regulator",
@@ -99,6 +142,30 @@
    "tags": [
     "regulation"
    ]
+  },
+  {
+   "id": "26377587c90752a8",
+   "ts": 1795193592,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director",
+   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "31e86b284b99369a",
+   "ts": 1795189193,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Brings Home Billions in Economic Growth and Strengthens America’s Security",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "62496b2db1339ced",
@@ -168,70 +235,6 @@
    "tags": [
     "macro"
    ]
-  },
-  {
-   "id": "d96501d7f2ec9354",
-   "ts": 1795203447,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-   "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": []
-  },
-  {
-   "id": "025971e2762c6955",
-   "ts": 1795203363,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
-   "url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": []
-  },
-  {
-   "id": "4a76513d827de884",
-   "ts": 1795200363,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
-   "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "ac720cd9fc547246",
-   "ts": 1795199830,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
-   "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "0b82445c00ab8f10",
-   "ts": 1795198562,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
-   "url": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -242,7 +245,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -254,7 +257,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 13
+   "n": 18
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -267,7 +270,7 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 2
+   "n": 1
   },
   "Federal Reserve": {
    "ok": true,
@@ -311,7 +314,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 19
+   "n": 17
   },
   "Reddit r/CryptoCurrency": {
    "ok": false,
