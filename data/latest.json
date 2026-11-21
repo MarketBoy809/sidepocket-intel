@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-21T01:21:30Z",
- "generated_ts": 1795224090,
+ "generated_at": "2026-11-21T09:36:07Z",
+ "generated_ts": 1795253767,
  "prices": {
   "BTC": {
-   "p": 58968.2,
+   "p": 57886.3,
    "o": 58806.4,
-   "h": 62446.8,
-   "l": 57661.1,
-   "v": 8704.42742403
+   "h": 62273.0,
+   "l": 55100.0,
+   "v": 11016.30102339
   },
   "ETH": {
-   "p": 1620.81,
+   "p": 1635.63,
    "o": 1619.32,
-   "h": 1764.5,
-   "l": 1577.65,
-   "v": 83464.00067881
+   "h": 1761.0,
+   "l": 1536.0,
+   "v": 95352.1359727
   },
   "SOL": {
-   "p": 68.75,
+   "p": 67.86,
    "o": 68.71,
-   "h": 73.22,
-   "l": 67.01,
-   "v": 579836.42278111
+   "h": 72.68,
+   "l": 64.79,
+   "v": 828715.7634758
   }
  },
  "change_7d": {
-  "BTC": -0.1371571481476273,
-  "ETH": -0.16081401734553258,
-  "SOL": -0.11301546391752573
+  "BTC": -0.13808539780278617,
+  "ETH": -0.1415984829677209,
+  "SOL": -0.10641127959563713
  },
  "sentiment": {
-  "score": 16.7,
+  "score": 18.1,
   "label": "Extreme fear",
   "components": {
    "fng": 12.0,
-   "momentum": 15.710712963093172,
-   "news_tone": 7.266666666666666,
-   "crowding": 38.5756095
+   "momentum": 15.47865054930346,
+   "news_tone": 18.9,
+   "crowding": 35.10143
   },
   "weights": {
    "fng": 0.35,
@@ -51,25 +51,25 @@
   "label": "Extreme Fear",
   "ts": 1795219200
  },
- "news_tone_24h": -2.564,
+ "news_tone_24h": -1.866,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.1105e-06,
-   "oi_usd": 2225739818.2381,
-   "premium": -0.0003857737
+   "funding_h": -3.0809e-06,
+   "oi_usd": 2128867822.3692598,
+   "premium": -0.0004431363
   },
   "ETH": {
-   "funding_h": -2.17308e-05,
-   "oi_usd": 962153494.4212002,
-   "premium": -0.0005540166
+   "funding_h": 2.805e-07,
+   "oi_usd": 972612722.2800608,
+   "premium": -0.0007138194
   },
   "SOL": {
-   "funding_h": -1.06794e-05,
-   "oi_usd": 295205556.6179999,
-   "premium": -0.0003773311
+   "funding_h": -3.80176e-05,
+   "oi_usd": 287198686.3120001,
+   "premium": -0.0006691176
   }
  },
- "items_24h": 112,
+ "items_24h": 96,
  "top_items": [
   {
    "id": "b43ad4565548cdb2",
@@ -86,6 +86,68 @@
    ],
    "author": "Donald Trump",
    "score": 4
+  },
+  {
+   "id": "d7d2be678beefa7c",
+   "ts": 1795229186,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Fact Sheet: President Donald J. Trump Protects the Executive’s Privileges and Enhances Efficiencies in Federal Contracting",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "db200dd6768a573c",
+   "ts": 1795228430,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Congressional Bills H.R. 5284, H.R. 8352, and H.R. 10159 Signed into Law",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-5284-h-r-8352-and-h-r-10159-signed-into-law/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "66c4dca518a09ec9",
+   "ts": 1795228298,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "NATIONAL ADOPTION MONTH, 2026",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "a201d50ff95f2be0",
+   "ts": 1795228265,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "PROTECTING THE EXECUTIVE’S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "2bde70caaf1d0148",
+   "ts": 1795225858,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "At Press Briefing, President Trump Touts Historic Wins for Americans, Signals Deal-Making on Healthcare",
+   "url": "https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
   },
   {
    "id": "402a6aa6529474b1",
@@ -166,75 +228,6 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
-  },
-  {
-   "id": "62496b2db1339ced",
-   "ts": 1795186800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "8cf63b9f3cc16148",
-   "ts": 1795184908,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
-   "domain": "SEC",
-   "org": "SEC",
-   "tags": [
-    "macro",
-    "regulation"
-   ]
-  },
-  {
-   "id": "5a2f925a88ecedd9",
-   "ts": 1795163400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Christine Lagarde: Acting in time",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "886ce809313ca7f3",
-   "ts": 1795140759,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History",
-   "url": "https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "3b9bb6f33db273bd",
-   "ts": 1795140000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Monetary and Economic Studies (2026)",
-   "url": "http://www.boj.or.jp/en/research/imes/mes/mes26.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -245,7 +238,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -257,7 +250,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 18
+   "n": 22
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
