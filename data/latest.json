@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-11-22T11:03:08Z",
- "generated_ts": 1795345388,
+ "generated_at": "2026-11-22T18:25:19Z",
+ "generated_ts": 1795371919,
  "prices": {
   "BTC": {
-   "p": 60788.4,
+   "p": 60589.5,
    "o": 60089.9,
-   "h": 61288.9,
-   "l": 57777.9,
-   "v": 3716.41835342
+   "h": 61590.0,
+   "l": 58649.8,
+   "v": 2962.50410969
   },
   "ETH": {
-   "p": 1708.33,
+   "p": 1710.64,
    "o": 1682.28,
-   "h": 1721.0,
-   "l": 1636.74,
-   "v": 30498.9015898
+   "h": 1729.87,
+   "l": 1645.0,
+   "v": 22868.0255459
   },
   "SOL": {
-   "p": 70.58,
+   "p": 70.18,
    "o": 70.17,
-   "h": 71.05,
-   "l": 67.9,
-   "v": 261738.17487754
+   "h": 71.29,
+   "l": 68.59,
+   "v": 186399.82562131
   }
  },
  "change_7d": {
-  "BTC": -0.07291006716446716,
-  "ETH": -0.06770363814175577,
-  "SOL": -0.022323904603438704
+  "BTC": -0.05869591461544583,
+  "ETH": -0.055735101090876975,
+  "SOL": -0.01610418708864293
  },
  "sentiment": {
-  "score": 25.0,
-  "label": "Fear",
+  "score": 24.8,
+  "label": "Extreme fear",
   "components": {
    "fng": 11.0,
-   "momentum": 31.772483208883212,
-   "news_tone": 17.1,
-   "crowding": 56.524521
+   "momentum": 35.326021346138546,
+   "crowding": 42.754677
   },
   "weights": {
    "fng": 0.35,
@@ -51,26 +50,111 @@
   "label": "Extreme Fear",
   "ts": 1795305600
  },
- "news_tone_24h": -1.974,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2349666281.00232,
-   "premium": -0.0002299757
+   "funding_h": -2.20016e-05,
+   "oi_usd": 2498633133.0222,
+   "premium": -0.0006657175
   },
   "ETH": {
-   "funding_h": -4.2827e-06,
-   "oi_usd": 1057041745.9100797,
-   "premium": -0.0006136941
+   "funding_h": -1.982e-06,
+   "oi_usd": 1056905649.6456298,
+   "premium": -0.0005836689
   },
   "SOL": {
-   "funding_h": 9.6581e-06,
-   "oi_usd": 286251991.2744,
-   "premium": -0.0004652478
+   "funding_h": 4.1334e-06,
+   "oi_usd": 286283882.41119605,
+   "premium": -0.0005548048
   }
  },
- "items_24h": 66,
+ "items_24h": 61,
  "top_items": [
+  {
+   "id": "9feff5e1a658d856",
+   "ts": 1795354901,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "It is going to be very hard for me to work with Chuck Schumer should he become Senate Majority Leader. He failed badly as \"Leader\" once before, one of the worst in history, and I have little doubt that he will fail again. All he did was perpetuate the Russia, Russia, Russia Hoax,",
+   "url": "https://truthsocial.com/@realDonaldTrump/117660378819768000",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 20366
+  },
+  {
+   "id": "2369948b3abeebd8",
+   "ts": 1795368020,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "The Market is down more than 6 Trillion Dollars since the Democrats' rather strange \"win\" on November 3rd. NASDAQ, by itself, is down 20%. This is 100% due to the fact that the Democrats are \"BAD\" due to their Anti Growth, and Retribution Only, Policies, and worse. If they don't ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117661238591305263",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro"
+   ],
+   "author": "Donald Trump",
+   "score": 5462
+  },
+  {
+   "id": "ca5b25772805951a",
+   "ts": 1795365000,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Anthropic record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale",
+   "url": "https://www.thepeterboroughexaminer.com/business/anthropic-s-record-ipo-raises-hopes-for-a-charitable-windfall-that-has-nonprofits-preparing-to-scale/article_78c9e17a-ac06-580e-aa33-d62353deb9ba.html",
+   "domain": "thepeterboroughexaminer.com",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "1b75374a8b461d34",
+   "ts": 1795357800,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "The future of onchain FX could start with users, not institutional liquidity",
+   "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": []
+  },
+  {
+   "id": "d85a97bebee80cc9",
+   "ts": 1795356062,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+   "url": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": []
+  },
+  {
+   "id": "ffae009bc0b11ae7",
+   "ts": 1795356000,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+   "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto",
+    "BTC"
+   ]
+  },
   {
    "id": "68ae3bc5cc307b06",
    "ts": 1795343400,
@@ -149,96 +233,17 @@
    "tags": [
     "geo"
    ]
-  },
-  {
-   "id": "d0ed339021d83127",
-   "ts": 1795343400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "NATO will defend every inch of Polish territory , Secretary General Mark Rutte said",
-   "url": "https://www.lbc.co.uk/article/nato-poland-ukraine-russia-5HjdnNY_2/",
-   "domain": "lbc.co.uk",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "fbf3e8fcc690f296",
-   "ts": 1795343400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Iran Attack Sets Fire at Civilian Industrial Facility in Bahrain",
-   "url": "https://www.khaama.com/iranian-strikes-spark-fire-at-industrial-site-in-bahrain/",
-   "domain": "khaama.com",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "c6b787d20f79bcb7",
-   "ts": 1795343400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Host S . Korea wins men relay gold on final day of Short Track World Tour",
-   "url": "https://www.koreaherald.com/article/10945212",
-   "domain": "koreaherald.com",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "a9566d35b33242d9",
-   "ts": 1795343400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Reform vows to ban foreign graduates who fail to make student loan repayments",
-   "url": "https://www.lbc.co.uk/article/reform-student-loans-5HjdnNb_2/",
-   "domain": "lbc.co.uk",
-   "tags": [
-    "regulation",
-    "geo"
-   ]
-  },
-  {
-   "id": "938076596bc86fa1",
-   "ts": 1795343400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Israeli opposition leader condemns suspected settler attacks as terrorism , and other Mideast news",
-   "url": "https://www.yakimaherald.com/news/nation_and_world/nation/israeli-opposition-leader-condemns-suspected-settler-attacks-as-terrorism-and-other-mideast-news/article_0530041d-b7be-5cd3-afaf-ac81ef03bc68.html",
-   "domain": "yakimaherald.com",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "07ef4f03ce939bee",
-   "ts": 1795343400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Saudi jets strike Houthi strongholds after fresh attacks on kingdom",
-   "url": "https://www.middle-east-online.com/en/saudi-jets-strike-houthi-strongholds-after-fresh-attacks-kingdom",
-   "domain": "middle-east-online.com",
-   "tags": [
-    "geo"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 22
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -307,7 +312,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 13
+   "n": 12
   },
   "Reddit r/CryptoCurrency": {
    "ok": false,
