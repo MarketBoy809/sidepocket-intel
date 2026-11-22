@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-22T02:58:26Z",
- "generated_ts": 1795316306,
+ "generated_at": "2026-11-22T11:03:08Z",
+ "generated_ts": 1795345388,
  "prices": {
   "BTC": {
-   "p": 59315.5,
+   "p": 60788.4,
    "o": 60089.9,
-   "h": 60883.4,
-   "l": 55100.0,
-   "v": 5817.66323068
+   "h": 61288.9,
+   "l": 57777.9,
+   "v": 3716.41835342
   },
   "ETH": {
-   "p": 1666.53,
+   "p": 1708.33,
    "o": 1682.28,
-   "h": 1715.84,
-   "l": 1536.0,
-   "v": 45831.70788864
+   "h": 1721.0,
+   "l": 1636.74,
+   "v": 30498.9015898
   },
   "SOL": {
-   "p": 69.35,
+   "p": 70.58,
    "o": 70.17,
    "h": 71.05,
-   "l": 64.79,
-   "v": 511904.8613491
+   "l": 67.9,
+   "v": 261738.17487754
   }
  },
  "change_7d": {
-  "BTC": -0.04139463321572189,
-  "ETH": -0.026950453028962703,
-  "SOL": 0.03510324483775826
+  "BTC": -0.07291006716446716,
+  "ETH": -0.06770363814175577,
+  "SOL": -0.022323904603438704
  },
  "sentiment": {
-  "score": 25.2,
+  "score": 25.0,
   "label": "Fear",
   "components": {
    "fng": 11.0,
-   "momentum": 39.65134169606953,
-   "news_tone": 22.483333333333334,
-   "crowding": 41.9618605
+   "momentum": 31.772483208883212,
+   "news_tone": 17.1,
+   "crowding": 56.524521
   },
   "weights": {
    "fng": 0.35,
@@ -51,183 +51,180 @@
   "label": "Extreme Fear",
   "ts": 1795305600
  },
- "news_tone_24h": -1.651,
+ "news_tone_24h": -1.974,
  "derivatives": {
   "BTC": {
-   "funding_h": -1.15623e-05,
-   "oi_usd": 2212848450.9670057,
-   "premium": -0.0005886409
+   "funding_h": 1.25e-05,
+   "oi_usd": 2349666281.00232,
+   "premium": -0.0002299757
   },
   "ETH": {
-   "funding_h": -1.1317e-06,
-   "oi_usd": 984500244.5335994,
-   "premium": -0.0004190613
+   "funding_h": -4.2827e-06,
+   "oi_usd": 1057041745.9100797,
+   "premium": -0.0006136941
   },
   "SOL": {
-   "funding_h": -9.3283e-06,
-   "oi_usd": 286758116.87743986,
-   "premium": -0.0006617277
+   "funding_h": 9.6581e-06,
+   "oi_usd": 286251991.2744,
+   "premium": -0.0004652478
   }
  },
- "items_24h": 45,
+ "items_24h": 66,
  "top_items": [
   {
-   "id": "c7343d59770d2b47",
-   "ts": 1795307400,
+   "id": "68ae3bc5cc307b06",
+   "ts": 1795343400,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Claude AI Predicts the Better Buy Under $1 for 2030 : XRP , Stellar or Hedera",
-   "url": "https://247wallst.com/investing/cryptocurrency/2026/11/21/claude-ai-predicts-the-better-buy-under-1-for-2030-xrp-stellar-or-hedera/",
+   "title": "AJA Newsbites – November 22 , 2026",
+   "url": "https://theasian.asia/archives/205628",
+   "domain": "theasian.asia",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "7bca5a614063e212",
+   "ts": 1795343400,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Stateline : National outages , emergency alerts become fodder for doomsday conspiracy theories",
+   "url": "https://www.magnoliareporter.com/news_and_business/regional_news/article_57b1e6f0-973a-47b4-9572-2e108479bbab.html",
+   "domain": "magnoliareporter.com",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "id": "5547e99df1fcb061",
+   "ts": 1795343400,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "If Youre A Millionaire Youre Broke . Grant Cardone Says A Million Dollars Was A Lot Of Money In 1960 , But Not Anymore . Here What It Really Takes To Be Rich",
+   "url": "https://247wallst.com/personal-finance/2026/11/22/if-youre-a-millionaire-youre-broke-grant-cardone-says-a-million-dollars-was-a-lot-of-money-in-1960-but-not-anymore-heres-what-it-really-takes-to-be-rich/",
    "domain": "247wallst.com",
    "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "c85f693bd4d6c25c",
-   "ts": 1795307400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Trump makes late - day move seen as ploy to kneecap Dem looming probes",
-   "url": "https://www.rawstory.com/trump-2678486613/",
-   "domain": "rawstory.com",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "19983e76cb391b51",
-   "ts": 1795293000,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "President Donald Trump cites India growth , slams US high interest rates",
-   "url": "https://www.tribuneindia.com/news/india/president-donald-trump-cites-indias-growth-slams-us-high-interest-rates/",
-   "domain": "tribuneindia.com",
-   "tags": [
     "macro",
     "geo"
    ]
   },
   {
-   "id": "74b68336a2a6d559",
-   "ts": 1795293000,
+   "id": "58a673bd06b2d0f5",
+   "ts": 1795343400,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Trump pledges to work with Democrats to cap credit card interest rates",
-   "url": "https://www.fox5ny.com/money/trump-pledges-work-democrats-cap-credit-card-interest-rates",
-   "domain": "fox5ny.com",
-   "tags": [
-    "macro",
-    "geo"
-   ]
-  },
-  {
-   "id": "bfeba24fbb88999a",
-   "ts": 1795293000,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Trump vows to work with Democrats to cap credit card interest rates at 10 %",
-   "url": "http://www.dailyadvance.com/news/national/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10/article_b94a5afd-12a7-5515-bdee-8015538a1e11.html",
-   "domain": "dailyadvance.com",
-   "tags": [
-    "macro",
-    "geo"
-   ]
-  },
-  {
-   "id": "9d234fb9cbe331c1",
-   "ts": 1795293000,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Trump vows to work with Democrats to cap credit card interest rates at 10 %",
-   "url": "https://www.thepeterboroughexaminer.com/business/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10/article_3b2f854b-4297-5805-8180-4ad5228de423.html",
-   "domain": "thepeterboroughexaminer.com",
-   "tags": [
-    "macro",
-    "geo"
-   ]
-  },
-  {
-   "id": "4c056e09ba7cf0ad",
-   "ts": 1795293000,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Trump wants to work with Democrats to cap credit card interest rates",
-   "url": "https://www.wdbo.com/news/business/trump-vows-work-with/ETUSCQV3HU46TFCRSXIB6C2VAQ/",
-   "domain": "wdbo.com",
-   "tags": [
-    "macro",
-    "geo"
-   ]
-  },
-  {
-   "id": "c9473e8762fc306c",
-   "ts": 1795293000,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "A 10 % drop for the stock market is unnerving , but it not that unusual",
-   "url": "https://www.kob.com/ap-top-news/a-10-drop-for-the-stock-market-is-unnerving-but-its-not-that-unusual/",
-   "domain": "kob.com",
+   "title": "Israeli strike puts spotlight on hazards facing Gaza relief efforts",
+   "url": "https://www.middle-east-online.com/en/israeli-strike-puts-spotlight-hazards-facing-gaza-relief-efforts",
+   "domain": "middle-east-online.com",
    "tags": [
     "geo"
    ]
   },
   {
-   "id": "3d43a2454a2d5556",
-   "ts": 1795293000,
+   "id": "73a83b2bc3fbe8ba",
+   "ts": 1795343400,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Iran strikes tankers and Israeli hit on food truck in Gaza kills 3",
-   "url": "https://www.wdbo.com/news/world/iran-strikes-3/5DOQKPG6KUZP3LICC6KBHJWPF4/",
-   "domain": "wdbo.com",
+   "title": "Arab News | Israel investigates West Bank fires blamed on settlers",
+   "url": "https://www.arabnews.com/middle-east/israel-investigates-west-bank-fires-blamed-on-settlers-3013496",
+   "domain": "arabnews.com",
    "tags": [
     "geo"
    ]
   },
   {
-   "id": "f6b23ff358418f74",
-   "ts": 1795293000,
+   "id": "c7f8df617fcc3e2b",
+   "ts": 1795343400,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Poland failure to call Putin bluff exposes Nato fragility",
-   "url": "https://www.telegraph.co.uk/world-news/2026/11/21/polands-failure-to-call-putins-bluff-exposes-nato-fragility/",
-   "domain": "telegraph.co.uk",
+   "title": "Israeli opposition leader condemns suspected settler attacks as terrorism , and other Mideast news",
+   "url": "https://www.clickorlando.com/news/world/2026/11/22/israeli-opposition-leader-condemns-suspected-settler-attacks-as-terrorism-and-other-mideast-news/",
+   "domain": "clickorlando.com",
    "tags": [
     "geo"
    ]
   },
   {
-   "id": "c1974fc000a5c373",
-   "ts": 1795293000,
+   "id": "d0ed339021d83127",
+   "ts": 1795343400,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Fawning MAGA Senator Mike Lee Puts Wild Spin on Trump China Summit Putin Bromance",
-   "url": "https://www.thedailybeast.com/fawning-maga-senator-mike-lee-puts-wild-spin-on-trumps-china-summit-putin-bromance",
-   "domain": "thedailybeast.com",
+   "title": "NATO will defend every inch of Polish territory , Secretary General Mark Rutte said",
+   "url": "https://www.lbc.co.uk/article/nato-poland-ukraine-russia-5HjdnNY_2/",
+   "domain": "lbc.co.uk",
    "tags": [
     "geo"
    ]
   },
   {
-   "id": "a628fd2cedc1041b",
-   "ts": 1795293000,
+   "id": "fbf3e8fcc690f296",
+   "ts": 1795343400,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Wes Streeting : Zelensky is our generation Churchill",
-   "url": "https://www.telegraph.co.uk/world-news/2026/11/21/streeting-zelensky-is-our-generations-churchill/",
-   "domain": "telegraph.co.uk",
+   "title": "Iran Attack Sets Fire at Civilian Industrial Facility in Bahrain",
+   "url": "https://www.khaama.com/iranian-strikes-spark-fire-at-industrial-site-in-bahrain/",
+   "domain": "khaama.com",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
+   "id": "c6b787d20f79bcb7",
+   "ts": 1795343400,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Host S . Korea wins men relay gold on final day of Short Track World Tour",
+   "url": "https://www.koreaherald.com/article/10945212",
+   "domain": "koreaherald.com",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
+   "id": "a9566d35b33242d9",
+   "ts": 1795343400,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Reform vows to ban foreign graduates who fail to make student loan repayments",
+   "url": "https://www.lbc.co.uk/article/reform-student-loans-5HjdnNb_2/",
+   "domain": "lbc.co.uk",
+   "tags": [
+    "regulation",
+    "geo"
+   ]
+  },
+  {
+   "id": "938076596bc86fa1",
+   "ts": 1795343400,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Israeli opposition leader condemns suspected settler attacks as terrorism , and other Mideast news",
+   "url": "https://www.yakimaherald.com/news/nation_and_world/nation/israeli-opposition-leader-condemns-suspected-settler-attacks-as-terrorism-and-other-mideast-news/article_0530041d-b7be-5cd3-afaf-ac81ef03bc68.html",
+   "domain": "yakimaherald.com",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
+   "id": "07ef4f03ce939bee",
+   "ts": 1795343400,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Saudi jets strike Houthi strongholds after fresh attacks on kingdom",
+   "url": "https://www.middle-east-online.com/en/saudi-jets-strike-houthi-strongholds-after-fresh-attacks-kingdom",
+   "domain": "middle-east-online.com",
    "tags": [
     "geo"
    ]
@@ -237,11 +234,11 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 2
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 22
   },
   "News: governments (GDELT)": {
    "ok": true,
