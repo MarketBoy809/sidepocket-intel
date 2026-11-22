@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-11-21T23:02:05Z",
- "generated_ts": 1795302125,
+ "generated_at": "2026-11-22T02:58:26Z",
+ "generated_ts": 1795316306,
  "prices": {
   "BTC": {
-   "p": 59972.4,
-   "o": 58806.4,
+   "p": 59315.5,
+   "o": 60089.9,
    "h": 60883.4,
    "l": 55100.0,
-   "v": 5945.20427348
+   "v": 5817.66323068
   },
   "ETH": {
-   "p": 1675.67,
-   "o": 1619.32,
+   "p": 1666.53,
+   "o": 1682.28,
    "h": 1715.84,
    "l": 1536.0,
-   "v": 47224.63334064
+   "v": 45831.70788864
   },
   "SOL": {
-   "p": 70.07,
-   "o": 68.71,
+   "p": 69.35,
+   "o": 70.17,
    "h": 71.05,
    "l": 64.79,
-   "v": 525549.14446471
+   "v": 511904.8613491
   }
  },
  "change_7d": {
-  "BTC": -0.05465957949444839,
-  "ETH": -0.038158966066902875,
-  "SOL": 0.014327062228654257
+  "BTC": -0.04139463321572189,
+  "ETH": -0.026950453028962703,
+  "SOL": 0.03510324483775826
  },
  "sentiment": {
-  "score": 24.2,
-  "label": "Extreme fear",
+  "score": 25.2,
+  "label": "Fear",
   "components": {
-   "fng": 12.0,
-   "momentum": 36.3351051263879,
-   "crowding": 36.271547
+   "fng": 11.0,
+   "momentum": 39.65134169606953,
+   "news_tone": 22.483333333333334,
+   "crowding": 41.9618605
   },
   "weights": {
    "fng": 0.35,
@@ -46,91 +47,55 @@
   }
  },
  "fear_greed": {
-  "value": 12,
+  "value": 11,
   "label": "Extreme Fear",
-  "ts": 1795219200
+  "ts": 1795305600
  },
- "news_tone_24h": null,
+ "news_tone_24h": -1.651,
  "derivatives": {
   "BTC": {
-   "funding_h": -1.48335e-05,
-   "oi_usd": 2229933504.6384,
-   "premium": -0.0005324193
+   "funding_h": -1.15623e-05,
+   "oi_usd": 2212848450.9670057,
+   "premium": -0.0005886409
   },
   "ETH": {
-   "funding_h": -2.37475e-05,
-   "oi_usd": 1043251704.3918053,
-   "premium": -0.0006431711
+   "funding_h": -1.1317e-06,
+   "oi_usd": 984500244.5335994,
+   "premium": -0.0004190613
   },
   "SOL": {
-   "funding_h": 9.688e-07,
-   "oi_usd": 291066665.99348,
-   "premium": -0.0004044875
+   "funding_h": -9.3283e-06,
+   "oi_usd": 286758116.87743986,
+   "premium": -0.0006617277
   }
  },
- "items_24h": 88,
+ "items_24h": 45,
  "top_items": [
   {
-   "id": "d7d2be678beefa7c",
-   "ts": 1795229186,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Fact Sheet: President Donald J. Trump Protects the Executive’s Privileges and Enhances Efficiencies in Federal Contracting",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "db200dd6768a573c",
-   "ts": 1795228430,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Congressional Bills H.R. 5284, H.R. 8352, and H.R. 10159 Signed into Law",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-5284-h-r-8352-and-h-r-10159-signed-into-law/",
-   "domain": "White House",
-   "org": "White House",
+   "id": "c7343d59770d2b47",
+   "ts": 1795307400,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Claude AI Predicts the Better Buy Under $1 for 2030 : XRP , Stellar or Hedera",
+   "url": "https://247wallst.com/investing/cryptocurrency/2026/11/21/claude-ai-predicts-the-better-buy-under-1-for-2030-xrp-stellar-or-hedera/",
+   "domain": "247wallst.com",
    "tags": [
-    "regulation"
+    "crypto"
    ]
   },
   {
-   "id": "66c4dca518a09ec9",
-   "ts": 1795228298,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "NATIONAL ADOPTION MONTH, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "a201d50ff95f2be0",
-   "ts": 1795228265,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "PROTECTING THE EXECUTIVE’S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "2bde70caaf1d0148",
-   "ts": 1795225858,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "At Press Briefing, President Trump Touts Historic Wins for Americans, Signals Deal-Making on Healthcare",
-   "url": "https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
+   "id": "c85f693bd4d6c25c",
+   "ts": 1795307400,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Trump makes late - day move seen as ploy to kneecap Dem looming probes",
+   "url": "https://www.rawstory.com/trump-2678486613/",
+   "domain": "rawstory.com",
+   "tags": [
+    "crypto"
+   ]
   },
   {
    "id": "19983e76cb391b51",
@@ -227,17 +192,56 @@
    "tags": [
     "geo"
    ]
+  },
+  {
+   "id": "f6b23ff358418f74",
+   "ts": 1795293000,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Poland failure to call Putin bluff exposes Nato fragility",
+   "url": "https://www.telegraph.co.uk/world-news/2026/11/21/polands-failure-to-call-putins-bluff-exposes-nato-fragility/",
+   "domain": "telegraph.co.uk",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
+   "id": "c1974fc000a5c373",
+   "ts": 1795293000,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Fawning MAGA Senator Mike Lee Puts Wild Spin on Trump China Summit Putin Bromance",
+   "url": "https://www.thedailybeast.com/fawning-maga-senator-mike-lee-puts-wild-spin-on-trumps-china-summit-putin-bromance",
+   "domain": "thedailybeast.com",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
+   "id": "a628fd2cedc1041b",
+   "ts": 1795293000,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Wes Streeting : Zelensky is our generation Churchill",
+   "url": "https://www.telegraph.co.uk/world-news/2026/11/21/streeting-zelensky-is-our-generations-churchill/",
+   "domain": "telegraph.co.uk",
+   "tags": [
+    "geo"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 2
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 26
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -306,7 +310,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 14
+   "n": 13
   },
   "Reddit r/CryptoCurrency": {
    "ok": false,
