@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-22T18:25:19Z",
- "generated_ts": 1795371919,
+ "generated_at": "2026-11-23T00:10:24Z",
+ "generated_ts": 1795392624,
  "prices": {
   "BTC": {
-   "p": 60589.5,
-   "o": 60089.9,
+   "p": 61076.9,
+   "o": 61170.1,
    "h": 61590.0,
    "l": 58649.8,
-   "v": 2962.50410969
+   "v": 2975.09429736
   },
   "ETH": {
-   "p": 1710.64,
-   "o": 1682.28,
+   "p": 1720.79,
+   "o": 1721.61,
    "h": 1729.87,
    "l": 1645.0,
-   "v": 22868.0255459
+   "v": 25238.69531118
   },
   "SOL": {
-   "p": 70.18,
-   "o": 70.17,
+   "p": 70.52,
+   "o": 70.63,
    "h": 71.29,
    "l": 68.59,
-   "v": 186399.82562131
+   "v": 189614.92797518
   }
  },
  "change_7d": {
-  "BTC": -0.05869591461544583,
-  "ETH": -0.055735101090876975,
-  "SOL": -0.01610418708864293
+  "BTC": -0.06357372348153989,
+  "ETH": -0.06173209632932506,
+  "SOL": -0.029148906915990713
  },
  "sentiment": {
-  "score": 24.8,
-  "label": "Extreme fear",
+  "score": 27.8,
+  "label": "Fear",
   "components": {
    "fng": 11.0,
-   "momentum": 35.326021346138546,
-   "crowding": 42.754677
+   "momentum": 34.106569129615025,
+   "crowding": 58.769271
   },
   "weights": {
    "fng": 0.35,
@@ -48,27 +48,27 @@
  "fear_greed": {
   "value": 11,
   "label": "Extreme Fear",
-  "ts": 1795305600
+  "ts": 1795392000
  },
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": -2.20016e-05,
-   "oi_usd": 2498633133.0222,
-   "premium": -0.0006657175
+   "funding_h": 1.25e-05,
+   "oi_usd": 2372041995.3400803,
+   "premium": -0.0005721011
   },
   "ETH": {
-   "funding_h": -1.982e-06,
-   "oi_usd": 1056905649.6456298,
-   "premium": -0.0005836689
+   "funding_h": -9.746e-07,
+   "oi_usd": 1062556974.3650402,
+   "premium": -0.0007542791
   },
   "SOL": {
-   "funding_h": 4.1334e-06,
-   "oi_usd": 286283882.41119605,
-   "premium": -0.0005548048
+   "funding_h": 1.25e-05,
+   "oi_usd": 289724708.15996397,
+   "premium": -0.0006115082
   }
  },
- "items_24h": 61,
+ "items_24h": 38,
  "top_items": [
   {
    "id": "9feff5e1a658d856",
@@ -88,6 +88,22 @@
    "score": 20366
   },
   {
+   "id": "f0a1357fe61e69f1",
+   "ts": 1795384066,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "As everyone remembers, I predicted two things concerning the November 3rd Midterm Elections. One, that if the Democrats win, the Stock Markets would go down, substantially, which they have, and two, that the Islamic Republic of Iran, which has killed 81,000 protestors as of today",
+   "url": "https://truthsocial.com/@realDonaldTrump/117662290160182921",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 11388
+  },
+  {
    "id": "2369948b3abeebd8",
    "ts": 1795368020,
    "source": "truth",
@@ -102,6 +118,35 @@
    ],
    "author": "Donald Trump",
    "score": 5462
+  },
+  {
+   "id": "26b5743fab646cbd",
+   "ts": 1795387629,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+   "url": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": [
+    "crypto",
+    "BTC"
+   ]
+  },
+  {
+   "id": "940e55205b44222d",
+   "ts": 1795375800,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "More on the pending oversight hearings: State of Crypto",
+   "url": "https://www.coindesk.com/",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto"
+   ]
   },
   {
    "id": "ca5b25772805951a",
@@ -194,52 +239,13 @@
     "macro",
     "geo"
    ]
-  },
-  {
-   "id": "58a673bd06b2d0f5",
-   "ts": 1795343400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Israeli strike puts spotlight on hazards facing Gaza relief efforts",
-   "url": "https://www.middle-east-online.com/en/israeli-strike-puts-spotlight-hazards-facing-gaza-relief-efforts",
-   "domain": "middle-east-online.com",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "73a83b2bc3fbe8ba",
-   "ts": 1795343400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Arab News | Israel investigates West Bank fires blamed on settlers",
-   "url": "https://www.arabnews.com/middle-east/israel-investigates-west-bank-fires-blamed-on-settlers-3013496",
-   "domain": "arabnews.com",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "c7f8df617fcc3e2b",
-   "ts": 1795343400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Israeli opposition leader condemns suspected settler attacks as terrorism , and other Mideast news",
-   "url": "https://www.clickorlando.com/news/world/2026/11/22/israeli-opposition-leader-condemns-suspected-settler-attacks-as-terrorism-and-other-mideast-news/",
-   "domain": "clickorlando.com",
-   "tags": [
-    "geo"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -255,7 +261,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 22
+   "n": 21
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
