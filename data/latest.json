@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-23T00:10:24Z",
- "generated_ts": 1795392624,
+ "generated_at": "2026-11-23T08:53:05Z",
+ "generated_ts": 1795423985,
  "prices": {
   "BTC": {
-   "p": 61076.9,
+   "p": 61451.2,
    "o": 61170.1,
-   "h": 61590.0,
-   "l": 58649.8,
-   "v": 2975.09429736
+   "h": 61886.1,
+   "l": 59570.3,
+   "v": 3088.45031245
   },
   "ETH": {
-   "p": 1720.79,
+   "p": 1723.27,
    "o": 1721.61,
-   "h": 1729.87,
-   "l": 1645.0,
-   "v": 25238.69531118
+   "h": 1749.84,
+   "l": 1680.14,
+   "v": 26737.83182104
   },
   "SOL": {
-   "p": 70.52,
+   "p": 72.46,
    "o": 70.63,
-   "h": 71.29,
-   "l": 68.59,
-   "v": 189614.92797518
+   "h": 72.48,
+   "l": 69.54,
+   "v": 177480.91456135
   }
  },
  "change_7d": {
-  "BTC": -0.06357372348153989,
-  "ETH": -0.06173209632932506,
-  "SOL": -0.029148906915990713
+  "BTC": -0.05461519609995096,
+  "ETH": -0.0546777535351759,
+  "SOL": 0.008834665544804311
  },
  "sentiment": {
-  "score": 27.8,
+  "score": 27.5,
   "label": "Fear",
   "components": {
    "fng": 11.0,
-   "momentum": 34.106569129615025,
-   "crowding": 58.769271
+   "momentum": 36.34620097501226,
+   "crowding": 54.214071
   },
   "weights": {
    "fng": 0.35,
@@ -54,21 +54,21 @@
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2372041995.3400803,
-   "premium": -0.0005721011
+   "oi_usd": 2287706582.1246,
+   "premium": -0.0003591621
   },
   "ETH": {
-   "funding_h": -9.746e-07,
-   "oi_usd": 1062556974.3650402,
-   "premium": -0.0007542791
+   "funding_h": -8.2058e-06,
+   "oi_usd": 1051130845.19304,
+   "premium": -0.0006954103
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 289724708.15996397,
-   "premium": -0.0006115082
+   "funding_h": 7.2512e-06,
+   "oi_usd": 298964899.33092004,
+   "premium": -0.000312823
   }
  },
- "items_24h": 38,
+ "items_24h": 43,
  "top_items": [
   {
    "id": "9feff5e1a658d856",
@@ -120,13 +120,13 @@
    "score": 5462
   },
   {
-   "id": "26b5743fab646cbd",
-   "ts": 1795387629,
+   "id": "33e3401a3d35765a",
+   "ts": 1795421332,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
-   "url": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
+   "url": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "domain": "Cointelegraph",
    "org": "Cointelegraph",
    "tags": [
@@ -135,13 +135,13 @@
    ]
   },
   {
-   "id": "940e55205b44222d",
-   "ts": 1795375800,
+   "id": "2333dbd93adf9c22",
+   "ts": 1795419930,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "More on the pending oversight hearings: State of Crypto",
-   "url": "https://www.coindesk.com/",
+   "title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds",
+   "url": "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows",
    "domain": "CoinDesk",
    "org": "CoinDesk",
    "tags": [
@@ -149,96 +149,101 @@
    ]
   },
   {
-   "id": "ca5b25772805951a",
-   "ts": 1795365000,
+   "id": "96a01e753b2cad6f",
+   "ts": 1795418325,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Anthropic record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale",
-   "url": "https://www.thepeterboroughexaminer.com/business/anthropic-s-record-ipo-raises-hopes-for-a-charitable-windfall-that-has-nonprofits-preparing-to-scale/article_78c9e17a-ac06-580e-aa33-d62353deb9ba.html",
-   "domain": "thepeterboroughexaminer.com",
+   "title": "This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack",
+   "url": "https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
    "tags": [
-    "crypto"
+    "crypto",
+    "macro",
+    "BTC"
    ]
   },
   {
-   "id": "1b75374a8b461d34",
-   "ts": 1795357800,
+   "id": "42a8c67d6cb6c274",
+   "ts": 1795414545,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "The future of onchain FX could start with users, not institutional liquidity",
-   "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "title": "Cardano holders are turning down a $4 million request for running its flagship event",
+   "url": "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": []
+  },
+  {
+   "id": "c58553137769158e",
+   "ts": 1795412542,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
+   "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "crypto",
+    "macro",
+    "BTC"
+   ]
+  },
+  {
+   "id": "42cbb903b4e07ff9",
+   "ts": 1795409147,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Market rout kills 50 basis points December Fed rate hike bets",
+   "url": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+   "domain": "CoinDesk",
+   "org": "CoinDesk",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "b9793a0aebbebee4",
+   "ts": 1795405040,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
+   "url": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "domain": "Cointelegraph",
    "org": "Cointelegraph",
    "tags": []
   },
   {
-   "id": "d85a97bebee80cc9",
-   "ts": 1795356062,
+   "id": "1a788f4a59dffce3",
+   "ts": 1795402059,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
-   "url": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": []
-  },
-  {
-   "id": "ffae009bc0b11ae7",
-   "ts": 1795356000,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
-   "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto",
-    "BTC"
-   ]
-  },
-  {
-   "id": "68ae3bc5cc307b06",
-   "ts": 1795343400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "AJA Newsbites – November 22 , 2026",
-   "url": "https://theasian.asia/archives/205628",
-   "domain": "theasian.asia",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "7bca5a614063e212",
-   "ts": 1795343400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Stateline : National outages , emergency alerts become fodder for doomsday conspiracy theories",
-   "url": "https://www.magnoliareporter.com/news_and_business/regional_news/article_57b1e6f0-973a-47b4-9572-2e108479bbab.html",
-   "domain": "magnoliareporter.com",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "5547e99df1fcb061",
-   "ts": 1795343400,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "If Youre A Millionaire Youre Broke . Grant Cardone Says A Million Dollars Was A Lot Of Money In 1960 , But Not Anymore . Here What It Really Takes To Be Rich",
-   "url": "https://247wallst.com/personal-finance/2026/11/22/if-youre-a-millionaire-youre-broke-grant-cardone-says-a-million-dollars-was-a-lot-of-money-in-1960-but-not-anymore-heres-what-it-really-takes-to-be-rich/",
-   "domain": "247wallst.com",
+   "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
+   "url": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": [
     "macro",
-    "geo"
+    "regulation"
    ]
+  },
+  {
+   "id": "e4018151ab059f07",
+   "ts": 1795395229,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+   "url": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -282,7 +287,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 6
+   "n": 5
   },
   "Bank of England": {
    "ok": true,
@@ -290,7 +295,7 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 7
+   "n": 4
   },
   "BIS": {
    "ok": true,
@@ -318,7 +323,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 12
+   "n": 11
   },
   "Reddit r/CryptoCurrency": {
    "ok": false,
