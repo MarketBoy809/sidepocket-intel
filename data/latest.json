@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-11-23T08:53:05Z",
- "generated_ts": 1795423985,
+ "generated_at": "2026-11-23T21:11:40Z",
+ "generated_ts": 1795468300,
  "prices": {
   "BTC": {
-   "p": 61451.2,
+   "p": 61268.8,
    "o": 61170.1,
-   "h": 61886.1,
-   "l": 59570.3,
-   "v": 3088.45031245
+   "h": 64520.3,
+   "l": 60267.6,
+   "v": 5746.01257515
   },
   "ETH": {
-   "p": 1723.27,
+   "p": 1723.34,
    "o": 1721.61,
-   "h": 1749.84,
-   "l": 1680.14,
-   "v": 26737.83182104
+   "h": 1843.93,
+   "l": 1693.91,
+   "v": 46634.66940353
   },
   "SOL": {
-   "p": 72.46,
+   "p": 72.8,
    "o": 70.63,
-   "h": 72.48,
-   "l": 69.54,
-   "v": 177480.91456135
+   "h": 78.48,
+   "l": 69.78,
+   "v": 377730.56115842
   }
  },
  "change_7d": {
-  "BTC": -0.05461519609995096,
-  "ETH": -0.0546777535351759,
-  "SOL": 0.008834665544804311
+  "BTC": -0.05901197297112689,
+  "ETH": -0.05313624749292514,
+  "SOL": 0.019481429572529792
  },
  "sentiment": {
-  "score": 27.5,
-  "label": "Fear",
+  "score": 23.7,
+  "label": "Extreme fear",
   "components": {
    "fng": 11.0,
-   "momentum": 36.34620097501226,
-   "crowding": 54.214071
+   "momentum": 35.24700675721828,
+   "news_tone": 11.466666666666669,
+   "crowding": 50.4123405
   },
   "weights": {
    "fng": 0.35,
@@ -50,43 +51,26 @@
   "label": "Extreme Fear",
   "ts": 1795392000
  },
- "news_tone_24h": null,
+ "news_tone_24h": -2.312,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2287706582.1246,
-   "premium": -0.0003591621
+   "oi_usd": 2281706744.49222,
+   "premium": -4.8908e-06
   },
   "ETH": {
-   "funding_h": -8.2058e-06,
-   "oi_usd": 1051130845.19304,
-   "premium": -0.0006954103
+   "funding_h": -8.1759e-06,
+   "oi_usd": 1045474825.2011061,
+   "premium": -0.0005041812
   },
   "SOL": {
-   "funding_h": 7.2512e-06,
-   "oi_usd": 298964899.33092004,
-   "premium": -0.000312823
+   "funding_h": -3.1944e-06,
+   "oi_usd": 304678956.7247401,
+   "premium": -0.0004500536
   }
  },
- "items_24h": 43,
+ "items_24h": 67,
  "top_items": [
-  {
-   "id": "9feff5e1a658d856",
-   "ts": 1795354901,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It is going to be very hard for me to work with Chuck Schumer should he become Senate Majority Leader. He failed badly as \"Leader\" once before, one of the worst in history, and I have little doubt that he will fail again. All he did was perpetuate the Russia, Russia, Russia Hoax,",
-   "url": "https://truthsocial.com/@realDonaldTrump/117660378819768000",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 20366
-  },
   {
    "id": "f0a1357fe61e69f1",
    "ts": 1795384066,
@@ -104,145 +88,154 @@
    "score": 11388
   },
   {
-   "id": "2369948b3abeebd8",
-   "ts": 1795368020,
-   "source": "truth",
+   "id": "6d1ee2675b209aad",
+   "ts": 1795461612,
+   "source": "government",
    "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "The Market is down more than 6 Trillion Dollars since the Democrats' rather strange \"win\" on November 3rd. NASDAQ, by itself, is down 20%. This is 100% due to the fact that the Democrats are \"BAD\" due to their Anti Growth, and Retribution Only, Policies, and worse. If they don't ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117661238591305263",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro"
-   ],
-   "author": "Donald Trump",
-   "score": 5462
-  },
-  {
-   "id": "33e3401a3d35765a",
-   "ts": 1795421332,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
-   "url": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto",
-    "BTC"
-   ]
-  },
-  {
-   "id": "2333dbd93adf9c22",
-   "ts": 1795419930,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds",
-   "url": "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto"
-   ]
-  },
-  {
-   "id": "96a01e753b2cad6f",
-   "ts": 1795418325,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack",
-   "url": "https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "crypto",
-    "macro",
-    "BTC"
-   ]
-  },
-  {
-   "id": "42a8c67d6cb6c274",
-   "ts": 1795414545,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Cardano holders are turning down a $4 million request for running its flagship event",
-   "url": "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
+   "kind": "official",
+   "title": "First Lady Melania Trump Hails America’s Armed Forces",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces/",
+   "domain": "White House",
+   "org": "White House",
    "tags": []
   },
   {
-   "id": "c58553137769158e",
-   "ts": 1795412542,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
-   "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
+   "id": "0ba2230e1b218543",
+   "ts": 1795450291,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "ICYMI: “White House Convenes Elite Team To Prevent Air Traffic Outages Ahead Of Thanksgiving”",
+   "url": "https://www.whitehouse.gov/releases/2026/11/icymi-white-house-convenes-elite-team-to-prevent-air-traffic-outages-ahead-of-thanksgiving/",
+   "domain": "White House",
+   "org": "White House",
    "tags": [
-    "crypto",
-    "macro",
-    "BTC"
-   ]
-  },
-  {
-   "id": "42cbb903b4e07ff9",
-   "ts": 1795409147,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Market rout kills 50 basis points December Fed rate hike bets",
-   "url": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
-   "domain": "CoinDesk",
-   "org": "CoinDesk",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "b9793a0aebbebee4",
-   "ts": 1795405040,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
-   "url": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": []
-  },
-  {
-   "id": "1a788f4a59dffce3",
-   "ts": 1795402059,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
-   "url": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "macro",
     "regulation"
    ]
   },
   {
-   "id": "e4018151ab059f07",
-   "ts": 1795395229,
+   "id": "3f27ba3adc748ae5",
+   "ts": 1795445238,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Voting Begins for the 2026 National Thanksgiving Turkey Pardon Ceremony",
+   "url": "https://www.whitehouse.gov/releases/2026/11/voting-begins-for-the-2026-national-thanksgiving-turkey-pardon-ceremony/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "dd6e64bcc52a4d8f",
+   "ts": 1795444200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Philip R. Lane: Climate change and monetary policy",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "ed4867bf921c0113",
+   "ts": 1795438814,
+   "source": "institution",
+   "group": "institution",
+   "kind": "official",
+   "title": "8-K - Current report",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526470961/0001193125-26-470961-index.htm",
+   "domain": "Strategy (MSTR) filings",
+   "org": "Strategy (MSTR) filings",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "97aff51dc2964393",
+   "ts": 1795428000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "1c4013d2aca828ae",
+   "ts": 1795428000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "General insurance stress test highlights value of rehearsing crisis response and recovery",
+   "url": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "17bae0dcc0a1c3ed",
+   "ts": 1795467843,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
-   "url": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+   "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "domain": "Cointelegraph",
    "org": "Cointelegraph",
+   "tags": [
+    "crypto",
+    "geo"
+   ]
+  },
+  {
+   "id": "df182038457b21ff",
+   "ts": 1795466323,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Kalshi secures temporary win in New York gambling law dispute",
+   "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "038e1bdcf9547095",
+   "ts": 1795466162,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+   "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": [
+    "crypto",
+    "geo",
+    "BTC"
+   ]
+  },
+  {
+   "id": "6a68dd0a89c6be57",
+   "ts": 1795463841,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Why Nvidia Needed Jensen Huang Back—And What His Return Really Changes",
+   "url": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
+   "domain": "Decrypt",
+   "org": "Decrypt",
    "tags": []
   }
  ],
@@ -287,11 +280,11 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "Bank of England": {
    "ok": true,
-   "n": 2
+   "n": 3
   },
   "Bank of Japan": {
    "ok": true,
@@ -323,7 +316,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 11
+   "n": 10
   },
   "Reddit r/CryptoCurrency": {
    "ok": false,
