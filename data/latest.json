@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-11-23T21:11:40Z",
- "generated_ts": 1795468300,
+ "generated_at": "2026-11-24T05:53:46Z",
+ "generated_ts": 1795499626,
  "prices": {
   "BTC": {
-   "p": 61268.8,
-   "o": 61170.1,
+   "p": 60564.5,
+   "o": 61199.3,
    "h": 64520.3,
-   "l": 60267.6,
-   "v": 5746.01257515
+   "l": 59362.8,
+   "v": 5827.00907858
   },
   "ETH": {
-   "p": 1723.34,
-   "o": 1721.61,
+   "p": 1705.54,
+   "o": 1708.2,
    "h": 1843.93,
-   "l": 1693.91,
-   "v": 46634.66940353
+   "l": 1667.9,
+   "v": 47475.91378816
   },
   "SOL": {
-   "p": 72.8,
-   "o": 70.63,
+   "p": 71.74,
+   "o": 71.93,
    "h": 78.48,
-   "l": 69.78,
-   "v": 377730.56115842
+   "l": 70.05,
+   "v": 429891.63659583
   }
  },
  "change_7d": {
-  "BTC": -0.05901197297112689,
-  "ETH": -0.05313624749292514,
-  "SOL": 0.019481429572529792
+  "BTC": -0.07199518263409149,
+  "ETH": -0.07379709480872974,
+  "SOL": -0.020830478278744635
  },
  "sentiment": {
-  "score": 23.7,
-  "label": "Extreme fear",
+  "score": 27.3,
+  "label": "Fear",
   "components": {
    "fng": 11.0,
-   "momentum": 35.24700675721828,
-   "news_tone": 11.466666666666669,
-   "crowding": 50.4123405
+   "momentum": 32.00120434147713,
+   "crowding": 59.2887025
   },
   "weights": {
    "fng": 0.35,
@@ -49,43 +48,120 @@
  "fear_greed": {
   "value": 11,
   "label": "Extreme Fear",
-  "ts": 1795392000
+  "ts": 1795478400
  },
- "news_tone_24h": -2.312,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
    "funding_h": 1.25e-05,
-   "oi_usd": 2281706744.49222,
-   "premium": -4.8908e-06
+   "oi_usd": 2236257930.348194,
+   "premium": -0.0003661131
   },
   "ETH": {
-   "funding_h": -8.1759e-06,
-   "oi_usd": 1045474825.2011061,
-   "premium": -0.0005041812
+   "funding_h": 4.485e-07,
+   "oi_usd": 1043477038.1765594,
+   "premium": -0.0003513703
   },
   "SOL": {
-   "funding_h": -3.1944e-06,
-   "oi_usd": 304678956.7247401,
-   "premium": -0.0004500536
+   "funding_h": 1.25e-05,
+   "oi_usd": 300035933.20056,
+   "premium": -0.0002503303
   }
  },
- "items_24h": 67,
+ "items_24h": 83,
  "top_items": [
   {
-   "id": "f0a1357fe61e69f1",
-   "ts": 1795384066,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "As everyone remembers, I predicted two things concerning the November 3rd Midterm Elections. One, that if the Democrats win, the Stock Markets would go down, substantially, which they have, and two, that the Islamic Republic of Iran, which has killed 81,000 protestors as of today",
-   "url": "https://truthsocial.com/@realDonaldTrump/117662290160182921",
-   "domain": "truthsocial.com",
+   "id": "5efd81cff8473748",
+   "ts": 1795477800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Statistics on Securities Financing Transactions in Japan",
+   "url": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
+   "domain": "Bank of Japan",
+   "org": "Bank of Japan",
    "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 11388
+    "macro"
+   ]
+  },
+  {
+   "id": "ed84ffb42da213d0",
+   "ts": 1795477192,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Congressional Bills H.R. 1550, H.R. 4930, and H.R. 8552 Signed into Law",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1550-h-r-4930-and-h-r-8552-signed-into-law/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "2e44de395d1a5c4c",
+   "ts": 1795476972,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "0df0007b855aec0e",
+   "ts": 1795476837,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "Fact Sheet: President Donald J. Trump Ensures Expeditious Enforcements of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-ensures-expeditious-enforcements-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "daf80738bd893de9",
+   "ts": 1795473230,
+   "source": "government",
+   "group": "government",
+   "kind": "official",
+   "title": "President Trump Stands with Victims’ Families as Newsom Grants Mass Clemency to Depraved Killers",
+   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-stands-with-victims-families-as-newsom-grants-mass-clemency-to-depraved-killers/",
+   "domain": "White House",
+   "org": "White House",
+   "tags": []
+  },
+  {
+   "id": "b38a62a3f1f7dcf1",
+   "ts": 1795471200,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "CFTC Staff Issues Advisory Concerning the Use of Crypto Assets to Satisfy Financial Resources Requirements",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9331-26",
+   "domain": "CFTC",
+   "org": "CFTC",
+   "tags": [
+    "crypto",
+    "regulation"
+   ]
+  },
+  {
+   "id": "6db8d9a75ae33721",
+   "ts": 1795467600,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "CFTC Publishes Final Rule Concerning Data Reporting Requirements for Certain Event Contracts",
+   "url": "https://www.cftc.gov/PressRoom/PressReleases/9330-26",
+   "domain": "CFTC",
+   "org": "CFTC",
+   "tags": [
+    "regulation"
+   ]
   },
   {
    "id": "6d1ee2675b209aad",
@@ -152,98 +228,13 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "97aff51dc2964393",
-   "ts": 1795428000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "1c4013d2aca828ae",
-   "ts": 1795428000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "General insurance stress test highlights value of rehearsing crisis response and recovery",
-   "url": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "17bae0dcc0a1c3ed",
-   "ts": 1795467843,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
-   "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "crypto",
-    "geo"
-   ]
-  },
-  {
-   "id": "df182038457b21ff",
-   "ts": 1795466323,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Kalshi secures temporary win in New York gambling law dispute",
-   "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "038e1bdcf9547095",
-   "ts": 1795466162,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
-   "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": [
-    "crypto",
-    "geo",
-    "BTC"
-   ]
-  },
-  {
-   "id": "6a68dd0a89c6be57",
-   "ts": 1795463841,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Why Nvidia Needed Jensen Huang Back—And What His Return Really Changes",
-   "url": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 8
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -259,7 +250,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 21
+   "n": 25
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -272,7 +263,7 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 1
+   "n": 3
   },
   "Federal Reserve": {
    "ok": true,
@@ -316,7 +307,7 @@
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 10
+   "n": 8
   },
   "Reddit r/CryptoCurrency": {
    "ok": false,
