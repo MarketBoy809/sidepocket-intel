@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-11-24T05:53:46Z",
- "generated_ts": 1795499626,
+ "generated_at": "2026-11-24T17:28:42Z",
+ "generated_ts": 1795541322,
  "prices": {
   "BTC": {
-   "p": 60564.5,
+   "p": 59788.6,
    "o": 61199.3,
-   "h": 64520.3,
-   "l": 59362.8,
-   "v": 5827.00907858
+   "h": 61779.9,
+   "l": 59197.4,
+   "v": 4789.68981478
   },
   "ETH": {
-   "p": 1705.54,
+   "p": 1677.75,
    "o": 1708.2,
-   "h": 1843.93,
-   "l": 1667.9,
-   "v": 47475.91378816
+   "h": 1756.82,
+   "l": 1661.83,
+   "v": 38115.79592966
   },
   "SOL": {
-   "p": 71.74,
+   "p": 69.31,
    "o": 71.93,
-   "h": 78.48,
-   "l": 70.05,
-   "v": 429891.63659583
+   "h": 74.05,
+   "l": 68.41,
+   "v": 404165.99139498
   }
  },
  "change_7d": {
-  "BTC": -0.07199518263409149,
-  "ETH": -0.07379709480872974,
-  "SOL": -0.020830478278744635
+  "BTC": -0.06804472160510254,
+  "ETH": -0.06196299674560542,
+  "SOL": -0.04127292940522511
  },
  "sentiment": {
-  "score": 27.3,
+  "score": 25.6,
   "label": "Fear",
   "components": {
    "fng": 11.0,
-   "momentum": 32.00120434147713,
-   "crowding": 59.2887025
+   "momentum": 32.98881959872436,
+   "crowding": 49.844875
   },
   "weights": {
    "fng": 0.35,
@@ -53,23 +53,51 @@
  "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2236257930.348194,
-   "premium": -0.0003661131
+   "funding_h": -6.431e-07,
+   "oi_usd": 2194837332.1305,
+   "premium": -0.0003674751
   },
   "ETH": {
-   "funding_h": 4.485e-07,
-   "oi_usd": 1043477038.1765594,
-   "premium": -0.0003513703
+   "funding_h": 8.3758e-06,
+   "oi_usd": 1030395599.4468,
+   "premium": -0.0004286174
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 300035933.20056,
-   "premium": -0.0002503303
+   "funding_h": -8.1577e-06,
+   "oi_usd": 291151738.89940023,
+   "premium": -0.0006773798
   }
  },
- "items_24h": 83,
+ "items_24h": 69,
  "top_items": [
+  {
+   "id": "79075bc7d3bdd0e6",
+   "ts": 1795536000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Daniel E. Pinto appointed to the Bank of England’s Financial Policy Committee",
+   "url": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "4199d8f4bbf5ef4c",
+   "ts": 1795518000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
+   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
   {
    "id": "5efd81cff8473748",
    "ts": 1795477800,
@@ -176,65 +204,39 @@
    "tags": []
   },
   {
-   "id": "0ba2230e1b218543",
-   "ts": 1795450291,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "ICYMI: “White House Convenes Elite Team To Prevent Air Traffic Outages Ahead Of Thanksgiving”",
-   "url": "https://www.whitehouse.gov/releases/2026/11/icymi-white-house-convenes-elite-team-to-prevent-air-traffic-outages-ahead-of-thanksgiving/",
-   "domain": "White House",
-   "org": "White House",
+   "id": "c0d19b16bb8a05de",
+   "ts": 1795540151,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
+   "url": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": [
-    "regulation"
+    "crypto",
+    "geo",
+    "BTC"
    ]
   },
   {
-   "id": "3f27ba3adc748ae5",
-   "ts": 1795445238,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Voting Begins for the 2026 National Thanksgiving Turkey Pardon Ceremony",
-   "url": "https://www.whitehouse.gov/releases/2026/11/voting-begins-for-the-2026-national-thanksgiving-turkey-pardon-ceremony/",
-   "domain": "White House",
-   "org": "White House",
+   "id": "b8cd7a6c3ed1c7cd",
+   "ts": 1795538006,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "How South Korea’s proposed 20% cap could change who runs Upbit",
+   "url": "https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": []
-  },
-  {
-   "id": "dd6e64bcc52a4d8f",
-   "ts": 1795444200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Philip R. Lane: Climate change and monetary policy",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "ed4867bf921c0113",
-   "ts": 1795438814,
-   "source": "institution",
-   "group": "institution",
-   "kind": "official",
-   "title": "8-K - Current report",
-   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526470961/0001193125-26-470961-index.htm",
-   "domain": "Strategy (MSTR) filings",
-   "org": "Strategy (MSTR) filings",
-   "tags": [
-    "institution"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 8
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -250,7 +252,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 25
+   "n": 23
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -263,7 +265,7 @@
   },
   "CFTC": {
    "ok": true,
-   "n": 3
+   "n": 2
   },
   "Federal Reserve": {
    "ok": true,
@@ -271,15 +273,15 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 6
+   "n": 7
   },
   "Bank of England": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "BIS": {
    "ok": true,
