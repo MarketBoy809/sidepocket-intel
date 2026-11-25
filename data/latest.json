@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-25T12:35:04Z",
- "generated_ts": 1795610104,
+ "generated_at": "2026-11-25T22:23:22Z",
+ "generated_ts": 1795645402,
  "prices": {
   "BTC": {
-   "p": 58641.5,
+   "p": 59997.2,
    "o": 59741.3,
-   "h": 60612.8,
-   "l": 58372.1,
-   "v": 4806.04469924
+   "h": 60418.6,
+   "l": 57210.7,
+   "v": 6407.15163923
   },
   "ETH": {
-   "p": 1644.95,
+   "p": 1680.78,
    "o": 1677.71,
-   "h": 1706.32,
-   "l": 1631.13,
-   "v": 35288.47058848
+   "h": 1697.12,
+   "l": 1606.83,
+   "v": 33539.62224504
   },
   "SOL": {
-   "p": 67.72,
+   "p": 70.39,
    "o": 69.6,
-   "h": 70.89,
-   "l": 67.21,
-   "v": 399435.62498099
+   "h": 70.98,
+   "l": 65.76,
+   "v": 500876.95361048
   }
  },
  "change_7d": {
-  "BTC": -0.08730795837395165,
-  "ETH": -0.09046036175250971,
-  "SOL": -0.09241323648103315
+  "BTC": -0.03365465699793723,
+  "ETH": -0.044441165956432646,
+  "SOL": -0.03170028818443807
  },
  "sentiment": {
-  "score": 27.6,
+  "score": 34.8,
   "label": "Fear",
   "components": {
    "fng": 13.0,
-   "momentum": 28.173010406512088,
-   "news_tone": 40.1,
-   "crowding": 48.125944
+   "momentum": 41.586335750515694,
+   "news_tone": 48.55,
+   "crowding": 62.809163999999996
   },
   "weights": {
    "fng": 0.35,
@@ -51,42 +51,81 @@
   "label": "Extreme Fear",
   "ts": 1795564800
  },
- "news_tone_24h": -0.594,
+ "news_tone_24h": -0.087,
  "derivatives": {
   "BTC": {
-   "funding_h": -1.4235e-06,
-   "oi_usd": 2087462837.7306798,
-   "premium": -0.0010727969
+   "funding_h": 1.25e-05,
+   "oi_usd": 2250699939.68,
+   "premium": -0.0002646432
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 1033034187.0728002,
-   "premium": -0.0012145503
+   "funding_h": 1.11755e-05,
+   "oi_usd": 1078099578.8068793,
+   "premium": -0.0004158745
   },
   "SOL": {
-   "funding_h": -1.62109e-05,
-   "oi_usd": 277024177.4673,
-   "premium": -0.0014007667
+   "funding_h": 1.14181e-05,
+   "oi_usd": 283251949.138,
+   "premium": -0.0004738597
   }
  },
- "items_24h": 111,
+ "items_24h": 106,
  "top_items": [
   {
-   "id": "14fbce5ceed0768f",
-   "ts": 1795542010,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "I am pleased to nominate Jim O'Neill to serve as Judge on the United States District Court for the Middle District of North Carolina. Jim has the strong support of both North Carolina Senators, Ted Budd and Thom Tillis. Jim has served as the District Attorney of Forsyth County si",
-   "url": "https://truthsocial.com/@realDonaldTrump/117672641177788145",
-   "domain": "truthsocial.com",
+   "id": "f0784a636c3b35c0",
+   "ts": 1795636800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
    "tags": [
-    "geo",
+    "macro"
+   ]
+  },
+  {
+   "id": "7486b0f51365d676",
+   "ts": 1795636800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+   "domain": "Federal Reserve",
+   "org": "Federal Reserve",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "b1f3c3dc97c1669e",
+   "ts": 1795627800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "d7ab0029cc21de16",
+   "ts": 1795615824,
+   "source": "regulator",
+   "group": "regulator",
+   "kind": "official",
+   "title": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",
+   "url": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
+   "domain": "SEC",
+   "org": "SEC",
+   "tags": [
     "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 11367
+   ]
   },
   {
    "id": "dbbd682e7cca818d",
@@ -198,48 +237,6 @@
     "crypto",
     "institution"
    ]
-  },
-  {
-   "id": "30fcd99d8c5b87e4",
-   "ts": 1795569300,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "BlackRock® Canada Announces Final November Cash Distributions for the iShares® Premium Money Market ETF",
-   "url": "https://www.intelligencer.ca/press-releases/globe-newswire/blackrock-canada-announces-final-november-cash-distributions-for-the-ishares-premium-money-market-etf/",
-   "domain": "intelligencer.ca",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "9f16a6488b8a6667",
-   "ts": 1795569300,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "BlackRock® Canada Announces Final November Cash Distributions for the iShares® Premium Money Market ETF",
-   "url": "https://www.saultstar.com/press-releases/globe-newswire/blackrock-canada-announces-final-november-cash-distributions-for-the-ishares-premium-money-market-etf/",
-   "domain": "saultstar.com",
-   "tags": [
-    "crypto",
-    "institution"
-   ]
-  },
-  {
-   "id": "59acc8edafdaba8e",
-   "ts": 1795568400,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Bank of Japan Accounts (November 20)",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261120.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -250,7 +247,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 16
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -262,7 +259,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 24
+   "n": 22
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -271,7 +268,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "CFTC": {
    "ok": true,
@@ -279,11 +276,11 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "European Central Bank": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "Bank of England": {
    "ok": true,
@@ -295,7 +292,7 @@
   },
   "BIS": {
    "ok": true,
-   "n": 0
+   "n": 1
   },
   "Strategy (MSTR) filings": {
    "ok": true,
@@ -324,7 +321,7 @@
   "Reddit r/CryptoCurrency": {
    "ok": false,
    "n": 0,
-   "err": "HTTP Error 404: Not Found"
+   "err": "HTTP Error 429: Too Many Requests"
   },
   "Reddit r/Bitcoin": {
    "ok": false,
