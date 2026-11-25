@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-11-24T17:28:42Z",
- "generated_ts": 1795541322,
+ "generated_at": "2026-11-25T02:14:39Z",
+ "generated_ts": 1795572879,
  "prices": {
   "BTC": {
-   "p": 59788.6,
-   "o": 61199.3,
-   "h": 61779.9,
-   "l": 59197.4,
-   "v": 4789.68981478
+   "p": 59095.8,
+   "o": 59741.3,
+   "h": 60921.5,
+   "l": 58869.6,
+   "v": 4748.9899893
   },
   "ETH": {
-   "p": 1677.75,
-   "o": 1708.2,
-   "h": 1756.82,
-   "l": 1661.83,
-   "v": 38115.79592966
+   "p": 1655.89,
+   "o": 1677.71,
+   "h": 1707.88,
+   "l": 1649.0,
+   "v": 37953.07086288
   },
   "SOL": {
-   "p": 69.31,
-   "o": 71.93,
-   "h": 74.05,
+   "p": 68.71,
+   "o": 69.6,
+   "h": 72.0,
    "l": 68.41,
-   "v": 404165.99139498
+   "v": 437476.25465226
   }
  },
  "change_7d": {
-  "BTC": -0.06804472160510254,
-  "ETH": -0.06196299674560542,
-  "SOL": -0.04127292940522511
+  "BTC": -0.07878081188394725,
+  "ETH": -0.08070202712831812,
+  "SOL": -0.070407337469652
  },
  "sentiment": {
-  "score": 25.6,
+  "score": 26.9,
   "label": "Fear",
   "components": {
-   "fng": 11.0,
-   "momentum": 32.98881959872436,
-   "crowding": 49.844875
+   "fng": 13.0,
+   "momentum": 30.304797029013187,
+   "news_tone": 33.61666666666667,
+   "crowding": 47.876357
   },
   "weights": {
    "fng": 0.35,
@@ -46,66 +47,125 @@
   }
  },
  "fear_greed": {
-  "value": 11,
+  "value": 13,
   "label": "Extreme Fear",
-  "ts": 1795478400
+  "ts": 1795564800
  },
- "news_tone_24h": null,
+ "news_tone_24h": -0.983,
  "derivatives": {
   "BTC": {
-   "funding_h": -6.431e-07,
-   "oi_usd": 2194837332.1305,
-   "premium": -0.0003674751
+   "funding_h": -1.33931e-05,
+   "oi_usd": 2086062154.47788,
+   "premium": -0.0005289485
   },
   "ETH": {
-   "funding_h": 8.3758e-06,
-   "oi_usd": 1030395599.4468,
-   "premium": -0.0004286174
+   "funding_h": -3.8595e-06,
+   "oi_usd": 1051555710.7719793,
+   "premium": -0.0005728931
   },
   "SOL": {
-   "funding_h": -8.1577e-06,
-   "oi_usd": 291151738.89940023,
-   "premium": -0.0006773798
+   "funding_h": 1.14344e-05,
+   "oi_usd": 284237680.00392,
+   "premium": -0.0002862731
   }
  },
- "items_24h": 69,
+ "items_24h": 88,
  "top_items": [
   {
-   "id": "79075bc7d3bdd0e6",
-   "ts": 1795536000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Daniel E. Pinto appointed to the Bank of England’s Financial Policy Committee",
-   "url": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc",
-   "domain": "Bank of England",
-   "org": "Bank of England",
+   "id": "14fbce5ceed0768f",
+   "ts": 1795542010,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "I am pleased to nominate Jim O'Neill to serve as Judge on the United States District Court for the Middle District of North Carolina. Jim has the strong support of both North Carolina Senators, Ted Budd and Thom Tillis. Jim has served as the District Attorney of Forsyth County si",
+   "url": "https://truthsocial.com/@realDonaldTrump/117672641177788145",
+   "domain": "truthsocial.com",
    "tags": [
-    "macro"
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 11367
+  },
+  {
+   "id": "2ad4f1b419965d1b",
+   "ts": 1795570200,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Fidelity Investments Canada ULC Announces Estimated 2026 Annual Reinvested Capital Gains Distributions for Fidelity ETFs and ETF Series of Fidelity Mutual Funds",
+   "url": "https://www.chathamdailynews.ca/press-releases/pr-newswire/fidelity-investments-canada-ulc-announces-estimated-2026-annual-reinvested-capital-gains-distributions-for-fidelity-etfs-and-etf-series-of-fidelity-mutual-funds/",
+   "domain": "chathamdailynews.ca",
+   "tags": [
+    "crypto",
+    "institution"
    ]
   },
   {
-   "id": "4199d8f4bbf5ef4c",
-   "ts": 1795518000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
+   "id": "4e88ff270e7e2191",
+   "ts": 1795569300,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Fidelity Investments Canada ULC Announces Estimated 2026 Annual Reinvested Capital Gains Distributions for Fidelity ETFs and ETF Series of Fidelity Mutual Funds",
+   "url": "https://www.saultstar.com/press-releases/pr-newswire/fidelity-investments-canada-ulc-announces-estimated-2026-annual-reinvested-capital-gains-distributions-for-fidelity-etfs-and-etf-series-of-fidelity-mutual-funds/",
+   "domain": "saultstar.com",
    "tags": [
-    "macro"
+    "crypto",
+    "institution"
    ]
   },
   {
-   "id": "5efd81cff8473748",
-   "ts": 1795477800,
+   "id": "f8e681161adf60fb",
+   "ts": 1795569300,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Fidelity Investments Canada ULC Announces Estimated 2026 Annual Reinvested Capital Gains Distributions for Fidelity ETFs and ETF Series of Fidelity Mutual Funds",
+   "url": "https://www.intelligencer.ca/press-releases/pr-newswire/fidelity-investments-canada-ulc-announces-estimated-2026-annual-reinvested-capital-gains-distributions-for-fidelity-etfs-and-etf-series-of-fidelity-mutual-funds/",
+   "domain": "intelligencer.ca",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "30fcd99d8c5b87e4",
+   "ts": 1795569300,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "BlackRock® Canada Announces Final November Cash Distributions for the iShares® Premium Money Market ETF",
+   "url": "https://www.intelligencer.ca/press-releases/globe-newswire/blackrock-canada-announces-final-november-cash-distributions-for-the-ishares-premium-money-market-etf/",
+   "domain": "intelligencer.ca",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "9f16a6488b8a6667",
+   "ts": 1795569300,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "BlackRock® Canada Announces Final November Cash Distributions for the iShares® Premium Money Market ETF",
+   "url": "https://www.saultstar.com/press-releases/globe-newswire/blackrock-canada-announces-final-november-cash-distributions-for-the-ishares-premium-money-market-etf/",
+   "domain": "saultstar.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "59acc8edafdaba8e",
+   "ts": 1795568400,
    "source": "central_bank",
    "group": "central_bank",
    "kind": "official",
-   "title": "Statistics on Securities Financing Transactions in Japan",
-   "url": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
+   "title": "Bank of Japan Accounts (November 20)",
+   "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261120.htm",
    "domain": "Bank of Japan",
    "org": "Bank of Japan",
    "tags": [
@@ -113,123 +173,76 @@
    ]
   },
   {
-   "id": "ed84ffb42da213d0",
-   "ts": 1795477192,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Congressional Bills H.R. 1550, H.R. 4930, and H.R. 8552 Signed into Law",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1550-h-r-4930-and-h-r-8552-signed-into-law/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "2e44de395d1a5c4c",
-   "ts": 1795476972,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "0df0007b855aec0e",
-   "ts": 1795476837,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Fact Sheet: President Donald J. Trump Ensures Expeditious Enforcements of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
-   "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-ensures-expeditious-enforcements-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "daf80738bd893de9",
-   "ts": 1795473230,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "President Trump Stands with Victims’ Families as Newsom Grants Mass Clemency to Depraved Killers",
-   "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-stands-with-victims-families-as-newsom-grants-mass-clemency-to-depraved-killers/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "b38a62a3f1f7dcf1",
-   "ts": 1795471200,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "CFTC Staff Issues Advisory Concerning the Use of Crypto Assets to Satisfy Financial Resources Requirements",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9331-26",
-   "domain": "CFTC",
-   "org": "CFTC",
-   "tags": [
-    "crypto",
-    "regulation"
-   ]
-  },
-  {
-   "id": "6db8d9a75ae33721",
-   "ts": 1795467600,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "CFTC Publishes Final Rule Concerning Data Reporting Requirements for Certain Event Contracts",
-   "url": "https://www.cftc.gov/PressRoom/PressReleases/9330-26",
-   "domain": "CFTC",
-   "org": "CFTC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "6d1ee2675b209aad",
-   "ts": 1795461612,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "First Lady Melania Trump Hails America’s Armed Forces",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "c0d19b16bb8a05de",
-   "ts": 1795540151,
+   "id": "8eb1913ea3e41881",
+   "ts": 1795567500,
    "source": "news",
-   "group": "news",
+   "group": "institution",
    "kind": "news",
-   "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
-   "url": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "title": "iShares Flexible Income Active ETF ( BINC ) Stock Price , News & Analysis",
+   "url": "https://247wallst.com/companies/binc/",
+   "domain": "247wallst.com",
    "tags": [
     "crypto",
-    "geo",
+    "institution"
+   ]
+  },
+  {
+   "id": "beb99bb6aa9bcc3c",
+   "ts": 1795567500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Fidelity Investments Canada ULC Announces Estimated 2026 Annual Reinvested Capital Gains Distributions for Fidelity ETFs and ETF Series of Fidelity Mutual Funds",
+   "url": "https://www.thesudburystar.com/press-releases/pr-newswire/fidelity-investments-canada-ulc-announces-estimated-2026-annual-reinvested-capital-gains-distributions-for-fidelity-etfs-and-etf-series-of-fidelity-mutual-funds/",
+   "domain": "thesudburystar.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "348b3a75abd24b0f",
+   "ts": 1795567500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "The 10 - Year Treasury Yields 4 . 92 %. JPMorgan Income ETF Paid 5 . 7 % Over the Past Year , BlackRock Paid 6 . 06 %, and Neither Has a Maturity Date",
+   "url": "https://247wallst.com/investing/etf/2026/11/24/the-10-year-treasury-yields-4-92-jpmorgans-income-etf-paid-5-7-over-the-past-year-blackrocks-paid-6-06-and-neither-has-a-maturity-date/",
+   "domain": "247wallst.com",
+   "tags": [
+    "crypto",
+    "macro",
+    "institution"
+   ]
+  },
+  {
+   "id": "c79954f1314ce21c",
+   "ts": 1795567500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "BlackRock® Canada Announces Final November Cash Distributions for the iShares® Premium Money Market ETF",
+   "url": "https://www.thesudburystar.com/press-releases/globe-newswire/blackrock-canada-announces-final-november-cash-distributions-for-the-ishares-premium-money-market-etf/",
+   "domain": "thesudburystar.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
+  {
+   "id": "5171ad0e2f79b296",
+   "ts": 1795566600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Bitcoin Surrenders Most Gains Amid Sustained ETF Outflows",
+   "url": "https://www.livemint.com/market/bitcoin-surrenders-most-gains-amid-sustained-etf-outflows-11795554238437.html",
+   "domain": "livemint.com",
+   "tags": [
+    "crypto",
+    "institution",
     "BTC"
    ]
-  },
-  {
-   "id": "b8cd7a6c3ed1c7cd",
-   "ts": 1795538006,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "How South Korea’s proposed 20% cap could change who runs Upbit",
-   "url": "https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -248,7 +261,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 21
   },
   "White House": {
    "ok": true,
@@ -269,11 +282,11 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "European Central Bank": {
    "ok": true,
-   "n": 7
+   "n": 6
   },
   "Bank of England": {
    "ok": true,
@@ -281,11 +294,11 @@
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 3
+   "n": 6
   },
   "BIS": {
    "ok": true,
-   "n": 1
+   "n": 0
   },
   "Strategy (MSTR) filings": {
    "ok": true,
@@ -305,11 +318,11 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 37
+   "n": 38
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 8
+   "n": 9
   },
   "Reddit r/CryptoCurrency": {
    "ok": false,
