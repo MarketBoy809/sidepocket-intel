@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-26T04:54:48Z",
- "generated_ts": 1795668888,
+ "generated_at": "2026-11-26T14:57:52Z",
+ "generated_ts": 1795705072,
  "prices": {
   "BTC": {
-   "p": 60896.6,
+   "p": 60741.7,
    "o": 60368.6,
    "h": 61533.1,
-   "l": 57210.7,
-   "v": 7111.37238778
+   "l": 57612.8,
+   "v": 5412.62345319
   },
   "ETH": {
-   "p": 1700.78,
+   "p": 1697.71,
    "o": 1690.41,
    "h": 1728.63,
-   "l": 1606.83,
-   "v": 30423.18344895
+   "l": 1622.2,
+   "v": 26628.92253829
   },
   "SOL": {
-   "p": 71.06,
+   "p": 71.07,
    "o": 70.39,
    "h": 71.81,
-   "l": 65.76,
-   "v": 444956.64570859
+   "l": 66.5,
+   "v": 306597.51485049
   }
  },
  "change_7d": {
-  "BTC": -0.03869929418204662,
-  "ETH": -0.05381180935372243,
-  "SOL": -0.04341963322545846
+  "BTC": -0.04961711062492226,
+  "ETH": -0.060496334893579515,
+  "SOL": -0.05234416622269569
  },
  "sentiment": {
-  "score": 30.8,
+  "score": 33.8,
   "label": "Fear",
   "components": {
    "fng": 11.0,
-   "momentum": 40.32517645448834,
-   "news_tone": 45.416666666666664,
-   "crowding": 49.785307
+   "momentum": 37.59572234376944,
+   "news_tone": 63.916666666666664,
+   "crowding": 51.606438
   },
   "weights": {
    "fng": 0.35,
@@ -51,26 +51,164 @@
   "label": "Extreme Fear",
   "ts": 1795651200
  },
- "news_tone_24h": -0.275,
+ "news_tone_24h": 0.835,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2295552610.344,
-   "premium": -0.000377179
+   "funding_h": -9.6667e-06,
+   "oi_usd": 2238841653.160974,
+   "premium": -0.0005771593
   },
   "ETH": {
-   "funding_h": 6.5574e-06,
-   "oi_usd": 1096959878.434,
-   "premium": -0.0005167716
+   "funding_h": 8.1889e-06,
+   "oi_usd": 1114129235.163736,
+   "premium": -0.0005059538
   },
   "SOL": {
-   "funding_h": -1.96456e-05,
-   "oi_usd": 294781589.09942436,
-   "premium": -0.0007870143
+   "funding_h": 5.879e-06,
+   "oi_usd": 294404540.4864,
+   "premium": -0.0006239513
   }
  },
- "items_24h": 175,
+ "items_24h": 173,
  "top_items": [
+  {
+   "id": "508a7003cd0e7a39",
+   "ts": 1795672023,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "David E. Sanger, the mediocre reporter for the Failing New York Times, didn't mention in his recent story on me the successful closing of the Border, best crime stats in years (lowest murder rate since 1900 - 126 years!), biggest Tax and Regulation Cuts, EVER, the most successful",
+   "url": "https://truthsocial.com/@realDonaldTrump/117681161738909385",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 12654
+  },
+  {
+   "id": "f3e882d84fe8766c",
+   "ts": 1795696696,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "\"U.S. Q3 GDP just got revised UP to a massive +4.3% — shattering expert predictions and nearly DOUBLING Q2's 2.2% growth! The Trump Economy is ROARING, and the mainstream media can't hide it anymore!\"",
+   "url": "https://truthsocial.com/@realDonaldTrump/117682778730108467",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro"
+   ],
+   "author": "Donald Trump",
+   "score": 8233
+  },
+  {
+   "id": "8dee4d395bd4d888",
+   "ts": 1795703041,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "It was just revealed that the REAL Numbers on the Economy, published before the Election, were FAKE, and a correction was issued yesterday by the people in the Government Agency that does these numbers. The American Economy under The Trump Administration is doing FAR BETTER than ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117683194517889136",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro"
+   ],
+   "author": "Donald Trump",
+   "score": 3916
+  },
+  {
+   "id": "825f8407e7b8851f",
+   "ts": 1795702751,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "A JOINT STATEMENT MADE BY PRESIDENT DONALD J. TRUMP AND SECRETARY GENERAL OF NATO, MARK RUTTE: President Trump and Secretary General Rutte had an outstanding meeting on Wednesday evening, at what is often referred to as the Southern White House — Mar-a-Lago.The meeting was very i",
+   "url": "https://truthsocial.com/@realDonaldTrump/117683175541431490",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 3131
+  },
+  {
+   "id": "d00ae08e0960d5ac",
+   "ts": 1795704837,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117683175541431490During my conversations in China with President Vladimir Putin, of Russia, I spent a lot of time talking about the fact that I would like to see President Putin pull back all Military aggression against ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117683312242798397",
+   "domain": "truthsocial.com",
+   "tags": [
+    "geo"
+   ],
+   "author": "Donald Trump",
+   "score": 326
+  },
+  {
+   "id": "c5cd3f64250f4307",
+   "ts": 1795705200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Payments systems Memorandum of Understanding",
+   "url": "https://www.bankofengland.co.uk/news/2024/march/payment-systems-memorandum-of-understanding",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "384a68556b0b3d55",
+   "ts": 1795696437,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Statistical Notice 2026/09 - Update to the classification of accounts guide",
+   "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-09",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "ce9f98e7b7b2773f",
+   "ts": 1795696200,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Meeting of 28-29 October 2026",
+   "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "e6520a247e2b33f9",
+   "ts": 1795689000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Financial Policy Committee Record – November 2026",
+   "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+   "domain": "Bank of England",
+   "org": "Bank of England",
+   "tags": [
+    "macro"
+   ]
+  },
   {
    "id": "451766188576f0c1",
    "ts": 1795654800,
@@ -108,136 +246,13 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
-  },
-  {
-   "id": "f0784a636c3b35c0",
-   "ts": 1795636800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "7486b0f51365d676",
-   "ts": 1795636800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
-   "domain": "Federal Reserve",
-   "org": "Federal Reserve",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "b1f3c3dc97c1669e",
-   "ts": 1795627800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "c45b0c1acf74fa6f",
-   "ts": 1795617000,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Thanksgiving Day, 2026",
-   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/thanksgiving-day-2026/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "d7ab0029cc21de16",
-   "ts": 1795615824,
-   "source": "regulator",
-   "group": "regulator",
-   "kind": "official",
-   "title": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",
-   "url": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
-   "domain": "SEC",
-   "org": "SEC",
-   "tags": [
-    "regulation"
-   ]
-  },
-  {
-   "id": "dbbd682e7cca818d",
-   "ts": 1795608060,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "First Lady Melania Trump Secures Reunification of Nine Additional Children with their Families",
-   "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-secures-reunification-of-nine-additional-children-with-their-families/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
-  },
-  {
-   "id": "9ca6d694b6515b84",
-   "ts": 1795600800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Card payments edge past cash in shops; euro area consumers want both",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "ec323e447ca2df90",
-   "ts": 1795600800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Regulators implement growth-friendly securitisation reforms",
-   "url": "https://www.bankofengland.co.uk/news/2026/november/regulators-implement-growth-friendly-securitisation-reforms",
-   "domain": "Bank of England",
-   "org": "Bank of England",
-   "tags": [
-    "regulation",
-    "macro"
-   ]
-  },
-  {
-   "id": "4f6d960e0c94badf",
-   "ts": 1795593600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Japanese Government Bonds Held by the Bank of Japan",
-   "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261120.xlsx",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 46
+   "n": 5
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -253,7 +268,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 25
+   "n": 24
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -262,7 +277,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "CFTC": {
    "ok": true,
@@ -274,15 +289,15 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 6
+   "n": 7
   },
   "Bank of England": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "Bank of Japan": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "BIS": {
    "ok": true,
@@ -306,11 +321,11 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 38
+   "n": 37
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 8
+   "n": 11
   },
   "Reddit r/CryptoCurrency": {
    "ok": false,
