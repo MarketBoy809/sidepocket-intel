@@ -1,42 +1,41 @@
 {
- "generated_at": "2026-11-26T14:57:52Z",
- "generated_ts": 1795705072,
+ "generated_at": "2026-11-26T23:42:16Z",
+ "generated_ts": 1795736536,
  "prices": {
   "BTC": {
-   "p": 60741.7,
+   "p": 60370.0,
    "o": 60368.6,
    "h": 61533.1,
-   "l": 57612.8,
-   "v": 5412.62345319
+   "l": 59850.0,
+   "v": 2801.93010633
   },
   "ETH": {
-   "p": 1697.71,
+   "p": 1684.4,
    "o": 1690.41,
    "h": 1728.63,
-   "l": 1622.2,
-   "v": 26628.92253829
+   "l": 1666.02,
+   "v": 20140.82972341
   },
   "SOL": {
-   "p": 71.07,
+   "p": 70.94,
    "o": 70.39,
    "h": 71.81,
-   "l": 66.5,
-   "v": 306597.51485049
+   "l": 69.72,
+   "v": 189787.86778439
   }
  },
  "change_7d": {
-  "BTC": -0.04961711062492226,
-  "ETH": -0.060496334893579515,
-  "SOL": -0.05234416622269569
+  "BTC": -0.02621594252938717,
+  "ETH": -0.03807633466226095,
+  "SOL": -0.030199508062312214
  },
  "sentiment": {
-  "score": 33.8,
+  "score": 29.5,
   "label": "Fear",
   "components": {
    "fng": 11.0,
-   "momentum": 37.59572234376944,
-   "news_tone": 63.916666666666664,
-   "crowding": 51.606438
+   "momentum": 43.446014367653206,
+   "crowding": 54.2984225
   },
   "weights": {
    "fng": 0.35,
@@ -51,26 +50,43 @@
   "label": "Extreme Fear",
   "ts": 1795651200
  },
- "news_tone_24h": 0.835,
+ "news_tone_24h": null,
  "derivatives": {
   "BTC": {
-   "funding_h": -9.6667e-06,
-   "oi_usd": 2238841653.160974,
-   "premium": -0.0005771593
+   "funding_h": -2.5817e-06,
+   "oi_usd": 2086346724.4256,
+   "premium": -0.0005293018
   },
   "ETH": {
-   "funding_h": 8.1889e-06,
-   "oi_usd": 1114129235.163736,
-   "premium": -0.0005059538
+   "funding_h": 1.8582e-06,
+   "oi_usd": 1134849412.3130598,
+   "premium": -0.0004150116
   },
   "SOL": {
-   "funding_h": 5.879e-06,
-   "oi_usd": 294404540.4864,
-   "premium": -0.0006239513
+   "funding_h": 1.25e-05,
+   "oi_usd": 297555089.27013993,
+   "premium": -0.0002731421
   }
  },
- "items_24h": 173,
+ "items_24h": 214,
  "top_items": [
+  {
+   "id": "2152138bf9596b07",
+   "ts": 1795707900,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "HAPPY THANKSGIVING TO ALL AMERICAN PATRIOTS WHO HAVE WORKED SO HARD TO MAKE OUR COUNTRY GREAT! Additionally, I would like to wish a Happy Thanksgiving to even those who issued fake Economic Numbers, just prior to the Election, and corrected them yesterday, three weeks late, showi",
+   "url": "https://truthsocial.com/@realDonaldTrump/117683512952489451",
+   "domain": "truthsocial.com",
+   "tags": [
+    "macro",
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 25105
+  },
   {
    "id": "508a7003cd0e7a39",
    "ts": 1795672023,
@@ -234,29 +250,17 @@
    "domain": "White House",
    "org": "White House",
    "tags": []
-  },
-  {
-   "id": "8c4e3d2be01900a3",
-   "ts": 1795648256,
-   "source": "government",
-   "group": "government",
-   "kind": "official",
-   "title": "Trump Administration Leads Whole-of-Government Effort to Safely Neutralize Obama-Era Explosives Threat in Iowa",
-   "url": "https://www.whitehouse.gov/releases/2026/11/trump-administrations-whole-of-government-effort-safely-neutralizes-obama-era-explosives-threat-in-iowa/",
-   "domain": "White House",
-   "org": "White House",
-   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 5
+   "n": 0
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -268,7 +272,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 24
+   "n": 22
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -285,7 +289,7 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 6
+   "n": 5
   },
   "European Central Bank": {
    "ok": true,
@@ -321,7 +325,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 37
+   "n": 35
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
