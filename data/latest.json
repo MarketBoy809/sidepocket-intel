@@ -1,41 +1,42 @@
 {
- "generated_at": "2026-11-27T08:05:43Z",
- "generated_ts": 1795766743,
+ "generated_at": "2026-11-27T18:07:02Z",
+ "generated_ts": 1795802822,
  "prices": {
   "BTC": {
-   "p": 61802.2,
+   "p": 59827.1,
    "o": 60498.0,
-   "h": 61925.1,
-   "l": 59850.0,
-   "v": 2297.43797812
+   "h": 62139.1,
+   "l": 58728.7,
+   "v": 4619.80970551
   },
   "ETH": {
-   "p": 1735.65,
+   "p": 1669.42,
    "o": 1687.68,
    "h": 1752.33,
-   "l": 1666.02,
-   "v": 28389.32026554
+   "l": 1632.16,
+   "v": 38400.92928752
   },
   "SOL": {
-   "p": 73.31,
+   "p": 71.88,
    "o": 70.94,
-   "h": 73.48,
-   "l": 69.72,
-   "v": 236027.00649332
+   "h": 73.83,
+   "l": 70.05,
+   "v": 383136.64838607
   }
  },
  "change_7d": {
-  "BTC": -0.003307702791023957,
-  "ETH": -0.010195805154450817,
-  "SOL": 0.007987880457237272
+  "BTC": 0.012871624274623551,
+  "ETH": 0.02517495395948434,
+  "SOL": 0.0406128053186877
  },
  "sentiment": {
-  "score": 33.6,
+  "score": 38.0,
   "label": "Fear",
   "components": {
    "fng": 12.0,
-   "momentum": 49.17307430224401,
-   "crowding": 63.1507675
+   "momentum": 53.217906068655886,
+   "news_tone": 56.900000000000006,
+   "crowding": 59.5241275
   },
   "weights": {
    "fng": 0.35,
@@ -50,107 +51,53 @@
   "label": "Extreme Fear",
   "ts": 1795737600
  },
- "news_tone_24h": null,
+ "news_tone_24h": 0.414,
  "derivatives": {
   "BTC": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 2157153273.21804,
-   "premium": -0.0002262553
+   "funding_h": 5.9614e-06,
+   "oi_usd": 2134476943.7656403,
+   "premium": -0.0004991911
   },
   "ETH": {
-   "funding_h": 1.10295e-05,
-   "oi_usd": 1067172881.2331399,
-   "premium": -0.0003453039
+   "funding_h": 1.25e-05,
+   "oi_usd": 1004563718.496,
+   "premium": -0.0004786979
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 305045101.91156,
-   "premium": -0.0003568403
+   "funding_h": 7.6321e-06,
+   "oi_usd": 294167106.6768,
+   "premium": -0.0003612114
   }
  },
- "items_24h": 163,
+ "items_24h": 142,
  "top_items": [
   {
-   "id": "2152138bf9596b07",
-   "ts": 1795707900,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "HAPPY THANKSGIVING TO ALL AMERICAN PATRIOTS WHO HAVE WORKED SO HARD TO MAKE OUR COUNTRY GREAT! Additionally, I would like to wish a Happy Thanksgiving to even those who issued fake Economic Numbers, just prior to the Election, and corrected them yesterday, three weeks late, showi",
-   "url": "https://truthsocial.com/@realDonaldTrump/117683512952489451",
-   "domain": "truthsocial.com",
-   "tags": [
-    "macro",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 25105
-  },
-  {
-   "id": "f3e882d84fe8766c",
-   "ts": 1795696696,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "\"U.S. Q3 GDP just got revised UP to a massive +4.3% — shattering expert predictions and nearly DOUBLING Q2's 2.2% growth! The Trump Economy is ROARING, and the mainstream media can't hide it anymore!\"",
-   "url": "https://truthsocial.com/@realDonaldTrump/117682778730108467",
-   "domain": "truthsocial.com",
+   "id": "d7910a53402b785b",
+   "ts": 1795788000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
    "tags": [
     "macro"
-   ],
-   "author": "Donald Trump",
-   "score": 8233
+   ]
   },
   {
-   "id": "8dee4d395bd4d888",
-   "ts": 1795703041,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "It was just revealed that the REAL Numbers on the Economy, published before the Election, were FAKE, and a correction was issued yesterday by the people in the Government Agency that does these numbers. The American Economy under The Trump Administration is doing FAR BETTER than ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117683194517889136",
-   "domain": "truthsocial.com",
+   "id": "d4ec3631a117ecfe",
+   "ts": 1795770000,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "ECB Consumer Expectations Survey results – October 2026",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
    "tags": [
     "macro"
-   ],
-   "author": "Donald Trump",
-   "score": 3916
-  },
-  {
-   "id": "825f8407e7b8851f",
-   "ts": 1795702751,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "A JOINT STATEMENT MADE BY PRESIDENT DONALD J. TRUMP AND SECRETARY GENERAL OF NATO, MARK RUTTE: President Trump and Secretary General Rutte had an outstanding meeting on Wednesday evening, at what is often referred to as the Southern White House — Mar-a-Lago.The meeting was very i",
-   "url": "https://truthsocial.com/@realDonaldTrump/117683175541431490",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ],
-   "author": "Donald Trump",
-   "score": 3131
-  },
-  {
-   "id": "d00ae08e0960d5ac",
-   "ts": 1795704837,
-   "source": "truth",
-   "group": "government",
-   "kind": "post",
-   "org": "Donald Trump (Truth Social)",
-   "title": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117683175541431490During my conversations in China with President Vladimir Putin, of Russia, I spent a lot of time talking about the fact that I would like to see President Putin pull back all Military aggression against ",
-   "url": "https://truthsocial.com/@realDonaldTrump/117683312242798397",
-   "domain": "truthsocial.com",
-   "tags": [
-    "geo"
-   ],
-   "author": "Donald Trump",
-   "score": 326
+   ]
   },
   {
    "id": "92ab31c45dfd97b6",
@@ -222,32 +169,70 @@
    ]
   },
   {
-   "id": "c5cd3f64250f4307",
-   "ts": 1795705200,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Payments systems Memorandum of Understanding",
-   "url": "https://www.bankofengland.co.uk/news/2024/march/payment-systems-memorandum-of-understanding",
-   "domain": "Bank of England",
-   "org": "Bank of England",
+   "id": "9cd525e70b11c61a",
+   "ts": 1795801409,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+   "url": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": []
+  },
+  {
+   "id": "20a21b3a6daea920",
+   "ts": 1795801043,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "China sets March 2027 rollout for blockchain identity regulations",
+   "url": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": [
-    "macro"
+    "crypto",
+    "regulation"
    ]
   },
   {
-   "id": "384a68556b0b3d55",
-   "ts": 1795696437,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Statistical Notice 2026/09 - Update to the classification of accounts guide",
-   "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-09",
-   "domain": "Bank of England",
-   "org": "Bank of England",
+   "id": "4b2c934570ffa2cb",
+   "ts": 1795799370,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake",
+   "url": "https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": []
+  },
+  {
+   "id": "822c3fdc84cf9f71",
+   "ts": 1795798131,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "domain": "Cointelegraph",
+   "org": "Cointelegraph",
    "tags": [
-    "macro"
+    "crypto",
+    "BTC"
    ]
+  },
+  {
+   "id": "ba28b1aaa6721ebe",
+   "ts": 1795796500,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "AI-Powered GTA 6 PC Ports Now Have Multiplayer as Modders Unlock 30 and 60 FPS",
+   "url": "https://decrypt.co/384138/ai-powered-gta-6-pc-ports-now-have-multiplayer-as-modders-unlock-30-and-60-fps",
+   "domain": "Decrypt",
+   "org": "Decrypt",
+   "tags": []
   }
  ],
  "briefing_ts": 1790465772,
@@ -258,7 +243,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -266,11 +251,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 3
+   "n": 0
   },
   "White House": {
    "ok": true,
-   "n": 21
+   "n": 19
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -279,7 +264,7 @@
   },
   "SEC": {
    "ok": true,
-   "n": 3
+   "n": 1
   },
   "CFTC": {
    "ok": true,
@@ -287,11 +272,11 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 5
+   "n": 4
   },
   "European Central Bank": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "Bank of England": {
    "ok": true,
@@ -323,11 +308,11 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 35
+   "n": 34
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 11
+   "n": 10
   },
   "Reddit r/CryptoCurrency": {
    "ok": false,
