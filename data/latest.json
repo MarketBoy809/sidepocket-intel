@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-28T01:25:05Z",
- "generated_ts": 1795829105,
+ "generated_at": "2026-11-28T10:10:58Z",
+ "generated_ts": 1795860658,
  "prices": {
   "BTC": {
-   "p": 60089.4,
+   "p": 59360.1,
    "o": 59863.8,
-   "h": 62139.1,
+   "h": 61750.5,
    "l": 58728.7,
-   "v": 5079.17840845
+   "v": 5061.24466471
   },
   "ETH": {
-   "p": 1666.81,
+   "p": 1649.3,
    "o": 1660.91,
-   "h": 1752.33,
+   "h": 1729.45,
    "l": 1632.16,
-   "v": 38230.85656718
+   "v": 28210.36528921
   },
   "SOL": {
-   "p": 72.04,
+   "p": 70.95,
    "o": 71.6,
-   "h": 73.83,
+   "h": 73.5,
    "l": 70.05,
-   "v": 389437.04835263
+   "v": 303689.89420547
   }
  },
  "change_7d": {
-  "BTC": 0.01585415959252967,
-  "ETH": 0.024750274728666807,
-  "SOL": 0.04097050704634618
+  "BTC": 0.027871708396841915,
+  "ETH": 0.00964547677261612,
+  "SOL": 0.04426470588235302
  },
  "sentiment": {
-  "score": 34.2,
+  "score": 32.2,
   "label": "Fear",
   "components": {
    "fng": 10.0,
-   "momentum": 53.96353989813242,
-   "news_tone": 39.11666666666667,
-   "crowding": 59.299944499999995
+   "momentum": 56.96792709921048,
+   "news_tone": 30.583333333333336,
+   "crowding": 52.552372
   },
   "weights": {
    "fng": 0.35,
@@ -51,26 +51,92 @@
   "label": "Extreme Fear",
   "ts": 1795824000
  },
- "news_tone_24h": -0.653,
+ "news_tone_24h": -1.165,
  "derivatives": {
   "BTC": {
-   "funding_h": 3.8221e-06,
-   "oi_usd": 2122900175.7,
-   "premium": -0.0004289469
+   "funding_h": -2.2139e-06,
+   "oi_usd": 2051467485.52928,
+   "premium": -0.0005049315
   },
   "ETH": {
-   "funding_h": 9.1572e-06,
-   "oi_usd": 988624938.8887199,
-   "premium": -0.0004134485
+   "funding_h": 5.1829e-06,
+   "oi_usd": 996296213.8707402,
+   "premium": -0.0008238629
   },
   "SOL": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 289955046.8412,
-   "premium": -0.0003175924
+   "funding_h": 4.0238e-06,
+   "oi_usd": 286957518.38628,
+   "premium": -0.0007182593
   }
  },
- "items_24h": 125,
+ "items_24h": 121,
  "top_items": [
+  {
+   "id": "00499d5100362205",
+   "ts": 1795854600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Goldman Sachs AM Transfers Some ETFs to Texas Stock Exchange",
+   "url": "https://www.tradersmagazine.com/xtra/goldman-sachs-am-transfers-some-etfs-to-texas-stock-exchange/",
+   "domain": "tradersmagazine.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "96729faf6883750d",
+   "ts": 1795854600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "ON THE MOVE : PIMCO Eden Simmer Launches UpLevel Impact Ventures ; State Street Appoints Jane Kizhner",
+   "url": "https://www.tradersmagazine.com/xtra/on-the-move-pimcos-eden-simmer-launches-uplevel-impact-ventures-state-street-appoints-jane-kizhner/",
+   "domain": "tradersmagazine.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "90782861de4b9ca1",
+   "ts": 1795853700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "After an S & P 500 Correction , Your Money Could Double in 4 Years . Stock Market History Shows Reasons for Hope .",
+   "url": "https://www.aol.com/articles/p-500-correction-money-could-074802000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "9dab8332d1dcc77a",
+   "ts": 1795853700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "After an S & P 500 Correction , Your Money Could Double in 4 Years . Stock Market History Shows Reasons for Hope .",
+   "url": "https://www.fool.com/investing/2026/11/28/after-an-s-and-p-500-correction-your-money-could-double-in-4-years-stock-market-history-shows-reasons-for-hope/",
+   "domain": "fool.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "5084671fc64d8fea",
+   "ts": 1795852800,
+   "source": "central_bank",
+   "group": "central_bank",
+   "kind": "official",
+   "title": "Boris Vujčić: Interview with Kurier",
+   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+   "domain": "European Central Bank",
+   "org": "European Central Bank",
+   "tags": [
+    "macro"
+   ]
+  },
   {
    "id": "d7910a53402b785b",
    "ts": 1795788000,
@@ -86,149 +152,81 @@
    ]
   },
   {
-   "id": "d4ec3631a117ecfe",
-   "ts": 1795770000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "ECB Consumer Expectations Survey results – October 2026",
-   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "92ab31c45dfd97b6",
-   "ts": 1795761000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Dow Jones Top Financial Services Headlines at 12 AM ET : BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability | Capital ...",
-   "url": "https://www.morningstar.com/news/dow-jones/2026112752/dow-jones-top-financial-services-headlines-at-12-am-et-boe-warns-scale-and-breadth-of-ai-financing-poses-threat-to-financial-stability-capital",
-   "domain": "morningstar.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "63e88f08512cfdbd",
-   "ts": 1795761000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "Bitcoin vs the AI Trade : Why BTC Missed the 2026 Rebound",
-   "url": "https://memeburn.com/bitcoin-pump-and-fell-back-after-ai-trade-recovery/",
-   "domain": "memeburn.com",
-   "tags": [
-    "crypto",
-    "BTC",
-    "institution"
-   ]
-  },
-  {
-   "id": "16f5ea33e844452f",
-   "ts": 1795761000,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "LSEG and Tradeweb partner on repo tool , agentic projects progress , and more",
-   "url": "https://www.waterstechnology.com/emerging-technologies/7953390/lseg-and-tradeweb-partner-on-repo-tool-agentic-projects-progress-and-more",
-   "domain": "waterstechnology.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "9f0cf31f1dadb0ba",
-   "ts": 1795755600,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "(BOJ Review) Developments in JGB Market-Making Business by Securities Companies",
-   "url": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e14.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "86feda44c152cbcb",
-   "ts": 1795824900,
+   "id": "daea4c33662eba72",
+   "ts": 1795859100,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Gold price prediction : Gold rate to touch USD 4 , 500 to USD 5 , 000 again ? What we know so far",
-   "url": "https://economictimes.indiatimes.com/world/business/gold-price-prediction-gold-rate-to-touch-usd-4500-to-usd-5000-again-what-we-know-so-far/articleshow/136235579.cms",
+   "title": "Proposed US tariffs could raise costs , hinder global trade : Cambodian experts",
+   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/28/proposed-us-tariffs-could-raise-costs-hinder-global-trade-cambodian-experts",
+   "domain": "thestar.com.my",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
+   "id": "f31d5d12a2bc0134",
+   "ts": 1795859100,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "New Us Tariff Proposal Puts the Fragile Washington - Beijing Trade Truce Under Pressure Before January 10",
+   "url": "https://www.latintimes.com/us-proposes-tariffs-chinese-imports-trade-truce-601887",
+   "domain": "latintimes.com",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
+   "id": "0d35bdeaa7de3464",
+   "ts": 1795859100,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Trump has outsized influence in stock markets , but investors grow wary",
+   "url": "https://www.cbc.ca/news/business/armstrong-trump-markets-nvidia-9.7439269",
+   "domain": "cbc.ca",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
+   "id": "855eb633d841b220",
+   "ts": 1795859100,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Strait of Hormuz risks may add to inflationary pressures : Finance Ministry",
+   "url": "https://www.moneycontrol.com/news/commodities/crude-oil/strait-of-hormuz-risks-may-add-to-inflationary-pressures-finance-ministry-14090762.html",
+   "domain": "moneycontrol.com",
+   "tags": [
+    "macro",
+    "geo"
+   ]
+  },
+  {
+   "id": "683aeb92d06eaed3",
+   "ts": 1795859100,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "India inflation may rise in coming months on weather , supply risks : Govt report",
+   "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-inflation-may-rise-in-coming-months-on-weather-supply-risks-govt-report/articleshow/136242640.cms",
    "domain": "economictimes.indiatimes.com",
    "tags": [
+    "macro",
     "geo"
    ]
   },
   {
-   "id": "671e6f2d80771572",
-   "ts": 1795824900,
+   "id": "675d6b428771e247",
+   "ts": 1795859100,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Refinery Strikes Push Russia to Extend Jet Fuel Export Ban Into 2027",
-   "url": "https://www.kyivpost.com/post/91444",
-   "domain": "kyivpost.com",
-   "tags": [
-    "geo",
-    "regulation"
-   ]
-  },
-  {
-   "id": "cae9a3f23ecfff41",
-   "ts": 1795824900,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "US Lobbied Iraq & Venezuela To Exit OPEC , Sparking Saudi Intervention",
-   "url": "https://www.zerohedge.com/energy/us-lobbied-iraq-venezuela-exit-opec-sparking-saudi-intervention",
-   "domain": "zerohedge.com",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "57c224bace6977f3",
-   "ts": 1795824900,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
-   "url": "https://www.freemalaysiatoday.com/category/business/2026/11/28/wall-street-ends-higher-as-battered-ai-stocks-gain-in-volatile-week",
-   "domain": "freemalaysiatoday.com",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "c47d996299ea137c",
-   "ts": 1795824900,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "South Elgin OKs $4 . 8M in renovations for Lions Club building",
-   "url": "https://www.dailyherald.com/2026/11/27/lions-club-building-elgin-renovations-village/",
-   "domain": "dailyherald.com",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "910bac8282efa46e",
-   "ts": 1795824900,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Report : 38 % of buy - now - pay - later holiday shoppers expect to fall short on payments",
-   "url": "https://wjla.com/news/nation-world/report-38-of-buy-now-pay-later-holiday-shoppers-expect-to-fall-short-on-payments-credit-cards",
-   "domain": "wjla.com",
+   "title": "Jobs and how consumers and businesses feel about the economy will be in focus this week",
+   "url": "https://www.idahostatejournal.com/news/national/jobs-and-how-consumers-and-businesses-feel-about-the-economy-will-be-in-focus-this/article_d350c073-cf91-571a-83d2-b715fc77b5f6.html",
+   "domain": "idahostatejournal.com",
    "tags": [
     "geo"
    ]
@@ -238,7 +236,7 @@
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 5
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
@@ -250,11 +248,11 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 4
   },
   "White House": {
    "ok": true,
-   "n": 17
+   "n": 12
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -275,7 +273,7 @@
   },
   "European Central Bank": {
    "ok": true,
-   "n": 8
+   "n": 9
   },
   "Bank of England": {
    "ok": true,
