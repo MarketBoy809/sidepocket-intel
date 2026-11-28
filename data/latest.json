@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-28T10:10:58Z",
- "generated_ts": 1795860658,
+ "generated_at": "2026-11-28T18:49:11Z",
+ "generated_ts": 1795891751,
  "prices": {
   "BTC": {
-   "p": 59360.1,
+   "p": 59437.5,
    "o": 59863.8,
-   "h": 61750.5,
-   "l": 58728.7,
-   "v": 5061.24466471
+   "h": 60203.9,
+   "l": 58890.0,
+   "v": 2783.07327187
   },
   "ETH": {
-   "p": 1649.3,
+   "p": 1647.85,
    "o": 1660.91,
-   "h": 1729.45,
-   "l": 1632.16,
-   "v": 28210.36528921
+   "h": 1673.76,
+   "l": 1633.41,
+   "v": 16538.27890399
   },
   "SOL": {
-   "p": 70.95,
+   "p": 70.5,
    "o": 71.6,
-   "h": 73.5,
-   "l": 70.05,
-   "v": 303689.89420547
+   "h": 72.41,
+   "l": 70.02,
+   "v": 151202.05301259
   }
  },
  "change_7d": {
-  "BTC": 0.027871708396841915,
-  "ETH": 0.00964547677261612,
-  "SOL": 0.04426470588235302
+  "BTC": -0.010412334447384096,
+  "ETH": -0.021117198666031466,
+  "SOL": -0.0035460992907801418
  },
  "sentiment": {
-  "score": 32.2,
+  "score": 32.0,
   "label": "Fear",
   "components": {
    "fng": 10.0,
-   "momentum": 56.96792709921048,
-   "news_tone": 30.583333333333336,
-   "crowding": 52.552372
+   "momentum": 47.396916388153976,
+   "news_tone": 35.9,
+   "crowding": 58.759416
   },
   "weights": {
    "fng": 0.35,
@@ -51,26 +51,166 @@
   "label": "Extreme Fear",
   "ts": 1795824000
  },
- "news_tone_24h": -1.165,
+ "news_tone_24h": -0.846,
  "derivatives": {
   "BTC": {
-   "funding_h": -2.2139e-06,
-   "oi_usd": 2051467485.52928,
-   "premium": -0.0005049315
+   "funding_h": 5.916e-06,
+   "oi_usd": 2068443073.2294,
+   "premium": -0.0004942555
   },
   "ETH": {
-   "funding_h": 5.1829e-06,
-   "oi_usd": 996296213.8707402,
-   "premium": -0.0008238629
+   "funding_h": 1.1467e-05,
+   "oi_usd": 1030975928.7017198,
+   "premium": -0.0004790521
   },
   "SOL": {
-   "funding_h": 4.0238e-06,
-   "oi_usd": 286957518.38628,
-   "premium": -0.0007182593
+   "funding_h": 6.6154e-06,
+   "oi_usd": 288385206.49619997,
+   "premium": -0.000445053
   }
  },
- "items_24h": 121,
+ "items_24h": 134,
  "top_items": [
+  {
+   "id": "5f4c0e9814c53f39",
+   "ts": 1795875798,
+   "source": "truth",
+   "group": "government",
+   "kind": "post",
+   "org": "Donald Trump (Truth Social)",
+   "title": "Trash Island has been completely destroyed by the Storm! It is totally WIPED OUT, including the already eroding seawalls, which have collapsed along the Potomac, and the road, which has largely followed this wall — Almost everything is submerged and obliterated by the tides. God ",
+   "url": "https://truthsocial.com/@realDonaldTrump/117694516326406752",
+   "domain": "truthsocial.com",
+   "tags": [
+    "regulation"
+   ],
+   "author": "Donald Trump",
+   "score": 11869
+  },
+  {
+   "id": "20d7175a386ff599",
+   "ts": 1795890600,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Peter Schiff warns BTC and ETH investors to sell : Peter Schiff says Bitcoin and Ethereum are breaking down again , warns crypto investors have lots of reasons to sell as December risks mount",
+   "url": "https://economictimes.indiatimes.com/world/us/peter-schiff-says-bitcoin-and-ethereum-are-breaking-down-again-warns-crypto-investors-have-lots-of-reasons-to-sell-as-december-risks-mount/articleshow/136252117.cms",
+   "domain": "economictimes.indiatimes.com",
+   "tags": [
+    "crypto",
+    "BTC",
+    "ETH",
+    "institution"
+   ]
+  },
+  {
+   "id": "60489556ea2dea68",
+   "ts": 1795889700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "4 ETFs Im Holding for the Next 20 Years -- Even If the Market Crashes",
+   "url": "https://www.aol.com/articles/4-etfs-im-holding-next-173502000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "a2a1b06e7af6990c",
+   "ts": 1795889700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Does the S & P 500 Really Deserve Its December Reputation ?",
+   "url": "https://www.aol.com/articles/does-p-500-really-deserve-164702000.html",
+   "domain": "aol.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "063c3050c716e8eb",
+   "ts": 1795889700,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Does the S & P 500 Really Deserve Its December Reputation ?",
+   "url": "https://www.fool.com/investing/2026/11/28/does-the-s-and-p-500-really-deserve-its-december-reputation/",
+   "domain": "fool.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "a8e6c2c8581d1c3c",
+   "ts": 1795887000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Crypto News Today : Bitcoin Price Risks a $55K Breakdown , Ethereum Faces RSI Extremes , and XRP Defends $0 . 93 Support",
+   "url": "https://bravenewcoin.com/insights/crypto-news-today-bitcoin-price-risks-a-55k-breakdown-ethereum-faces-rsi-extremes-and-xrp-defends-0-93-support",
+   "domain": "bravenewcoin.com",
+   "tags": [
+    "crypto",
+    "BTC",
+    "ETH",
+    "institution"
+   ]
+  },
+  {
+   "id": "15553189859a5361",
+   "ts": 1795887000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "Billionaire Rob Citrone Discovery Capital More Than Doubled Its Amazon Stake to $114 Million",
+   "url": "https://247wallst.com/investing/2026/11/28/billionaire-rob-citrones-discovery-capital-more-than-doubled-its-amazon-stake-to-114-million/",
+   "domain": "247wallst.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "e6dbac789fa963e4",
+   "ts": 1795887000,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "After Losing 65 %, Leopold Aschenbrenner Pens 167 - Page Letter Predicting Worthless Nvidia , Asteroid Gold And $1 Trillion In AI Revenue ... By Next Year",
+   "url": "http://www.zerohedge.com/markets/after-losing-65-leopold-aschenbrenner-pens-167-page-letter-predicting-worthless-nvidia",
+   "domain": "zerohedge.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "3d0f24d9f3c9bf6a",
+   "ts": 1795884300,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "History Says the Smartest Investing Move Is Also the Easiest . Here Why .",
+   "url": "https://www.fool.com/investing/2026/11/28/history-says-the-smartest-investing-move-is-also-the-easiest-heres-why/",
+   "domain": "fool.com",
+   "tags": [
+    "institution"
+   ]
+  },
+  {
+   "id": "6d35f54e202e9a0e",
+   "ts": 1795882500,
+   "source": "news",
+   "group": "institution",
+   "kind": "news",
+   "title": "The Tech Market Correction Is Over , According to Morgan Stanley . Here Are 2 Crypto Stocks to Watch in 2027 .",
+   "url": "https://www.fool.com/investing/2026/11/28/the-tech-market-correction-is-over-according-to-mo/?source=iedfolrf0000001",
+   "domain": "fool.com",
+   "tags": [
+    "crypto",
+    "institution"
+   ]
+  },
   {
    "id": "00499d5100362205",
    "ts": 1795854600,
@@ -96,151 +236,17 @@
    "tags": [
     "institution"
    ]
-  },
-  {
-   "id": "90782861de4b9ca1",
-   "ts": 1795853700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "After an S & P 500 Correction , Your Money Could Double in 4 Years . Stock Market History Shows Reasons for Hope .",
-   "url": "https://www.aol.com/articles/p-500-correction-money-could-074802000.html",
-   "domain": "aol.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "9dab8332d1dcc77a",
-   "ts": 1795853700,
-   "source": "news",
-   "group": "institution",
-   "kind": "news",
-   "title": "After an S & P 500 Correction , Your Money Could Double in 4 Years . Stock Market History Shows Reasons for Hope .",
-   "url": "https://www.fool.com/investing/2026/11/28/after-an-s-and-p-500-correction-your-money-could-double-in-4-years-stock-market-history-shows-reasons-for-hope/",
-   "domain": "fool.com",
-   "tags": [
-    "institution"
-   ]
-  },
-  {
-   "id": "5084671fc64d8fea",
-   "ts": 1795852800,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Boris Vujčić: Interview with Kurier",
-   "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "d7910a53402b785b",
-   "ts": 1795788000,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-   "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
-   "domain": "European Central Bank",
-   "org": "European Central Bank",
-   "tags": [
-    "macro"
-   ]
-  },
-  {
-   "id": "daea4c33662eba72",
-   "ts": 1795859100,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Proposed US tariffs could raise costs , hinder global trade : Cambodian experts",
-   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/28/proposed-us-tariffs-could-raise-costs-hinder-global-trade-cambodian-experts",
-   "domain": "thestar.com.my",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "f31d5d12a2bc0134",
-   "ts": 1795859100,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "New Us Tariff Proposal Puts the Fragile Washington - Beijing Trade Truce Under Pressure Before January 10",
-   "url": "https://www.latintimes.com/us-proposes-tariffs-chinese-imports-trade-truce-601887",
-   "domain": "latintimes.com",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "0d35bdeaa7de3464",
-   "ts": 1795859100,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Trump has outsized influence in stock markets , but investors grow wary",
-   "url": "https://www.cbc.ca/news/business/armstrong-trump-markets-nvidia-9.7439269",
-   "domain": "cbc.ca",
-   "tags": [
-    "geo"
-   ]
-  },
-  {
-   "id": "855eb633d841b220",
-   "ts": 1795859100,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Strait of Hormuz risks may add to inflationary pressures : Finance Ministry",
-   "url": "https://www.moneycontrol.com/news/commodities/crude-oil/strait-of-hormuz-risks-may-add-to-inflationary-pressures-finance-ministry-14090762.html",
-   "domain": "moneycontrol.com",
-   "tags": [
-    "macro",
-    "geo"
-   ]
-  },
-  {
-   "id": "683aeb92d06eaed3",
-   "ts": 1795859100,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "India inflation may rise in coming months on weather , supply risks : Govt report",
-   "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-inflation-may-rise-in-coming-months-on-weather-supply-risks-govt-report/articleshow/136242640.cms",
-   "domain": "economictimes.indiatimes.com",
-   "tags": [
-    "macro",
-    "geo"
-   ]
-  },
-  {
-   "id": "675d6b428771e247",
-   "ts": 1795859100,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Jobs and how consumers and businesses feel about the economy will be in focus this week",
-   "url": "https://www.idahostatejournal.com/news/national/jobs-and-how-consumers-and-businesses-feel-about-the-economy-will-be-in-focus-this/article_d350c073-cf91-571a-83d2-b715fc77b5f6.html",
-   "domain": "idahostatejournal.com",
-   "tags": [
-    "geo"
-   ]
   }
  ],
  "briefing_ts": 1790465772,
  "source_health": {
   "News: crypto (GDELT)": {
    "ok": true,
-   "n": 5
+   "n": 19
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 40
+   "n": 0
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -248,7 +254,7 @@
   },
   "News: institutional money (GDELT)": {
    "ok": true,
-   "n": 4
+   "n": 9
   },
   "White House": {
    "ok": true,
@@ -305,11 +311,11 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 35
+   "n": 36
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
-   "n": 10
+   "n": 11
   },
   "Reddit r/CryptoCurrency": {
    "ok": false,
