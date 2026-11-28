@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-11-27T18:07:02Z",
- "generated_ts": 1795802822,
+ "generated_at": "2026-11-28T01:25:05Z",
+ "generated_ts": 1795829105,
  "prices": {
   "BTC": {
-   "p": 59827.1,
-   "o": 60498.0,
+   "p": 60089.4,
+   "o": 59863.8,
    "h": 62139.1,
    "l": 58728.7,
-   "v": 4619.80970551
+   "v": 5079.17840845
   },
   "ETH": {
-   "p": 1669.42,
-   "o": 1687.68,
+   "p": 1666.81,
+   "o": 1660.91,
    "h": 1752.33,
    "l": 1632.16,
-   "v": 38400.92928752
+   "v": 38230.85656718
   },
   "SOL": {
-   "p": 71.88,
-   "o": 70.94,
+   "p": 72.04,
+   "o": 71.6,
    "h": 73.83,
    "l": 70.05,
-   "v": 383136.64838607
+   "v": 389437.04835263
   }
  },
  "change_7d": {
-  "BTC": 0.012871624274623551,
-  "ETH": 0.02517495395948434,
-  "SOL": 0.0406128053186877
+  "BTC": 0.01585415959252967,
+  "ETH": 0.024750274728666807,
+  "SOL": 0.04097050704634618
  },
  "sentiment": {
-  "score": 38.0,
+  "score": 34.2,
   "label": "Fear",
   "components": {
-   "fng": 12.0,
-   "momentum": 53.217906068655886,
-   "news_tone": 56.900000000000006,
-   "crowding": 59.5241275
+   "fng": 10.0,
+   "momentum": 53.96353989813242,
+   "news_tone": 39.11666666666667,
+   "crowding": 59.299944499999995
   },
   "weights": {
    "fng": 0.35,
@@ -47,29 +47,29 @@
   }
  },
  "fear_greed": {
-  "value": 12,
+  "value": 10,
   "label": "Extreme Fear",
-  "ts": 1795737600
+  "ts": 1795824000
  },
- "news_tone_24h": 0.414,
+ "news_tone_24h": -0.653,
  "derivatives": {
   "BTC": {
-   "funding_h": 5.9614e-06,
-   "oi_usd": 2134476943.7656403,
-   "premium": -0.0004991911
+   "funding_h": 3.8221e-06,
+   "oi_usd": 2122900175.7,
+   "premium": -0.0004289469
   },
   "ETH": {
-   "funding_h": 1.25e-05,
-   "oi_usd": 1004563718.496,
-   "premium": -0.0004786979
+   "funding_h": 9.1572e-06,
+   "oi_usd": 988624938.8887199,
+   "premium": -0.0004134485
   },
   "SOL": {
-   "funding_h": 7.6321e-06,
-   "oi_usd": 294167106.6768,
-   "premium": -0.0003612114
+   "funding_h": 1.25e-05,
+   "oi_usd": 289955046.8412,
+   "premium": -0.0003175924
   }
  },
- "items_24h": 142,
+ "items_24h": 125,
  "top_items": [
   {
    "id": "d7910a53402b785b",
@@ -155,84 +155,83 @@
    ]
   },
   {
-   "id": "795849b14e2c4b26",
-   "ts": 1795742100,
-   "source": "central_bank",
-   "group": "central_bank",
-   "kind": "official",
-   "title": "Keynote speech by Executive Director KAMIYAMA at the IMF MCM-OAP Seminar in Tokyo (Digital Money and Payments: Transitioning Toward a New Paradigm)",
-   "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261127a.htm",
-   "domain": "Bank of Japan",
-   "org": "Bank of Japan",
+   "id": "86feda44c152cbcb",
+   "ts": 1795824900,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Gold price prediction : Gold rate to touch USD 4 , 500 to USD 5 , 000 again ? What we know so far",
+   "url": "https://economictimes.indiatimes.com/world/business/gold-price-prediction-gold-rate-to-touch-usd-4500-to-usd-5000-again-what-we-know-so-far/articleshow/136235579.cms",
+   "domain": "economictimes.indiatimes.com",
    "tags": [
-    "macro"
+    "geo"
    ]
   },
   {
-   "id": "9cd525e70b11c61a",
-   "ts": 1795801409,
+   "id": "671e6f2d80771572",
+   "ts": 1795824900,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
-   "url": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": []
-  },
-  {
-   "id": "20a21b3a6daea920",
-   "ts": 1795801043,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "China sets March 2027 rollout for blockchain identity regulations",
-   "url": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "title": "Refinery Strikes Push Russia to Extend Jet Fuel Export Ban Into 2027",
+   "url": "https://www.kyivpost.com/post/91444",
+   "domain": "kyivpost.com",
    "tags": [
-    "crypto",
+    "geo",
     "regulation"
    ]
   },
   {
-   "id": "4b2c934570ffa2cb",
-   "ts": 1795799370,
+   "id": "cae9a3f23ecfff41",
+   "ts": 1795824900,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake",
-   "url": "https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": []
-  },
-  {
-   "id": "822c3fdc84cf9f71",
-   "ts": 1795798131,
-   "source": "news",
-   "group": "news",
-   "kind": "news",
-   "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "domain": "Cointelegraph",
-   "org": "Cointelegraph",
+   "title": "US Lobbied Iraq & Venezuela To Exit OPEC , Sparking Saudi Intervention",
+   "url": "https://www.zerohedge.com/energy/us-lobbied-iraq-venezuela-exit-opec-sparking-saudi-intervention",
+   "domain": "zerohedge.com",
    "tags": [
-    "crypto",
-    "BTC"
+    "geo"
    ]
   },
   {
-   "id": "ba28b1aaa6721ebe",
-   "ts": 1795796500,
+   "id": "57c224bace6977f3",
+   "ts": 1795824900,
    "source": "news",
    "group": "news",
    "kind": "news",
-   "title": "AI-Powered GTA 6 PC Ports Now Have Multiplayer as Modders Unlock 30 and 60 FPS",
-   "url": "https://decrypt.co/384138/ai-powered-gta-6-pc-ports-now-have-multiplayer-as-modders-unlock-30-and-60-fps",
-   "domain": "Decrypt",
-   "org": "Decrypt",
-   "tags": []
+   "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
+   "url": "https://www.freemalaysiatoday.com/category/business/2026/11/28/wall-street-ends-higher-as-battered-ai-stocks-gain-in-volatile-week",
+   "domain": "freemalaysiatoday.com",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
+   "id": "c47d996299ea137c",
+   "ts": 1795824900,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "South Elgin OKs $4 . 8M in renovations for Lions Club building",
+   "url": "https://www.dailyherald.com/2026/11/27/lions-club-building-elgin-renovations-village/",
+   "domain": "dailyherald.com",
+   "tags": [
+    "geo"
+   ]
+  },
+  {
+   "id": "910bac8282efa46e",
+   "ts": 1795824900,
+   "source": "news",
+   "group": "news",
+   "kind": "news",
+   "title": "Report : 38 % of buy - now - pay - later holiday shoppers expect to fall short on payments",
+   "url": "https://wjla.com/news/nation-world/report-38-of-buy-now-pay-later-holiday-shoppers-expect-to-fall-short-on-payments-credit-cards",
+   "domain": "wjla.com",
+   "tags": [
+    "geo"
+   ]
   }
  ],
  "briefing_ts": 1790465772,
@@ -243,7 +242,7 @@
   },
   "News: world & geopolitics (GDELT)": {
    "ok": true,
-   "n": 0
+   "n": 40
   },
   "News: governments (GDELT)": {
    "ok": true,
@@ -255,7 +254,7 @@
   },
   "White House": {
    "ok": true,
-   "n": 19
+   "n": 17
   },
   "US Labor Statistics (CPI/jobs)": {
    "ok": false,
@@ -272,7 +271,7 @@
   },
   "Federal Reserve": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "European Central Bank": {
    "ok": true,
@@ -308,7 +307,7 @@
   },
   "Decrypt": {
    "ok": true,
-   "n": 34
+   "n": 35
   },
   "Donald Trump (Truth Social)": {
    "ok": true,
